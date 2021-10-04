@@ -1,4 +1,4 @@
- {
+ [{
     "id": "2het6nBRLq9LLZER8fqUEk7j5pbLxq2mVGqSse2nS3tf",
     "name": "Maggie's Crypto Farm",
     "description": "Making the blocks, all day and all night.",
@@ -231,4 +231,4 @@
     "name": "Genesis Lab",
     "description": "Genesis Lab is a validation nodes operator in PoS networks and blockchain-focused software development company",
     "website": "https://genesislab.net"
-  }
+  }]

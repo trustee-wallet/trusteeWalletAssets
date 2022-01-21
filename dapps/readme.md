@@ -1,0 +1,1 @@
+Basic trustee dapps icons

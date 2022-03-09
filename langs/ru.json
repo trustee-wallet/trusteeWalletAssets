@@ -2,5 +2,11 @@
   "Top up": "Пополн.",
   "Swap": "Обмен",
   "History": "История",
-  "Send": "Отправка"
+  "Send": "Отправка",
+  "Language": "Язык",
+  "Local currency": "Локальная валюта",
+  "Scanning": "Сканирование",
+  "Blockchain explorer": "Blockchain проводник",
+  "Default": "По умолчани.",
+  "Logging": "Логирование"
 }

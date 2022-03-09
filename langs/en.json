@@ -2,5 +2,11 @@
   "Top up": "Top up",
   "Swap": "Swap",
   "History": "History",
-  "Send": "Send"
+  "Send": "Send",
+  "Language": "Language",
+  "Local currency": "Local currency",
+  "Scanning": "Scanning",
+  "Blockchain explorer": "Blockchain explorer",
+  "Default": "Default",
+  "Logging": "Logging"
 }

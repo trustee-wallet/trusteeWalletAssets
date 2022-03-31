@@ -8,5 +8,7 @@
   "Scanning": "Scanning",
   "Blockchain explorer": "Blockchain explorer",
   "Default": "Default",
-  "Logging": "Logging"
+  "Logging": "Logging",
+  "AssetDetails.prettyNetwork.BCH" : "",
+  "AssetDetails.prettyName.BCH" : "Bitcoin Cash Mainnet"
 }

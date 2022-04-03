@@ -56,6 +56,7 @@
     "AssetDetails.prettyNetwork.XLM" : "",
     "AssetDetails.prettyName.XLM" : "",
     "AssetDetails.prettySendOnlyText.XLM" : "Send Only XLM to this address",
+    "AssetDetails.prettyMemo.XLM" : "Memo",
     "AssetDetails.prettyNetwork.XRP" : "",
     "AssetDetails.prettyName.XRP" : "",
     "AssetDetails.prettySendOnlyText.XRP" : "Send Only XRP to this address",

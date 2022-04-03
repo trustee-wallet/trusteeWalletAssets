@@ -31,6 +31,7 @@
     "AssetDetails.prettySendOnlyText.DOGE" : "Send Only DOGE to this address",
     "AssetDetails.prettyNetwork.EOS" : "",
     "AssetDetails.prettyName.EOS" : "",
+    "AssetDetails.prettyMemo.EOS" : "Memo",
     "AssetDetails.prettySendOnlyText.EOS" : "Send Only EOS to this address",
     "AssetDetails.prettyNetwork.EVER" : "",
     "AssetDetails.prettyName.EVER" : "",
@@ -58,6 +59,7 @@
     "AssetDetails.prettyNetwork.XRP" : "",
     "AssetDetails.prettyName.XRP" : "",
     "AssetDetails.prettySendOnlyText.XRP" : "Send Only XRP to this address",
+    "AssetDetails.prettyMemo.XRP": "Memo",
     "AssetDetails.prettyNetwork.ZEC" : "",
     "AssetDetails.prettyName.ZEC" : "",
      "AssetDetails.prettySendOnlyText.ZEC" : "Send Only ZEC to this address"

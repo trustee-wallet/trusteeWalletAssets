@@ -1,4 +1,10 @@
 {
+  "Welcome.title": "Ласкаво просимо",
+  "Welcome.intro": "Ви готові поринути у неймовірний криптосвiт?",
+  "Next": "Далі", 
+  "Welcome.termsLink" : "https://trusteeglobal.com/terms-of-use/",
+  "Welcome.privacyLink": "https://trusteeglobal.com/privacy-policy/",
+  "Welcome.personalLink": "https://trusteeglobal.com/",
   "Top up": "Поповн.",
   "Swap": "Обмін",
   "History": "Історія",

@@ -92,7 +92,7 @@
     "CardScreen.notHaveCards": "You don’t have any saved cards",
     "CardScreen.selectCard": "Select card",
     "CardScreen.selectedCard": "Selected card",
-    "CardScreen.scanInstructions", "Hold card here. It will scan automatically",
+    "CardScreen.scanInstructions": "Hold card here. It will scan automatically",
     "TopUp.minAmount": "Min amount",
     "TopUp.maxAmount": "Max amount",
     "TopUp.setAmount": "Set amount",

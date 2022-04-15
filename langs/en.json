@@ -1,15 +1,14 @@
 {
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
-    "Welcome.agree": "I agree with <Link1/> and <Link2/> and consent to the processing of the <Link3/> that I have provided",
+    "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the <Link3>Personal Data</Link3> that I have provided",
     "Welcome.termsTitle": "Terms of Use",
     "Welcome.privacyTitle": "Privacy Policy",
     "Welcome.personalTitle": "Personal Data",
     "Welcome.termsLink" : "https://trusteeglobal.com/terms-of-use/",
     "Welcome.privacyLink": "https://trusteeglobal.com/privacy-policy/",
     "Welcome.personalLink": "https://trusteeglobal.com/",
-    "Welcome.next": "Next", 
-    
+    "Welcome.next": "Next",    
     "Top up": "Top up",
     "Swap": "Swap",
     "History": "History",

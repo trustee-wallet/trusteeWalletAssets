@@ -85,7 +85,7 @@
     "CardScreen.cardName": "Card name",
     "CardScreen.deleteCard": "Delete card",
     "CardScreen.cardNotValid": "Card number is not valid",
-    "CardScreen.exirationDateNotValid": "Expiration date is not valid",
+    "CardScreen.expirationDateNotValid": "Expiration date is not valid",
     "CardScreen.notHaveCards": "You don’t have any saved cards",
     "CardScreen.selectCard": "Select card",
     "CardScreen.selectedCard": "Selected card",

@@ -96,5 +96,6 @@
     "TopUp.minAmount": "Min amount",
     "TopUp.maxAmount": "Max amount",
     "TopUp.setAmount": "Set amount",
-    "TopUp.total": "Total"
+    "TopUp.total": "Total",
+    "Withdraw.notEnough": "Your don't have money. Your available to send {prettyBalance} {symbol}"
 }

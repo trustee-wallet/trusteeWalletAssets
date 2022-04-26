@@ -138,6 +138,7 @@
     "Swap.youGet": "You get",
     "Swap.rate": "Rate",
     "Swap.wayIsNotAvailable": "Selected way unavailable",
+    "Swap.notEnough": "Your don`t have money. You are available to send {prettyBalance} {symbol}",
     "SwapAssetSelector.title": "Select asset",
     "Swap.swap": "Swap",
     "TopUp.title" : "Top up {symbol}",

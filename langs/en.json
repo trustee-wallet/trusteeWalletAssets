@@ -182,6 +182,7 @@
     "Withdraw.NO_USER_BUT_LOOKS_LIKE_CASHBACK": "Please recheck user code",
     "Withdraw.NO_USER_BUT_LOOKS_LIKE_USERNAME": "Please recheck user name",
     "Withdraw.NO_USER_BUT_LOOKS_LIKE_GENERAL": "Please recheck value",
+    "Withdraw.NOT_ALLOWED_TO_YOUSELF": "You cant send to yourself",
     "WithdrawMethods.title": "Select withdraw method",
     "WithdrawMethods.internalTitle": "To Trustee Plus user",
     "WithdrawMethods.internalSubTitle": "Fee 0%",

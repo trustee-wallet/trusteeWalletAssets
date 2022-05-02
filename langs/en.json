@@ -265,5 +265,12 @@
     "About.siteLink": "trusteeglobal.com",
     "About.privacyPolicy": "Privacy policy",
     "About.termsOfUse": "Terms of use",
-    "About.footer": "© TRUSTEEGLOBAL Inc"
+    "About.footer": "© TRUSTEEGLOBAL Inc",
+    "QRScanner.title": "Scanning QR-code",
+    "QRScanner.line1": "Please, place the QR-code inside the",
+    "QRScanner.line2": "rectangle to scan it",
+    "QRScanner.serviceNotAvailable": "Service unavailable. Please, try again later",
+    "QRScanner.qrNotFoundInFile": "QR-code not found, please, try to reload file",
+    "QRScanner.notPermissions": "Go to settings and allow access for camera",
+    "QRScanner.openSettings": "Go to settings"
 }

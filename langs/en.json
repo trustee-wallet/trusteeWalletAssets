@@ -272,5 +272,15 @@
     "QRScanner.serviceNotAvailable": "Service unavailable. Please, try again later",
     "QRScanner.qrNotFoundInFile": "QR-code not found, please, try to reload file",
     "QRScanner.notPermissions": "Go to settings and allow access for camera",
-    "QRScanner.openSettings": "Go to settings"
+    "QRScanner.openSettings": "Go to settings",
+    "Profile.personalData": "Personal data",
+    "Profile.account": "Profile",
+    "Profile.edit": "Edit",
+    "Profile.done": "Done",
+    "Profile.fullName": "Full name",
+    "Profile.username": "Username",
+    "Profile.email": "Email",
+    "Profile.logout": "Logout",
+    "Profile.cancel": "Cancel",
+    "Profile.emailInValid": "Email not valid"
 }

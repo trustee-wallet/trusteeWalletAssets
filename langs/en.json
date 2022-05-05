@@ -265,10 +265,13 @@
     "About.subtitle": "Trustee Global",
     "About.intro": "the best anonymous altcoins and crypto wallet app",
     "About.site": "Official website",
-    "About.siteLink": "trusteeglobal.com",
+    "About.siteTitle": "trusteeglobal.com",
     "About.privacyPolicy": "Privacy policy",
     "About.termsOfUse": "Terms of use",
     "About.footer": "© TRUSTEEGLOBAL Inc",
+    "About.siteLink": "https://trusteeglobal.com/",
+    "About.privacyPolicyLink": "https://trusteeglobal.com/privacy-policy-trustee-plus/?header_footer=none&stop_war=none&support=none",
+    "About.termsOfUseLink": "https://trusteeglobal.com/terms-of-use-trustee-plus/?header_footer=none&stop_war=none&support=none",
     "QRScanner.title": "Scanning QR-code",
     "QRScanner.line1": "Please, place the QR-code inside the",
     "QRScanner.line2": "rectangle to scan it",
@@ -314,5 +317,12 @@
     "History.refundButton": "Refund",
     "History.to": "to",
     "History.day": "day",
-    "History.days": "days"
+    "History.days": "days",
+    "SocialLinks.telegram": "https://t.me/trustee_deals",
+    "SocialLinks.twitter": "https://twitter.com/Trustee_Wallet",
+    "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",
+    "SocialLinks.instagram": "https://instagram.com/trustee_wallet/",
+    "SocialLinks.youtube": "https://youtube.com/TrusteeWallet/",
+    "SocialLinks.github": "https://github.com/trustee-wallet/trusteeWallet#trustee-wallet",
+    "SocialLinks.site": "https://trusteeglobal.com/"
 }

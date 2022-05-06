@@ -140,7 +140,7 @@
     "Swap.youGet": "You get",
     "Swap.rate": "Rate",
     "Swap.wayIsNotAvailable": "Selected way unavailable",
-    "Swap.notEnough": "Your don`t have money. You are available to send {prettyBalance} {symbol}",
+    "Swap.notEnough": "Your don`t have money. You are available to swap {prettyBalance} {symbol}",
     "SwapAssetSelector.title": "Select asset",
     "Swap.swap": "Swap",
     "TopUp.title" : "Top up {symbol}",
@@ -265,10 +265,13 @@
     "About.title": "About",
     "About.subtitle": "Trustee Global",
     "About.intro": "the best anonymous altcoins and crypto wallet app",
-    "About.site": "Official website",
     "About.siteTitle": "trusteeglobal.com",
+    "About.siteSubtitle": "Official website",
+    "About.siteLink": "https://trusteeglobal.com/",
     "About.privacyPolicy": "Privacy policy",
+    "About.privacyPolicyLink": "https://trusteeglobal.com/privacy-policy-trustee-plus/?header_footer=none&stop_war=none&support=none",
     "About.termsOfUse": "Terms of use",
+    "About.termsOfUseLink": "https://trusteeglobal.com/terms-of-use-trustee-plus/?header_footer=none&stop_war=none&support=none",
     "About.footer": "© TRUSTEEGLOBAL Inc",
     "About.siteLink": "https://trusteeglobal.com/",
     "About.privacyPolicyLink": "https://trusteeglobal.com/privacy-policy-trustee-plus/?header_footer=none&stop_war=none&support=none",
@@ -335,7 +338,6 @@
     "SocialLinks.twitter": "https://twitter.com/Trustee_Wallet",
     "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",
     "SocialLinks.instagram": "https://instagram.com/trustee_wallet/",
-    "SocialLinks.youtube": "https://youtube.com/TrusteeWallet/",
-    "SocialLinks.github": "https://github.com/trustee-wallet/trusteeWallet#trustee-wallet",
-    "SocialLinks.site": "https://trusteeglobal.com/"
+    "SocialLinks.site": "https://trusteeglobal.com/",
+    "Webview.errorText": "Webview.errorText"
 }

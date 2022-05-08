@@ -306,6 +306,7 @@
     "Profile.userNameNeedLetters" : "Username needs to start with letters",
     "Profile.userNameInvalidLength": "Username needs to have 6 or more symbols",
     "Profile.emailNeedApproveUpdate": "Email still needs approve to be changed from {oldValue} to {newValue}",
+    "Profile.emailResetToApproved": "Use approved email",
     "History.screenTitle": "History",
     "History.detailsScreenTitle": "Details",
     "History.emptyTitle": "Your transactions will be here",

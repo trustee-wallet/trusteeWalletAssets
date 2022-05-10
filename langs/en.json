@@ -190,6 +190,8 @@
     "Withdraw.NO_USER_BUT_LOOKS_LIKE_USERNAME": "Please recheck user name",
     "Withdraw.NO_USER_BUT_LOOKS_LIKE_GENERAL": "Please recheck value",
     "Withdraw.NOT_ALLOWED_TO_YOURSELF": "You cant send to yourself",
+    "Withdraw.MOBILE_PHONE_INVALID_START": "Invalid phone number. Replace {old} to {new}?",
+    "Withdraw.MOBILE_PHONE_INVALID_LENGTH": "Invalid phone number. Please, change phone number",
     "WithdrawMethods.title": "Select withdraw method",
     "WithdrawMethods.internalTitle": "To Trustee Plus user",
     "WithdrawMethods.internalSubTitle": "Fee 0%",

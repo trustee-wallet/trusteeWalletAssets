@@ -348,5 +348,10 @@
     "SocialLinks.site": "https://trusteeglobal.com/",
     "SocialLinks.github": "https://github.com/trustee-wallet/",
     "SocialLinks.youtube": "https://www.youtube.com/TrusteeWallet",
-    "Webview.errorText": "Webview.errorText"
+    "Webview.errorText": "Webview.errorText",
+    "PushNotifications.permsModalTitle": "Request permission push notifications",
+    "PushNotifications.permsModalDescription": "Do you want to allow the app to send you push notifications?",
+    "PushNotifications.permsModalPrimaryBtn": "Yes",
+    "PushNotifications.permsModalSecondaryBtn": "No"
+
 }

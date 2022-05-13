@@ -381,7 +381,7 @@
     "SocialLinks.youtube": "https://www.youtube.com/TrusteeWallet",
     "Webview.errorText": "Webview.errorText",
     "PushNotifications.permsModalTitle": "Request permission push notifications",
-    "PushNotifications.permsModalDescription": "Do you want to allow the app to send you push notifications?",
+    "PushNotifications.permsModalDescription": "Would you like to receive notifications from Trustee plus? We promise to send only important messages.",
     "PushNotifications.permsModalPrimaryBtn": "Yes",
     "PushNotifications.permsModalSecondaryBtn": "No"
 

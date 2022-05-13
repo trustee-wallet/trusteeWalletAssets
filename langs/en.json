@@ -16,6 +16,8 @@
     "Login.phoneEmpty": "Please, enter your phone number",
     "Login.getSms": "Get sms code",
     "Login.getGoogleAccount": "Login with Google",
+    "Login.MOBILE_PHONE_INVALID_START": "Invalid phone number. Replace {old} to {new}?",
+    "Login.MOBILE_PHONE_INVALID_LENGTH": "Invalid phone number. Please, change phone number",
     "LoginSms.title": "SMS",
     "LoginSms.code": "Code",
     "LoginSms.intro": "Check your phone messages, please. We sent you a code to <Number>{{number}}</Number>",

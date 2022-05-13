@@ -383,6 +383,8 @@
     "PushNotifications.permsModalTitle": "Request permission push notifications",
     "PushNotifications.permsModalDescription": "Would you like to receive notifications from Trustee plus? We promise to send only important messages.",
     "PushNotifications.permsModalPrimaryBtn": "Yes",
-    "PushNotifications.permsModalSecondaryBtn": "No"
+    "PushNotifications.permsModalSecondaryBtn": "No",
+    "InfoModal.SUCCESS": "Success",
+    "InfoModal.ERROR": "Error"
 
 }

@@ -387,6 +387,6 @@
     "PushNotifications.permsModalPrimaryBtn": "Yes",
     "PushNotifications.permsModalSecondaryBtn": "No",
     "InfoModal.SUCCESS": "Success",
-    "InfoModal.ERROR": "Error"
-
+    "InfoModal.ERROR": "Error",
+    "InfoModal.SESSION_EXPIRED": "User session expired, please login"
 }

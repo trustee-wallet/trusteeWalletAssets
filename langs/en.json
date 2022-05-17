@@ -329,6 +329,7 @@
     "Profile.USERNAME_INVALID_LENGTH": "Username needs to have 6 or more symbols",
     "Profile.emailNeedApproveUpdate": "Email still needs approve to be changed from {oldValue} to {newValue}",
     "Profile.emailResetToApproved": "Use approved email",
+    "Profile.emailChangeSpam": "Email is changed too often - please wait 2 hours for the next change",
     "Profile.trusteeUniqueToken": "Anonymous Token",
     "History.screenTitle": "History",
     "History.detailsScreenTitle": "Action",

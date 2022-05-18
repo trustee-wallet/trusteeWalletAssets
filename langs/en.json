@@ -29,7 +29,6 @@
     "LoginSms.TOO_MANY_REQUESTS": "We have blocked all request from this device due to unusual activity. Try again later.",
     "LoginSms.CODE_EXPIRED": "Code has expired. Click 'Resend code' to send the code again.",
     "LoginSms.INVALID_VERIFICATION_CODE": "Code is not valid. Please, replace code.",
-    "Home.total": "Total",
     "Home.total": "Total balance",
     "Home.topUp": "Top Up",
     "Home.swap": "Swap",

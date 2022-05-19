@@ -76,6 +76,8 @@
   "Account.noTransactions": "Ваши последние транзакции будут отображены здесь",
   "Account.latestTransactions": "Последние транзакции",
   "Account.showMore": "Показать еще",
+  "Account.topUpNotAvailable": "Пополнение {prettyName} временно недоступен. Пожалуйста, попробуйте позже.",
+  "Account.withdrawNotAvailable": "Вывод {prettyName} временно недоступен. Пожалуйста, попробуйте позже.",
   "AssetDetails.prettyNetwork.BCH" : "Mainnet",
   "AssetDetails.prettyName.BCH" : "Bitcoin Cash",
   "AssetDetails.prettySendOnlyText.BCH" : "Отправляйте только BCH на этот адрес",
@@ -147,6 +149,7 @@
   "CurrencyList.isToMobile": "Пополнить мобильный телефон",
   "CurrencyList.notAvailableFor": "Недоступно для {symbol}",
   "CurrencyList.searchInput": "Поиск",
+  "CurrencyList.notAvailableTemporarily": "Временно недоступно",
   "BalanceWithPercent.iHave": "Доступно",
   "CardScreen.addCard": "Добавить карту",
   "CardScreen.editCard": "Редактировать карту",
@@ -424,6 +427,8 @@
   "PushNotifications.permsModalPrimaryBtn": "Yes",
   "PushNotifications.permsModalSecondaryBtn": "No",
   "InfoModal.SUCCESS": "Success",
+  "InfoModal.WARNING": "Warning",
   "InfoModal.ERROR": "Error",
-  "InfoModal.SESSION_EXPIRED": "User session expired, please login"
+  "InfoModal.SESSION_EXPIRED": "User session expired, please login",
+  "InfoModal.OK": "Ok"
 }

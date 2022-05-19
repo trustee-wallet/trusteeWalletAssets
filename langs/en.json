@@ -80,6 +80,8 @@
     "Account.noTransactions": "Your latest transactions and trades will be here",
     "Account.latestTransactions": "Latest transactions",
     "Account.showMore": "Show more",
+    "Account.topUpNotAvailable": "Top up {prettyName} temporarily unavailable. Please, try again later.",
+    "Account.withdrawNotAvailable": "Withdraw {prettyName} temporarily unavailable. Please, try again later.",
     "AssetDetails.prettyNetwork.BCH" : "Mainnet",
     "AssetDetails.prettyName.BCH" : "Bitcoin Cash",
     "AssetDetails.prettySendOnlyText.BCH" : "Send Only BCH to this address",
@@ -151,6 +153,7 @@
     "CurrencyList.isToMobile": "Transfer to mobile",
     "CurrencyList.notAvailableFor": "Not available for {symbol}",
     "CurrencyList.searchInput": "Search input",
+    "CurrencyList.notAvailableTemporarily": "Temporarily unavailable",
     "BalanceWithPercent.iHave": "I have",
     "CardScreen.addCard": "Add card",
     "CardScreen.editCard": "Edit card",
@@ -429,6 +432,8 @@
     "PushNotifications.permsModalPrimaryBtn": "Yes",
     "PushNotifications.permsModalSecondaryBtn": "No",
     "InfoModal.SUCCESS": "Success",
+    "InfoModal.WARNING": "Warning",
     "InfoModal.ERROR": "Error",
-    "InfoModal.SESSION_EXPIRED": "User session expired, please login"
+    "InfoModal.SESSION_EXPIRED": "User session expired, please login",
+    "InfoModal.OK": "Ok"
 }

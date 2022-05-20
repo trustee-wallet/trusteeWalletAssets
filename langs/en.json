@@ -341,6 +341,7 @@
     "Profile.telegramOldValue": "Previous telegram was approved",
     "Profile.telegramNeedApproveUpdate": "Telegram still needs approve to be changed from {oldValue} to {newValue}",
     "Profile.telegramChangeSpam": "Telegram is changed too often - please wait 2 hours for the next change",
+    "Profile.telegramLoginCantChange": "Telegram username is only login option in this account so cant be changed",
     "Profile.notNetworkConnection": "Service unavailable. Please, check your network connection",
     "History.screenTitle": "History",
     "History.detailsScreenTitle": "Action",

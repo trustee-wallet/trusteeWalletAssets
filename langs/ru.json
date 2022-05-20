@@ -44,6 +44,8 @@
   "Home.assetFilter12h": "12 часов",
   "Home.assetFilter24h": "24 часа",
   "Home.assetFilterCancel": "Отмена",
+  "Home.swapNotNetwork": "Обмен недоступный. Пожалуйста, проверьте интернет соединение",
+  "Home.withdrawNotNetwork": "Вывод недоступный. Пожалуйста, проверьте интернет соединение",
   "Account.prettyName.BCH": "Bitcoin Cash",
   "Account.prettyName.BNB": "Binance Coin",
   "Account.prettyName.BTC": "Bitcoin",
@@ -78,6 +80,9 @@
   "Account.showMore": "Показать еще",
   "Account.topUpNotAvailable": "Пополнение {prettyName} временно недоступен. Пожалуйста, попробуйте позже.",
   "Account.withdrawNotAvailable": "Вывод {prettyName} временно недоступен. Пожалуйста, попробуйте позже.",
+  "Account.topUpNotNetwork": "Пополнение {prettyName} недоступен. Пожалуйста, проверьте интернет соединение",
+  "Account.swapNotNetwork": "Обмен {prettyName} временно недоступен. Пожалуйста, проверьте интернет соединение",
+  "Account.withdrawNotNetwork": "Вывод {prettyName} недоступен. Пожалуйста, проверьте интернет соединение",
   "AssetDetails.prettyNetwork.BCH" : "Mainnet",
   "AssetDetails.prettyName.BCH" : "Bitcoin Cash",
   "AssetDetails.prettySendOnlyText.BCH" : "Отправляйте только BCH на этот адрес",
@@ -435,5 +440,7 @@
   "InfoModal.WARNING": "Warning",
   "InfoModal.ERROR": "Error",
   "InfoModal.SESSION_EXPIRED": "User session expired, please login",
-  "InfoModal.OK": "Ok"
+  "InfoModal.OK": "Ok",
+  "Toast.title.WARNING": "Warning",
+  "Toast.message.notInternetConnection": "Пожалуйста, проверьте интернет соединение"
 }

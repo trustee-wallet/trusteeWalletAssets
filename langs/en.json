@@ -48,6 +48,8 @@
     "Home.assetFilter12h": "12 hours",
     "Home.assetFilter24h": "24 hours",
     "Home.assetFilterCancel": "Cancel",
+    "Home.swapNotNetwork": "Swap unavailable. Please, check network connection",
+    "Home.withdrawNotNetwork": "Withdraw unavailable. Please, check network connection",
     "Account.prettyName.BCH": "Bitcoin Cash",
     "Account.prettyName.BNB": "Binance Coin",
     "Account.prettyName.BTC": "Bitcoin",
@@ -82,6 +84,9 @@
     "Account.showMore": "Show more",
     "Account.topUpNotAvailable": "Top up {prettyName} temporarily unavailable. Please, try again later.",
     "Account.withdrawNotAvailable": "Withdraw {prettyName} temporarily unavailable. Please, try again later.",
+    "Account.topUpNotNetwork": "Top up {prettyName} unavailable. Please, check network connection",
+    "Account.swapNotNetwork": "Swap {prettyName} unavailable. Please, check network connection",
+    "Account.withdrawNotNetwork": "Withdraw {prettyName} unavailable. Please, check network connection",
     "AssetDetails.prettyNetwork" : "Mainnet",
     "AssetDetails.prettyMemo" : "Memo",
     "AssetDetails.prettySendOnlyText" : "Send Only {currencyCode} to this address",
@@ -384,5 +389,7 @@
     "InfoModal.WARNING": "Warning",
     "InfoModal.ERROR": "Error",
     "InfoModal.SESSION_EXPIRED": "User session expired, please login",
-    "InfoModal.OK": "Ok"
+    "InfoModal.OK": "Ok",
+    "Toast.title.WARNING": "Warning",
+    "Toast.message.notInternetConnection": "Please, check your network connection"
 }

@@ -378,6 +378,7 @@
   "Profile.emailResetToApproved": "Use approved email",
   "Profile.trusteeUniqueToken": "Anonymous Token",
   "Profile.resendEmail": "Resend email",
+  "Profile.notNetworkConnection": "Service unavailable. Please, check your network connection",
   "History.screenTitle": "History",
   "History.detailsScreenTitle": "Action",
   "History.emptyTitle": "Your transactions will be here",

@@ -36,5 +36,6 @@
   "Account.prettyName.USDT": "Tether",
   "Account.prettyName.USDC": "USD Coin",
   "Account.prettyName.SHIB": "Shiba Inu",
-  "Account.prettyName.ZEC": "Zcash"
+  "Account.prettyName.ZEC": "Zcash",
+  "Loader.longLoad": "Вибачте, операція триває довше, ніж очікувалася"
 }

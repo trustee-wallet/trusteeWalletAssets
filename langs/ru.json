@@ -442,5 +442,6 @@
   "InfoModal.SESSION_EXPIRED": "User session expired, please login",
   "InfoModal.OK": "Ok",
   "Toast.title.WARNING": "Warning",
-  "Toast.message.notInternetConnection": "Пожалуйста, проверьте интернет соединение"
+  "Toast.message.notInternetConnection": "Пожалуйста, проверьте интернет соединение",
+  "Loader.longLoad": "Извините, операция длится дольше, чем ожидалось"
 }

@@ -48,6 +48,8 @@
   "Home.assetFilter12h": "12 часов",
   "Home.assetFilter24h": "24 часа",
   "Home.assetFilterCancel": "Отмена",
+  "Home.swapNotNetwork": "Обмен недоступен. Пожалуйста, проверьте интернет соединение",
+  "Home.withdrawNotNetwork": "Вывод недоступен. Пожалуйста, проверьте интернет соединение",
   "Account.prettyName.BCH": "Bitcoin Cash",
   "Account.prettyName.BNB": "Binance Coin",
   "Account.prettyName.BTC": "Bitcoin",
@@ -82,6 +84,9 @@
   "Account.showMore": "Показать еще",
   "Account.topUpNotAvailable": "Пополнение {prettyName} временно недоступно. Пожалуйста, попробуйте позже.",
   "Account.withdrawNotAvailable": "Вывод {prettyName} временно недоступен. Пожалуйста, попробуйте позже.",
+  "Account.topUpNotNetwork": "Пополнение {prettyName} недоступен. Пожалуйста, проверьте интернет соединение",
+  "Account.swapNotNetwork": "Обмен {prettyName} временно недоступен. Пожалуйста, проверьте интернет соединение",
+  "Account.withdrawNotNetwork": "Вывод {prettyName} недоступен. Пожалуйста, проверьте интернет соединение",
   "AssetDetails.prettyNetwork" : "Mainnet",
   "AssetDetails.prettyMemo" : "Мемо",
   "AssetDetails.prettySendOnlyText" : "Отправляйте только {currencyCode} на этот адрес",
@@ -321,6 +326,7 @@
   "Profile.emailResetToApproved": "Используйте подтвержденную почту",
   "Profile.trusteeUniqueToken": "Анонимный ID",
   "Profile.resendEmail": "Resend email",
+  "Profile.notNetworkConnection": "Service unavailable. Please, check your network connection",
   "History.screenTitle": "История",
   "History.detailsScreenTitle": "Action",
   "History.emptyTitle": "Ваши транзакции будут здесь",
@@ -383,5 +389,9 @@
   "InfoModal.WARNING": "Warning",
   "InfoModal.ERROR": "Error",
   "InfoModal.SESSION_EXPIRED": "User session expired, please login",
-  "InfoModal.OK": "Ok"
+  "InfoModal.OK": "Ok",
+  "Toast.title.WARNING": "Warning",
+  "Toast.message.notInternetConnection": "Пожалуйста, проверьте интернет соединение",
+  "Loader.longLoad": "Sorry, operation takes longer then expected",
+  "ContactScreen.title": "Contacts"
 }

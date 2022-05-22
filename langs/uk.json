@@ -1,7 +1,10 @@
 {
   "Welcome.title": "Ласкаво просимо",
-  "Welcome.intro": "Ви готові поринути у неймовірний криптосвiт?",
-  "Next": "Далі", 
+  "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
+  "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку персональних даних, які я надав",
+  "Welcome.termsTitle": "Умови використання",
+  "Welcome.privacyTitle": "Політика конфіденційності",
+  "Welcome.personalTitle": "Персональні дані",
   "Welcome.termsLink" : "https://trusteeglobal.com/uk/terms-of-use-trustee-plus/?header_footer=none&stop_war=none&support=none",
   "Welcome.privacyLink": "https://trusteeglobal.com/uk/privacy-policy-trustee-plus/?header_footer=none&stop_war=none&support=none",
   "Welcome.personalLink": "https://trusteeglobal.com/",

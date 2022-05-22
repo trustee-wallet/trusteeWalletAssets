@@ -38,6 +38,7 @@
     "LoginTelegramStep1.telegram": "Telegram username",
     "LoginTelegramStep1.telegramEmpty": "Invalid telegram username",
     "LoginTelegramStep1.getCode": "Get code in bot",
+    "LoginTelegramStep1.botWebviewText": "Telegram application should be started automatically - if not - please open chat with @trusteePlusBot manually and /start conversation",
     "LoginTelegramStep2.title": "Check @trusteePlusBot for code",
     "LoginTelegramStep2.intro": "Check your telegram messages, please. We sent you a code to <Number>{{number}}</Number>",
     "LoginTelegramStep2.code": "Code",

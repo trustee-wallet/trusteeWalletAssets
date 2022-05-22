@@ -344,6 +344,7 @@
     "Profile.emailChangeSpam": "Email is changed too often - please wait 2 hours for the next change",
     "Profile.trusteeUniqueToken": "Anonymous Token",
     "Profile.resendEmail": "Resend email",
+    "Profile.resendTelegram": "Resend telegram message",
     "Profile.telegramUsername": "Telegram Username",
     "Profile.telegramInvalid": "Telegram not valid",
     "Profile.telegramUsed": "Telegram is used",

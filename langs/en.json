@@ -377,6 +377,7 @@
     "History.txRate": "Rate per 1",
     "History.txID": "Action ID",
     "History.txMore": "More details",
+    "History.txFee": "Fee",
     "History.txSwapID": "Swap ID",
     "History.txProviderNetworkFee": "Provider network fee",
     "History.txProviderFee": "Provider fee",

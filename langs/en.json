@@ -274,6 +274,8 @@
     "SettingsNotifications.tokenCopiedOk": "Ok",
     "SettingsNotifications.tokenTime": "Token Time",
     "SettingsNotifications.tokenLog": "Token Log",
+    "SettingsNotifications.permissionsModalStatus": "Permissions Modal (DEBUG)",
+    "SettingsNotifications.permissionsModalClosed": "You have closed token request modal without granting permissions, please click to ask again",
     "SettingsNotifications.tokenReset": "Reset",
     "SettingsPin.title": "Security",
     "SettingsPin.pinCode": "PIN code",

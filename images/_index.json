@@ -1,4 +1,6 @@
 {
     "welcome_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Light.svg",
-    "welcome_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Dark.svg"
+    "welcome_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Dark.svg",
+    "welcome_image_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Image_Light.png",
+    "welcome_image_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Image_Dark.png"
 }

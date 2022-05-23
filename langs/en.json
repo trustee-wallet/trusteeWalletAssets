@@ -387,7 +387,7 @@
     "History.days": "days",
     "History.paywayType": "Payment method",
     "History.paymentAddress": "Top up address",
-    "History.actionHash": "Action hash",
+    "History.actionHash": "Tx hash",
     "History.paymentMemo": "Payment memo",
     "History.receiverUserName": "Receiver",
     "History.senderUserName": "Sender",

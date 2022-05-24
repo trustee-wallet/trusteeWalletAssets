@@ -130,6 +130,8 @@
     "CardScreen.saveCard": "Save",
     "CardScreen.month": "Month",
     "CardScreen.year": "Year",
+    "CardScreen.cvv": "CVV",
+    "CardScreen.unavailableCVV": "Card CVV unavailable",
     "CardScreen.cardNotValid": "Card number is not valid",
     "CardScreen.expirationDateNotValid": "Expiration date is not valid",
     "CardScreen.selectCard": "Select card",

@@ -2,5 +2,17 @@
     "welcome_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Light.svg",
     "welcome_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Dark.svg",
     "welcome_image_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Image_Light.png",
-    "welcome_image_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Image_Dark.png"
+    "welcome_image_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Image_Dark.png",
+    "loader_bush_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/bush.png",
+    "loader_bush_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/bush.png",
+    "loader_bush2_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/bush2_lightTheme.png",
+    "loader_bush2_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/bush2_darkTheme.png",
+    "loader_humster_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/humster_lightTheme.png",
+    "loader_humster_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/humster_darkTheme.png",
+    "loader_humster_in_tank_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/humsterInTank_lightTheme.png",
+    "loader_humster_in_tank_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/humsterInTank_darkTheme.png",
+    "loader_tank_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tank_lightTheme.png",
+    "loader_tank_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tank_darkTheme.png",
+    "loader_tractor_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tractor_lightTheme.png",
+    "loader_tractor_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tractor_darkTheme.png"
 }

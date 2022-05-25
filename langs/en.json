@@ -422,6 +422,7 @@
     "Webview.errorText": "Webview.errorText",
     "PushNotifications.permsModalTitle": "Notifications",
     "PushNotifications.permsModalDescription": "Would you like to receive notifications from Trustee plus? We promise to send only important messages",
+    "PushNotifications.blockedPermModalDescription": "Notifications for Trustee Plus is disabled in the phone settings. Go to phone settings?",
     "PushNotifications.permsModalPrimaryBtn": "Yes",
     "PushNotifications.permsModalSecondaryBtn": "No",
     "InfoModal.SUCCESS": "Success",

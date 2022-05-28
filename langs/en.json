@@ -102,7 +102,7 @@
     "Account.history": "History",
     "Account.available": "Available",
     "Account.holded": "Holded",
-    "Account.noTransactions": "Your latest transactions and trades will be here",
+    "Account.noTransactions": "Your transactions and trades will be here",
     "Account.latestTransactions": "Latest transactions",
     "Account.showMore": "Show more",
     "Account.topUpNotAvailable": "Top up {prettyName} temporarily unavailable. Please, try again later.",

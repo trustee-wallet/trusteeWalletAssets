@@ -20,7 +20,6 @@
   "Login.GOOGLE_LIB_ERROR": "Невірний номер телефону. Будь ласка, уважно введіть номер телефону",
   "Login.BLOCKED_USER": "Користувач заблокований",
   "Login.INVALID_CODE": "Невірний код",
-  
   "LoginSms.title": "Вхід/реєстрація",
   "LoginSms.code": "",
   "LoginSms.intro": "Будь ласка, перевірте повідомлення в телефоні. Ми надіслали Вам код на <Number>{{number}}</Number>",
@@ -98,7 +97,7 @@
   "Account.history": "Історія",
   "Account.available": "Доступно",
   "Account.holded": "Заморожено",
-  "Account.noTransactions": "Ваші останні транзакції будуть відображені тут",
+  "Account.noTransactions": "Ваші транзакції будуть відображені тут",
   "Account.latestTransactions": "Останні транзакції",
   "Account.showMore": "Показати ще",
   "Account.topUpNotAvailable": "Поповнення {prettyName} тимчасово недоступне. Будь ласка, спробуйте пізніше",

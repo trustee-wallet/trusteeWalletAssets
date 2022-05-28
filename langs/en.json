@@ -103,7 +103,7 @@
     "Account.available": "Available",
     "Account.holded": "Holded",
     "Account.noTransactions": "Your transactions and trades will be here",
-    "Account.latestTransactions": "Transactions",
+    "Account.latestTransactions": "Latest transactions",
     "Account.showMore": "Show more",
     "Account.topUpNotAvailable": "Top up {prettyName} temporarily unavailable. Please, try again later.",
     "Account.withdrawNotAvailable": "Withdraw {prettyName} temporarily unavailable. Please, try again later.",

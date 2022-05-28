@@ -236,7 +236,7 @@
   "Errors.reload": "Перезагрузить",
   "Errors.trusteeVersion": "Версия Trustee Plus",
   "ErrorLogs.title": "Логи",
-  "ErrorLogs.intro": "Логи важны и помагают нам стать лучше",
+  "ErrorLogs.intro": "Логи важны и помогают нам стать лучше",
   "ErrorLogs.description": "Пока Вы здесь - логи генерируются, и через мгновение будет возможно загрузить или отправить их в службу поддержки Trustee Plus",
   "Pin.title": "PIN-код",
   "Pin.unlockByTouchId": "Использовать Face ID/Touch ID",

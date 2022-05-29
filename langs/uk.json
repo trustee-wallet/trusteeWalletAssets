@@ -181,7 +181,7 @@
   "TopUpPayment.changeCard": "Змінити",
   "TopUpPayment.selectedCard": "Обрати кртку",
   "TopUpAssetSelector.title": "Вибір активу",
-  "TopUpDetails.title": "Select network",
+  "TopUpDetails.title": "Вибір мережі",
   "TopUpDetails.notification": "Another text here",
   "Withdraw.title": "Вивід {symbol}",
   "Withdraw.internalTo": "ID користувача",

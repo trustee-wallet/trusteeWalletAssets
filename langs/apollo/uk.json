@@ -1,3 +1,27 @@
 {
-    "userTelegram.loginCode" : "Код авторизації: {code}"
+    "userTelegram.welcome": "Welcome! In this bot you will be able to get logins code and other messages from Trustee Plus",
+    "userTelegram.loginCode": "Код авторизації: {code}",
+    "userTelegram.approveCode.NOT_FOUND": "Telegram code not found",
+    "userTelegram.approveCode.BAD_STATUS": "Telegram code expired",
+    "userTelegram.approveCode.ALREADY_SET": "Telegram already set",
+    "userTelegram.approveCode.APPROVE": "Telegram request approved",
+    "userTelegram.approveCode.DECLINED": "Telegram request declined",
+    "userLogin.notActive.telegram": "Аккаунт не активовано, будь ласка напишіть в підтримку",
+    "userLogin.notValidTelegramCodeStatus.telegram": "Хтось намагався зайти в додаток з застарілим/пустим кодом {ip}",
+    "userLogin.notValidTelegramCodeValue.telegram": "Xтось намагався зайти в додаток з неправильним кодом {ip}",
+    "userLogin.successNoPin.telegram": "Користувач {mobile} Успішний вхід в систему, {logModel}",
+    "userLogin.successNeedPin.telegram": "Користувач {mobile} Успішний вхід в систему, запит Pin-код, {logModel}",
+    "userContacts.pending.pushTitle": "Ваш друг очікує на запрошення",
+    "userContacts.pending.pushDesc": "Ви один з контактів {userMobile}, будь-ласка допоможіть йому почати використовувати Trustee Plus",
+    "userContacts.pendingMutual.pushTitle": "Ваш друг очікує на запрошення",
+    "userContacts.pendingMutual.pushDesc": "Ви один з контактів {userMobile} ({mutualDisplayName}), будь-ласка допоможіть йому почати використовувати Trustee Plus",
+    "userContacts.activeMutual.pushTitle": "Ваш друг приєднався",
+    "userContacts.activeMutual.pushDesc": "Ви один з контактів {userMobile} ({mutualDisplayName}), тепер ви можете надсилати йому активи у Trustee Plus через внутрішній переказ",
+    "userData.emailVerification.emailTitle": "Trustee Plus :: Email Підтвердження",
+    "userData.emailVerification.emailDesc": "Для підтвердження адреси перейдіть за посиланням {emailLink}",
+    "userData.tgNewVerification.telegram": "Користувач {mobile} зробив запит для використання telegram, код: <b>{code}</b>",
+    "userData.tgNewVerificationWillBeJoined.telegram": "так як у Вас є аккаунт з цим telegram профілем як логіном в Trustee Plus - після підтвердження запиту старий акаунт буде заблоковано. <b>Будь-ласка, переведіть заздалегідь баланс</b>",
+    "userData.tgOldVerification.telegram": "Користувач {mobile} зробив запит для заміни telegram на @{telegramUsername}",
+    "userData.tgApproveBtn.telegram": "Підтвердити запит",
+    "userData.tgDeclineBtn.telegram": "Відмінити запит"
 }

@@ -264,7 +264,7 @@
     "ErrorLogs.description": "While you are here - logs are generated and in a moment it will be possible to upload or send them to Trustee Plus support",
     "Pin.title": "PIN Code",
     "Pin.unlockByTouchId": "Unlock by Face ID/Touch ID",
-    "Pin.maxTryReached": "Trustee Plus is not available, try it in 5 minutes",
+    "Pin.maxTryReached": "Trustee Plus is not available, try it in 3 minutes",
     "Pin.enterPin" : "Enter your PIN Code",
     "Pin.intro": "This PIN will be use to unlock the app. Enter 4- or 6-digit PIN",
     "Pin.confirm": "Confirm PIN Code",

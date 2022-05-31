@@ -245,7 +245,7 @@
   "ErrorLogs.description": "Пока Вы здесь - логи генерируются, и через мгновение будет возможно загрузить или отправить их в службу поддержки Trustee Plus",
   "Pin.title": "PIN-код",
   "Pin.unlockByTouchId": "Использовать Face ID/Touch ID",
-  "Pin.maxTryReached": "Trustee Plus недоступен, попробуйте через 5 минут",
+  "Pin.maxTryReached": "Trustee Plus недоступен, попробуйте через 3 минут",
   "Pin.enterPin" : "Введите PIN-код",
   "Pin.intro": "Этот PIN-код будет использоваться для разблокировки приложения. Введите 4- или 6-значный PIN-код",
   "Pin.confirm": "Подтвердите PIN-код",

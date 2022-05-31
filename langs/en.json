@@ -50,6 +50,7 @@
     "LoginTelegramStep2.code": "Telegram code",
     "LoginTelegramStep2.resendCode": "Resend code",
     "LoginTelegramStep2.login": "Login",
+    "Login.INVALID_TELEGRAM_GENERAL_ERROR": "General error while code sending - please try again or contact support",
     "Login.INVALID_TELEGRAM_LENGTH": "Invalid username length",
     "Login.INVALID_TELEGRAM_SYMBOLS": "Invalid username symbols",
     "Login.INVALID_TELEGRAM_CODE_STATUS": "Invalid code status",

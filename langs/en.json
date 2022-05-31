@@ -23,9 +23,9 @@
     "Login.BLOCKED_USER": "User is blocked",
     "Login.INVALID_CODE": "Invalid code",
     "Login.signUp.title": "Sign up",
-    "Login.signUp.intro": "",
-    "LoginSms.title": "Login/registration",
-    "LoginSms.code": "",
+    "Login.signUp.intro": "It will take less than 1 minute",
+    "LoginSms.title": "Login",
+    "LoginSms.code": "SMS code",
     "LoginSms.intro": "Check your phone messages, please. We sent you a code to <Number>{{number}}</Number>",
     "LoginSms.resendCode": "Resend SMS code",
     "LoginSms.codeInvalid": "Code is not valid",
@@ -507,5 +507,5 @@
     "Awards.loaderSentence16": "Thank you for coming",
     "Support.title": "Support",
     "Support.link": "https://trusteeglobal.com/support",
-    "Awards.uahProgress": "You earned {number} uah from 100 uah"
+    "Awards.uahProgress": "You earned {number} UAH from 100 UAH"
 }

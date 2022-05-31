@@ -20,7 +20,7 @@
     "userData.emailVerification.emailTitle": "Trustee Plus : підтвердження Email",
     "userData.emailVerification.emailDesc": "Будь ласка, перейдіть за посиланням для підтвердження Email {emailLink}",
     "userData.tgNewVerification.telegram": "Користувач {mobile} зробив запит для підтвердження псевдоніму  Telegram, код: <b>{code}</b>",
-    "userData.tgNewVerificationWillBeJoined.telegram": "Оскільки у Вас уже є облікивий запис з цим псевдонімом Telegram  для входу в Trustee Plus, то після підтвердження запиту старий обліковий запис буде заблоковано. <b>Будь-ласка, спочатку перемістіть баланс зі старого облікового запису </b>",
+    "userData.tgNewVerificationWillBeJoined.telegram": "Оскільки у Вас уже є обліковий запис з цим псевдонімом Telegram  для входу в Trustee Plus, то після підтвердження запиту старий обліковий запис буде заблоковано. <b>Будь-ласка, спочатку перемістіть баланс зі старого облікового запису </b>",
     "userData.tgOldVerification.telegram": "Користувач {mobile} зробив запит для заміни псевдоніму Telegram на @{telegramUsername}",
     "userData.tgApproveBtn.telegram": "Підтвердити запит",
     "userData.tgDeclineBtn.telegram": "Відмінити запит"

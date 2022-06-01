@@ -7,7 +7,7 @@
     "userTelegram.approveCode.APPROVE": "Telegram запрос подтвержден",
     "userTelegram.approveCode.DECLINED": "Telegram запрос отменен",
     "userLogin.notActive.telegram": "Аккаунт не активирован, пожайлуста, напишите в поддержку",
-    "userLogin.notValidTelegramCodeStatus.telegram": "то-то пробовал зайти в приложение с истекшим/пустым кодом {ip}",
+    "userLogin.notValidTelegramCodeStatus.telegram": "Кто-то пробовал зайти в приложение с истекшим/пустым кодом {ip}",
     "userLogin.notValidTelegramCodeValue.telegram": "Кто-то пробовал зайти в приложение с неправильным кодом {ip}",
     "userLogin.successNoPin.telegram": "Пользователь {mobile} Успешный вход в систему, {logModel}",
     "userLogin.successNeedPin.telegram": "Пользователь {mobile} Успешный вход в систему, запрос Pin-код, {logModel}",

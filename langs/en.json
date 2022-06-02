@@ -339,7 +339,7 @@
     "SettingsPin.changeUserContactsSettings" : "Show My Contact to My Friends",
     "SettingsPin.changeUserContactsSettingsSubTitle": "Allows friends from your contact list to see you are using Trustee Plus",
     "SettingsPin.linkUserContacts" : "Link again",
-    "SettingsPin.linkUserContactsSubTitle": "You have linked your contact list {importAt}",
+    "SettingsPin.linkUserContactsSubTitle": "You have linked your contact list {importedAt}",
     "About.title": "Trustee Plus",
     "About.subtitle": "Trustee Plus",
     "About.intro": "Crypto neobank in your phone",

@@ -337,7 +337,7 @@
     "SettingsPin.modalFaceNo": "No",
     "SettingsPin.modalFaceTitleSet": "FaceID/TouchID",
     "SettingsPin.changeUserContactsSettings" : "Show My Contact to My Friends",
-    "SettingsPin.changeUserContactsSettingsSubTitle: "Allows friends from your contact list to see you are using Trustee Plus",
+    "SettingsPin.changeUserContactsSettingsSubTitle": "Allows friends from your contact list to see you are using Trustee Plus",
     "SettingsPin.linkUserContacts" : "Link again",
     "SettingsPin.linkUserContactsSubTitle": "You have linked your contact list {importAt}"
     "About.title": "Trustee Plus",

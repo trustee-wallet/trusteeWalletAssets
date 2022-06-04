@@ -426,6 +426,8 @@
     "History.txSwapTypesBaseAmount": "You give:",
     "History.txTypesAdditionalAmountTitle": "You get:",
     "History.txTypesDepositAdditionalAmountTitle": "Deposit amount:",
+    "History.txTypesDonation": "Donate",
+    "History.txTypesBonus": "Bonus",
     "History.txRate": "Rate per 1",
     "History.txID": "Transaction ID",
     "History.txMore": "Show more",

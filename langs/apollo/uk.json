@@ -11,7 +11,7 @@
     "userLogin.notValidTelegramCodeValue.telegram": "Хтось намагався увійти з невірним кодом {ip}",
     "userLogin.successNoPin.telegram": "Користувач {mobile} успішно зайшов в Trustee Plus, {logModel}",
     "userLogin.successWillAskPin.telegram": "Користувач {mobile} успішно зайшов в Trustee Plus, але ще потрібен Pin-код, {logModel}",
-    "userLogin.successNeedPin.telegram": "Користувач {mobile} успішно зайшов в Trustee Plus, застосувавши Pin-код, {logModel}",
+    "userLogin.successWithPin.telegram": "Користувач {mobile} успішно зайшов в Trustee Plus, застосувавши Pin-код, {logModel}",
     "userContacts.pending.pushTitle": "Ваш друг очікує на запрошення",
     "userContacts.pending.pushDesc": "Ви є в списку контактів користувача {userMobile}, будь ласка, запросіть його почати використовувати Trustee Plus",
     "userContacts.pendingMutual.pushTitle": "Ваш друг очікує на запрошення",

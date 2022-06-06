@@ -20,6 +20,8 @@
     "userContacts.pendingMutual.pushDesc": "Вы есть в списке контактов пользователя {userMobile} ({mutualDisplayName}), пожалуйста, пригласите его начать использовать Trustee Plus",
     "userContacts.activeMutual.pushTitle": "Ваш друг присоединился",
     "userContacts.activeMutual.pushDesc": "Вы есть в списке контактов пользователя {userMobile} ({mutualDisplayName}), теперь Вы можете отправлять ему активы в Trustee Plus мгновенным переводом",
+    "userContacts.approved.pushTitle": "Ваш запрос был одобрен",
+    "userContacts.approved.pushDesc": "Один из Ваших друзей подтвердил запрос, и теперь Вы можете начать использовать Trustee Plus",
     "userData.emailVerification.emailTitle": "Trustee Plus: подтверждение Email",
     "userData.emailVerification.emailDesc": "Пожалуйста, перейдите по ссылке для подтверждения Email {emailLink}",
     "userData.tgNewVerification.telegram": "Пользователь {mobile} сделал запрос для подтверждения Telegram псевдонима, код: <b>{code}</b>",

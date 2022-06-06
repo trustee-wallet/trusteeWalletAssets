@@ -22,6 +22,8 @@
     "userContacts.activeMutual.pushDesc": "Ви є в списку контактів користувача {userMobile} ({mutualDisplayName}), тепер Ви можете надсилати йому активи у Trustee Plus миттєвим переказом",
     "userData.emailVerification.emailTitle": "Trustee Plus: підтвердження Email",
     "userData.emailVerification.emailDesc": "Будь ласка, перейдіть за посиланням для підтвердження Email {emailLink}",
+     "userContacts.approved.pushTitle": "Ваш запит було схалено",
+    "userContacts.approved.pushDesc": "Один з Ваших друзів схвалив запит, та зараз Ви можете начати використовувати Trustee Plus",
     "userData.tgNewVerification.telegram": "Користувач {mobile} зробив запит для підтвердження Telegram псевдоніму, код: <b>{code}</b>",
     "userData.tgNewVerificationWillBeJoined.telegram": "Оскільки у Вас уже є обліковий запис з цим Telegram псевдонімом для входу в Trustee Plus, то після підтвердження запиту старий обліковий запис буде заблоковано. <b>Будь-ласка, спочатку перемістіть баланс зі старого облікового запису </b>",
     "userData.tgOldVerification.telegram": "Користувач {mobile} зробив запит для заміни Telegram псевдоніму на @{telegramUsername}",

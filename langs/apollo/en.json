@@ -22,6 +22,8 @@
     "userContacts.pendingMutual.pushDesc": "You are in contacts list of user {userMobile} ({mutualDisplayName}), please help him start using Trustee Plus",
     "userContacts.activeMutual.pushTitle": "Your friend joins Trustee Plus",
     "userContacts.activeMutual.pushDesc": "You are in contacts list of user {userMobile} ({mutualDisplayName}), you can now send him assets in Trustee Plus by instant transfer",
+    "userContacts.approved.pushTitle": "Your request was approved",
+    "userContacts.approved.pushDesc": "One of your friends has approved your request, so you can start using Trustee Plus now",
     "userData.emailVerification.emailTitle": "Trustee Plus: Email Verification",
     "userData.emailVerification.emailDesc": "Please click to verify email {emailLink}",
     "userData.tgNewVerification.telegram": "User {mobile} requests to confirm the Telegram username, code: <b>{code}</b>",

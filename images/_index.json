@@ -14,5 +14,7 @@
     "loader_tank_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tank_lightTheme.png",
     "loader_tank_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tank_darkTheme.png",
     "loader_tractor_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tractor_lightTheme.png",
-    "loader_tractor_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tractor_darkTheme.png"
+    "loader_tractor_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tractor_darkTheme.png",
+    "card_decoration_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Card_Decoration_Light.png",
+    "card_decoration_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Card_Decoration_Dark.png"
 }

@@ -423,7 +423,7 @@
   "History.txTypesWithDraw": "Выведено",
   "History.txTypesSwap": "Обмен",
   "History.txTypesDeposit": "Пополнение",
-  "History.txTypesBaseAmount": "Сума:",
+  "History.txTypesBaseAmount": "Сумма:",
   "History.txSwapTypesBaseAmount": "Списано:",
   "History.txTypesAdditionalAmountTitle": "Зачислено:",
   "History.txTypesDepositAdditionalAmountTitle": "Зачислено:",

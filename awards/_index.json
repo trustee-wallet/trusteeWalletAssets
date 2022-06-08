@@ -1,4 +1,5 @@
 {
+    "version" : 4,
     "001_ON_REGISTRATION": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/registration.png",
     "002_ON_SWAP": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/first_exchange.png",
     "002_ON_DEPOSIT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/first_top_up.png",

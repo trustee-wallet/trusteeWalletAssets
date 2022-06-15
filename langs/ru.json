@@ -1,5 +1,5 @@
 {
-  "version" : 6,
+  "version" : 7,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -477,6 +477,7 @@
   "History.receiverUserName": "Получатель",
   "History.senderUserName": "Отправитель",
   "History.receiveAddress": "Адрес получения",
+  "History.receiveAddress.card": "Номер карты",
   "History.valueCopied": "Скопировано",
   "History.CARD": "Банковская карта",
   "History.CRYPTO": "Криптовалюты",

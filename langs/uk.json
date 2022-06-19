@@ -533,6 +533,8 @@
   "UserContactsRequest.info.title": "Інфо",
   "UserContactsRequest.info.subTitle": "Ваш друг приєднався до закритого клубу Trustee Plus",
   "UserContactsRequest.toEarn.subTitle" : "Додавайте друзів до Trustee Plus, хто зробить це першим отримає бонус <Amount> {{value}} </Amount>",
+  "UserContactsRequest.info.subTitle.ACTIVE_BY_INVITE_APPROVE" : "You have been approved by your friend",
+  "UserContactsRequest.info.subTitle.ACTIVE_BY_TRANSFER": "You have been added as your friend made transfer to you",
   "UserContactsRequest.accept": "Прийняти",
   "UserContactsRequest.deny": "Відмовити",
   "UserContactsRequest.ok": "Ок",

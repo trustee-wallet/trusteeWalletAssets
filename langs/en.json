@@ -1,5 +1,5 @@
 {
-    "version" : 16,
+    "version" : 17,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -381,6 +381,8 @@
     "SettingsPin.changeUserContactsSettingsSubTitle": "Let your friends on your contact list see that you're using Trustee Plus",
     "SettingsPin.linkUserContacts" : "Link again",
     "SettingsPin.linkUserContactsSubTitle": "You have linked your contact list {importedAt}",
+    "SecurityPin.pinCategory": "PIN code",
+    "SecurityPin.contactsCategory": "Settings privacy",
     "About.title": "Trustee Plus",
     "About.subtitle": "Trustee Plus",
     "About.intro": "Crypto neobank in your phone",
@@ -478,7 +480,6 @@
     "History.refundButton": "Refund",
     "History.resendButton": "Send",
     "History.inviteFriend": "I send you {amount} in TrusteePlus. Please, install app by link and check your money {referralLink}",
-    "History.to": "to",
     "History.day": "day",
     "History.days": "days",
     "History.paywayType": "Payment method",

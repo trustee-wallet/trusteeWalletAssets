@@ -21,7 +21,7 @@
     "Login.MOBILE_PHONE_INVALID_START": "Replace number format from {{old}} to <MobileNumber>{{new}}</MobileNumber>?",
     "Login.MOBILE_PHONE_INVALID_LENGTH": "Invalid phone number. Please enter your phone number carefully",
     "Login.GOOGLE_LIB_ERROR": "Invalid phone number. Please enter your phone number carefully",
-    "Login.BLOCKED_USER": "User is blocked",
+    "Login.BLOCKED_USER": "User account is blocked, please contact support",
     "Login.INVALID_CODE": "Invalid code",
     "Login.signUp.title": "Sign up",
     "Login.signUp.intro": "It will take less than 1 minute",

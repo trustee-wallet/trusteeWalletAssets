@@ -1,6 +1,6 @@
 {
-  "Push.deposit.title": "Депозит",
-  "Push.deposit.successMessage": "Пополнение успешно зачислено {{amount}} {{currencySymbol}}",
+  "Push.deposit.title": "Новое поступление",
+  "Push.deposit.successMessage": "На баланс зачислено {{amount}} {{currencySymbol}}",
   "Push.withdraw.title": "Вывод",
   "Push.withdraw.successMessage": "Ваш вывод выполнен успешно {{amount}} {{currencySymbol}}"
 }

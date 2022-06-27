@@ -38,6 +38,7 @@
   "LoginSms.CODE_EXPIRED": "Срок действия кода истек. Пожалуйста, нажмите «Отправить SMS код еще раз»",
   "LoginSms.INVALID_VERIFICATION_CODE": "Код недействительный, пожалуйста, внимательно введите код",
   "LoginSms.QUOTA_EXCEEDED": "Превышено количество попыток",
+  "LoginSms.INVALID_PHONE_NUMBER": "Извините, не удалось доставить SMS, проверьте указанный номер телефона",
   "Login.getTelegram": "Войти с помощью Telegram",
   "LoginTelegramStep1.title": "Вход/регистрация",
   "LoginTelegramStep1.intro": "Чтобы войти в помощью Telegram, пожалуйста,<Link1>начните чат с {botTitle}</Link1>",
@@ -55,6 +56,9 @@
   "Login.INVALID_TELEGRAM_SYMBOLS": "В псевдониме есть недопустимые символы",
   "Login.INVALID_TELEGRAM_CODE_STATUS": "Invalid code status",
   "Login.INVALID_TELEGRAM_CODE_VALUE": "Неверный код",
+  "Login.newVersion": "Доступное обновление. Для корректной работы рекомендуем обновить приложение.",
+  "Login.update": "Обновить сейчас",
+  "Login.skip": "Пропустить",
   "PermissionsScreen.title": "Больше возможностей",
   "PermissionsScreen.subTitle": "Почувствуйте все преимущества приложения: скорость, удобство и лучший сервис. Пожалуйста, дайте соответствующие разрешения:",
   "PermissionsScreen.notification": "Уведомления",
@@ -104,6 +108,7 @@
   "Home.assetFilterCancel": "Отмена",
   "Home.swapNotNetwork": "Обмен недоступен. Пожалуйста, проверьте интернет соединение",
   "Home.withdrawNotNetwork": "Вывод недоступен. Пожалуйста, проверьте интернет соединение",
+  "Home.balanceCopied": "Общий баланс скопирован",
   "Account.prettyName.BCH": "Bitcoin Cash",
   "Account.prettyName.BNB": "Binance Coin",
   "Account.prettyName.BSC": "BNB Smart Chain",
@@ -633,5 +638,6 @@
   "Donations.donate": "Сделать донат",
   "Donations.category.zsu_donate": "Оборона и разминирование",
   "Donations.category.med_donate": "Медицинская помощь",
-  "Donations.category.rebuild_donate": "Восстановление Украины"
+  "Donations.category.rebuild_donate": "Восстановление Украины",
+  "TotalBalanceBottomSheet.title": "Локальные валюты"
 }

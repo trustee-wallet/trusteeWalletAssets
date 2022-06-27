@@ -38,6 +38,7 @@
     "LoginSms.CODE_EXPIRED": "The code has expired. Please click «Resend SMS code»",
     "LoginSms.INVALID_VERIFICATION_CODE": "Code is not valid. Please enter the code carefully",
     "LoginSms.QUOTA_EXCEEDED": "Retries exceeded",
+    "LoginSms.INVALID_PHONE_NUMBER": "Sorry, we couldn't deliver the SMS, please check the given phone number",
     "Login.getTelegram": "Login with Telegram",
     "LoginTelegramStep1.title": "Login/registration",
     "LoginTelegramStep1.intro": "To use Telegram login please <Link1>Start chat with {botTitle}</Link1>",
@@ -55,6 +56,9 @@
     "Login.INVALID_TELEGRAM_SYMBOLS": "Invalid username symbols",
     "Login.INVALID_TELEGRAM_CODE_STATUS": "Invalid code status",
     "Login.INVALID_TELEGRAM_CODE_VALUE": "Invalid code",
+    "Login.newVersion": "Update available. For correct work, we recommend updating the application.",
+    "Login.update": "Update now",
+    "Login.skip": "Skip",
     "PermissionsScreen.title": "More possibilities",
     "PermissionsScreen.subTitle": "Experience all the benefits of the application: speed, convenience and the best service. Please provide the appropriate permissions:",
     "PermissionsScreen.notification": "Notifications",
@@ -104,6 +108,7 @@
     "Home.assetFilterCancel": "Cancel",
     "Home.swapNotNetwork": "Swap unavailable. Please, check network connection",
     "Home.withdrawNotNetwork": "Withdraw unavailable. Please, check network connection",
+    "Home.balanceCopied": "Total balance copied",
     "Account.prettyName.BCH": "Bitcoin Cash",
     "Account.prettyName.BNB": "Binance Coin",
     "Account.prettyName.BSC": "BNB Smart Chain",
@@ -633,5 +638,6 @@
     "Donations.donate": "Donate",
     "Donations.category.zsu_donate": "Defense and demining",
     "Donations.category.med_donate": "Medical aid",
-    "Donations.category.rebuild_donate": "Rebuild Ukraine"
+    "Donations.category.rebuild_donate": "Rebuild Ukraine",
+    "TotalBalanceBottomSheet.title": "Local Currencies"
 }

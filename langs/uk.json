@@ -38,6 +38,7 @@
   "LoginSms.CODE_EXPIRED": "Термін дії коду минув. Будь ласка, натисніть «Надіслати SMS код ще раз»",
   "LoginSms.INVALID_VERIFICATION_CODE": "Код недійсний, будь ласка, уважно введіть код",
   "LoginSms.QUOTA_EXCEEDED": "Перевищена кількість спроб",
+  "LoginSms.INVALID_PHONE_NUMBER": "Вибачте, не вдалося доставити SMS, будь ласка перевірте вказаний номер телефону",
   "Login.getTelegram": "Увійти за допомогою Telegram",
   "LoginTelegramStep1.title": "Вхід/реєстрація",
   "LoginTelegramStep1.intro": "Щоб увійти за допомогою Telegram, будь ласка, <Link1>почніть чат з {botTitle}</Link1>",
@@ -55,6 +56,9 @@
   "Login.INVALID_TELEGRAM_SYMBOLS": "У псевдонімі є неприпустимі символи",
   "Login.INVALID_TELEGRAM_CODE_STATUS": "Invalid code status",
   "Login.INVALID_TELEGRAM_CODE_VALUE": "Невірний код",
+  "Login.newVersion": "Доступно оновлення. Для коректної роботи рекомендуємо оновити застосунок.",
+  "Login.update": "Оновити зараз",
+  "Login.skip": "Пропустити",
   "PermissionsScreen.title": "Більше можливостей",
   "PermissionsScreen.subTitle": "Відчуйте всі переваги додатку: швидкість, зручність та найкращий сервіс. Будь ласка, надайте відповідні дозволи:",
   "PermissionsScreen.notification": "Сповіщення",
@@ -104,6 +108,7 @@
   "Home.assetFilterCancel": "Відміна",
   "Home.swapNotNetwork": "Обмін недоступний. Будь ласка, перевірте інтернет з'єднання",
   "Home.withdrawNotNetwork": "Вивід недоступний. Будь ласка, перевірте інтернет з'єднання",
+  "Home.balanceCopied": "Загальний баланс скопійовано",
   "Account.prettyName.BCH": "Bitcoin Cash",
   "Account.prettyName.BNB": "Binance Coin",
   "Account.prettyName.BSC": "BNB Smart Chain",
@@ -206,7 +211,7 @@
   "Swap.notEnoughBalance": "Недостатньо коштів. Доступно для обміну <Balance>{{prettyBalance}} {{symbol}}</Balance>",
   "SwapAssetSelector.title": "Оберіть актив",
   "Swap.swap": "Обміняти",
-  "Swap.includeFee": "Включайчи комісію {{swapFee}}",
+  "Swap.includeFee": "Включаючи комісію {{swapFee}}",
   "TopUp.title" : "Поповнення {symbol}",
   "TopUp.titleFiat" : "Поповнення {symbol}",
   "TopUp.addressCopied": "Адресу скопійовано",
@@ -633,5 +638,6 @@
   "Donations.donate": "Зробити донат",
   "Donations.category.zsu_donate": "Оборона та розмінування",
   "Donations.category.med_donate": "Медична допомога",
-  "Donations.category.rebuild_donate": "Відбудова України"
+  "Donations.category.rebuild_donate": "Відбудова України",
+  "TotalBalanceBottomSheet.title": "Локальні валюти"
 }

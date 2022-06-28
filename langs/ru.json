@@ -1,5 +1,5 @@
 {
-  "version" : 15,
+  "version" : 16,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -535,6 +535,7 @@
   "Toast.message.notInternetConnection": "Пожалуйста, проверьте интернет соединение",
   "Toast.message.apolloParseErrorMessage": "Пожалуйста, попробуйте позже",
   "Loader.longLoad": "Извините, операция занимает больше времени, чем ожидалось",
+  "ContactScreen.useTrustee": "Участники семьи Trustee Plus",
   "ContactScreen.title": "Контакты",
   "ContactScreen.login.title": "Они могут Вас добавить",
   "ContactScreen.login.emptyTitle": "Нам очень досадно",

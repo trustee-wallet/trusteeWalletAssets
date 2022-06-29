@@ -1,5 +1,5 @@
 {
-    "version" : 28,
+    "version" : 29,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -577,7 +577,7 @@
     "Awards.toEarnTitle.001_ON_REGISTRATION": "To earn <Amount>{{bonusValue}} {{currencySymbol}}</Amount> you need register",
     "Awards.toEarnTitle.002_ON_DEPOSIT": "To earn <Amount>{{bonusValue}} {{currencySymbol}}</Amount> you need create deposit",
     "Awards.toEarnTitle.002_ON_SWAP": "To earn <Amount>{{bonusValue}} {{currencySymbol}}</Amount> you need create swap",
-    "Awards.toEarnTitle.003_ON_SEND_TO_PHONE": "To earn <Amount>{{bonusValue}} {{currencySymbol}}</Amount> you need to create a send by phone number",
+    "Awards.toEarnTitle.003_ON_SEND_TO_PHONE": "To earn <Amount>{{bonusValue}} {{currencySymbol}}</Amount> charity UAH and this awesome gift, you need to make a transfer via phone number to still not a Trustee Plus Family member. Yeah, it is possible with Trustee Plus",
     "Awards.toEarnTitle.004_ON_REFERRALS": "To earn <Amount>{{bonusValue}} {{currencySymbol}}</Amount> you need to invite a friend",
     "Awards.toEarnTitle.005_ON_TANK": "To open this award you need open 5 basic awards",
     "Awards.winnerDate.001_ON_REGISTRATION": "You have registered {date}",

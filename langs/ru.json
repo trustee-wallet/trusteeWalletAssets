@@ -1,5 +1,5 @@
 {
-  "version" : 22,
+  "version" : 23,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -577,7 +577,7 @@
   "Awards.toEarnTitle.001_ON_REGISTRATION": "Чтобы заработать <Amount>{{bonusValue}} {{currencySymbol}}</Amount> Вам необходимо зарегистрироваться",
   "Awards.toEarnTitle.002_ON_DEPOSIT": "Чтобы заработать <Amount>{{bonusValue}} {{currencySymbol}}</Amount> Вам необходимо создать депозит",
   "Awards.toEarnTitle.002_ON_SWAP": "Чтобы заработать <Amount>{{bonusValue}} {{currencySymbol}}</Amount> Вам нужно совершить обмен",
-  "Awards.toEarnTitle.003_ON_SEND_TO_PHONE": "Чтобы заработать <Amount>{{bonusValue}} {{currencySymbol}}</Amount> Вам нужно совершить отправку по номеру телефона",
+  "Awards.toEarnTitle.003_ON_SEND_TO_PHONE": "Чтобы заработать <Amount>{{bonusValue}} {{currencySymbol}}</Amount> на благотворительность и этот шикарный подарок, Вам нужно сделать перевод по номеру телефона, который еще  не  является участником семьи Trustee Plus. Да, это возможно с Trustee Plus",
   "Awards.toEarnTitle.004_ON_REFERRALS": "Чтобы заработать <Amount>{{bonusValue}} {{currencySymbol}}</Amount> Вам нужно пригласить друга",
   "Awards.toEarnTitle.005_ON_TANK": "Для открытия этой награды нужно открыть 5 базовых наград",
   "Awards.winnerDate.001_ON_REGISTRATION": "Вы зарегировались  {date}",

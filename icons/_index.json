@@ -1,5 +1,5 @@
 {
-    "version" : 5,
+    "version" : 6,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#18BC83",
@@ -32,7 +32,9 @@
         "USD": "#10BB58",
         "TUSD": "#3171EF",
         "DOT": "#F03C72",
-        "SOL": "#30D99E"
+        "SOL": "#30D99E",
+        "MATIC": "#864DD9",
+        "ETC": "#10BB58"
     },
     "icons" : {
         "USDT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/usdt.png",
@@ -66,6 +68,9 @@
         "USD": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/usd.png",
         "TUSD": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/tusd.png",
         "DOT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/dot.png",
-        "SOL": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/sol.png"
+        "SOL": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/sol.png",
+        "MATIC": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/matic.png",
+        "MATIC_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/matic_dark_theme.png",
+        "ETC": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/etc.png"
     }
 }

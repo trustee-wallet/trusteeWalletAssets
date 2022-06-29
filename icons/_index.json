@@ -1,5 +1,5 @@
 {
-    "version" : 6,
+    "version" : 7,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#18BC83",
@@ -71,6 +71,6 @@
         "SOL": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/sol.png",
         "MATIC": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/matic.png",
         "MATIC_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/matic_dark_theme.png",
-        "ETC": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/etc.png"
+        "ETC": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/et%D1%81.png"
     }
 }

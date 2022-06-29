@@ -1,5 +1,5 @@
 {
-    "version" : 7,
+    "version" : 8,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#18BC83",
@@ -34,6 +34,7 @@
         "DOT": "#F03C72",
         "SOL": "#30D99E",
         "MATIC": "#864DD9",
+        "MATIC_dark_theme": "#AA80E8",
         "ETC": "#10BB58"
     },
     "icons" : {

@@ -1,5 +1,5 @@
 {
-    "version" : 27,
+    "version" : 28,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -583,7 +583,7 @@
     "Awards.winnerDate.001_ON_REGISTRATION": "You have registered {date}",
     "Awards.winnerDate.002_ON_DEPOSIT": "You have made your first successful deposit {date}",
     "Awards.winnerDate.002_ON_SWAP": "You have made your first swap {date}",
-    "Awards.winnerDate.003_ON_SEND_TO_PHONE": "You have made the first send to the phone number {date}",
+    "Awards.winnerDate.003_ON_SEND_TO_PHONE": "Reward earned {date}",
     "Awards.winnerDate.004_ON_REFERRALS": "You have invited a friend for the first time {date}",
     "Awards.winnerDate.005_ON_TANK": "You have collected 5 awards {date}",
     "Awards.winnerDescription": "Info and congratulations are here",

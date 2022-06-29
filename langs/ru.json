@@ -1,5 +1,5 @@
 {
-  "version" : 21,
+  "version" : 22,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -583,7 +583,7 @@
   "Awards.winnerDate.001_ON_REGISTRATION": "Вы зарегировались  {date}",
   "Awards.winnerDate.002_ON_DEPOSIT": "Вы сделали свое первое успешное зачисление {date}",
   "Awards.winnerDate.002_ON_SWAP": "Вы сделали свой первый обмен {date}",
-  "Awards.winnerDate.003_ON_SEND_TO_PHONE": "Ви сделали первую отправку по номеру телефона {date}",
+  "Awards.winnerDate.003_ON_SEND_TO_PHONE": "Награда заработана {date}",
   "Awards.winnerDate.004_ON_REFERRALS": "Вы впервые пригласили друга {date}",
   "Awards.winnerDate.005_ON_TANK": "Вы собрали 5 базовых наград {date}",
   "Awards.winnerDescription": "Информация и поздравления находятся здесь",

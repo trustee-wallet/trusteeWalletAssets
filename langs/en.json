@@ -1,5 +1,5 @@
 {
-    "version" : 52,
+    "version" : 53,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -610,7 +610,7 @@
     "Awards.title.002_ON_DEPOSIT": "eFantik",
     "Awards.title.002_ON_SWAP": "Trader",
     "Awards.title.003_ON_SEND_TO_PHONE": "Swallow",
-    "Awards.title.004_ON_FIVE_POSITIVE_BALANCES": "eCryptan",
+    "Awards.title.004_ON_FIVE_POSITIVE_BALANCES": "Cryptan",
     "Awards.title.005_ON_TANK": "Defender",
     "Awards.001_ON_REGISTRATION": "HaveContact",
     "Awards.002_ON_DEPOSIT": "eFantik",

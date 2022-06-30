@@ -1,5 +1,5 @@
 {
-  "version" : 52,
+  "version" : 53,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -610,7 +610,7 @@
   "Awards.title.002_ON_DEPOSIT": "еФантик",
   "Awards.title.002_ON_SWAP": "Трейдер",
   "Awards.title.003_ON_SEND_TO_PHONE": "Ласточка",
-  "Awards.title.004_ON_FIVE_POSITIVE_BALANCES": "еКриптанчик",
+  "Awards.title.004_ON_FIVE_POSITIVE_BALANCES": "Криптан",
   "Awards.title.005_ON_TANK": "Защитник",
   "Awards.001_ON_REGISTRATION": "еКонтакт",
   "Awards.002_ON_DEPOSIT": "еФантик",

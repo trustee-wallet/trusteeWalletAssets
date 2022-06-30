@@ -13,7 +13,7 @@
     "Welcome.signUp": "Sign up",
     "Login.title": "Login",
     "Login.intro": "it's glad to see you again",
-    "Login.phone": "Phone number",
+    "Login.phone": "+38 phone number",
     "Login.phoneInvalid": "Phone number is not valid",
     "Login.phoneEmpty": "Please, enter your phone number",
     "Login.getSms": "Get sms code",

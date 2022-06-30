@@ -13,7 +13,7 @@
   "Welcome.signUp": "Регистрация",
   "Login.title": "Вход",
   "Login.intro": "Рады видеть вас снова",
-  "Login.phone": "Номер телефона",
+  "Login.phone": "+38 номер телефона",
   "Login.phoneInvalid": "Номер телефона недействителен",
   "Login.phoneEmpty": "Пожалуйста, введите Ваш номер телефона",
   "Login.getSms": "Получить SMS код",

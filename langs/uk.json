@@ -13,7 +13,7 @@
   "Welcome.signUp": "Реєстрація",
   "Login.title": "Вхід",
   "Login.intro": "Раді бачити Вас знову",
-  "Login.phone": "Номер телефону",
+  "Login.phone": "+38 номер телефону",
   "Login.phoneInvalid": "Номер телефону недійсний",
   "Login.phoneEmpty": "Будь ласка, введіть Ваш номер телефону",
   "Login.getSms": "Отримати SMS код",

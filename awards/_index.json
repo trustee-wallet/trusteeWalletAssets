@@ -1,10 +1,11 @@
 {
-    "version" : 4,
+    "version" : 5,
     "001_ON_REGISTRATION": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/registration.png",
     "002_ON_SWAP": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/first_exchange.png",
-    "002_ON_DEPOSIT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/first_top_up.png",
+    "002_ON_DEPOSIT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/first_top_hryvnya.png",
     "003_ON_SEND_TO_PHONE": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/exchange_transfer.png",
     "004_ON_REFERRALS": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/invite_friend.png",
+    "004_ON_FIVE_POSITIVE_BALANCES": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/five_assets.png",
     "005_ON_TANK": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/finish_progress_bar.png",
     "007_ON_WHITE_LIST_USER": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/early_bird.png",
     "008_ON_ONE_BTC_BALANCE": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/miner.png",

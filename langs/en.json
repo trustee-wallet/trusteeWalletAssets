@@ -1,5 +1,5 @@
 {
-    "version" : 58,
+    "version" : 59,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -13,7 +13,7 @@
     "Welcome.signUp": "Sign up",
     "Login.title": "Login",
     "Login.intro": "it's glad to see you again",
-    "Login.phone": "+380 99 000 0000",
+    "Login.phone": "Phone number",
     "Login.phoneInvalid": "Phone number is not valid",
     "Login.phoneEmpty": "Please, enter your phone number",
     "Login.getSms": "Get sms code",

@@ -1,5 +1,5 @@
 {
-    "version" : 63,
+    "version" : 64,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -298,7 +298,7 @@
     "Withdraw.shareBtnText": "Inform a friend",
     "Withdraw.statusSuccess": "Success",
     "Withdraw.messageForFriend": "I sent you money, install the application from the link and you will receive money",
-    "Withdraw.needMemo": "We not allow send crypto without memo. You can write another text for memo.",
+    "Withdraw.needMemo": "We do not allow sending without a memo. If you are sure that you do not need to specify it for the output, then you can enter any text in the memo field",
     "WithdrawMethods.title": "Method choice",
     "WithdrawMethods.internalTitle": "Instant send to Trustee plus user",
     "WithdrawMethods.internalSubTitle": "Fee 0%",

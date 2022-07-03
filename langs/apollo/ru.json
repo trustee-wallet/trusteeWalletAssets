@@ -8,6 +8,7 @@
     "userTelegram.approve.TELEGRAM_BLOCKED_LOGIN" : "Your account login with Telegram is blocked",
     "userTelegram.contact.isMutual": "Contact already in Trustee Plus",
     "userTelegram.contact.added": "Contact added",
+    "userTelegram.contact.activated": "Contact added and activated",
     "userTelegram.loginCode": "Код авторизации: {code}",
     "userTelegram.approveCode.NOT_FOUND": "Telegram код не найден",
     "userTelegram.approveCode.BAD_STATUS": "Срок действия Telegram кода истек",

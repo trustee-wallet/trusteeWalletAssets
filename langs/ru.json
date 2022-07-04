@@ -77,7 +77,7 @@
   "InviteScreen.use": "Использовать",
   "InviteScreen.hide": "Скрыть",
   "InviteScreen.approveSuccessDesc": "Ваша учетная запись активирована",
-  "InviteScreen.approveSuccessDescByUser": "Поздравляем!{contactDisplayName} высоко оценили Вашу финансовую порядочность и одобрии Ваше стремление присоединится к семье Trustee Plus!",
+  "InviteScreen.approveSuccessDescByUser": "Поздравляем! {contactDisplayName} высоко оценили Вашу финансовую порядочность и одобрили Ваше стремление присоединиться к семье Trustee Plus!",
   "InviteScreen.successfulTitle" : "Успех!",
   "InviteScreen.successfulDesc": "Вы присоединились по коду-приглашению",
   "InviteScreen.successfulOk": "Начать",

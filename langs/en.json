@@ -170,7 +170,7 @@
     "AssetDetails.prettyName.CARD": "Card",
     "AssetDetails.network": "Network",
     "CurrencyList.isInternal": "Instant transfer",
-    "CurrencyList.isToMobile": "Transfer to mobile",
+    "CurrencyList.isToMobile": "Transfer by mobile",
     "CurrencyList.notAvailableFor": "Not available for {symbol}",
     "CurrencyList.searchInput": "Search",
     "CurrencyList.notAvailableTemporarily": "Temporarily unavailable",

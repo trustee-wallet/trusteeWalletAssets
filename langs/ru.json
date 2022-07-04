@@ -170,7 +170,7 @@
   "AssetDetails.prettyName.CARD": "Карта",
   "AssetDetails.network": "Network",
   "CurrencyList.isInternal": "Мгновенный перевод",
-  "CurrencyList.isToMobile": "Перевод на моб. номер",
+  "CurrencyList.isToMobile": "Перевод по моб. номеру",
   "CurrencyList.notAvailableFor": "Недоступно для {symbol}",
   "CurrencyList.searchInput": "Поиск",
   "CurrencyList.notAvailableTemporarily": "Временно недоступно",

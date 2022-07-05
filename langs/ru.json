@@ -43,7 +43,7 @@
   "LoginSms.codeisAutoinserted": "Код принят",
   "Login.getTelegram": "Войти с помощью Telegram",
   "LoginTelegramStep1.title": "Вход/регистрация",
-  "LoginTelegramStep1.intro": "Чтобы войти в помощью Telegram, пожалуйста,<Link1>начните чат с {botTitle}</Link1>",
+  "LoginTelegramStep1.intro": "Чтобы войти с помощью Telegram, пожалуйста, <Link1>перейдите в чат с {botTitle}</Link1> и напишите ему что-нибудь",
   "LoginTelegramStep1.telegram": "Telegram псевдоним",
   "LoginTelegramStep1.telegramEmpty": "Неверный Telegram псевдоним",
   "LoginTelegramStep1.getCode": "Получить код",

@@ -1,7 +1,7 @@
 {
     "userTelegram.welcome.pleaseShareMobile": "Будь ласка, поділіться Вашим номером",
     "userTelegram.welcome.open": "Відкрити Trustee Plus",
-    "userTelegram.welcome.install": "Установити",
+    "userTelegram.welcome.install": "Дізнатися більше",
     "userTelegram.welcome.ACTIVE": "Ваш обліковий запис {mobile} прив`язано до Telegram, Ви будете отримувати тут коди для логіну та іншу важливу інформацію",
     "userTelegram.welcome.PENDING" :"Ваш обліковий запис {mobile} прив`язано до Telegram, Ви будете отримувати тут коди для логіну та  іншу важливу інформацію",
     "userTelegram.welcome.ACTIVE_NO_TG_LOGIN": "Ваш обліковий запис {mobile} прив`язано до Telegram, Ви будете отримувати тут важливу інформацію. Коди для входу через Telegram відключені",

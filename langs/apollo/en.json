@@ -1,7 +1,7 @@
 {
     "userTelegram.welcome.pleaseShareMobile": "Please, share mobile number",
     "userTelegram.welcome.open": "Open Trustee Plus",
-    "userTelegram.welcome.install": "Read more about Trustee",
+    "userTelegram.welcome.install": "Read more",
     "userTelegram.welcome.ACTIVE": "Your account {mobile} is linked to Telegram, you will get here login sms codes and other important information",
     "userTelegram.welcome.PENDING" :"Your account {mobile}  is linked to Telegram, you will get here login sms codes and other important information",
     "userTelegram.welcome.ACTIVE_NO_TG_LOGIN": "Your account {mobile} is linked to Telegram, you will get here important information. Telegram OTP is disabled",

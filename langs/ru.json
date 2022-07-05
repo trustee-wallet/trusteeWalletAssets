@@ -34,6 +34,7 @@
   "LoginSms.login": "Войти",
   "LoginSms.signUp": "Зарегистрироваться",
   "LoginSms.getLogs": "Получить Логи",
+  "LoginSms.GOOGLE_SMS_DISABLED": "Ошибка отправки SMS",
   "LoginSms.TOO_MANY_REQUESTS": "Запросы с этого устройства временно заблокированы из-за необычной активности. Пожалуйста, попробуйте позже",
   "LoginSms.CODE_EXPIRED": "Срок действия кода истек. Пожалуйста, нажмите «Отправить SMS код еще раз»",
   "LoginSms.INVALID_VERIFICATION_CODE": "Код недействительный, пожалуйста, внимательно введите код",

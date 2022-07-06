@@ -1,5 +1,5 @@
 {
-    "version" : 68,
+    "version" : 69,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -139,8 +139,8 @@
     "Account.prettyName.ZEC": "Zcash",
     "Account.prettyName.ETC": "Ethereum Classic",
     "Account.prettyName.MATIC": "Polygon",
-    "Account.prettyName.BONUS": "Bonus UAH",
-    "AssetDetails.prettyName.BONUS": "Awards UAH",
+    "Account.prettyName.BONUS": "Awards UAH",
+    "AssetDetails.prettyName.BONUS": "Bonus UAH",
     "Account.topUp": "Top Up",
     "Account.swap": "Swap",
     "Account.send": "Transfer",

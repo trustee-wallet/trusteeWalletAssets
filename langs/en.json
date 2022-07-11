@@ -1,5 +1,5 @@
 {
-    "version" : 70,
+    "version" : 71,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -562,6 +562,9 @@
     "ContactScreen.login.title": "They can add you",
     "ContactScreen.login.emptyTitle": "We are very sorry",
     "ContactScreen.login.emptySubTitle": "You are not yet activated in Trustee Plus.\n \n What can you do?\n \n - ask your friend who has installed Trustee Plus to add you to their contacts\n \n - ask the person who recommended you to install the application to make a transfer of at least 1 UAH to your phone number\n \n - contact the support for additional explanations",
+    "ContactScreen.notPermissionsTitle": "No access to contacts",
+    "ContactScreen.notPermissionsDescription": "With Trustee Plus, you can instantly send funds to your contacts without fees.\nAnd also earn <Amount>UAH 10</Amount> for each new user joining the Trustee Plus family.",
+    "ContactScreen.grantAccess": "Grant access",
     "ContactScreen.searchInput": "Search",
     "Contacts.unlockModalTitle": "Show contacts",
     "Contacts.unlockModalDescription": "To use the contact list, the application needs permission to read contacts. Want to go to settings?",

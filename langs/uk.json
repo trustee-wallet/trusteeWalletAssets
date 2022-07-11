@@ -40,7 +40,7 @@
   "LoginSms.INVALID_VERIFICATION_CODE": "Код недійсний, будь ласка, уважно введіть код",
   "LoginSms.QUOTA_EXCEEDED": "Перевищена кількість спроб",
   "LoginSms.INVALID_PHONE_NUMBER": "Вибачте, не вдалося доставити SMS, будь ласка, перевірте вказаний номер телефону",
-  "LoginSms.codeisAutoinserted": "Код прийнято",
+  "LoginSms.userAutoLoginWillBeProcessed": "Код прийнято",
   "Login.getTelegram": "Увійти за допомогою Telegram",
   "LoginTelegramStep1.title": "Вхід/реєстрація",
   "LoginTelegramStep1.intro": "Щоб увійти за допомогою Telegram, будь ласка, <Link1>почніть чат з {botTitle}</Link1>",

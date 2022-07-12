@@ -679,5 +679,9 @@
   "Donations.category.zsu_donate": "Допомога ЗСУ",
   "Donations.category.med_donate": "Медична допомога",
   "Donations.category.rebuild_donate": "Відбудова України",
-  "TotalBalanceBottomSheet.title": "Локальні валюти"
+  "TotalBalanceBottomSheet.title": "Локальні валюти",
+  "AcceptScreen.emptyHeader": "Тут будуть з’являтися люди з Вашої контактної книги, які прагнуть долучитись до родини Trustee Plus.",
+  "AcceptScreen.emptyIconText": "Немає контактів в очікуванні",
+  "AcceptScreen.header": "Лист очікування",
+  "AcceptScreen.listHeader": "Люди з Вашої контактної книги, які прагнуть долучитись до родини Trustee Plus."
 }

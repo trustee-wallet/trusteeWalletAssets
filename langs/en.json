@@ -679,5 +679,9 @@
     "Donations.category.zsu_donate": "Armed Forces of Ukraine",
     "Donations.category.med_donate": "Medical aid",
     "Donations.category.rebuild_donate": "Rebuild Ukraine",
-    "TotalBalanceBottomSheet.title": "Local Currencies"
+    "TotalBalanceBottomSheet.title": "Local Currencies",
+    "AcceptScreen.emptyHeader": "People from your contact book who want to join the Trustee Plus family will appear here.",
+    "AcceptScreen.emptyIconText": "No contacts pending",
+    "AcceptScreen.header": "Waitlist",
+    "AcceptScreen.listHeader": "People from your contact book who want to join the Trustee Plus family."
 }

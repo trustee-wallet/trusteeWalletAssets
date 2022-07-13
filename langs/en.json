@@ -1,5 +1,5 @@
 {
-    "version" : 72,
+    "version" : 73,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -610,8 +610,8 @@
     "Awards.winnerDate.002_ON_DEPOSIT": "Congratulations! {{date}} You received your own digital award by replenishing your balance with UAH and <Award>{{award}}</Award>. You are ready to boldly go into the crypto future.",
     "Awards.winnerDate.002_ON_SWAP": "Congratulations! {{date}} You have earned 1 more collectible award and <Award>{{award}}</Award>. Instant trades for the best traders.",
     "Awards.winnerDate.003_ON_SEND_TO_PHONE": "Congratulations! {{date}} You earn an award and <Award>{{award}}</Award>. Only happy people are able to give joy and warmth, also transfer funds to friends who are not yet members of the Trustee Plus family.",
-    "Awards.winnerDate.004_ON_FIVE_POSITIVE_BALANCES": "Congratulations Cryptan! This award is now yours! And also +<Award>{{award}}</Award> for charity. Not everyone is so brave as to hold so many different cryptocurrencies! 💪 {{date}}",
-    "Awards.winnerDate.005_ON_TANK": "Congratulations! From now on, this super award is yours! You are unsurpassed - you passed the minimum Crypto course, collected 100₴ to help Ukraine, so you are ready to own the \"Defender\" award {{date}}",
+    "Awards.winnerDate.004_ON_FIVE_POSITIVE_BALANCES": "Congratulations Cryptan! This award is now yours! And also <Award>+{{award}}</Award> for charity. Not everyone is so brave as to hold so many different cryptocurrencies! 💪 {{date}}",
+    "Awards.winnerDate.005_ON_TANK": "Congratulations! From now on, this super award is yours! You completed the course of a young Сriptan, collected 100₴ to help Ukraine, now worthy of an award \"Defender\" {{date}}",
     "Awards.winnerDate.004_ON_REFERRALS": "You have invited a friend for the first time {{date}} <Award>{{award}}</Award>",
     "Awards.winnerDescription": "Info and congratulations are here",
     "Awards.winnerDescription.001_ON_REGISTRATION": "The award unlocks immediately after registration",

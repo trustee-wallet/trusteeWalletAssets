@@ -1,5 +1,5 @@
 {
-  "version" : 75,
+  "version" : 76,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -580,7 +580,7 @@
   "UserContactsRequest.accept": "Схвалити",
   "UserContactsRequest.deny": "Ігнорувати",
   "UserContactsRequest.ok": "Ок",
-  "UserContactsRequest.somebodyHasApprovedFirst": "Вибачте, хтось випередив Вас! \nБонус був зарахований іншому члену родини Trustee Plus. Бажаємо успіхів надалі! \nАле тепер Ви можете зробити безкоштовний миттєвий переказ другу {{name}}",
+  "UserContactsRequest.somebodyHasApprovedFirst": "Вибачте, хтось випередив Вас! \n\nБонус був зарахований іншому члену родини Trustee Plus. Бажаємо успіхів надалі! \n\nАле тепер Ви можете зробити безкоштовний миттєвий переказ другу {{name}}",
   "UserContactsRequest.youHaveApproved": "Вітаємо! Ви приєднали друга до родини Trustee Plus і зробили це швидше за інших! Тому Ви отримуєте бонус <Amount>{{value}}</Amount>, який можете витратити на допомогу Україні \uD83C\uDDFA\uD83C\uDDE6",
   "UserContactsRequest.youHaveDeclined": "Ви відхилили цей запит",
   "UserContactsRequest.successButton1": "Файно!",

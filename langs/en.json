@@ -1,5 +1,5 @@
 {
-    "version" : 75,
+    "version" : 76,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -580,7 +580,7 @@
     "UserContactsRequest.accept": "Approve",
     "UserContactsRequest.deny": "Ignore",
     "UserContactsRequest.ok": "Ok",
-    "UserContactsRequest.somebodyHasApprovedFirst": "Sorry, someone is ahead of you! \nThe bonus was credited to another member of the Trustee Plus family. We wish you success in the future! \nBut now you can make a free instant transfer to a friend {{name}}",
+    "UserContactsRequest.somebodyHasApprovedFirst": "Sorry, someone is ahead of you! \n\nThe bonus was credited to another member of the Trustee Plus family. We wish you success in the future! \n\nBut now you can make a free instant transfer to a friend {{name}}",
     "UserContactsRequest.youHaveApproved": "Congratulations! You have added a friend to the Trustee Plus family and did it faster than others! That's why you get a bonus <Amount>{{value}}</Amount>, which you can spend to help Ukraine \uD83C\uDDFA\uD83C\uDDE6",
     "UserContactsRequest.youHaveDeclined": "You have declined this request",
     "UserContactsRequest.successButton1": "Good!",

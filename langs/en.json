@@ -1,5 +1,5 @@
 {
-    "version" : 76,
+    "version" : 77,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -78,7 +78,7 @@
     "InviteScreen.use": "Use",
     "InviteScreen.hide": "Hide",
     "InviteScreen.approveSuccessDesc": "Your account is activated",
-    "InviteScreen.approveSuccessDescByUser": "Congratulations!  {contactDisplayName} appreciated your financial fairness and accepted your desire to join Trustee Plus family!",
+    "InviteScreen.approveSuccessDescByUser": "Congratulations! Your financial integrity has been highly appreciated and your desire to join the Trustee Plus family has been approved",
     "InviteScreen.successfulTitle" : "Success!",
     "InviteScreen.successfulDesc": "You have joined by invitation code",
     "InviteScreen.successfulOk": "Start",

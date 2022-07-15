@@ -1,5 +1,5 @@
 {
-  "version" : 78,
+  "version" : 79,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -78,7 +78,7 @@
   "InviteScreen.use": "Використати",
   "InviteScreen.hide": "Приховати",
   "InviteScreen.approveSuccessDesc": "Ваш обліковий запис активовано",
-  "InviteScreen.approveSuccessDescByUser": " {contactВаше приєднання до Trustee Plus було схваленоDisplayName}!",
+  "InviteScreen.approveSuccessDescByUser": "Ваше приєднання до Trustee Plus було схвалено {contactDisplayName}!",
   "InviteScreen.successfulTitle" : "Успіх!",
   "InviteScreen.successfulDesc": "Ви приєднались за кодом-запрошенням",
   "InviteScreen.successfulOk": "Розпочати",

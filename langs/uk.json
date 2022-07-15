@@ -78,7 +78,7 @@
   "InviteScreen.use": "Використати",
   "InviteScreen.hide": "Приховати",
   "InviteScreen.approveSuccessDesc": "Ваш обліковий запис активовано",
-  "InviteScreen.approveSuccessDescByUser": "Вітаємо! {contactDisplayName} високо оцінили Вашу фінансову порядність та схвалили Ваше прагнення долучитись до сім'ї Trustee Plus!",
+  "InviteScreen.approveSuccessDescByUser": " {contactВаше приєднання до Trustee Plus було схваленоDisplayName}!",
   "InviteScreen.successfulTitle" : "Успіх!",
   "InviteScreen.successfulDesc": "Ви приєднались за кодом-запрошенням",
   "InviteScreen.successfulOk": "Розпочати",

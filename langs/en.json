@@ -78,7 +78,7 @@
     "InviteScreen.use": "Use",
     "InviteScreen.hide": "Hide",
     "InviteScreen.approveSuccessDesc": "Your account is activated",
-    "InviteScreen.approveSuccessDescByUser": "Congratulations!  {contactDisplayName} appreciated your financial fairness and accepted your desire to join Trustee Plus family!",
+    "InviteScreen.approveSuccessDescByUser": "Your Trustee Plus membership has been approved by {contactDisplayName}!",
     "InviteScreen.successfulTitle" : "Success!",
     "InviteScreen.successfulDesc": "You have joined by invitation code",
     "InviteScreen.successfulOk": "Start",

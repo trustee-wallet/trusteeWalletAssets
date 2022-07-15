@@ -306,7 +306,7 @@
   "Withdraw.GOOGLE_LIB_ERROR": "Некорректная информация. Пожалуйста, измените данные",
   "Withdraw.shareBtnText": "Сообщить другу",
   "Withdraw.statusSuccess": "Успех",
-  "Withdraw.messageForFriend": "Я отправил Вам {amount}, пожалуйста, получите средства, установив приложение по ссылке {referralLink}",
+  "Withdraw.messageForFriend": "Я отправил(а) Вам {amount} на Trustee Plus. Получите средства установив приложение по ссылке {referralLink}",
   "Withdraw.needMemo": "Мы не позволяем отправку без memo. Если Вы уверени, что для вывода не нужно его указывать, то можете вписать в поле memo любой текст",
   "WithdrawMethods.title": "Выбор способа",
   "WithdrawMethods.internalTitle": "Мгновенный перевод пользователю Trustee Plus",

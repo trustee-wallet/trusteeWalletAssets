@@ -508,7 +508,7 @@
     "History.txProviderFee": "Provider fee",
     "History.txTrusteeFee": "Trustee Plus fee",
     "History.networkInvite": "Resend invite",
-    "History.refundTitle": "You can refund money:",
+    "History.refundTitle": "You can refund money: <Date>{{date}}</Date>",
     "History.refundButton": "Refund",
     "History.resendButton": "Send",
     "History.inviteFriend": "I transfer you {amount} in Trustee Plus. Attention! The transfer is valid until {date}. Please, install app by link {referralLink} and check your balance",

@@ -508,7 +508,7 @@
   "History.txProviderFee": "Комісія провайдера",
   "History.txTrusteeFee": "Комісія Trustee Plus",
   "History.networkInvite": "Запрошення до Trustee Plus",
-  "History.refundTitle": "Ви можете повернути гроші :",
+  "History.refundTitle": "Ви можете повернути гроші: <Date>{{date}}</Date>",
   "History.refundButton": "Повернути",
   "History.resendButton": "Надіслати",
   "History.inviteFriend": "Я переказав Вам {amount} в Trustee Plus. Увага! Переказ має термін дії, а саме до {date}. Будь ласка, встановіть додаток за посиланням {referralLink} та перевірте свій баланс",

@@ -590,6 +590,8 @@
   "UserContactsRequest.failedButton2": "Гаразд!",
   "UserContactsRequest.failedButton3": "Наступного разу...",
   "UserContactsRequest.REQUEST_NOT_ACTIVE" : "Запит не активний",
+  "UserContactsRequest.failedTitle": "Упс",
+  "UserContactsRequest.youApprovedTitle": "Вітаємо",
   "Awards.headerTitle": "Нагороди",
   "Awards.STANDARD": "Нагороди",
   "Awards.DAILY": "Щоденні нагороди",

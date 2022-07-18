@@ -590,6 +590,8 @@
     "UserContactsRequest.failedButton2": "Okay!",
     "UserContactsRequest.failedButton3": "Next time...",
     "UserContactsRequest.REQUEST_NOT_ACTIVE" : "The request is not active",
+    "UserContactsRequest.failedTitle": "Oops",
+    "UserContactsRequest.youApprovedTitle": "Congratulations",
     "Awards.headerTitle": "Awards",
     "Awards.STANDARD": "Awards",
     "Awards.DAILY": "Daily awards",

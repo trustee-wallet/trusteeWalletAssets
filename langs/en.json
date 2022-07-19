@@ -141,6 +141,7 @@
     "Account.prettyName.ETC": "Ethereum Classic",
     "Account.prettyName.MATIC": "Polygon",
     "Account.prettyName.BONUS": "Awards UAH",
+    "Account.prettyName.NEAR": "Near",
     "AssetDetails.prettyName.BONUS": "Bonus UAH",
     "Account.topUp": "Top Up",
     "Account.swap": "Swap",

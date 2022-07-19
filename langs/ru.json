@@ -140,6 +140,7 @@
   "Account.prettyName.ZEC": "Zcash",
   "Account.prettyName.ETC": "Ethereum Classic",
   "Account.prettyName.MATIC": "Polygon",
+  "Account.prettyName.NEAR": "Near",
   "Account.prettyName.BONUS": "Награды UAH",
   "AssetDetails.prettyName.BONUS": "Бонус UAH",
   "Account.topUp": "Пополнение",

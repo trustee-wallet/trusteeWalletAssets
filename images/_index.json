@@ -1,5 +1,5 @@
 {
-    "version" : 4,
+    "version" : 5,
     "welcome_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Light.svg",
     "welcome_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Dark.svg",
     "welcome_image_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Welcome_Image_Light.png",
@@ -17,5 +17,8 @@
     "loader_tractor_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tractor_lightTheme.png",
     "loader_tractor_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Loader/tractor_darkTheme.png",
     "card_decoration_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Card_Decoration_Light.png",
-    "card_decoration_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Card_Decoration_Dark.png"
+    "invite_success_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Invite_Success_Dark.png",
+    "invite_success_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Invite_Success_Light.png",
+    "invite_fail_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Invite_Fail_Dark.png",
+    "invite_fail_light_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/Invite_Fail_Light.png"
 }

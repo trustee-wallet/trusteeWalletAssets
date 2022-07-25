@@ -321,6 +321,8 @@
   "WithdrawMethods.cardSubTitle": "Комиссия 0%",
   "WithdrawMethods.externalTitle": "Перевод на криптоадрес",
   "WithdrawMethods.externalSubTitle": "Отправка криптовалюты на другой криптовалютный кошелек",
+  "WithdrawMethods.donationTitle": "Благотворительность",
+  "WithdrawMethods.donationSubTitle": "Поддержка Украины",
   "WithdrawAssetSelector.title": "Выбор актива",
   "WithdrawAssetDetails.title": "Выбор сети",
   "WithdrawAssetDetails.notification": "Another text here",

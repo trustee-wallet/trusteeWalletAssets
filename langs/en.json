@@ -321,6 +321,8 @@
     "WithdrawMethods.cardSubTitle": "Fee 0%",
     "WithdrawMethods.externalTitle": "Transfer to crypto address",
     "WithdrawMethods.externalSubTitle": "Sending cryptocurrency to another cryptocurrency wallet",
+    "WithdrawMethods.donationTitle": "Donation",
+    "WithdrawMethods.donationSubTitle": "Help to Ukraine",
     "WithdrawAssetSelector.title": "Select asset",
     "WithdrawAssetDetails.title": "Select network",
     "WithdrawAssetDetails.notification": "Another text here",

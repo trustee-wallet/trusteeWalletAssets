@@ -1,5 +1,5 @@
 {
-  "version" : 90,
+  "version" : 91,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -539,7 +539,7 @@
   "History.INTERNAL_TRANSFER": "Миттєвий переказ",
   "History.TRANSFER_TO_MOBILE": "Переказ по мобільному номеру",
   "History.PHONE_BALANCE": "Phone balance",
-  "History.inviteUserApprove": "Схвалити користувача",
+  "History.inviteUserApprove": "Ви схвалили",
   "History.associatedId": "Асоційований ID",
   "History.getAwards": "Отримати нагороду",
   "History.changeToTransferNotification": "Внутрішній переказ",

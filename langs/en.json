@@ -1,5 +1,5 @@
 {
-    "version" : 90,
+    "version" : 91,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -539,7 +539,7 @@
     "History.INTERNAL_TRANSFER": "Internal transfer",
     "History.TRANSFER_TO_MOBILE": "Transfer by mobile number",
     "History.PHONE_BALANCE": "Phone balance",
-    "History.inviteUserApprove": "Approve user",
+    "History.inviteUserApprove": "You approved",
     "History.associatedId": "Associated ID",
     "History.getAwards": "Get award",
     "History.changeToTransferNotification": "Internal transfer",

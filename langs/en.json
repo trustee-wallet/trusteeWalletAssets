@@ -1,5 +1,5 @@
 {
-    "version" : 92,
+    "version" : 93,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -697,5 +697,6 @@
     "AcceptScreen.emptyHeader": "People from your contact book who want to join the Trustee Plus family will appear here.",
     "AcceptScreen.emptyIconText": "No contacts pending",
     "AcceptScreen.header": "Waitlist",
-    "AcceptScreen.listHeader": "People from your contact book who want to join the Trustee Plus family."
+    "AcceptScreen.listHeader": "People from your contact book who want to join the Trustee Plus family.",
+    "Carousel.chooseCard": " Card not select"
 }

@@ -1,5 +1,5 @@
 {
-  "version" : 92,
+  "version" : 93,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -697,5 +697,7 @@
   "AcceptScreen.emptyHeader": "Тут будуть з’являтися люди з Вашої контактної книги, які прагнуть долучитись до родини Trustee Plus.",
   "AcceptScreen.emptyIconText": "Немає контактів в очікуванні",
   "AcceptScreen.header": "Список очікування",
-  "AcceptScreen.listHeader": "Люди з Вашої контактної книги, які прагнуть долучитись до родини Trustee Plus."
+  "AcceptScreen.listHeader": "Люди з Вашої контактної книги, які прагнуть долучитись до родини Trustee Plus.",
+  "Carousel.chooseCard": "Картка не обрана"
+
 }

@@ -1,5 +1,5 @@
 {
-  "version" : 93,
+  "version" : 94,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -546,6 +546,8 @@
   "History.associatedId": "Асоційований ID",
   "History.getAwards": "Отримати нагороду",
   "History.changeToTransferNotification": "Внутрішній переказ",
+  "History.yesterday": "Вчора",
+  "History.today": "Сьогодні",
   "SocialLinks.telegram": "https://t.me/trustee_ua",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

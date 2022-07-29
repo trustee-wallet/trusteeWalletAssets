@@ -40,7 +40,7 @@
     "userContacts.approvedBySomeone.pushDesc":"Congratulations! Members of the Trustee Plus family appreciated your financial fairness and accepted your desire to join them!",
     "userData.emailVerification.emailTitle": "Trustee Plus: Email Verification",
     "userData.emailVerification.emailDesc": "Please click to verify email {emailLink}",
-    "userData.emailVerification.emailLine0": "Hi {mobile},",
+    "userData.emailVerification.emailLine0": "Hello, {mobile}",
     "userData.emailVerification.emailLine1" : "You have sucessfully created a Trustee Plus account. Please, click on the button below to verify your email address and complete your registration.",
     "userData.emailVerification.emailLinkTitle" : "Verify email",
     "userData.emailVerification.emailLine2": "if the button is not work, copy link below and open it in your browser",

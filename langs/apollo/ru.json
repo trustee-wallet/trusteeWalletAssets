@@ -40,7 +40,7 @@
     "userContacts.approvedBySomeone.pushDesc": "Поздравляем! Участники семьи Trustee Plus высоко оценили Вашу финансовую порядочность и одобрили Ваше стремление к ним присоединиться!",
     "userData.emailVerification.emailTitle": "Trustee Plus: подтверждение Email",
     "userData.emailVerification.emailDesc": "Пожалуйста, перейдите по ссылке для подтверждения Email {emailLink}",
-    "userData.emailVerification.emailLine0": "Добрый день {mobile},",
+    "userData.emailVerification.emailLine0": "Приветствуем, {mobile}",
     "userData.emailVerification.emailLine1" : "You have sucessfully created a Trustee Plus account. Please, click on the button below to verify your email address and complete your registration.",
     "userData.emailVerification.emailLinkTitle" : "Verify email",
     "userData.emailVerification.emailLine2": "if the button is not work, copy link below and open it in your browser",

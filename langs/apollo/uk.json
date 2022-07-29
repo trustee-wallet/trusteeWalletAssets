@@ -37,7 +37,7 @@
     "userContacts.activeMutual.pushDesc": "Ви є в списку контактів користувача {mutualDisplayName} ({userMobile}), тепер Ви можете надсилати йому активи у Trustee Plus миттєвим переказом",
     "userData.emailVerification.emailTitle": "Trustee Plus: підтвердження Email",
     "userData.emailVerification.emailDesc": "Будь ласка, перейдіть за посиланням для підтвердження Email {emailLink}",
-    "userData.emailVerification.emailLine0": "Доброго дня {mobile},",
+    "userData.emailVerification.emailLine0": "Вітаємо, {mobile}",
     "userData.emailVerification.emailLine1" : "You have sucessfully created a Trustee Plus account. Please, click on the button below to verify your email address and complete your registration.",
     "userData.emailVerification.emailLinkTitle" : "Verify email",
     "userData.emailVerification.emailLine2": "if the button is not work, copy link below and open it in your browser",

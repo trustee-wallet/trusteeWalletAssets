@@ -1,6 +1,6 @@
 {
   "Push.deposit.title": "New income",
   "Push.deposit.successMessage": "Received balance {{amount}} {{currencySymbol}}",
-  "Push.withdraw.title": "Withdraw",
-  "Push.withdraw.successMessage": "Your withdraw was successful {{amount}} {{currencySymbol}}"
+  "Push.withdraw.title": "Transfer",
+  "Push.withdraw.successMessage": "Your transfer was successful {{amount}} {{currencySymbol}}"
 }

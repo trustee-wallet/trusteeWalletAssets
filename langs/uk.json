@@ -1,5 +1,5 @@
 {
-  "version" : 97,
+  "version" : 98,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -706,5 +706,16 @@
   "AcceptScreen.emptyIconText": "Немає контактів в очікуванні",
   "AcceptScreen.header": "Список очікування",
   "AcceptScreen.listHeader": "Люди з Вашої контактної книги, які прагнуть долучитись до родини Trustee Plus.",
+  "SendInviteScreen.header": "Запрошення",
+  "SendInviteScreen.title": "Запрошувати друзів легко!",
+  "SendInviteScreen.descriptionTitle": "Існує два способи:",
+  "SendInviteScreen.description1": "згенеруй та відправ другу одноразове унікальне посилання",
+  "SendInviteScreen.description2": "<Send>перекажи</Send> будь-яку суму по номеру телефону друга",
+  "SendInviteScreen.withoutLink": "Згенерувати запрошення",
+  "SendInviteScreen.usedLink": "Запрошення викориснате, згенерувати нове",
+  "SendInviteScreen.shareText": "Привіт, запрошую тебе в сімю Trustee Plus, ось посилання по якій можна завантажити додаток - {link}",
+  "SendInviteScreen.linkCopied": "Посилання скопійовано",
+  "SendInviteScreen.errorTitle": "Виникла помилка",
+  "SendInviteScreen.errorSubTitle": "Будь ласка спробуйте ще раз",
   "Carousel.chooseCard": "Картка не обрана"
 }

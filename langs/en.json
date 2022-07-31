@@ -1,5 +1,5 @@
 {
-    "version" : 98,
+    "version" : 99,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -565,6 +565,7 @@
     "InfoModal.WARNING": "Warning",
     "InfoModal.ERROR": "Oops ...",
     "InfoModal.SESSION_EXPIRED": "The session time is probably over. Or you went to the application on another device, if it was not you - urgently contact support",
+    "InfoModal.SESSION_ANOTHER_DEVICE": "You went to the application on another device, if it was not you - urgently contact support",
     "InfoModal.OK": "Ok",
     "Toast.title.WARNING": "Warning",
     "Toast.title.badConnection": "Unstable network connection",

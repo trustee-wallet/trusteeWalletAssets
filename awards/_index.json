@@ -1,5 +1,5 @@
 {
-    "version" : 6,
+    "version" : 7,
     "001_ON_REGISTRATION": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/registration.png",
     "002_ON_SWAP": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/first_exchange.png",
     "002_ON_DEPOSIT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/top_up_hryvnya.png",
@@ -9,5 +9,6 @@
     "005_ON_TANK": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/finish_progress_bar.png",
     "007_ON_WHITE_LIST_USER": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/early_bird.png",
     "008_ON_ONE_BTC_BALANCE": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/miner.png",
-    "009_ON_ONE_THOUSAND_UAH_DONATE": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/hohol.png"
+    "009_ON_ONE_THOUSAND_UAH_DONATE": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/hohol.png",
+    "ON_BIHUS_INFO": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/awards/bihus.png"
 }

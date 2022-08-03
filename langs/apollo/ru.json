@@ -10,6 +10,7 @@
     "userTelegram.approve.TELEGRAM_APPROVED": "Ваша учетная запись {mobile} привязана к Telegram",
     "userTelegram.approve.TELEGRAM_APPROVED_ALREADY": "Ваша учетная запись {mobile} уже привязана к Telegram",
     "userTelegram.approve.TELEGRAM_BLOCKED_LOGIN" : "Коды для входа через Telegram отключены, пожалуйста, обратитесь в службу поддержки",
+    "userTelegram.approve.TOO_MUCH" : "Вы генерировали коды слишком часто - пожайлуста, подождите пару минут",
     "userTelegram.contact.isMutual": "Контакт уже в Trustee Plus",
     "userTelegram.contact.added": "Контакт добавлен",
     "userTelegram.contact.activated": "Контакт добавлен и активирован",

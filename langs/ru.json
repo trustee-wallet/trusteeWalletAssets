@@ -1,5 +1,5 @@
 {
-  "version" : 103,
+  "version" : 104,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -54,7 +54,7 @@
   "LoginTelegramStep2.resendCode": "Отправить код еще раз",
   "LoginTelegramStep2.login": "Войти",
   "LoginTelegramStep2.mobileIsDifferent.title" : "Almost done",
-  "LoginTelegramStep2.mobileIsDifferent.desc" : "You have been using Telegram account with mobile number {{telegramNumber}}, you can process login or go back and switch to another one", 
+  "LoginTelegramStep2.mobileIsDifferent.desc" : "You have been using Telegram account with mobile number {telegramNumber}, you can process login or go back and switch to another one", 
   "LoginTelegramStep2.anotherTg": "Go Back to TG",
   "Login.INVALID_TELEGRAM_GENERAL_ERROR": "Не удалось отправить Telegram код. Пожалуйста, повторите попытку или обратитесь в службу поддержки",
   "Login.INVALID_TELEGRAM_LENGTH": "Недопустимая длина псевдонима пользователя",

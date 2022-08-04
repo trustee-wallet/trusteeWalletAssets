@@ -1,5 +1,5 @@
 {
-    "version" : 105,
+    "version" : 106,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -584,6 +584,8 @@
     "ContactScreen.notPermissionsDescription": "With Trustee Plus, you can instantly send funds to your contacts without fees.\n\nAnd also earn <Amount>UAH 10</Amount> for each new user joining the Trustee Plus family.",
     "ContactScreen.grantAccess": "Grant access",
     "ContactScreen.searchInput": "Search",
+    "ContactScreen.withoutNumber": "This number is not in contacts",
+    "ContactScreen.withoutNumberButton": "Use this",
     "Contacts.unlockModalTitle": "Show contacts",
     "Contacts.unlockModalDescription": "To use the contact list, the application needs permission to read contacts. Want to go to settings?",
     "Contacts.unlockModalYes": "Yes",

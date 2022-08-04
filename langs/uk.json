@@ -1,5 +1,5 @@
 {
-  "version" : 105,
+  "version" : 106,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -584,6 +584,8 @@
   "ContactScreen.notPermissionsTitle": "Доступ до контактів відсутній",
   "ContactScreen.notPermissionsDescription": "З Trustee Plus Ви можете миттєво надсилати кошти своїм контактам без комісій.\n\nА також заробляти <Amount>10 грн</Amount> за кожне приєднання нового користувача до родини Trustee Plus.",
   "ContactScreen.grantAccess": "Надати доступ",
+  "ContactScreen.withoutNumber": "Даного номеру немає в контактах",
+  "ContactScreen.withoutNumberButton": "Використати цей",
   "Contacts.unlockModalTitle": "Показати контакти",
   "Contacts.unlockModalDescription": "Щоб користуватись списком контактів, застосунку потрібен дозвіл на читання контактів. Бажаєте перейти до налаштувань?",
   "Contacts.unlockModalYes": "Так",

@@ -348,6 +348,7 @@
   "ErrorLogs.description": "Пока Вы здесь - логи генерируются, и через мгновение будет возможно загрузить или отправить их в службу поддержки Trustee Plus",
   "ErrorLogs.cleanLogs": "Очистить логи",
   "ErrorLogs.shareLogs": "Отправить логи",
+  "ErrorLogs.cleanLogsSuccess": "Логи очищены",
   "Pin.title": "PIN-код",
   "Pin.unlockByTouchId": "Использовать Face ID/Touch ID",
   "Pin.maxTryReached": "Trustee Plus недоступен, попробуйте через 3 минуты",

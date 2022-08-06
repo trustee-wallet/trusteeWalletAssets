@@ -1,5 +1,5 @@
 {
-    "version" : 106,
+    "version" : 107,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -72,6 +72,7 @@
     "PermissionsScreen.addressBookSubTitle": "You will add friends to Trustee Plus and send funds instantly",
     "PermissionsScreen.next": "Next",
     "InviteScreen.title": "Congratulations!",
+    "InviteScreen.titleWithName": "Congratulations {userMobile}!",
     "InviteScreen.subTitle": "You have been successfully added to the waiting list for Trustee Plus",
     "InviteScreen.notification": "Access to the application is provided by invitation only",
     "InviteScreen.alreadyUse": "Check contacts to find friends who already use Trustee Plus",

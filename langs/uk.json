@@ -1,5 +1,5 @@
 {
-  "version" : 106,
+  "version" : 107,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -72,6 +72,7 @@
   "PermissionsScreen.addressBookSubTitle": "Ви будете додавати друзів до Trustee Plus та миттєво відправляти кошти",
   "PermissionsScreen.next": "Далі",
   "InviteScreen.title": "Вітання!",
+  "InviteScreen.titleWithName": "Вітання, {userMobile}!",
   "InviteScreen.subTitle": "Ви успішно додані до списку очікування Trustee Plus",
   "InviteScreen.notification": "Доступ до застосунку можна отримати лише за запрошенням",
   "InviteScreen.alreadyUse": "Перевірити контакти, щоб знайти друзів, які вже використовують Trustee Plus",

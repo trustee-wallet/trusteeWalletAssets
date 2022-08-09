@@ -404,6 +404,7 @@
   "SettingsNotifications.permissionsModalClosed": "You have closed token request modal without granting permissions, please click to ask again",
   "SettingsNotifications.tokenReset": "Reset",
   "SettingsNotifications.notifyMeAboutMeFriendsTitle": "Схвалення та приєднання контактів до Trustee Plus",
+  "SettingsNotifications.inAppNotification": "Сповіщення в програмі",
   "SettingsPin.title": "Безпека",
   "SettingsPin.pinCode": "PIN-код",
   "SettingsPin.changePin": "Змінити PIN",

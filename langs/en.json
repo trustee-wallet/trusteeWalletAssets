@@ -1,5 +1,5 @@
 {
-    "version" : 111,
+    "version" : 112,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -392,7 +392,7 @@
     "SettingsNotifications.activateAll": "Activate all",
     "SettingsNotifications.additional": "Additional",
     "SettingsNotifications.transactionsTitle": "Transactions",
-    "SettingsNotifications.transactionsSubTitle": "Buy, sell, receive, transfer, exchange",
+    "SettingsNotifications.transactionsSubTitle": "Top Up, transfer, swap",
     "SettingsNotifications.ratesTitle": "Exchange rates",
     "SettingsNotifications.ratesSubTitle": "Prices of main coins",
     "SettingsNotifications.newsTitle": "News",
@@ -730,5 +730,6 @@
     "SendInviteScreen.linkCopied": "Link Copied",
     "SendInviteScreen.errorTitle": "An error occurred",
     "SendInviteScreen.errorSubTitle": "Please try again",
-    "Carousel.chooseCard": " Card not select"
+    "Carousel.chooseCard": " Card not select",
+    "Header.skipButton": "Skip"
 }

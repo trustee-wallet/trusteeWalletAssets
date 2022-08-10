@@ -1,5 +1,5 @@
 {
-  "version" : 111,
+  "version" : 112,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -392,7 +392,7 @@
   "SettingsNotifications.activateAll": "Активувати всі",
   "SettingsNotifications.additional": "Додатково",
   "SettingsNotifications.transactionsTitle": "Транзакції",
-  "SettingsNotifications.transactionsSubTitle": "Купівля, продаж, отримання, переказ, обмін",
+  "SettingsNotifications.transactionsSubTitle": "Поверненення, переказ, обмін",
   "SettingsNotifications.ratesTitle": "Курси обміну",
   "SettingsNotifications.ratesSubTitle": "Ціни на основні монети",
   "SettingsNotifications.newsTitle": "Новини",
@@ -730,5 +730,6 @@
   "SendInviteScreen.linkCopied": "Посилання скопійовано",
   "SendInviteScreen.errorTitle": "Виникла помилка",
   "SendInviteScreen.errorSubTitle": "Будь ласка, спробуйте ще раз",
-  "Carousel.chooseCard": "Картка не обрана"
+  "Carousel.chooseCard": "Картка не обрана",
+  "Header.skipButton": "Пропустити"
 }

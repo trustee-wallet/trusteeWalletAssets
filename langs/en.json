@@ -1,5 +1,5 @@
 {
-    "version" : 112,
+    "version" : 113,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -727,7 +727,7 @@
     "SendInviteScreen.withoutLink": "Generate invitation",
     "SendInviteScreen.usedLink": "Invite used, generate new",
     "SendInviteScreen.shareText": "Hello, I invite you to the Trustee Plus family, here is the link to download the application - {link}",
-    "SendInviteScreen.linkCopied": "Link Copied",
+    "SendInviteScreen.linkCopied": "Invite copied",
     "SendInviteScreen.errorTitle": "An error occurred",
     "SendInviteScreen.errorSubTitle": "Please try again",
     "Carousel.chooseCard": " Card not select",

@@ -1,5 +1,5 @@
 {
-  "version" : 112,
+  "version" : 113,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -727,7 +727,7 @@
   "SendInviteScreen.withoutLink": "Згенерувати запрошення",
   "SendInviteScreen.usedLink": "Запрошення використане, згенерувати нове",
   "SendInviteScreen.shareText": "Привіт, запрошую Вас до родини Trustee Plus, ось посилання за яким можна завантажити застосунок - {link}",
-  "SendInviteScreen.linkCopied": "Посилання скопійовано",
+  "SendInviteScreen.linkCopied": "Запрошення скопійовано",
   "SendInviteScreen.errorTitle": "Виникла помилка",
   "SendInviteScreen.errorSubTitle": "Будь ласка, спробуйте ще раз",
   "Carousel.chooseCard": "Картка не обрана",

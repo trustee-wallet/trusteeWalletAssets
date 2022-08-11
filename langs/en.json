@@ -1,5 +1,5 @@
 {
-    "version" : 115,
+    "version" : 116,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -645,6 +645,8 @@
     "Awards.winnerDate.004_ON_FIVE_POSITIVE_BALANCES": "Congratulations Cryptan! This award is now yours! And also <Award>{{award}}</Award> for charity. Not everyone is so brave as to hold so many different cryptocurrencies! 💪 {{date}}",
     "Awards.winnerDate.005_ON_TANK": "Congratulations! From now on, this super award is yours! You completed the course of a young Сriptan, collected 100₴ to help Ukraine, now worthy of an award \"Defender\" {{date}}",
     "Awards.winnerDate.004_ON_REFERRALS": "You have invited a friend for the first time {{date}} <Award>{{award}}</Award>",
+    "Awards.winnerDate.007_ON_WHITE_LIST_USER": "Congratulations! You have earned a new award Early Bird",
+    "Awards.winnerDate.ON_BIHUS_INFO": "Congratulations! You have earned a new award BIHUS.Info",
     "Awards.winnerDescription": "Info and congratulations are here",
     "Awards.winnerDescription.001_ON_REGISTRATION": "The award unlocks immediately after registration",
     "Awards.winnerDescription.002_ON_DEPOSIT": "The award  unlocks after making the first deposit",

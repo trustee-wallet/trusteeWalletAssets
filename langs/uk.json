@@ -1,5 +1,5 @@
 {
-  "version" : 114,
+  "version" : 115,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -315,7 +315,7 @@
   "Withdraw.GOOGLE_LIB_ERROR": "Некоректна інформація. Будь ласка, змініть дані",
   "Withdraw.shareBtnText": "Поділитися",
   "Withdraw.statusSuccess": "Успіх",
-  "Withdraw.messageForFriend": "Я відправив(ла) Вам {amount} на Trustee Plus. Отримайте кошти в застосунку. Ви можете встановити Trustee Plus, перейшовши за посиланням {referralLink}",
+  "Withdraw.messageForFriend": "Я відправив(ла) Вам {amount} на Trustee Plus. Отримайте кошти в застосунку. Ви можете встановити Trustee Plus, перейшовши за посиланням https://trusteeplus.app.link/t-share",
   "Withdraw.shareDonateMessage": "Я пожертував(а) {amount} на категорію '{prettySelectedCategory}'.\nВстановіть застосунок за посиланням та підтримайте Україну.\n\n{referralLink}",
   "Withdraw.needMemo": "Ми не дозволяємо створювати переказ без memo. Якщо Ви впевнені, що для виводу не потрібно вказувати його, то можете вписати в поле memo довільний текст",
   "Withdraw.allCards": "Всі картки",

@@ -1,5 +1,5 @@
 {
-    "version" : 118,
+    "version" : 119,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -557,6 +557,10 @@
     "History.changeToTransferNotification": "Internal transfer",
     "History.yesterday": "Yesterday",
     "History.today": "Today",
+    "History.canceled.PAYMENT_EXPIRED": "The time allotted for payment has expired.",
+    "History.canceled.EXCEEDING_LIMITS": "The amount is less than the minimum deposit limit.",
+    "History.canceled.CANCELED_DEPOSIT": "Contact Support.",
+    "History.reason": "Reason:",
     "SocialLinks.telegram": "https://t.me/trustee_en",
     "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
     "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

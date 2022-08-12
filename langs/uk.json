@@ -1,5 +1,5 @@
 {
-  "version" : 118,
+  "version" : 119,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -557,6 +557,10 @@
   "History.changeToTransferNotification": "Внутрішній переказ",
   "History.yesterday": "Вчора",
   "History.today": "Сьогодні",
+  "History.canceled.PAYMENT_EXPIRED": "Час виділений на оплату вичерпано.",
+  "History.canceled.EXCEEDING_LIMITS": "Сума менша мінімального ліміту на депозит.",
+  "History.canceled.CANCELED_DEPOSIT": "Зверніться в службу підтримки.",
+  "History.reason": "Причина:",
   "SocialLinks.telegram": "https://t.me/trustee_ua",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

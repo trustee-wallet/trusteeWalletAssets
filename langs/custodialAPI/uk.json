@@ -1,6 +1,8 @@
 {
   "Push.deposit.title": "Нове надходження",
   "Push.deposit.successMessage": "На баланс зараховано {{amount}} {{currencySymbol}}",
+  "Push.deposit.canceledMessage": "На жаль, надходження {{amount}} {{currencySymbol}} було відмінено. Перейдіть до деталей операції, щоб дізнатися причину.",
+  "Push.deposit.detectedMessage": "Виявлено нове надходження. {{amount}} {{currencySymbol}} скоро буде зараховано на баланс.",
   "Push.withdraw.title": "Переказ",
   "Push.withdraw.successMessage": "Ваш переказ успішно виконано {{amount}} {{currencySymbol}}"
 }

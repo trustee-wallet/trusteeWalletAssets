@@ -1,6 +1,8 @@
 {
   "Push.deposit.title": "New income",
   "Push.deposit.successMessage": "Received balance {{amount}} {{currencySymbol}}",
+  "Push.deposit.canceledMessage": "Unfortunately, income {{amount}} {{currencySymbol}} was canceled. Go to the details of the operation to find out the cause.",
+  "Push.deposit.detectedMessage": "A new income has been identified. {{amount}} {{currencySymbol}} will soon be received.",
   "Push.withdraw.title": "Transfer",
   "Push.withdraw.successMessage": "Your transfer was successful {{amount}} {{currencySymbol}}"
 }

@@ -1,5 +1,5 @@
 {
-  "version" : 117,
+  "version" : 118,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -41,6 +41,7 @@
   "LoginSms.QUOTA_EXCEEDED": "Перевищена кількість спроб",
   "LoginSms.INVALID_PHONE_NUMBER": "Вибачте, не вдалося доставити SMS, будь ласка, перевірте вказаний номер телефону",
   "LoginSms.userAutoLoginWillBeProcessed": "Код прийнято",
+  "LoginSms.smsIsSendingRightNow": "Код відправляється - не переключайтеся з додатку",
   "Login.getTelegram": "Увійти за допомогою Telegram",
   "LoginTelegramStep1.title": "Вхід/реєстрація",
   "LoginTelegramStep1.intro": "Щоб увійти за допомогою Telegram, будь ласка, <Link1>почніть чат з {botTitle}</Link1>",

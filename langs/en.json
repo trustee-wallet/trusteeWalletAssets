@@ -1,5 +1,5 @@
 {
-    "version" : 117,
+    "version" : 118,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -41,6 +41,7 @@
     "LoginSms.QUOTA_EXCEEDED": "Retries exceeded",
     "LoginSms.INVALID_PHONE_NUMBER": "Sorry, we couldn't deliver the SMS, please check the given phone number",
     "LoginSms.userAutoLoginWillBeProcessed": "Code accepted",
+    "LoginSms.smsIsSendingRightNow": "Code is sending - don't close the application",
     "Login.getTelegram": "Login with Telegram",
     "LoginTelegramStep1.title": "Login/registration",
     "LoginTelegramStep1.intro": "To use Telegram login please <Link1>Start chat with {botTitle}</Link1>",

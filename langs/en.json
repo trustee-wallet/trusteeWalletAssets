@@ -1,5 +1,5 @@
 {
-    "version" : 116,
+    "version" : 117,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -27,7 +27,7 @@
     "Login.signUp.intro": "It will take less than 1 minute",
     "LoginSms.title": "Login",
     "LoginSms.code": "SMS code",
-    "LoginSms.intro": "Check your phone messages, please. We sent you a code to <Number>{{number}}</Number>",
+    "LoginSms.intro": "We will sent you a code to <Number>{{number}}</Number> in a moment",
     "LoginSms.resendCode": "Resend SMS code",
     "LoginSms.codeInvalid": "Code is not valid",
     "LoginSms.codeEmpty": "Please enter the SMS code",

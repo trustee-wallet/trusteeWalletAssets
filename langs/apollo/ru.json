@@ -2,6 +2,7 @@
     "userTelegram.welcome.pleaseShareMobile": "Пожалуйста, поделитесь Вашим номером",
     "userTelegram.welcome.open": "Открыть Trustee Plus",
     "userTelegram.welcome.install": "Узнайте больше",
+    "userTelegram.welcome.getCode": "Получить код",
     "userTelegram.welcome.ACTIVE": "Ваша учетная запись {mobile} привязана к Telegram, Вы будете получать тут коды для входа и другую важную информацию",
     "userTelegram.welcome.PENDING" :"Ваша учетная запись {mobile} привязана к Telegram, Вы будете получать тут коды для входа и другую важную информацию",
     "userTelegram.welcome.ACTIVE_NO_TG_LOGIN": "Ваша учетная запить {mobile} привязана к Telegram, Вы будете получать тут важную информацию. Коды для входа через Telegram отключены",

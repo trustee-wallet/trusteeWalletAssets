@@ -333,6 +333,7 @@
   "WithdrawMethods.externalSubTitle": "Отправка криптовалюты на другой криптовалютный кошелек",
   "WithdrawMethods.donationTitle": "Благотворительность",
   "WithdrawMethods.donationSubTitle": "Поддержка Украины",
+  "WithdrawMethods.TEMPORARILY_DISABLED" : "Метод временно недоступен",
   "WithdrawAssetSelector.title": "Выбор актива",
   "WithdrawAssetDetails.title": "Выбор сети",
   "WithdrawAssetDetails.notification": "Another text here",

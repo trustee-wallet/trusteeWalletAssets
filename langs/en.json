@@ -333,6 +333,7 @@
     "WithdrawMethods.externalSubTitle": "Sending cryptocurrency to another cryptocurrency wallet",
     "WithdrawMethods.donationTitle": "Donation",
     "WithdrawMethods.donationSubTitle": "Help to Ukraine",
+    "WithdrawMethods.TEMPORARILY_DISABLED" : "Method temporarily unavailable",
     "WithdrawAssetSelector.title": "Select asset",
     "WithdrawAssetDetails.title": "Select network",
     "WithdrawAssetDetails.notification": "Another text here",

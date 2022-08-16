@@ -118,6 +118,8 @@
     "Home.swapNotNetwork": "Swap unavailable. Please, check network connection",
     "Home.withdrawNotNetwork": "Transfer unavailable. Please, check network connection",
     "Home.balanceCopied": "Total balance copied",
+    "Home.zeroBalanceText": "Emmm... after hiding all zero balances you have an empty list of coins",
+    "Home.zeroBalanceButton": "Show 0 balances",
     "Account.prettyName.BCH": "Bitcoin Cash",
     "Account.prettyName.BNB": "Binance Coin",
     "Account.prettyName.BSC": "BNB Smart Chain",

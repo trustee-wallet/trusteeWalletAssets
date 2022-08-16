@@ -118,6 +118,8 @@
   "Home.swapNotNetwork": "Обмен недоступен. Пожалуйста, проверьте интернет соединение",
   "Home.withdrawNotNetwork": "Перевод недоступен. Пожалуйста, проверьте интернет соединение",
   "Home.balanceCopied": "Общий баланс скопирован",
+  "Home.zeroBalanceText": "Эммм... после скрытия всех нулевых балансов у вас пустой список монет",
+  "Home.zeroBalanceButton": "Показать 0 балансы",
   "Account.prettyName.BCH": "Bitcoin Cash",
   "Account.prettyName.BNB": "Binance Coin",
   "Account.prettyName.BSC": "BNB Smart Chain",

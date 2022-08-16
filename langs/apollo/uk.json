@@ -1,6 +1,7 @@
 {
     "userTelegram.welcome.pleaseShareMobile": "Будь ласка, поділіться Вашим номером",
     "userTelegram.welcome.pleaseShareMobileClickOnButton": "Для того, щоб поділитися номером, Вам потрібно натиснути кнопку, що внизу",
+    "userTelegram.welcome.pleaseShareMobileButton": "Натисніть тут, щоб поділитись",
     "userTelegram.welcome.open": "Відкрити Trustee Plus",
     "userTelegram.welcome.install": "Дізнатися більше",
     "userTelegram.welcome.getCode": "Отримати код",

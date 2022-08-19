@@ -1,5 +1,5 @@
 {
-  "version" : 123,
+  "version" : 124,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -597,9 +597,10 @@
   "History.share.sendAmount": "Сумма отправки {amount}\n",
   "History.share.getAmount": "Сумма получения {amount}\n",
   "History.share.receiveName": "Имя получателя {name}\n",
+  "History.share.card": "Номер карты {address}\n",
   "History.share.address": "Адрес получателя {address}\n",
   "History.share.transactionHash": "Хэш транзакции {transactionHash}\n",
-  "History.share.link": "Я использую Trustee Plus! Вот моя личная ссылка\nhttps://trusteeplus.app.link/t-share",
+  "History.share.link": "Я использую Trustee Plus! Устанавливайте по ссылке\nhttps://trusteeplus.app.link/t-share",
   "SocialLinks.telegram": "https://t.me/trustee_ru",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

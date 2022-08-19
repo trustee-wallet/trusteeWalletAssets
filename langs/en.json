@@ -1,5 +1,5 @@
 {
-    "version" : 123,
+    "version" : 124,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -598,8 +598,9 @@
     "History.share.getAmount": "Get amount {amount}\n",
     "History.share.receiveName": "Recipient Name {name}\n",
     "History.share.address": "Recipient address {address}\n",
+    "History.share.card": "Card number {address}\n",
     "History.share.transactionHash": "Hash of transaction {transactionHash}\n",
-    "History.share.link": "I’m using Trustee Plus! Here is my personal link\nhttps://trusteeplus.app.link/t-share",
+    "History.share.link": "I’m using Trustee Plus! Install from the link\nhttps://trusteeplus.app.link/t-share",
     "SocialLinks.telegram": "https://t.me/trustee_en",
     "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
     "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

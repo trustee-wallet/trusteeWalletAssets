@@ -1,5 +1,5 @@
 {
-  "version" : 122,
+  "version" : 123,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -360,6 +360,7 @@
   "WithdrawFileSend.errorMessage.MOBILE_PHONE_INVALID_LENGTH": "Невірна довжина номеру телефону в рядку {index}",
   "WithdrawFileSend.errorMessage.INVALID_FORMAT": "Цей формат файлу не підтримується",
   "WithdrawFileSend.errorMessage.INVALID_LENGTH": "Цей файл занадто великий",
+  "WithdrawFileSend.errorMessage.EMPTY_FILE": "Файл пустий",
   "WithdrawFileSend.comment": "Коментар: {comment}",
   "WithdrawFileSend.approve": "Переказати",
   "WithdrawFileSend.ok": "Ок",

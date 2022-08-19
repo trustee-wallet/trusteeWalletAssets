@@ -1,5 +1,5 @@
 {
-    "version" : 122,
+    "version" : 123,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -360,6 +360,7 @@
     "WithdrawFileSend.errorMessage.MOBILE_PHONE_INVALID_LENGTH": "Invalid phone number length row in {index}",
     "WithdrawFileSend.errorMessage.INVALID_FORMAT": "Invalid format of file",
     "WithdrawFileSend.errorMessage.INVALID_LENGTH": "Array of data is very big",
+    "WithdrawFileSend.errorMessage.EMPTY_FILE": "File is empty",
     "WithdrawFileSend.comment": "Comment: {comment}",
     "WithdrawFileSend.approve": "Send",
     "WithdrawFileSend.ok": "Ok",

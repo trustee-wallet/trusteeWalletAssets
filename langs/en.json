@@ -1,5 +1,5 @@
 {
-    "version" : 121,
+    "version" : 122,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -57,6 +57,8 @@
     "LoginTelegramStep2.mobileIsDifferent.title" : "Almost done",
     "LoginTelegramStep2.mobileIsDifferent.desc" : "You use a Telegram account with a mobile phone number {telegramNumber}, you can continue to sign in or return to Telegram and apply a different account", 
     "LoginTelegramStep2.anotherTg": "Back to Telegram",
+    "LoginTelegramStep2.goToBot": "Go to Telegram",
+    "LoginTelegramStep2.userHaveCode": "I have a code",
     "Login.INVALID_TELEGRAM_GENERAL_ERROR": "Failed to send Telegram code. Please try again or contact support",
     "Login.INVALID_TELEGRAM_LENGTH": "Invalid username length",
     "Login.INVALID_TELEGRAM_SYMBOLS": "Invalid username symbols",

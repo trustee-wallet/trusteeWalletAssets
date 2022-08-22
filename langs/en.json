@@ -59,6 +59,7 @@
     "LoginTelegramStep2.anotherTg": "Back to Telegram",
     "LoginTelegramStep2.goToBot": "Go to Telegram",
     "LoginTelegramStep2.userHaveCode": "I have a code",
+    "LoginTelegramStep2.goBack": "Go back",
     "Login.INVALID_TELEGRAM_GENERAL_ERROR": "Failed to send Telegram code. Please try again or contact support",
     "Login.INVALID_TELEGRAM_LENGTH": "Invalid username length",
     "Login.INVALID_TELEGRAM_SYMBOLS": "Invalid username symbols",

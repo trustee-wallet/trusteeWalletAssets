@@ -59,6 +59,7 @@
   "LoginTelegramStep2.anotherTg": "Назад в Telegram",
   "LoginTelegramStep2.goToBot": "Перейти в Telegram",
   "LoginTelegramStep2.userHaveCode": "У мене є код",
+  "LoginTelegramStep2.goBack": "Повернутися назад",
   "Login.INVALID_TELEGRAM_GENERAL_ERROR": "Не вдалося надіслати Telegram код. Будь ласка, повторіть спробу або зверніться до служби підтримки",
   "Login.INVALID_TELEGRAM_LENGTH": "Некоректна довжина псевдоніму користувача",
   "Login.INVALID_TELEGRAM_SYMBOLS": "У псевдонімі є неприпустимі символи",

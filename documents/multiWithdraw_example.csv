@@ -1,4 +1,4 @@
-destination;amount;currency;comment
+destination;amount;currency;comment (only for sender)
 +380671234567;0.00001;BTC;ЗП Іванова І.А.
 +380671234567;0.0001;ETH;ЗП Чумак Ю.Б.
 +380671234567;1;USDT;ЗП Шевчук Я.В.

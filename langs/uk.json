@@ -1,5 +1,5 @@
 {
-  "version" : 126,
+  "version" : 127,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -353,7 +353,7 @@
   "WithdrawFileUpload.errorUpload": "Ой... Щось пішло не так. Неможливо завантажити файл. Будь ласка, повторіть операцію трохи пізніше",
   "WithdrawFileSend.title": "Відправка по реєстру",
   "WithdrawFileSend.results": "Результати",
-  "WithdrawFileSend.errors": "Некоректний переказ",
+  "WithdrawFileSend.errors": "Некоректні дані",
   "WithdrawFileSend.errorMessage.INVALID_ROW": "Невірна інформація у рядку {index}",
   "WithdrawFileSend.errorMessage.INVALID_AMOUNT": "Невірне число в рядку {index}",
   "WithdrawFileSend.errorMessage.INVALID_CURRENCY": "Невірна валюта в рядку {index}",

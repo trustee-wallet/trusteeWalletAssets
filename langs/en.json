@@ -1,5 +1,5 @@
 {
-    "version" : 126,
+    "version" : 127,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -353,7 +353,7 @@
     "WithdrawFileUpload.errorUpload": "Oops... Something went wrong. File not upload. Please, try again later",
     "WithdrawFileSend.title": "Sending by register",
     "WithdrawFileSend.results": "Results",
-    "WithdrawFileSend.errors": "Incorrect transfer",
+    "WithdrawFileSend.errors": "Incorrect data",
     "WithdrawFileSend.errorMessage.INVALID_ROW": "Invalid data row in {index}",
     "WithdrawFileSend.errorMessage.INVALID_AMOUNT": "Invalid amount row in {index}",
     "WithdrawFileSend.errorMessage.INVALID_CURRENCY": "Invalid currency row in {index}",

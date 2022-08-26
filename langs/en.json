@@ -787,5 +787,7 @@
     "SendInviteScreen.errorTitle": "An error occurred",
     "SendInviteScreen.errorSubTitle": "Please try again",
     "Carousel.chooseCard": " Card not select",
-    "Header.skipButton": "Skip"
+    "Header.skipButton": "Skip",
+    "QuickActions.title.Incognito": "Incognito mode"
+
 }

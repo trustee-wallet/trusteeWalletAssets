@@ -362,6 +362,7 @@
     "WithdrawFileSend.errorMessage.INVALID_FORMAT": "Invalid format of file",
     "WithdrawFileSend.errorMessage.INVALID_LENGTH": "Array of data is very big",
     "WithdrawFileSend.errorMessage.EMPTY_FILE": "File is empty",
+    "WithdrawFileSend.errorMessage.NOT_ALLOWED_TO_YOURSELF": "You cannot send funds to yourself",
     "WithdrawFileSend.comment": "Comment: {comment}",
     "WithdrawFileSend.approve": "Send",
     "WithdrawFileSend.ok": "Ok",

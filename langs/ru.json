@@ -362,6 +362,7 @@
   "WithdrawFileSend.errorMessage.INVALID_FORMAT": "Данный формат файла не поддерживается",
   "WithdrawFileSend.errorMessage.INVALID_LENGTH": "Данный файл слишком большой",
   "WithdrawFileSend.errorMessage.EMPTY_FILE": "Файл пустой",
+  "WithdrawFileSend.errorMessage.NOT_ALLOWED_TO_YOURSELF": "Вы не можете отправить средства самому себе",
   "WithdrawFileSend.comment": "Комментарий: {comment}",
   "WithdrawFileSend.approve": "Отправить",
   "WithdrawFileSend.ok": "Ок",

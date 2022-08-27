@@ -1,5 +1,5 @@
 {
-  "version" : 128,
+  "version" : 129,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -599,6 +599,7 @@
   "History.canceled.CANCELED_DEPOSIT": "Зверніться до служби підтримки",
   "History.reason": "Причина:",
   "History.comment": "Коментар:",
+  "History.commentPlaceholder": "Коментар (необов'язково)",
   "History.share.title": "{title}\nПрив'язаний ID {transactionId}\n",
   "History.share.time": "Час виконання {time}\n",
   "History.share.sendAmount": "Сума відправки {amount}\n",

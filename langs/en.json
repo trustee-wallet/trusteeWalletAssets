@@ -1,5 +1,5 @@
 {
-    "version" : 129,
+    "version" : 130,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -237,7 +237,7 @@
     "Swap.notEnoughBalance": "Your don`t have money. You are available to swap <Balance>{{prettyBalance}} {{symbol}}</Balance>",
     "SwapAssetSelector.title": "Select an asset",
     "Swap.swap": "Swap",
-    "Swap.includeFee": "The fee is included to the rate, {{swapFee}}",
+    "Swap.includeFee": "The fee {{swapFee}} is not included",
     "TopUp.title" : "Top up {symbol}",
     "TopUp.titleFiat" : "Top up {symbol}",
     "TopUp.addressCopied": "Address copied",

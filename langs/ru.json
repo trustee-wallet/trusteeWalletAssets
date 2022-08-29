@@ -1,5 +1,5 @@
 {
-  "version" : 129,
+  "version" : 130,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -237,7 +237,7 @@
   "Swap.notEnoughBalance": "Недостаточно средств. Доступно для обмена <Balance>{{prettyBalance}} {{symbol}}</Balance>",
   "SwapAssetSelector.title": "Выберите актив",
   "Swap.swap": "Обменять",
-  "Swap.includeFee": "Комиссия {{swapFee}} включена в курс",
+  "Swap.includeFee": "Не включая комиссию {{swapFee}}",
   "TopUp.title" : "Пополнение {symbol}",
   "TopUp.titleFiat" : "Пополнение {symbol}",
   "TopUp.addressCopied": "Адрес скопирован",

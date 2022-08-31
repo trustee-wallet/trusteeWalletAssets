@@ -609,6 +609,7 @@
   "History.share.card": "Номер картки {address}\n",
   "History.share.transactionHash": "Хеш транзакції {transactionHash}\n",
   "History.share.link": "Я використовую Trustee Plus! Встановлюйте за посиланням\nhttps://trusteeplus.app.link/t-share",
+  "History.cancelByTime": "Платіж буде відмінено через деякий час",
   "SocialLinks.telegram": "https://t.me/trustee_ua",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

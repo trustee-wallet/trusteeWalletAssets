@@ -609,6 +609,7 @@
     "History.share.card": "Card number {address}\n",
     "History.share.transactionHash": "Hash of transaction {transactionHash}\n",
     "History.share.link": "I’m using Trustee Plus! Install from the link\nhttps://trusteeplus.app.link/t-share",
+    "History.cancelByTime": "The payment will be canceled after some time",
     "SocialLinks.telegram": "https://t.me/trustee_en",
     "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
     "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

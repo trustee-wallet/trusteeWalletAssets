@@ -609,6 +609,7 @@
   "History.share.address": "Адрес получателя {address}\n",
   "History.share.transactionHash": "Хэш транзакции {transactionHash}\n",
   "History.share.link": "Я использую Trustee Plus! Устанавливайте по ссылке\nhttps://trusteeplus.app.link/t-share",
+  "History.cancelByTime": "Платеж будет отменен через некоторое время",
   "SocialLinks.telegram": "https://t.me/trustee_ru",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

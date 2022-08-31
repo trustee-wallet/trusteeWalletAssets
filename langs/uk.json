@@ -791,5 +791,8 @@
   "SendInviteScreen.errorSubTitle": "Будь ласка, спробуйте ще раз",
   "Carousel.chooseCard": "Картка не обрана",
   "Header.skipButton": "Пропустити",
-  "QuickActions.title.Incognito": "Режим інкогніто"
+  "QuickActions.title.Incognito": "Режим інкогніто",
+  "ErrorApolloScreen.FORCE_UPDATE": "Якщо ви хочете користуватися Trustee Plus, Ви повинні оновити застосунок. Ви можете зробити це зараз або пізніше",
+  "ErrorApolloScreen.FORCE_MAINTENANCE": "Сервіс тимчасово недоступний. Оновлення сервісу. Ваші гроші в безпеці. Спробуйте пізніше. Щоб дізнатися більше, зверніться до служби підтримки",
+  "ErrorApolloScreen.updateNow": "Оновити застосунок зараз"
 }

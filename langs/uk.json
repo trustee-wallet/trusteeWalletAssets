@@ -796,5 +796,10 @@
   "QuickActions.title.Incognito": "Режим інкогніто",
   "ErrorApolloScreen.FORCE_UPDATE": "Якщо ви хочете користуватися Trustee Plus, Ви повинні оновити застосунок. Ви можете зробити це зараз або пізніше",
   "ErrorApolloScreen.FORCE_MAINTENANCE": "Сервіс тимчасово недоступний. Оновлення сервісу. Ваші гроші в безпеці. Спробуйте пізніше. Щоб дізнатися більше, зверніться до служби підтримки",
-  "ErrorApolloScreen.updateNow": "Оновити застосунок зараз"
+  "ErrorApolloScreen.updateNow": "Оновити застосунок зараз",
+  "DownloadHistoryBottomSheet.title": "Оберіть формат для заватаження",
+  "DownloadHistoryBottomSheet.format.xls": "XLS",
+  "DownloadHistoryBottomSheet.format.xlsx": "XLSX",
+  "DownloadHistoryBottomSheet.format.csv": "CSV",
+  "DownloadHistoryBottomSheet.downloadError": "Щось пішло не так. Спробуйте, будь ласка, ще раз"
 }

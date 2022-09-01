@@ -796,6 +796,10 @@
     "QuickActions.title.Incognito": "Incognito mode",
     "ErrorApolloScreen.FORCE_UPDATE": "If you want you use Trustee Plus you have to update app. You can do this now or later",
     "ErrorApolloScreen.FORCE_MAINTENANCE": "The service is temporarily unavailable. The service update. Your money is safe. Please try again later. To learn more, contact support",
-    "ErrorApolloScreen.updateNow": "Update app now"
-
+    "ErrorApolloScreen.updateNow": "Update app now",
+    "DownloadHistoryBottomSheet.title": "Select download format",
+    "DownloadHistoryBottomSheet.format.xls": "XLS",
+    "DownloadHistoryBottomSheet.format.xlsx": "XLSX",
+    "DownloadHistoryBottomSheet.format.csv": "CSV",
+    "DownloadHistoryBottomSheet.downloadError": "Something went wrong. Please, try again later"
 }

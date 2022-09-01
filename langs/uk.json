@@ -451,6 +451,8 @@
   "SettingsPin.changeTouchId": "Face ID/Touch ID",
   "SettingsPin.changeTransactions": "Підтвердження транзакції",
   "SettingsPin.changeTransactionsSubTitle": "Запитувати при відправленні активів",
+  "SettingsPin.changeSwap": "Підтвердження обміну",
+  "SettingsPin.changeSwapSubTitle": "Запитувати при обміні активів",
   "SettingsPin.modalFaceTitle": "Face ID / Touch ID ідентифікація",
   "SettingsPin.modalFaceProposalDesc": "Ваш пристрій має Face ID/Touch ID. Увімкнути зараз?",
   "SettingsPin.modalFaceProposalOk": "Увімкнути",

@@ -451,6 +451,8 @@
     "SettingsPin.changeTouchId": "Face ID/Touch ID",
     "SettingsPin.changeTransactions": "Transaction confirmation",
     "SettingsPin.changeTransactionsSubTitle": "Ask to send assets",
+    "SettingsPin.changeSwap": "Swap confirmation",
+    "SettingsPin.changeSwapSubTitle": "Ask to swap assets",
     "SettingsPin.modalFaceTitle": "Face ID / Touch ID identification",
     "SettingsPin.modalFaceProposalDesc": "Your device has biometric identification. Do you want to turn it on?",
     "SettingsPin.modalFaceProposalOk": "Turn on",

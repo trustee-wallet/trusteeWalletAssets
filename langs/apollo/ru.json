@@ -58,5 +58,7 @@
     "userData.tgNewVerificationWillBeJoined.telegram": "Поскольку у Вас уже есть учетная запись с этим Telegram псевдонимом для входа в Trustee Plus, то после подтверждения запроса старая учетная запись будет заблокирована. <b>Пожалуйста, сначала переместите баланс из старой учетной записи</b>",
     "userData.tgOldVerification.telegram": "Пользователь {mobile} сделал запрос для замены Telegram псевдонима на @{telegramUsername}",
     "userData.tgApproveBtn.telegram": "Подтвердить запрос",
-    "userData.tgDeclineBtn.telegram": "Отменить запрос"
+    "userData.tgDeclineBtn.telegram": "Отменить запрос",
+    "userHistory.reaction.pushTitle": "Новая реакция!",
+    "userHistory.reaction.pushDesc": "Вы получили новую реакцию \"{reaction}\""
 }

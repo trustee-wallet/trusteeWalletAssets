@@ -57,5 +57,7 @@
     "userData.tgNewVerificationWillBeJoined.telegram": "As you have another account with this Telegram username in Trustee Plus - by approval old account will be disabled. <b>Please, move balance if you have any</b>",
     "userData.tgOldVerification.telegram": "User {mobile} requests telegram username change to @{telegramUsername}",
     "userData.tgApproveBtn.telegram": "Approve request",
-    "userData.tgDeclineBtn.telegram": "Decline request"
+    "userData.tgDeclineBtn.telegram": "Decline request",
+    "userHistory.reaction.pushTitle": "New reaction!",
+    "userHistory.reaction.pushDesc": "You have been sent a reaction \"{reaction}\""
 }

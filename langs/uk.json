@@ -1,5 +1,5 @@
 {
-  "version" : 134,
+  "version" : 135,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -801,8 +801,8 @@
   "Carousel.chooseCard": "Картка не обрана",
   "Header.skipButton": "Пропустити",
   "QuickActions.title.Incognito": "Режим інкогніто",
-  "ErrorApolloScreen.FORCE_UPDATE": "Якщо ви хочете користуватися Trustee Plus, Ви повинні оновити застосунок. Ви можете зробити це зараз або пізніше",
-  "ErrorApolloScreen.FORCE_MAINTENANCE": "Сервіс тимчасово недоступний. Оновлення сервісу. Ваші гроші в безпеці. Спробуйте пізніше. Щоб дізнатися більше, зверніться до служби підтримки",
+  "ErrorApolloScreen.FORCE_UPDATE": "Якщо Ви хочете користуватися Trustee Plus, птрібно оновити застосунок. Ви можете зробити це зараз або пізніше",
+  "ErrorApolloScreen.FORCE_MAINTENANCE": "Сервіс тимчасово недоступний. Оновлення сервісу. Ваші гроші в безпеці. Будь ласка, спробуйте пізніше. Щоб дізнатися більше, зверніться до служби підтримки",
   "ErrorApolloScreen.updateNow": "Оновити застосунок зараз",
   "DownloadHistoryBottomSheet.title": "Оберіть формат для заватаження",
   "DownloadHistoryBottomSheet.format.xls": "XLS",

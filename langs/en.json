@@ -1,5 +1,5 @@
 {
-    "version" : 135,
+    "version" : 136,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -331,8 +331,8 @@
     "WithdrawMethods.internalTitle": "Instant send to Trustee plus user",
     "WithdrawMethods.internalSubTitle": "Fee 0%",
     "WithdrawMethods.cardTitle": "Transfer to card",
-    "WithdrawMethods.mobileTitle": "Instant transfer to a phone number",
-    "WithdrawMethods.mobileSubTitle": "Fee 0%, recipients get money even before Trustee Plus app installed",
+    "WithdrawMethods.mobileTitle": "Instant transfer by phone number",
+    "WithdrawMethods.mobileSubTitle": "Fee 0%, send funds to other users, they will receive money even without the Trustee Plus app",
     "WithdrawMethods.cardSubTitle": "Fee 0%",
     "WithdrawMethods.externalTitle": "Transfer to crypto address",
     "WithdrawMethods.externalSubTitle": "Sending cryptocurrency to another cryptocurrency wallet",

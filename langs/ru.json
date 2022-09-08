@@ -1,5 +1,5 @@
 {
-  "version" : 136,
+  "version" : 137,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -315,6 +315,7 @@
   "Withdraw.sendToCard": "Перевести на карту",
   "Withdraw.allCards": "Все карты",
   "Withdraw.addNewCard": "Добавить новую карту",
+  "Withdraw.sendSms": "Отправить смс",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_PHONE": "Пожалуйста, используйте международный формат номера телефона",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_CASHBACK": "Please recheck user code",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_USERNAME": "Пожалуйста, перепроверьте имя пользователя",

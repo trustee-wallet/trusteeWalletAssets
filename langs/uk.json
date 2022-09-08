@@ -1,5 +1,5 @@
 {
-  "version" : 136,
+  "version" : 137,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -328,6 +328,7 @@
   "Withdraw.needMemo": "Ми не дозволяємо створювати переказ без memo. Якщо Ви впевнені, що для виводу не потрібно вказувати його, то можете вписати в поле memo довільний текст",
   "Withdraw.allCards": "Всі картки",
   "Withdraw.addNewCard": "Додати нову картку",
+  "Withdraw.sendSms": "Відправити смс",
   "WithdrawMethods.title": "Тип переказу",
   "WithdrawMethods.internalTitle": "Миттєвий переказ користувачу Trustee Plus",
   "WithdrawMethods.internalSubTitle": "Комісія 0%",

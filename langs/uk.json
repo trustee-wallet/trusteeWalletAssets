@@ -92,6 +92,7 @@
   "InviteScreen.successfulDesc": "Ви приєднались за кодом-запрошенням",
   "InviteScreen.successfulOk": "Розпочати",
   "InviteScreen.NOT_VALID": "Будь ласка, введіть вірну інформацію",
+  "InviteScreen.NOT_VALID_ONLY_ONCE": "Запрошення вже використане іншим юзером. Актуалізуйте запрошення, та повторіть спробу.",
   "InviteScreen.SPAM": "Ви надіслали занадто багато запитів на запрошення - будь ласка, зачекайте трохи",
   "InviteScreen.GENERAL" : "Під час спроби встановити код-запрошення стався збій. Будь ласка, спробуйте ще раз",
   "InviteScreen.waitForApproveTitle" : "Успіх!",

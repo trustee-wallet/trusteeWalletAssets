@@ -92,6 +92,7 @@
     "InviteScreen.successfulDesc": "You have joined by invitation code",
     "InviteScreen.successfulOk": "Start",
     "InviteScreen.NOT_VALID": "Please enter the correct information",
+    "InviteScreen.NOT_VALID_ONLY_ONCE": "The invitation has already been used by another user. Update the invitation and try again.",
     "InviteScreen.SPAM": "You have sent too many invitation requests - please wait a little bit",
     "InviteScreen.GENERAL" : "Something wrong when trying to set invite code - please try again",
     "InviteScreen.waitForApproveTitle" : "Success!",

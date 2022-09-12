@@ -1,5 +1,5 @@
 {
-  "version" : 138,
+  "version" : 139,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -334,7 +334,7 @@
   "WithdrawMethods.internalSubTitle": "Комиссия 0%",
   "WithdrawMethods.cardTitle": "Перевод на карту",
   "WithdrawMethods.mobileTitle": "Мгновенный перевод по номеру телефона",
-  "WithdrawMethods.mobileSubTitle": "Комиссия 0%. Средства зачисляются сразу, еще до установки приложения Trustee Plus",
+  "WithdrawMethods.mobileSubTitle": "Комиссия 0%. Отправка средств другим пользователям, они получат деньги еще до установки Trustee Plus",
   "WithdrawMethods.cardSubTitle": "Комиссия 0%",
   "WithdrawMethods.externalTitle": "Перевод на криптоадрес",
   "WithdrawMethods.externalSubTitle": "Отправка криптовалюты на другой криптовалютный кошелек",

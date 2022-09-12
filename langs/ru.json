@@ -546,6 +546,7 @@
   "History.emptyButtonTitle": "Пополнить баланс",
   "History.modalNoDataDescription": "Transaction data not loaded",
   "History.txStatusDone": "Успешно",
+  "History.txStatusPartlyDone": "Частично обработано",
   "History.txStatusWait": "В обработке",
   "History.txStatusCanceled": "Отменено",
   "History.txStatusError": "Сбой",

@@ -546,6 +546,7 @@
     "History.emptyButtonTitle": "Top up balance",
     "History.modalNoDataDescription": "Transaction data not loaded",
     "History.txStatusDone": "Success",
+    "History.txStatusPartlyDone": "Partially done",
     "History.txStatusWait": "In process",
     "History.txStatusCanceled": "Canceled",
     "History.txStatusError": "Blocked",

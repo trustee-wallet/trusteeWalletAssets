@@ -1,5 +1,5 @@
 {
-    "version" : 140,
+    "version" : 141,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -827,5 +827,6 @@
     "DownloadHistoryBottomSheet.format.xls": "XLS",
     "DownloadHistoryBottomSheet.format.xlsx": "XLSX",
     "DownloadHistoryBottomSheet.format.csv": "CSV",
-    "DownloadHistoryBottomSheet.downloadError": "Something went wrong. Please, try again later"
+    "DownloadHistoryBottomSheet.downloadError": "Something went wrong. Please, try again later",
+    "SendInviteScreen.invitedText": "Joined by invitation"
 }

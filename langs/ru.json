@@ -1,5 +1,5 @@
 {
-  "version" : 140,
+  "version" : 141,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -817,6 +817,7 @@
   "SendInviteScreen.linkCopied": "Приглашение скопировано",
   "SendInviteScreen.errorTitle": "Возникшая ошибка",
   "SendInviteScreen.errorSubTitle": "Попробуйте еще раз",
+  "SendInviteScreen.invitedText": "Присоединились по приглашению",
   "Carousel.chooseCard": "Карта не выбрана",
   "Header.skipButton": "Пропустить",
   "QuickActions.title.Incognito": "Режим инкогнито",

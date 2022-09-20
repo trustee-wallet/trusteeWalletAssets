@@ -1,5 +1,5 @@
 {
-  "version" : 143,
+  "version" : 144,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -347,7 +347,7 @@
   "WithdrawMethods.externalSubTitle": "Отправка криптовалюты на другой криптовалютный кошелек",
   "WithdrawMethods.donationTitle": "Благотворительность",
   "WithdrawMethods.donationSubTitle": "Поддержка Украины",
-  "WithdrawMethods.TEMPORARILY_DISABLED" : "Метод временно недоступен",
+  "WithdrawMethods.TEMPORARILY_DISABLED" : "Временно недоступно",
   "WithdrawAssetSelector.title": "Выбор актива",
   "WithdrawAssetDetails.title": "Выбор сети",
   "WithdrawAssetDetails.notification": "Another text here",

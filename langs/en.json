@@ -1,5 +1,5 @@
 {
-    "version" : 143,
+    "version" : 144,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -347,7 +347,7 @@
     "WithdrawMethods.externalSubTitle": "Sending cryptocurrency to another cryptocurrency wallet",
     "WithdrawMethods.donationTitle": "Donation",
     "WithdrawMethods.donationSubTitle": "Help to Ukraine",
-    "WithdrawMethods.TEMPORARILY_DISABLED" : "Method temporarily unavailable",
+    "WithdrawMethods.TEMPORARILY_DISABLED" : "Temporarily unavailable",
     "WithdrawAssetSelector.title": "Select asset",
     "WithdrawAssetDetails.title": "Select network",
     "WithdrawAssetDetails.notification": "Another text here",

@@ -1,5 +1,5 @@
 {
-  "version" : 143,
+  "version" : 144,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -347,7 +347,7 @@
   "WithdrawMethods.externalSubTitle": "Відправка криптовалюти на інший криптовалютний гаманець",
   "WithdrawMethods.donationTitle": "Благодійність",
   "WithdrawMethods.donationSubTitle": "Підтримка України",
-  "WithdrawMethods.TEMPORARILY_DISABLED" : "Метод тимчасово недоступний",
+  "WithdrawMethods.TEMPORARILY_DISABLED" : "Тимчасово недоступно",
   "WithdrawAssetSelector.title": "Вибір активу",
   "WithdrawAssetDetails.title": "Вибір мережі",
   "WithdrawAssetDetails.notification": "Another text here",

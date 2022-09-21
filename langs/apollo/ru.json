@@ -32,6 +32,7 @@
     "userLogin.invalidPin.telegram": "Пользователь {mobile} ввел неверный Pin-код в Trustee Plus, {logModel}",
     "userLogin.blockedWithPin.telegram": "Пользователь {mobile} ввел неверный Pin-код слишком много раз и был заблокирован в Trustee Plus, {logModel}",
     "userLogin.successWithPin.telegram": "Пользователь {mobile} успешно зашел в Trustee Plus, применив Pin-код, {logModel}",
+    "userLogin.successCreatePin.telegram": "Пользователь {mobile} успешно установил PIN-код, {logModel}",
     "userLogin.successUpdatePin.telegram": "Пользователь {mobile} успешно изменил PIN-код, {logModel}",
     "userLogin.successRemovePin.telegram": "Пользователь {mobile} удалил Пин-код, {logModel}",
     "userContacts.pending.pushTitle": "Ваш друг ожидает приглашение",

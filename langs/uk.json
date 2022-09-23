@@ -1,5 +1,5 @@
 {
-  "version" : 145,
+  "version" : 146,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -218,6 +218,7 @@
   "CardScreen.toastCvv.description": "Якщо у вас динамічний код CVV, будь ласка, пропустіть це поле. Обов'язковим полем є лише номер картки.",
   "CardScreen.country": "Країна",
   "CardsScreen.selectCountryTitle": "Оберіть країну",
+  "CardsScreen.countryCodeErrorDesc": "Помилка, не вдалося визначити країну, спробуйте пізніше або виберіть її самі",
   "Swap.title": "Обмін",
   "Swap.setAssetInput": "Обрати",
   "Swap.minAmount": "Мінімальна сума",

@@ -1,5 +1,5 @@
 {
-    "version" : 145,
+    "version" : 146,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -218,6 +218,7 @@
     "CardScreen.toastCvv.description": "If you have a dynamic CVV code, please skip this field. The mandatory field is only the card number.",
     "CardScreen.country": "Country",
     "CardsScreen.selectCountryTitle": "Choose a country",
+    "CardsScreen.countryCodeErrorDesc": "Error, could not determine the country, try again later or choose it yourself",
     "Swap.title": "Swap",
     "Swap.setAssetInput": "Select",
     "Swap.minAmount": "Min amount",

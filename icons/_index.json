@@ -1,5 +1,5 @@
 {
-    "version" : 10,
+    "version" : 11,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#18BC83",
@@ -38,7 +38,9 @@
         "ETC": "#10BB58",
         "NEAR": "#262626",
         "NEAR_dark_theme": "#DADADA",
-        "XMR": "#F37537"
+        "XMR": "#F37537",
+        "EUR": "#7B231D",
+        "EUR_dark_theme": "#B44942"
     },
     "icons" : {
         "USDT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/usdt.png",
@@ -78,6 +80,8 @@
         "ETC": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/et%D1%81.png",
         "NEAR": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/near.png",
         "NEAR_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/near_dark_theme.png",
-        "XMR": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/xmr.png"
+        "XMR": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/xmr.png",
+        "EUR": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/eur.png",
+        "EUR_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/eur_dark_theme.png"
     }
 }

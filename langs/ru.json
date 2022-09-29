@@ -1,5 +1,5 @@
 {
-  "version" : 150,
+  "version" : 151,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -154,6 +154,8 @@
   "Account.prettyName.MATIC": "Polygon",
   "Account.prettyName.NEAR": "Near",
   "Account.prettyName.XMR": "Monero",
+  "Account.prettyName.USD": "Американский доллар",
+  "Account.prettyName.EUR": "Евро",
   "Account.prettyName.BONUS": "Награды UAH",
   "AssetDetails.prettyName.BONUS": "Бонус UAH",
   "Account.topUp": "Пополнение",

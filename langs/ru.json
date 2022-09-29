@@ -1,5 +1,5 @@
 {
-  "version" : 149,
+  "version" : 150,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -642,6 +642,8 @@
   "History.emojiCategory.objects": "Предметы",
   "History.emojiCategory.symbols": "Символы",
   "History.emojiCategory.flags": "Флаги",
+  "History.commentTitle": "Добавить комментарий",
+  "History.commentDescription": "Только вы будете видеть этот комментарий",
   "SocialLinks.telegram": "https://t.me/trustee_ru",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

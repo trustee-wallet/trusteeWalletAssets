@@ -1,5 +1,5 @@
 {
-    "version" : 149,
+    "version" : 150,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -642,6 +642,8 @@
     "History.emojiCategory.objects": "Objects",
     "History.emojiCategory.symbols": "Symbols",
     "History.emojiCategory.flags": "Flags",
+    "History.commentTitle": "Add comment",
+    "History.commentDescription": "Only you can see this comment",
     "SocialLinks.telegram": "https://t.me/trustee_en",
     "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
     "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

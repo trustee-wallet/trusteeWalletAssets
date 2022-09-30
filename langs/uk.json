@@ -1,5 +1,5 @@
 {
-  "version" : 152,
+  "version" : 153,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -97,7 +97,8 @@
   "InviteScreen.GENERAL" : "Під час спроби встановити код-запрошення стався збій. Будь ласка, спробуйте ще раз",
   "InviteScreen.waitForApproveTitle" : "Успіх!",
   "InviteScreen.waitForApproveDesc" : "Будь ласка, дочекайтесь схвалення Вашого друга з Вашого списку контактів, щоб почати використовувати Trustee Plus",
-  "InviteScreen.waitForApproveOk" : "Ок",    
+  "InviteScreen.waitForApproveOk" : "Ок",
+  "InviteScteen.NOT_FOUND" : "Некоректний код",    
   "RulesScreen.title": "Вітання!",
   "RulesScreen.subTitle": "Ви не є зареєстрованим учасником родини Trustee Plus",
   "RulesScreen.notification": "Після успішної реєстрації Вам буде зараховано 10UAH на бонусний баланс, які можна буде витратити на допомогу Україні",

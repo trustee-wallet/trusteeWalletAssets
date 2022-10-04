@@ -1,5 +1,5 @@
 {
-  "version" : 155,
+  "version" : 156,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -224,6 +224,7 @@
   "CardScreen.country": "Країна",
   "CardsScreen.selectCountryTitle": "Оберіть країну",
   "CardsScreen.countryCodeErrorDesc": "Не вдалося визначити країну, будь ласка, спробуйте пізніше або оберіть її самі",
+  "CardScreen.countryError": "Виберіть країну-емітент картки",
   "Swap.title": "Обмін",
   "Swap.setAssetInput": "Обрати",
   "Swap.minAmount": "Мінімальна сума",

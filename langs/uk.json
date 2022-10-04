@@ -1,5 +1,5 @@
 {
-  "version" : 157,
+  "version" : 158,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -407,6 +407,7 @@
   "ErrorLogs.cleanLogs": "Почистити логи",
   "ErrorLogs.shareLogs": "Відправити логи",
   "ErrorLogs.cleanLogsSuccess": "Логи очищені",
+  "Pin.header": "Trustee Plus",
   "Pin.title": "PIN код",
   "Pin.unlockByTouchId": "Використовувати Face ID/Touch ID",
   "Pin.maxTryReached": "Trustee Plus недоступний, спробуйте, як мине 3 хвилини",

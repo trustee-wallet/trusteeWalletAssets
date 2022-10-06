@@ -1,5 +1,5 @@
 {
-  "version" : 158,
+  "version" : 159,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -355,7 +355,7 @@
   "WithdrawMethods.cardTitle": "Переказ на картку",
   "WithdrawMethods.mobileTitle": "Миттєвий переказ по номеру телефону",
   "WithdrawMethods.mobileSubTitle": "Комісія 0%. Надсилання коштів іншим користувачам, вони отримають гроші ще до встановлення Trustee Plus",
-  "WithdrawMethods.cardSubTitle": "Комісія 0%",
+  "WithdrawMethods.cardSubTitle": "Переказ на банківську картку Visa/MasterCard",
   "WithdrawMethods.externalTitle": "Переказ на криптоадресу",
   "WithdrawMethods.externalSubTitle": "Відправка криптовалюти на інший криптовалютний гаманець",
   "WithdrawMethods.donationTitle": "Благодійність",

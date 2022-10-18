@@ -1,5 +1,5 @@
 {
-  "version" : 162,
+  "version" : 163,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -593,6 +593,7 @@
   "Profile.telegramChangeSpam": "Telegram змінюється дуже часто - будь ласка, зачекайте 2 години до наступної зміни",
   "Profile.telegramLoginCantChange": "Псевдонім Telegram використовується тільки для входу в цей обліковий запис, тому його не можна змінити",
   "Profile.notNetworkConnection": "Сервіс не відповідає. Будь ласка, перевірте підключення до мережі",
+  "Profile.removeAccountButton": "Видалити профіль",
   "History.screenTitle": "Історія",
   "History.detailsScreenTitle": "Деталі",
   "History.emptyTitle": "Тут будуть Ваші транзакції",

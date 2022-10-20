@@ -69,5 +69,5 @@
     "userRates.grownUp.12h": "🚀 {currency} виріс у ціні за останні 12 годин: {percent}% -> {currentRate}",
     "userRates.grownDown.12h": "🌧 {currency} впав у ціні за останні 12 годин: {percent}% -> {currentRate}",
     "userRates.grownUp.7d": "🚀 {currency} виріс у ціні за останні 7 днів: {percent}% -> {currentRate}",
-    "userRates.grownDown.7d": "🌧 {currency} впав у ціні за останні 7 днів: {percent} -> {currentRate}%"
+    "userRates.grownDown.7d": "🌧 {currency} впав у ціні за останні 7 днів: {percent}% -> {currentRate}"
 }

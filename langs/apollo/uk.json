@@ -63,5 +63,11 @@
     "userData.tgApproveBtn.telegram": "Підтвердити запит",
     "userData.tgDeclineBtn.telegram": "Відмінити запит",
     "userHistory.reaction.pushTitle": "Нова реакція!",
-    "userHistory.reaction.pushDesc": "Ви отримали нову реакцію \"{reaction}\""
+    "userHistory.reaction.pushDesc": "Ви отримали нову реакцію \"{reaction}\"",
+    "userRates.grownUp.1h": "🚀 {currency} виріс у ціні за останню годину: {percent}% -> {currentRate}",
+    "userRates.grownDown.1h": "🌧 {currency} впав у ціні за останню годину: {percent}% -> {currentRate}",
+    "userRates.grownUp.12h": "🚀 {currency} виріс у ціні за останні 12 годин: {percent}% -> {currentRate}",
+    "userRates.grownDown.12h": "🌧 {currency} впав у ціні за останні 12 годин: {percent}% -> {currentRate}",
+    "userRates.grownUp.7d": "🚀 {currency} виріс у ціні за останні 7 днів: {percent}% -> {currentRate}",
+    "userRates.grownDown.7d": "🌧 {currency} впав у ціні за останні 7 днів: {percent} -> {currentRate}%"
 }

@@ -1,5 +1,5 @@
 {
-    "version" : 166,
+    "version" : 167,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -604,6 +604,11 @@
     "Profile.telegramLoginCantChange": "Telegram username is only login option in this account so can't be changed",
     "Profile.notNetworkConnection": "Service unavailable. Please, check your network connection",
     "Profile.removeAccountButton": "Remove account",
+    "Profile.removeAccountModal.title": "Remove account",
+    "Profile.removeAccountModal.haveBalanceDescription": "You can't close your account. Your total balance {balance}. Please transfer your funds out then try again.",
+    "Profile.removeAccountModal.haveHoldBalanceDescription": "You can't close your account. Your have {balanceHold} in process. Try again later.",
+    "Profile.removeAccountModal.userSure": "Are you sure you want to delete your account?",
+    "Profile.removeAccountModal.removed": "You account will be delete in next 24 hours.",
     "History.screenTitle": "History",
     "History.detailsScreenTitle": "Details",
     "History.emptyTitle": "Your transactions will be here",

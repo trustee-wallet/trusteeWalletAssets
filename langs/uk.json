@@ -1,5 +1,5 @@
 {
-  "version" : 166,
+  "version" : 167,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -604,6 +604,11 @@
   "Profile.telegramLoginCantChange": "Псевдонім Telegram використовується тільки для входу в цей обліковий запис, тому його не можна змінити",
   "Profile.notNetworkConnection": "Сервіс не відповідає. Будь ласка, перевірте підключення до мережі",
   "Profile.removeAccountButton": "Видалити обліковий запис",
+  "Profile.removeAccountModal.title": "Видалити обліковий запис",
+  "Profile.removeAccountModal.haveBalanceDescription": "Ви не можете закрити свій обліковий запис. Ваш загальний баланс {balance}. Будь ласка, переведіть свої кошти та повторіть спробу.",
+  "Profile.removeAccountModal.haveHoldBalanceDescription": "Ви не можете закрити свій обліковий запис. Ваш {balanceHold} обробляється. Спробуйте пізніше.",
+  "Profile.removeAccountModal.userSure": "Ви впевнені, що хочете видалити свій обліковий запис?",
+  "Profile.removeAccountModal.removed": "Ваш обліковий запис буде видалено протягом наступних 24 годин.",
   "History.screenTitle": "Історія",
   "History.detailsScreenTitle": "Деталі",
   "History.emptyTitle": "Тут будуть Ваші транзакції",

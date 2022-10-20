@@ -1,5 +1,5 @@
 {
-    "version" : 165,
+    "version" : 166,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -310,6 +310,7 @@
     "Withdraw.successfulMorePhoneNumber": "Сlose",
     "Withdraw.successfulMoreCrypto": "Сlose",
     "Withdraw.successfulMoreToCard": "Сlose",
+    "Withdraw.successRefund": "Refund",
     "Withdraw.fail": "Your transfer fails",
     "Withdraw.failInternalTransfer": "Your transfer fails",
     "Withdraw.failPhoneNumber": "Your transfer fails",

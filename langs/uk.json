@@ -1,5 +1,5 @@
 {
-  "version" : 165,
+  "version" : 166,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -310,6 +310,7 @@
   "Withdraw.successfulMorePhoneNumber": "Закрити",
   "Withdraw.successfulMoreCrypto": "Закрити",
   "Withdraw.successfulMoreToCard": "Закрити",
+  "Withdraw.successRefund": "Повернення коштів",
   "Withdraw.fail": "Ваш переказ скасовано",
   "Withdraw.failInternalTransfer": "Ваш переказ скасовано",
   "Withdraw.failPhoneNumber": "Ваш переказ скасовано",

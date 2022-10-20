@@ -62,10 +62,10 @@
     "userData.tgDeclineBtn.telegram": "Отменить запрос",
     "userHistory.reaction.pushTitle": "Новая реакция!",
     "userHistory.reaction.pushDesc": "Вы получили новую реакцию \"{reaction}\"",
-    "userRates.grownUp.1h": "🚀 {currency} вырос в цене за последний час: {percent}% -> {currentRate}",
-    "userRates.grownDown.1h": "🌧 {currency} упал в цене за последний час: {percent}% -> {currentRate}",
-    "userRates.grownUp.12h": "🚀 {currency} вырос в цене за последние 12 часов: {percent}% -> {currentRate}",
-    "userRates.grownDown.12h": "🌧 {currency} упал в цене за последние 12 часов: {percent}% -> {currentRate}",
-    "userRates.grownUp.7d": "🚀 {currency} виріс у ціні за останні 7 дней: {percent}% -> {currentRate}",
-    "userRates.grownDown.7d": "🌧 {currency} упал в цене за последние 7 дней: {percent}% -> {currentRate}"
+    "userRates.grownUp.1h": "🚀 {{currency}} вырос в цене за последний час: {{percent}}% -> {{currentRate}}",
+    "userRates.grownDown.1h": "🌧 {{currency}} упал в цене за последний час: {{percent}}% -> {{currentRate}}",
+    "userRates.grownUp.12h": "🚀 {{currency}} вырос в цене за последние 12 часов: {[percent]}% -> {{currentRate}}",
+    "userRates.grownDown.12h": "🌧 {{currency}} упал в цене за последние 12 часов: {{percent}}% -> {{currentRate}}",
+    "userRates.grownUp.7d": "🚀 {{currency}} виріс у ціні за останні 7 дней: {{percent}}% -> {{currentRate}}",
+    "userRates.grownDown.7d": "🌧 {{currency}} упал в цене за последние 7 дней: {{percent}}% -> {{currentRate}}"
 }

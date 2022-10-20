@@ -1,5 +1,5 @@
 {
-    "version" : 164,
+    "version" : 165,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -602,7 +602,7 @@
     "Profile.telegramChangeSpam": "Telegram is changed too often - please wait 2 hours for the next change",
     "Profile.telegramLoginCantChange": "Telegram username is only login option in this account so can't be changed",
     "Profile.notNetworkConnection": "Service unavailable. Please, check your network connection",
-    "Profile.removeAccountButton": "Remove profile",
+    "Profile.removeAccountButton": "Remove account",
     "History.screenTitle": "History",
     "History.detailsScreenTitle": "Details",
     "History.emptyTitle": "Your transactions will be here",

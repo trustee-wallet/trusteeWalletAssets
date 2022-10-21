@@ -1,5 +1,5 @@
 {
-    "version" : 169,
+    "version" : 170,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -512,7 +512,7 @@
     "SettingsNotifications.priceAlertSettings.currenciesWithBalance": "Coins with balance",
     "SettingsNotifications.priceAlertSettings.btcOnly": "BTC only",
     "SettingsNotifications.priceAlertSettings.period.1h": "1 hour",
-    "SettingsNotifications.priceAlertSettings.period.12h": "12 hours",
+    "SettingsNotifications.priceAlertSettings.period.24h": "24 hours",
     "SettingsNotifications.priceAlertSettings.period.7d": "7 days",
     "SettingsPin.title": "Security",
     "SettingsPin.pinCode": "PIN code",

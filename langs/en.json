@@ -1,5 +1,5 @@
 {
-    "version" : 172,
+    "version" : 173,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -160,8 +160,8 @@
     "Account.prettyName.XMR": "Monero",
     "Account.prettyName.USD": "US Dollar",
     "Account.prettyName.EUR": "Euro*",
+    "Account.prettyName.APT": "Aptos",
     "AssetDetails.prettyName.BONUS": "Bonus UAH",
-    "AssetDetails.prettyName.APT": "Aptos",
     "Account.topUp": "Top Up",
     "Account.swap": "Swap",
     "Account.send": "Transfer",

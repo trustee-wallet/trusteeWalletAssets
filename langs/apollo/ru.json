@@ -67,5 +67,6 @@
     "userRates.grownUp.24h": "🚀 {{currency}} вырос в цене за последние 24 часа: {{percent}}% -> {{currentRate}}",
     "userRates.grownDown.24h": "🌧 {{currency}} упал в цене за последние 24 часа: {{percent}}% -> {{currentRate}}",
     "userRates.grownUp.7d": "🚀 {{currency}} вырос в цене за последние 7 дней: {{percent}}% -> {{currentRate}}",
-    "userRates.grownDown.7d": "🌧 {{currency}} упал в цене за последние 7 дней: {{percent}}% -> {{currentRate}}"
+    "userRates.grownDown.7d": "🌧 {{currency}} упал в цене за последние 7 дней: {{percent}}% -> {{currentRate}}",
+    "userInvites.usedInvite": "Ваше приглашение было использовано. Спасибо, что делаете семью Trustee Plus ещё больше!"
 }

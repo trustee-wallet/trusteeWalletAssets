@@ -1,5 +1,5 @@
 {
-  "version" : 173,
+  "version" : 174,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -391,6 +391,7 @@
   "WithdrawMethods.durationTransfer.SOL": "🕑 до 5 мин",
   "WithdrawMethods.durationTransfer.DOT": "🕑 до 5 мин",
   "WithdrawMethods.durationTransfer.NEAR": "🕑 до 5 мин",
+  "WithdrawMethods.durationTransfer.APT": "🕑 до 5 мин",
   "WithdrawMethods.durationTransfer.XMR": "🕑 до 30 мин",
   "WithdrawMethods.durationTransfer.USD": "🕑 до 3 дней",
   "WithdrawMethods.durationTransfer.EUR": "🕑 до 3 дней",

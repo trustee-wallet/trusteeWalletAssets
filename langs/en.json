@@ -1,5 +1,5 @@
 {
-    "version" : 173,
+    "version" : 174,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -391,6 +391,7 @@
     "WithdrawMethods.durationTransfer.SOL": "🕑 until 5 min",
     "WithdrawMethods.durationTransfer.DOT": "🕑 until 5 min",
     "WithdrawMethods.durationTransfer.NEAR": "🕑 until 5 min",
+    "WithdrawMethods.durationTransfer.APT": "🕑 until 5 min",
     "WithdrawMethods.durationTransfer.XMR": "🕑 until 30 min",
     "WithdrawMethods.durationTransfer.USD": "🕑 until 3 days",
     "WithdrawMethods.durationTransfer.EUR": "🕑 until 3 days",

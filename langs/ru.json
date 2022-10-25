@@ -1,5 +1,5 @@
 {
-  "version" : 174,
+  "version" : 175,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -754,6 +754,7 @@
   "ContactsScreen.favorite": "Избранные",
   "ContactsScreen.phoneEmpty": "Пожалуйста, введите телефонный номер",
   "ContactsScreen.nameEmpty": "Пожалуйста, введите имя",
+  "ContactsScreen.contactIsExist": "У Вас уже есть контакт с таким номером телефона",
   "Contacts.unlockModalTitle": "Показать контакты",
   "Contacts.unlockModalDescription": "Чтобы пользоваться списком контактов, приложению необходимо разрешение на чтение контактов. Хотите перейти к настройкам?",
   "Contacts.unlockModalYes": "Да",

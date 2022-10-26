@@ -1,5 +1,5 @@
 {
-  "version" : 177,
+  "version" : 178,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -571,7 +571,7 @@
   "Profile.personalData": "Облікові записи",
   "Profile.edit": "Змінити",
   "Profile.done": "Готово",
-  "Profile.fullName": "Ім'я",
+  "Profile.fullName": "Ім'я та прізвище",
   "Profile.username": "Псевдонім Trustee Plus",
   "Profile.email": "E-mail",
   "Profile.logout": "Вийти",

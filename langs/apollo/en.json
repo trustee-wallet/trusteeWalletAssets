@@ -61,11 +61,11 @@
     "userData.tgDeclineBtn.telegram": "Decline request",
     "userHistory.reaction.pushTitle": "New reaction!",
     "userHistory.reaction.pushDesc": "You have been sent a reaction \"{reaction}\"",
-    "userRates.grownUp.1h": "🚀 {{currency}} increased in price in the last hour: {{percent}}% -> {{currentRate}}",
-    "userRates.grownDown.1h": "🌧 {{currency}} decreased in price in the last hour: {{percent}}% -> {{currentRate}}",
-    "userRates.grownUp.24h": "🚀 {{currency}} increased in price in the last 24 hours: {{percent}}% -> {{currentRate}}",
-    "userRates.grownDown.24h": "🌧 {{currency}} decreased in price in the last 24 hours: {{percent}}% -> {{currentRate}}",
-    "userRates.grownUp.7d": "🚀 {{currency}} increased in price in the last 7 days: {{percent}}% -> {{currentRate}}",
-    "userRates.grownDown.7d": "🌧 {{currency}} decreased in price in the last 7 days: {{percent}}% -> {{currentRate}}",
+    "userRates.grownUp.1h": "🚀 {{currency}} increased in price in the last hour: {{percent}}% -> {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.1h": "🌧 {{currency}} decreased in price in the last hour: {{percent}}% -> {{currentRate}} {{localCurrency}}",
+    "userRates.grownUp.24h": "🚀 {{currency}} increased in price in the last 24 hours: {{percent}}% -> {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.24h": "🌧 {{currency}} decreased in price in the last 24 hours: {{percent}}% -> {{currentRate}} {{localCurrency}}",
+    "userRates.grownUp.7d": "🚀 {{currency}} increased in price in the last 7 days: {{percent}}% -> {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.7d": "🌧 {{currency}} decreased in price in the last 7 days: {{percent}}% -> {{currentRate}} {{localCurrency}}",
     "userInvites.usedInvite": "Your invitation has been used. Thank you for making Trustee Plus family even bigger!"
 }

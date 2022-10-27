@@ -52,7 +52,7 @@
     "userData.emailVerification.emailLine2": "если кнопка не работает, пожалуйста, скопируйте ссылку ниже и откройте ее в своем браузере",
     "userData.emailVerification.emailLine3": "Вам не удается создать учетную запись Trustee Plus? Вероятно, такой Email уже был использован. Пожалуйста, свяжитесь с нами через ",
     "userData.emailVerification.emailSupportUrl": "https://trusteeglobal.com/",
-    "userData.emailVerification.emailSupportTitle": "СЛУЖБУ ПОДДЕРЖКИ",
+    "userData.emailVerification.emailSupportTitle": "СЛУЖБУ ПОДДЕРЖКИ.",
     "userData.emailVerification.emailLine4": " Если Вы не создаете учетную запись Trustee Plus, просто игнорируйте это электронное письмо.",   
     
     "userData.tgNewVerification.telegram": "Пользователь {mobile} сделал запрос для подтверждения Telegram псевдонима, код: <b>{code}</b>",

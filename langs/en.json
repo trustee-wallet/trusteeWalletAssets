@@ -1,5 +1,5 @@
 {
-    "version" : 179,
+    "version" : 180,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -271,7 +271,7 @@
     "TopUpPayment.noCards": "You don’t have any saved cards",
     "TopUpPayment.changeCard": "Change",
     "TopUpPayment.selectedCard": "Selected card",
-    "TopUpPayment.failTopUp": "Sorry, the operation has been cancelled.\n\nPlease note that there are some difficulties in working with PrivatBank cards. In such cases, we recommend using a card from another bank",
+    "TopUpPayment.failTopUp": "Sorry, the operation has been cancelled.\n\nPlease note that currently there are difficulties in working with the cards of this bank. In such cases, we recommend using a card from another bank",
     "TopUpAssetSelector.title": "Select asset",
     "TopUpDetails.title": "Select network",
     "TopUpDetails.notification": "Another text here",

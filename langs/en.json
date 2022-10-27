@@ -1,5 +1,5 @@
 {
-    "version" : 178,
+    "version" : 179,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -161,6 +161,7 @@
     "Account.prettyName.USD": "US Dollar",
     "Account.prettyName.EUR": "Euro*",
     "Account.prettyName.APT": "Aptos",
+    "Account.prettyName.KZT": "Kazakhstani tenge",
     "AssetDetails.prettyName.BONUS": "Bonus UAH",
     "Account.topUp": "Top Up",
     "Account.swap": "Swap",
@@ -395,6 +396,7 @@
     "WithdrawMethods.durationTransfer.XMR": "🕑 until 30 min",
     "WithdrawMethods.durationTransfer.USD": "🕑 until 3 days",
     "WithdrawMethods.durationTransfer.EUR": "🕑 until 3 days",
+    "WithdrawMethods.durationTransfer.KZT": "🕑 until 30 min",
     "WithdrawMethods.durationTransfer.internal": "⚡️ internal",
     "WithdrawAssetSelector.title": "Select asset",
     "WithdrawAssetDetails.title": "Select network",

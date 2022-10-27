@@ -4,5 +4,6 @@
   "Push.deposit.canceledMessage": "К сожалению, поступление {{amount}} {{currencySymbol}} было отменено. Перейдите к деталям операции, чтобы узнать причину",
   "Push.deposit.detectedMessage": "Обнаружено новое поступление. {{amount}} {{currencySymbol}} скоро будет зачислено на баланс",
   "Push.withdraw.title": "Перевод",
-  "Push.withdraw.successMessage": "Ваш перевод выполнен успешно {{amount}} {{currencySymbol}}"
+  "Push.withdraw.successMessage": "Ваш перевод выполнен успешно {{amount}} {{currencySymbol}}",
+  "Push.withdraw.newUserSuccess": "Пользователь {{receiver}} получил Ваш перевод {{amount}} {{currencySymbol}} и присоединился к семье Trustee Plus!"
 }

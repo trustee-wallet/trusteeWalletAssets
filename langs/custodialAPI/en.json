@@ -5,5 +5,6 @@
   "Push.deposit.detectedMessage": "A new income has been identified. {{amount}} {{currencySymbol}} will soon be received",
   "Push.withdraw.title": "Transfer",
   "Push.withdraw.successMessage": "Your transfer was successful {{amount}} {{currencySymbol}}",
-  "Push.withdraw.newUserSuccess": "User {{receiver}} received your transfer of {{amount}} {{currencySymbol}} and joined the Truste Plus family!"
+  "Push.withdraw.newUserSuccess": "User {{receiver}} received your transfer of {{amount}} {{currencySymbol}} and joined the Truste Plus family!",
+  "Push.withdraw.availableRefund": "User {{receiver}} did not receive your transfer {{amount}} {{currencySymbol}} for the allotted period. You can return these funds to your balance if you wish."
 }

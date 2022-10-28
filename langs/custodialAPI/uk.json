@@ -5,5 +5,6 @@
   "Push.deposit.detectedMessage": "Виявлено нове надходження. {{amount}} {{currencySymbol}} скоро буде зараховано на баланс",
   "Push.withdraw.title": "Переказ",
   "Push.withdraw.successMessage": "Ваш переказ успішно виконано {{amount}} {{currencySymbol}}",
-  "Push.withdraw.newUserSuccess": "Користувач {{receiver}} отримав Ваш переказ {{amount}} {{currencySymbol}} та долучився до сімʼї Trustee Plus!"
+  "Push.withdraw.newUserSuccess": "Користувач {{receiver}} отримав Ваш переказ {{amount}} {{currencySymbol}} та долучився до сімʼї Trustee Plus!",
+  "Push.withdraw.availableRefund": "Користувач {{receiver}} не отримав Ваш переказ {{amount}} {{currencySymbol}} за відведений термін. Ви можете повернути ці кошти на свій баланс, якщо бажаєте."
 }

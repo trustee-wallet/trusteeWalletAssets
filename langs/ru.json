@@ -1,5 +1,5 @@
 {
-  "version" : 184,
+  "version" : 185,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -768,6 +768,9 @@
   "Contacts.unlockModalDescription": "Чтобы пользоваться списком контактов, приложению необходимо разрешение на чтение контактов. Хотите перейти к настройкам?",
   "Contacts.unlockModalYes": "Да",
   "Contacts.unlockModalNo": "Нет",
+  "ContactScreen.contactsIsEmpty": "Нет контактов",
+  "ContactScreen.contactsIsEmptyDescription": "Здесь появятся добавленные контакты",
+  "ContactScreen.addContact": "Создать новый контакт",
   "UserContactsRequest.title": "Trustee Plus family",
   "UserContactsRequest.subTitle": "Желает присоединиться к семье Trustee Plus.\n\nВы одобряете и подтверждаете финансовую порядочность нового члена семьи?",
   "UserContactsRequest.info.title": "Trustee Plus family становится больше",

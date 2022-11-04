@@ -62,11 +62,12 @@
     "userData.tgDeclineBtn.telegram": "Отменить запрос",
     "userHistory.reaction.pushTitle": "Новая реакция!",
     "userHistory.reaction.pushDesc": "Вы получили новую реакцию \"{reaction}\"",
-    "userRates.grownUp.1h": "🚀 {{currency}} вырос в цене за последний час: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownDown.1h": "🌧 {{currency}} упал в цене за последний час: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownUp.24h": "🚀 {{currency}} вырос в цене за последние 24 часа: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownDown.24h": "🌧 {{currency}} упал в цене за последние 24 часа: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownUp.7d": "🚀 {{currency}} вырос в цене за последние 7 дней: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownDown.7d": "🌧 {{currency}} упал в цене за последние 7 дней: {{percent}}% -> {{currentRate}} {{localCurrency}}",
+    "userRates.title": "Оповещение о цене {{currency}}",
+    "userRates.grownUp.1h": "🚀 Значительное изменение цены {{currency}} за последний час, рост {{percent}}%, сейчас цена {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.1h": "🌧 Значительное изменение цены {{currency}} за последний час, снижение на {{percent}}%, сейчас цена {{currentRate}} {{localCurrency}}",
+    "userRates.grownUp.24h": "🚀 Значительное изменение цены {{currency}} за последние 24 часа, рост {{percent}}%, сейчас цена {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.24h": "🌧 Значительное изменение цены {{currency}} за последние 24 часа, снижение на {{percent}}%, сейчас цена {{currentRate}} {{localCurrency}}",
+    "userRates.grownUp.7d": "🚀 Значительное изменение цены {{currency}} за последние 7 дней, рост {{percent}}%, сейчас цена {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.7d": "🌧 Значительное изменение цены {{currency}} за последние 7 дней, снижение на {{percent}}%, сейчас цена {{currentRate}} {{localCurrency}}",
     "userInvites.usedInvite": "Ваше приглашение было использовано. Спасибо, что делаете семью Trustee Plus ещё больше!"
 }

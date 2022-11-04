@@ -61,11 +61,12 @@
     "userData.tgDeclineBtn.telegram": "Decline request",
     "userHistory.reaction.pushTitle": "New reaction!",
     "userHistory.reaction.pushDesc": "You have been sent a reaction \"{reaction}\"",
-    "userRates.grownUp.1h": "🚀 {{currency}} increased in price in the last hour: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownDown.1h": "🌧 {{currency}} decreased in price in the last hour: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownUp.24h": "🚀 {{currency}} increased in price in the last 24 hours: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownDown.24h": "🌧 {{currency}} decreased in price in the last 24 hours: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownUp.7d": "🚀 {{currency}} increased in price in the last 7 days: {{percent}}% -> {{currentRate}} {{localCurrency}}",
-    "userRates.grownDown.7d": "🌧 {{currency}} decreased in price in the last 7 days: {{percent}}% -> {{currentRate}} {{localCurrency}}",
+    "userRates.title": "{{currency}} price alert",
+    "userRates.grownUp.1h": "🚀 Significant price change for {{currency}} in the last hour, growth {{percent}}%, price now {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.1h": "🌧 Significant price change for {{currency}} in the last hour, decreased by {{percent}}%, price now {{currentRate}} {{localCurrency}}",
+    "userRates.grownUp.24h": "🚀 Significant price change for {{currency}} in the last 24 hours, growth {{percent}}%, price now {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.24h": "🌧 Significant price change for {{currency}} in the last 24 hours, decreased by {{percent}}%, price now {{currentRate}} {{localCurrency}}",
+    "userRates.grownUp.7d": "🚀 Significant price change for {{currency}} in the last 7 days, growth {{percent}}%, price now {{currentRate}} {{localCurrency}}",
+    "userRates.grownDown.7d": "🌧 Significant price change for {{currency}} in the last 7 days, decreased by {{percent}}%, price now {{currentRate}} {{localCurrency}}",
     "userInvites.usedInvite": "Your invitation has been used. Thank you for making Trustee Plus family even bigger!"
 }

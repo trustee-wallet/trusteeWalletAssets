@@ -1,5 +1,5 @@
 {
-    "version" : 13,
+    "version" : 14,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#2CC690",
@@ -20,7 +20,7 @@
         "TRX": "#DC2F40",
         "TRX_dark_theme": "#ED6572",
         "BCH": "#10BB58",
-        "BCH_dark_theme": "#10BB58",
+        "BCH_dark_theme": "#61CD8F",
         "XRP": "#262626",
         "XRP_dark_theme": "#DADADA",
         "XLM": "#262626",

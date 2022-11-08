@@ -679,7 +679,7 @@
   "History.yesterday": "Вчера",
   "History.today": "Сегодня",
   "History.canceled.PAYMENT_EXPIRED": "Время, выделенное на оплату, исчерпано.",
-  "History.canceled.EXCEEDING_LIMITS": "Сумма меньше минимального лимита на депозит",
+  "History.canceled.EXCEEDING_LIMITS": "Сумма меньше минимального лимита для пополнения. Вы можете перевести на тот же адреса средства, которых недостаточно до минимального лимита, чтобы мы могли зачислить это пополнение.",
   "History.canceled.CANCELED_DEPOSIT": "Обратитесь в службу поддержки",
   "History.reason": "Причина:",
   "History.comment": "Комментарий:",

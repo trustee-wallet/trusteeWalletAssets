@@ -679,7 +679,7 @@
     "History.yesterday": "Yesterday",
     "History.today": "Today",
     "History.canceled.PAYMENT_EXPIRED": "The time allotted for payment has expired",
-    "History.canceled.EXCEEDING_LIMITS": "The amount is less than the minimum deposit limit",
+    "History.canceled.EXCEEDING_LIMITS": "The amount is less than the minimum deposit limit. You can transfer to the same address funds that are not enough to the minimum limit so that we can credit the deposit.",
     "History.canceled.CANCELED_DEPOSIT": "Contact Support",
     "History.reason": "Reason:",
     "History.comment": "Comment:",

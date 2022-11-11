@@ -1,5 +1,5 @@
 {
-  "version" : 189,
+  "version" : 190,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -280,6 +280,8 @@
   "TopUpDetails.notification": "Another text here",
   "TopUpDetails.share": "Поділитись",
   "TopUp.unsupportedCountry": "{countryCode} не підтримується для даного напрямку",
+  "ReceiveHistoryAddresses.title": "Список адрес",
+  "ReceiveHistoryAddresses.addressNotActive": "Адреса більше не підтримується",
   "Withdraw.title": "Переказ {symbol}",
   "Withdraw.internalTo": "Псевдонім/Телефон/ID",
   "Withdraw.title.donate": "Донат {symbol}",

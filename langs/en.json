@@ -1,5 +1,5 @@
 {
-    "version" : 189,
+    "version" : 190,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -280,6 +280,8 @@
     "TopUpDetails.notification": "Another text here",
     "TopUpDetails.share": "Share",
     "TopUp.unsupportedCountry": "{countryCode} not supported for this way",
+    "ReceiveHistoryAddresses.title": "Address list",
+    "ReceiveHistoryAddresses.addressNotActive": "The address is no longer supported",
     "Withdraw.title": "Transfer {symbol}",
     "Withdraw.title.donate": "Donate {symbol}",
     "Withdraw.title.internalTransfer": "Send {symbol}",

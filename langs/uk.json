@@ -1,5 +1,5 @@
 {
-  "version" : 190,
+  "version" : 191,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -779,6 +779,9 @@
   "InfoModal.SESSION_EXPIRED": "Ймовірно, скінчився час сесії. Або Ви зайшли в застосунок на іншому пристрої, якщо це були не Ви - терміново зверніться до служби підтримки",
   "InfoModal.SESSION_ANOTHER_DEVICE": "Ви зайшли в застосунок на іншому пристрої, якщо це були не Ви - терміново зверніться до служби підтримки",
   "InfoModal.OK": "Ок",
+  "InfoModal.updateLocaleLanguage": "Раніше Ви використовували мову – {{language}}. Бажаєте змінити мову?",
+  "InfoModal.saveLanguage": "Залишити мову - {{currentLanguage}}",
+  "InfoModal.changeLanguage": "Змінити мову на - {{language}}",
   "Toast.title.WARNING": "Увага",
   "Toast.title.badConnection": "Нестабільне інтернет з'єднання",
   "Toast.message.notInternetConnection": "Будь ласка, перевірте інтернет з'єднання",

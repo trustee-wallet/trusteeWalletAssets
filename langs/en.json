@@ -1,5 +1,5 @@
 {
-    "version" : 196,
+    "version" : 197,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -269,6 +269,7 @@
     "TopUp.total": "Top Up",
     "TopUp.topUp": "Top Up",
     "TopUp.createTopUpPermissionError": "You have been blocked from accessing the Top Up function",
+    "TopUp.createTopUpError": "There were technical problems. Please try again later or contact support",
     "TopUpPayment.title": "Payment screen",
     "TopUpPayment.addCard": "Add card",
     "TopUpPayment.noCards": "You don’t have any saved cards",

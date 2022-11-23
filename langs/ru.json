@@ -1,5 +1,5 @@
 {
-  "version" : 197,
+  "version" : 198,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -443,6 +443,7 @@
   "WithdrawMethods.durationTransfer.card.EUR": "🕑 до 3 дней",
   "WithdrawMethods.durationTransfer.card.KZT": "🕑 до 30 мин",
   "WithdrawMethods.durationTransfer.internal": "⚡️ мгновенно",
+  "WithdrawMethods.durationTransfer": "Ориентировочное время поступления средств - ",
   "WithdrawAssetSelector.title": "Выбор актива",
   "WithdrawAssetDetails.title": "Выбор сети",
   "WithdrawAssetDetails.notification": "Another text here",

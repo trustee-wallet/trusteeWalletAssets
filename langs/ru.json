@@ -1,5 +1,5 @@
 {
-  "version" : 198,
+  "version" : 199,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -557,7 +557,7 @@
   "SettingsNotifications.priceAlertSettings.title": "Настройки уведомлений",
   "SettingsNotifications.priceAlertSettings.period": "Период",
   "SettingsNotifications.priceAlertSettings.priceChange": "Изменение цены",
-  "SettingsNotifications.priceAlertSettings.currenciesValues": "Применить числовые значения к",
+  "SettingsNotifications.priceAlertSettings.currenciesValues": "Применяется для:",
   "SettingsNotifications.priceAlertSettings.allCurrencies": "Все активы",
   "SettingsNotifications.priceAlertSettings.currenciesWithBalance": "Активы з положительным балансом",
   "SettingsNotifications.priceAlertSettings.btcOnly": "Только BTC",

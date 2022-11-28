@@ -13,6 +13,7 @@
     "userTelegram.approve.TELEGRAM_APPROVED": "Ваш обліковий запис успішно прив`язано до Telegram",
     "userTelegram.approve.TELEGRAM_APPROVED_ALREADY": "Ваш обліковий запис уже прив`язано до Telegram",
     "userTelegram.approve.TELEGRAM_BLOCKED_LOGIN" : "Коди для входу через Telegram відключені, будь ласка, зверніться до служби підтримки",
+    "userTelegram.approve.TELEGRAM_ANOTHER_ID" : "Ваш мобильниц номер вже пприв`язано к іншому Telegram користувачу, зверніться до служби підтримки",
     "userTelegram.approve.TOO_MUCH" : "Ви генерували коди занадто часто, будь ласка, зачекайте пару хвилин",
     "userTelegram.approve.TOO_FAST" : "Ви генерували коди занадто швидко, будь ласка, зачекайте пару хвилин",
     "userTelegram.contact.isMutual": "Контакт уже в Trustee Plus",

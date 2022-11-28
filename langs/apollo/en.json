@@ -39,7 +39,7 @@
     "userContacts.pending.pushTitle": "Your friend waits invitation",
     "userContacts.pending.pushDesc": "You are in contacts list of user {userMobile}, please help him start using Trustee Plus",
     "userContacts.pendingMutual.pushTitle": "Your friend is on the waiting list",
-    "userContacts.pendingMutual.pushDesc": "Accept joining {mutualDisplayName} ({userMobile}) to the family Trustee Plus",
+    "userContacts.pendingMutual.pushDesc": "Accept joining {{mutualDisplayName}} ({{userMobile}}) to the family Trustee Plus",
     "userContacts.activeMutual.pushTitle": "Your friend joins Trustee Plus",
     "userContacts.activeMutual.pushDesc": "You are in contacts list of user {mutualDisplayName} ({userMobile}), you can now send him assets in Trustee Plus by instant transfer",
     "userContacts.approved.pushTitle": "Congratulations!",

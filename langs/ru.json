@@ -287,6 +287,7 @@
   "ReceiveHistoryAddresses.addressName": "Название адреса",
   "ReceiveHistoryAddresses.name.placeholder": "Название адреса",
   "ReceiveHistoryAddresses.saveName": "Ок",
+  "ReceiveHistoryAddresses.balance": "Сумма пополнений",
   "Withdraw.title": "Перевод {symbol}",
   "Withdraw.title.donate": "Донат {symbol}",
   "Withdraw.title.internalTransfer": "Перевод {symbol}",

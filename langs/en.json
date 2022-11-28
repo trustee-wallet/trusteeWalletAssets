@@ -287,6 +287,7 @@
     "ReceiveHistoryAddresses.addressName": "Address name",
     "ReceiveHistoryAddresses.name.placeholder": "Address name",
     "ReceiveHistoryAddresses.saveName": "Ok",
+    "ReceiveHistoryAddresses.balance": "Total of top-ups",
     "Withdraw.title": "Transfer {symbol}",
     "Withdraw.title.donate": "Donate {symbol}",
     "Withdraw.title.internalTransfer": "Send {symbol}",

@@ -1,5 +1,5 @@
 {
-  "version" : 201,
+  "version" : 202,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -725,6 +725,8 @@
   "History.changeToTransferNotification": "Внутренний перевод",
   "History.yesterday": "Вчера",
   "History.today": "Сегодня",
+  "History.done.isFromAnotherCurrencyAddress.withParams": "Вы сделали этот депозит на свой адрес {{anotherCurrencySymbol}}, но не волнуйтесь, мы нашли пополнение и все зачислили корректно",
+  "History.done.isFromAnotherCurrencyAddress": "Вы сделали этот депозит на адрес другой валюты, но не волнуйтесь, мы нашли пополнение и все зачислили корректно",
   "History.canceled.PAYMENT_EXPIRED": "Время, выделенное на оплату, исчерпано.",
   "History.canceled.EXCEEDING_LIMITS": "Сумма меньше минимального лимита для пополнения. Вы можете перевести на тот же адреса средства, которых недостаточно до минимального лимита, чтобы мы могли зачислить это пополнение.",
   "History.canceled.CANCELED_DEPOSIT": "Обратитесь в службу поддержки",

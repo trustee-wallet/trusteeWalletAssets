@@ -1,5 +1,5 @@
 {
-    "version" : 201,
+    "version" : 202,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -725,6 +725,8 @@
     "History.changeToTransferNotification": "Instant transfer",
     "History.yesterday": "Yesterday",
     "History.today": "Today",
+    "History.done.isFromAnotherCurrencyAddress.withParams": "You made this deposit on your {{anothercurrencysymbol}} address but don't worry we found deposit and credited it correctly",
+    "History.done.isFromAnotherCurrencyAddress": "You made this deposit on address from another currency but don't worry we found deposit and credited it correctly",
     "History.canceled.PAYMENT_EXPIRED": "The time allotted for payment has expired",
     "History.canceled.EXCEEDING_LIMITS": "The amount is less than the minimum deposit limit. You can transfer to the same address funds that are not enough to the minimum limit so that we can credit the deposit.",
     "History.canceled.CANCELED_DEPOSIT": "Contact Support",

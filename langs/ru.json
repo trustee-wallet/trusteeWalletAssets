@@ -1,5 +1,5 @@
 {
-  "version" : 200,
+  "version" : 201,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -700,7 +700,7 @@
   "History.refundTitle": "Вы сможете вернуть деньги: <Date>{{date}}</Date>",
   "History.refundButton": "Вернуть",
   "History.resendButton": "Отправить",
-  "History.inviteFriend": "Я отправил Вам {amount} в Trustee Plus. Внимание! Перевод имеет срок действия, а именно до {date}. Пожалуйста, установите приложение по ссылке {referralLink} и проверьте свой баланс",
+  "History.inviteFriend": "Я отправил(а) Вам {amount} в Trustee Plus. Внимание! Перевод имеет срок действия, а именно до {date}. Пожалуйста, установите приложение по ссылке {referralLink} и проверьте свой баланс",
   "History.day": "день",
   "History.days": "дней",
   "History.paywayType": "Метод платежа",

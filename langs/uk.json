@@ -1,5 +1,5 @@
 {
-  "version" : 205,
+  "version" : 206,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -748,7 +748,7 @@
   "History.share.toCard": "на номер карти {address}\n",
   "History.share.toCryptoAddress": "на криптоадресу {address}\n",
   "History.share.sendText": "Переказав(ла) Вам {amount}",
-  "History.share.withdrawLink": "Для безкоштовних переказів користуюсь Trustee Plus. Скачайте та переконайтесь самі\nhttps://trusteeplus.app.link/t-share",
+  "History.share.withdrawLink": "Для безкоштовних переказів користуюсь Trustee Plus. Завантажте та переконайтесь самі\nhttps://trusteeplus.app.link/t-share",
   "History.cancelByTime": "Якщо кошти не списались з картки, то платіж буде відмінено через деякий час",
   "History.repeatPayment": "Повторити платіж",
   "History.addToContacts": "Додати до контактів",

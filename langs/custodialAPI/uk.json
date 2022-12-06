@@ -4,6 +4,7 @@
   "Push.deposit.canceledMessage": "На жаль, надходження {{amount}} {{currencySymbol}} було відмінене. Перейдіть до деталей операції, щоб дізнатися причину",
   "Push.deposit.uncreditedMessage": "На жаль, надходження {{amount}} {{currencySymbol}} не було зараховано. Перейдіть до деталей операції, щоб дізнатися причину",
   "Push.deposit.detectedMessage": "Виявлено нове надходження. {{amount}} {{currencySymbol}} скоро буде зараховано на баланс",
+  "Push.deposit.smsMessage": "Вам переказали {{amountAndCurrencySymbol}}. Отримайте за посиланням bit.ly/3H9FRnr",
   "Push.withdraw.title": "Переказ",
   "Push.withdraw.successMessage": "Ваш переказ успішно виконано {{amount}} {{currencySymbol}}",
   "Push.withdraw.newUserSuccess": "Користувач {{receiver}} отримав Ваш переказ {{amount}} {{currencySymbol}} та долучився до сімʼї Trustee Plus!",

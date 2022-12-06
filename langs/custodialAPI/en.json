@@ -4,7 +4,7 @@
   "Push.deposit.canceledMessage": "Unfortunately, income {{amount}} {{currencySymbol}} was canceled. Go to the details of the operation to find out the cause",
   "Push.deposit.uncreditedMessage": "Unfortunately, income {{amount}} {{currencySymbol}} was not credited. Go to the details of the operation to find out the cause",
   "Push.deposit.detectedMessage": "A new income has been identified. {{amount}} {{currencySymbol}} will soon be received",
-  "Push.deposit.smsMessage": "Вам переказали {{amountAndCurrencySymbol}}. Отримайте за посиланням bit.ly/3H9FRnr",
+  "Push.deposit.smsMessage": "You've got a transfer of {{amountAndCurrencySymbol}}. Get by link bit.ly/3H9FRnr",
   "Push.withdraw.title": "Transfer",
   "Push.withdraw.successMessage": "Your transfer was successful {{amount}} {{currencySymbol}}",
   "Push.withdraw.newUserSuccess": "User {{receiver}} received your transfer of {{amount}} {{currencySymbol}} and joined the Trustee Plus family!",

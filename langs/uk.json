@@ -1,5 +1,5 @@
 {
-  "version" : 208,
+  "version" : 209,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -966,7 +966,7 @@
   "SendInviteScreen.description2": "<Send>перекажіть</Send> будь-яку суму на номер телефону друга",
   "SendInviteScreen.withoutLink": "Згенерувати запрошення",
   "SendInviteScreen.usedLink": "Запрошення використане,\nзгенерувати нове",
-  "SendInviteScreen.shareText": "Привіт, запрошую Вас до родини Trustee Plus, ось посилання за яким можна завантажити застосунок - {link}",
+  "SendInviteScreen.shareText": "Привіт, запрошую Вас до родини Trustee Plus, ось посилання за яким можна завантажити застосунок - {- link}",
   "SendInviteScreen.linkCopied": "Запрошення скопійовано",
   "SendInviteScreen.errorTitle": "Виникла помилка",
   "SendInviteScreen.errorSubTitle": "Будь ласка, спробуйте ще раз",

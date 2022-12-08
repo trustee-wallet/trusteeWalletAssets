@@ -1,5 +1,5 @@
 {
-  "version" : 209,
+  "version" : 210,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -751,7 +751,7 @@
   "History.share.link": "Для бесплатных переводов пользуюсь Trustee Plus. Скачайте и убедитесь сами\nhttps://trusteeplus.app.link/t-share",
   "History.share.greetings": "Приветствуем!\n",
   "History.share.toMobile": "по номеру телефона {address}\n",
-  "History.share.toUser": "по имени получателя {address}\n",
+  "History.share.toUser": "на {address}\n",
   "History.share.toCard": "на номер карты {address}\n",
   "History.share.toCryptoAddress": "на криптоадресу {address}\n",
   "History.share.sendText": "Перевел(а) Вам {amount}",

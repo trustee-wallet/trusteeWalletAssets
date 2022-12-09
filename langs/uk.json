@@ -1,5 +1,5 @@
 {
-  "version" : 210,
+  "version" : 211,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -344,6 +344,7 @@
   "Withdraw.failToCardBalanceChanged": "Увага, Ви намагаєтесь переказати весь баланс на картку, але він змінився. Новий баланс {{amount}}",
   "Withdraw.failDonateBalanceChanged": "Увага, Ви намагаєтесь задонатити весь баланс, але він змінився. Новий баланс {{amount}}",
   "Withdraw.fail.ESTIMATION_CHANGED": "Увага, комісія за переказ змінилася, тому дані було оновлено",
+  "Withdraw.fail.GENERAL": "Виникли технічні проблеми. Спробуйте пізніше або зверніться в службу підтримки",
   "Withdraw.createWithdrawPermissionError": "Вам заблоковано доступ до функції Переказу",
   "Withdraw.incorrectSymbol": "Неприпустимий символ",
   "Withdraw.donateUkraine": "Україна",

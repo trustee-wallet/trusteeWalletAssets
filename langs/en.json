@@ -1,5 +1,5 @@
 {
-    "version" : 210,
+    "version" : 211,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -344,6 +344,7 @@
     "Withdraw.failToCardBalanceChanged": "Attention, you are trying to transfer the entire balance to card, but it has changed. New balance {{amount}}",
     "Withdraw.failDonateBalanceChanged": "Attention, you are trying to donate the entire balance, but it has changed. New balance {{amount}}",
     "Withdraw.fail.ESTIMATION_CHANGED": "Attention, the transfer fee has changed, so the data has been changed",
+    "Withdraw.fail.GENERAL": "There were technical problems. Please try again later or contact support",
     "Withdraw.createWithdrawPermissionError": "You have been blocked from accessing the Transfer function",
     "Withdraw.incorrectSymbol": "Incorrect symbol",
     "Withdraw.donateUkraine": "Ukraine",

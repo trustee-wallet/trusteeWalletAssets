@@ -1,5 +1,5 @@
 {
-    "version" : 212,
+    "version" : 213,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1008,7 +1008,7 @@
     "InvestCurrencyScreen.atl": "All time low",
     "InvestCurrencyScreen.atlDate": "All time low date",
     "InvestCurrencyScreen.about": "About ",
-    "InvestCurrencyScreen.get": "Get ",
+    "InvestCurrencyScreen.get": "Get",
     "InvestCurrencyScreen.toAccount": "To account",
     "NavigationTabs.invest": "Invest",
     "NavigationTabs.wallet": "Wallet",

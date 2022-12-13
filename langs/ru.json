@@ -1,5 +1,5 @@
 {
-  "version" : 218,
+  "version" : 219,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1010,6 +1010,9 @@
   "InvestCurrencyScreen.about": "Про ",
   "InvestCurrencyScreen.get": "Получить",
   "InvestCurrencyScreen.toAccount": "К активу",
+  "InvestScreen.numberFormat.T": "трлн",
+  "InvestScreen.numberFormat.B": "млрд",
+  "InvestScreen.numberFormat.M": "млн",
   "NavigationTabs.invest": "Инвестиции",
   "NavigationTabs.wallet": "Кошелек",
   "NavigationTabs.support": "Служба поддержки"

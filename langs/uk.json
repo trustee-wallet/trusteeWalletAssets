@@ -1,5 +1,5 @@
 {
-  "version" : 220,
+  "version" : 221,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1021,5 +1021,5 @@
   "InvestScreen.numberFormat.M": "млн",
   "NavigationTabs.invest": "Інвестиції",
   "NavigationTabs.wallet": "Гаманець",
-  "NavigationTabs.support": "Служба підтримки"
+  "NavigationTabs.support": "Підтримка"
 }

@@ -1,5 +1,5 @@
 {
-  "version" : 222,
+  "version" : 223,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -956,7 +956,7 @@
   "Donations.personalBalance": "Баланс",
   "Donations.topUp": "Пополнить",
   "Donations.donate": "Сделать донат",
-  "Donations.category.zsu_donate": "Для ВСУ - вместе с\nBRAVE U Fund",
+  "Donations.category.zsu_donate": "Помощь армии",
   "Donations.category.med_donate": "Медицинская помощь",
   "Donations.category.rebuild_donate": "Восстановление Украины",
   "TotalBalanceBottomSheet.title": "Локальные валюты",

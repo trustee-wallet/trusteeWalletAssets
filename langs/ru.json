@@ -1,5 +1,5 @@
 {
-  "version" : 223,
+  "version" : 224,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -995,6 +995,7 @@
   "InvestScreen.filterOption.title": "Показывать",
   "InvestScreen.filterOption.ALL": "Всe криптовалюты",
   "InvestScreen.filterOption.FAVORITE": "Избранные",
+  "InvestScreen.filterOption.BY_VALUE": "Только с положительным балансом",
   "InvestScreen.sortOptions.marketCapRank": "Рейтинг",
   "InvestScreen.sortOptions.priceChangePercentage": "Смена %",
   "InvestScreen.sortOptions.price": "Цена",

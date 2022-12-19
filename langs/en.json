@@ -1,5 +1,5 @@
 {
-    "version" : 225,
+    "version" : 226,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1020,7 +1020,8 @@
     "InvestScreen.numberFormat.T": "T",
     "InvestScreen.numberFormat.B": "B",
     "InvestScreen.numberFormat.M": "M",
-    "NavigationTabs.invest": "Invest",
+    "NavigationTabs.invest": "Market",
     "NavigationTabs.wallet": "Wallet",
-    "NavigationTabs.support": "Support"
+    "NavigationTabs.support": "Support",
+    "NavigationTabs.settings": "Settings"
 }

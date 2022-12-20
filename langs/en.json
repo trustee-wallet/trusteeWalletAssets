@@ -1,5 +1,5 @@
 {
-    "version" : 226,
+    "version" : 227,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -676,6 +676,7 @@
     "Profile.removeAccountModal.haveHoldBalanceDescription": "You can't close your account. You have {balanceHold} in process. Try again later",
     "Profile.removeAccountModal.userSure": "Are you sure you want to delete your account?",
     "Profile.removeAccountModal.removed": "You account will be delete in next 24 hours",
+    "Profile.photoNotPermissions": "Please allow access to the photo library in the phone settings",
     "History.screenTitle": "History",
     "History.detailsScreenTitle": "Details",
     "History.emptyTitle": "Your transactions will be here",

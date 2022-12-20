@@ -1,5 +1,5 @@
 {
-  "version" : 226,
+  "version" : 227,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -676,6 +676,7 @@
   "Profile.removeAccountModal.haveHoldBalanceDescription": "Вы не можете закрыть свою учетную запись. {balanceHold} находятся в обработке. Пожалуйста, повторите попытку позже",
   "Profile.removeAccountModal.userSure": "Вы уверены, что хотите удалить свою учетную запись?",
   "Profile.removeAccountModal.removed": "Ваша учетная запись будет удалена в течение следующих 24 часов",
+  "Profile.photoNotPermissions": "Пожалуйста, разрешите доступ к фото в настройках телефона",
   "History.screenTitle": "История",
   "History.detailsScreenTitle": "Детали",
   "History.emptyTitle": "Здесь будут Ваши транзакции",

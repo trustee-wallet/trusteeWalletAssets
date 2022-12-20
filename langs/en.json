@@ -40,6 +40,7 @@
     "LoginSms.INVALID_VERIFICATION_CODE": "Code is not valid. Please enter the code carefully",
     "LoginSms.QUOTA_EXCEEDED": "Retries exceeded",
     "LoginSms.INVALID_PHONE_NUMBER": "Sorry, we couldn't deliver the SMS, please check the given phone number",
+    "LoginSms.INVALID_USER_STRANGE_ERROR": "Sorry, we couldn't get user for login, please contact support for more info",
     "LoginSms.userAutoLoginWillBeProcessed": "Code accepted",
     "LoginSms.smsIsSendingRightNow": "Code is sending - don't close the application",
     "Login.getTelegram": "Login with Telegram",

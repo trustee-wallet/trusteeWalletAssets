@@ -40,6 +40,7 @@
   "LoginSms.INVALID_VERIFICATION_CODE": "Код недействительный, пожалуйста, внимательно введите код",
   "LoginSms.QUOTA_EXCEEDED": "Превышено количество попыток",
   "LoginSms.INVALID_PHONE_NUMBER": "Извините, не удалось доставить SMS, пожалуйста, проверьте указанный номер телефона",
+  "LoginSms.INVALID_USER_STRANGE_ERROR": "Sorry, we couldn't get user for login, please contact support for more info",
   "LoginSms.userAutoLoginWillBeProcessed": "Код принят",
   "LoginSms.smsIsSendingRightNow": "Код отправляется - не переключайтесь из приложения",
   "Login.getTelegram": "Войти с помощью Telegram",

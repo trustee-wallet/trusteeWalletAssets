@@ -1,5 +1,5 @@
 {
-    "version" : 229,
+    "version" : 230,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -522,6 +522,8 @@
     "Pin.INVALID_CODE": "Invalid PIN Code",
     "Pin.INVALID_CODE_WILL_LOGOUT_YOU": "For security reasons, you must log out and re-enter your PIN",
     "Pin.NO_INTERNET": "No internet connection",
+    "Pin.mainNotificationTitle": "Security recommendations",
+    "Pin.mainNotificationDescription": "Your balance is quite large. To increase the security of your account, we recommend setting a PIN.",
     "Settings.general": "General",
     "Settings.security": "Security",
     "Settings.notifications": "Notifications",

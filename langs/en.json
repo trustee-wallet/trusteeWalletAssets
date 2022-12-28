@@ -787,6 +787,7 @@
     "History.multiHistoryTitle": "Details of operation",
     "History.withdrawToCard.title.eur": "Please note",
     "History.withdrawToCard.description.eur": "The transfer was successful. However, the bank can process the transaction up to 3 working days. Please be careful.",
+    "History.withdrawToCard.privatBank.description.uah": "Unfortunately, there are now difficulties with transfers to PrivatBank cards. We recommend that you try to create a transfer to another bank card.",
     "SocialLinks.telegram": "https://t.me/trustee_en",
     "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
     "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

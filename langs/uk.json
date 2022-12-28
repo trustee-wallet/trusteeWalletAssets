@@ -787,6 +787,7 @@
   "History.multiHistoryTitle": "Деталі операції",
   "History.withdrawToCard.title.eur": "Зверніть увагу",
   "History.withdrawToCard.description.eur": "Переказ пройшов успішно. Проте банк може виконувати операцію до 3 робочих днів. Будь ласка, будьте обережні.",
+  "History.withdrawToCard.privatBank.description.uah": "На жаль, зараз спостерігаються труднощі з переказами на картки ПриватБанку. Рекомендуємо спробувати створити переказ на картку іншого банку.",
   "SocialLinks.telegram": "https://t.me/trustee_ua",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

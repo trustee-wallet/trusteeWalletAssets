@@ -1,5 +1,5 @@
 {
-  "version" : 231,
+  "version" : 232,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1011,6 +1011,7 @@
   "InvestScreen.sortOptions.price": "Цена",
   "InvestScreen.cancelSearch": "Отмена",
   "InvestScreen.searchOption.withoutAsset": "Актив не найден",
+  "InvestScreen.percentage24h": " 24h",
   "InvestCurrencyScreen.marketCapRank": "Рейтинг",
   "InvestCurrencyScreen.marketCap": "Рын. кап.",
   "InvestCurrencyScreen.fullyDilutedValuation": "Рын. кап. при полной эмиссии",

@@ -1,5 +1,5 @@
 {
-  "version" : 230,
+  "version" : 231,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -241,6 +241,7 @@
   "CardScreen.continueWithSave": "Продовжити із збереженням",
   "CardScreen.saveCvv": "Зберегти CVV",
   "CardScreen.topUp": "Картка",
+  "CardsScreen.withoutCountry": "Країни не знайдено",
   "Swap.title": "Обмін",
   "Swap.setAssetInput": "Обрати",
   "Swap.minAmount": "Мінімальна сума",

@@ -7,6 +7,7 @@
   "Push.deposit.smsMessage": "Вам перевели {{amountAndCurrencySymbol}}. Получите по ссылке bit.ly/3uDD6mE",
   "Push.withdraw.title": "Перевод",
   "Push.withdraw.successMessage": "Ваш перевод выполнен успешно {{amount}} {{currencySymbol}}",
+  "Push.withdraw.partlyDoneMessage": "Извините, но мы смогли перевести только {{amount}} {{currencySymbol}}. Остаток средств был возвращён на Ваш баланс.",
   "Push.withdraw.newUserSuccess": "Пользователь {{receiver}} получил Ваш перевод {{amount}} {{currencySymbol}} и присоединился к семье Trustee Plus!",
   "Push.withdraw.availableRefund": "Пользователь {{receiver}} не получил Ваш перевод {{amount}} {{currencySymbol}} за отведенный срок. Вы можете вернуть эти средства на свой баланс, если желаете."
 }

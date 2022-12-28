@@ -7,6 +7,7 @@
   "Push.deposit.smsMessage": "Вам переказали {{amountAndCurrencySymbol}}. Отримайте за посиланням bit.ly/3uDD6mE",
   "Push.withdraw.title": "Переказ",
   "Push.withdraw.successMessage": "Ваш переказ успішно виконано {{amount}} {{currencySymbol}}",
+  "Push.withdraw.partlyDoneMessage": "Вибачте, але ми змогли переказати лише {{amount}} {{currencySymbol}}. Решту коштів було повернено на Ваш баланс.",
   "Push.withdraw.newUserSuccess": "Користувач {{receiver}} отримав Ваш переказ {{amount}} {{currencySymbol}} та долучився до сімʼї Trustee Plus!",
   "Push.withdraw.availableRefund": "Користувач {{receiver}} не отримав Ваш переказ {{amount}} {{currencySymbol}} за відведений термін. Ви можете повернути ці кошти на свій баланс, якщо бажаєте."
 }

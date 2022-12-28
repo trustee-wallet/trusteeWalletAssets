@@ -7,6 +7,7 @@
   "Push.deposit.smsMessage": "You've got a transfer of {{amountAndCurrencySymbol}}. Get by link bit.ly/3uDD6mE",
   "Push.withdraw.title": "Transfer",
   "Push.withdraw.successMessage": "Your transfer was successful {{amount}} {{currencySymbol}}",
+  "Push.withdraw.partlyDoneMessage": "Sorry, but we were able to transfer only {{amount}} {{currencySymbol}}. The rest of the funds have been returned to your balance.",
   "Push.withdraw.newUserSuccess": "User {{receiver}} received your transfer of {{amount}} {{currencySymbol}} and joined the Trustee Plus family!",
   "Push.withdraw.availableRefund": "User {{receiver}} did not receive your transfer {{amount}} {{currencySymbol}} for the allotted period. You can return these funds to your balance if you wish."
 }

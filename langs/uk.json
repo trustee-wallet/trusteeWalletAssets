@@ -1,5 +1,5 @@
 {
-  "version" : 236,
+  "version" : 237,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -561,6 +561,7 @@
   "SettingsNotifications.ratesTitle": "Курси обміну",
   "SettingsNotifications.ratesSubTitle": "Ціни на основні монети",
   "SettingsNotifications.newsTitle": "Новини",
+  "SettingsNotifications.newsSubTitle": "",
   "SettingsNotifications.noToken": "no token (something wrong)",
   "SettingsNotifications.tokenCopied": "Push token for device is copied",
   "SettingsNotifications.tokenCopiedOk": "Ок",
@@ -1038,5 +1039,6 @@
   "NavigationTabs.invest": "Ринок",
   "NavigationTabs.wallet": "Гаманець",
   "NavigationTabs.support": "Підтримка",
-  "NavigationTabs.settings": "Налаштування"
+  "NavigationTabs.settings": "Налаштування",
+  "NewsScreen.title": "Новини"
 }

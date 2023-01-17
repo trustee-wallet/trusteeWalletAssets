@@ -1,5 +1,5 @@
 {
-  "version" : 239,
+  "version" : 240,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -588,7 +588,7 @@
   "SettingsPin.pinCode": "PIN-код",
   "SettingsPin.changePin": "Змінити PIN",
   "SettingsPin.changeTouchId": "Face ID/Touch ID",
-  "SettingsPin.changeTransactions": "Підтвердження транзакції",
+  "SettingsPin.changeTransactions": "Підтвердження переказу",
   "SettingsPin.changeTransactionsSubTitle": "Запитувати при відправленні активів",
   "SettingsPin.changeSwap": "Підтвердження обміну",
   "SettingsPin.changeSwapSubTitle": "Запитувати при обміні активів",
@@ -1041,6 +1041,12 @@
   "NavigationTabs.wallet": "Гаманець",
   "NavigationTabs.support": "Підтримка",
   "NavigationTabs.settings": "Налаштування",
+  "NavigationTabs.card": "Картка",
   "NewsScreen.title": "Новини",
-  "NewsScreen.emptyNews": "Наразі новин немає"
+  "NewsScreen.emptyNews": "Наразі новин немає",
+  "TrusteeCard.trusteeCard": "Trustee картка",
+  "TrusteeCard.trusteeCardDescription": "Крокуй у безпечне майбутнє з Trustee Plus. Розраховуйся за повсякденні потреби криптою прямо з карти",
+  "TrusteeCard.order": "Замовити",
+  "TrusteeCard.greeting": "Вітаємо",
+  "TrusteeCard.greetingDescription": "Ви залишили запит на Trustee карту і вам вона прийде у першу чергу. Готуйтеся найближчим часом розраховуватись за кавусю в улюбленій кафешці криптою"
 }

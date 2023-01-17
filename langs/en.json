@@ -1,5 +1,5 @@
 {
-    "version" : 239,
+    "version" : 240,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -588,7 +588,7 @@
     "SettingsPin.pinCode": "PIN code",
     "SettingsPin.changePin": "Change PIN",
     "SettingsPin.changeTouchId": "Face ID/Touch ID",
-    "SettingsPin.changeTransactions": "Transaction confirmation",
+    "SettingsPin.changeTransactions": "Transfer confirmation",
     "SettingsPin.changeTransactionsSubTitle": "Ask to send assets",
     "SettingsPin.changeSwap": "Swap confirmation",
     "SettingsPin.changeSwapSubTitle": "Ask to swap assets",
@@ -1041,6 +1041,12 @@
     "NavigationTabs.wallet": "Wallet",
     "NavigationTabs.support": "Support",
     "NavigationTabs.settings": "Settings",
+    "NavigationTabs.card": "Card",
     "NewsScreen.title": "News",
-    "NewsScreen.emptyNews": "There is currently no news"
+    "NewsScreen.emptyNews": "There is currently no news",
+    "TrusteeCard.trusteeCard": "Trustee card",
+    "TrusteeCard.trusteeCardDescription": "Step into a secure future with Trustee Plus. Pay for everyday needs with crypto directly from the card",
+    "TrusteeCard.order": "Order",
+    "TrusteeCard.greeting": "Greeting",
+    "TrusteeCard.greetingDescription": "You left a request for a Trustee card and it will come to you first. Get ready to pay for coffee in your favorite cafe with crypto in the near future"
 }

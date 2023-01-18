@@ -1,5 +1,5 @@
 {
-  "version" : 240,
+  "version" : 241,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -683,6 +683,7 @@
   "Profile.removeAccountModal.userSure": "Ви впевнені, що хочете видалити свій обліковий запис?",
   "Profile.removeAccountModal.removed": "Ваш обліковий запис буде видалено протягом наступних 24 годин",
   "Profile.photoNotPermissions": "Дозвольте доступ до фотографій у налаштуваннях телефону",
+  "Profile.badConnection": "Немає зʼєднання",
   "History.screenTitle": "Історія",
   "History.detailsScreenTitle": "Деталі",
   "History.emptyTitle": "Тут будуть Ваші транзакції",

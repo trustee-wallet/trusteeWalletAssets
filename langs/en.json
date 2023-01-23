@@ -1,5 +1,5 @@
 {
-    "version" : 241,
+    "version" : 242,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1046,8 +1046,8 @@
     "NewsScreen.title": "News",
     "NewsScreen.emptyNews": "There is currently no news",
     "TrusteeCard.trusteeCard": "Trustee card",
-    "TrusteeCard.trusteeCardDescription": "Step into a secure future with Trustee Plus. Pay for everyday needs with crypto directly from the card",
+    "TrusteeCard.trusteeCardDescription": "Moving into the future together! Pay for services or goods with crypto using a card from Trustee.",
     "TrusteeCard.order": "Order",
     "TrusteeCard.greeting": "Greeting",
-    "TrusteeCard.greetingDescription": "You left a request for a Trustee card and it will come to you first. Get ready to pay for coffee in your favorite cafe with crypto in the near future"
+    "TrusteeCard.greetingDescription": "You requested for a crypto card from Trustee. We will notify you as soon as it is ready. Stay tuned."
 }

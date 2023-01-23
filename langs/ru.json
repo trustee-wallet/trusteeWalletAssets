@@ -1,5 +1,5 @@
 {
-  "version" : 241,
+  "version" : 242,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1046,8 +1046,8 @@
   "NewsScreen.title": "Новости",
   "NewsScreen.emptyNews": "В настоящее время нет новостей",
   "TrusteeCard.trusteeCard": "Trustee карта",
-  "TrusteeCard.trusteeCardDescription": "Шагай в безопасное будущее с Trustee Plus. Рассчитывайся за повседневные нужды криптой прямо с карты",
+  "TrusteeCard.trusteeCardDescription": "Вместе в будущее! Рассчитывайтесь за услуги или товары сразу криптовалютой с карточкой от Trustee.",
   "TrusteeCard.order": "Заказать",
   "TrusteeCard.greeting": "Поздравляем",
-  "TrusteeCard.greetingDescription": "Вы оставили запрос на Trustee карту и вам она придет в первую очередь. Готовьтесь в ближайшее время рассчитываться за кофе в любимой кафешке криптой"
+  "TrusteeCard.greetingDescription": "Вы оставили запрос на получение криптокарты от Trustee. Мы сообщим Вам сразу, как только она будет готова. Следите за новостями."
 }

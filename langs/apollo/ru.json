@@ -30,6 +30,8 @@
     "userLogin.notValidTelegramCodeValue.telegram": "Кто-то пробовал зайти в приложение с неправильным кодом {ip}",
     "userLogin.successNoPin.telegram": "Пользователь {mobile} успешно зашел в Trustee Plus, {logModel}",
     "userLogin.successWillAskPin.telegram": "Пользователь {mobile} успешно зашел в Trustee Plus, но требуется ввести Pin-код, {logModel}",
+    "userLogin.successWillAsk2FA.telegram": "Пользователь {mobile} успешно зашел в Trustee Plus, но требуется ввести 2FA, {logModel}",
+    "userLogin.successWillAskPin2FA.telegram": "Пользователь {mobile} успешно зашел в Trustee Plus, но требуется ввести Pin-код и 2FA, {logModel}",
     "userLogin.invalidPin.telegram": "Пользователь {mobile} ввел неверный Pin-код в Trustee Plus, {logModel}",
     "userLogin.blockedWithPin.telegram": "Пользователь {mobile} ввел неверный Pin-код слишком много раз и был заблокирован в Trustee Plus, {logModel}",
     "userLogin.successWithPin.telegram": "Пользователь {mobile} успешно зашел в Trustee Plus, применив Pin-код, {logModel}",

@@ -30,6 +30,8 @@
     "userLogin.notValidTelegramCodeValue.telegram": "Someone tried to login with wrong code {ip}",
     "userLogin.successNoPin.telegram": "User {mobile} Successful login to Trustee Plus, {logModel}",
     "userLogin.successWillAskPin.telegram":  "User {mobile} Successful login, but need to approve Pin-code, {logModel}",
+    "userLogin.successWillAsk2FA.telegram": "User {mobile} Successful login, but need to approve 2FA, {logModel}",
+    "userLogin.successWillAskPin2FA.telegram": "User {mobile} Successful login, but need to approve Pin-code and 2FA, {logModel}",
     "userLogin.invalidPin.telegram": "User {mobile} has entered incorrect Pin-code to Trustee Plus, {logModel}",
     "userLogin.blockedWithPin.telegram": "User {mobile} has entered incorrect Pin-code too many times and is blocked in Trustee Plus, {logModel}",
     "userLogin.successWithPin.telegram": "User {mobile} Successful login, Pin-code approved, {logModel}",

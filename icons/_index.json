@@ -1,5 +1,5 @@
 {
-    "version" : 15,
+    "version" : 16,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#2CC690",
@@ -42,8 +42,8 @@
         "ZEC": "#F8B630",
         "ZEC_dark_theme": "#F6C35B",
         "XEM": "#2CAFEF",
-        "UAH": "#161616",
-        "UAH_dark_theme": "#DADADA",
+        "UAH": "#3736E8",
+        "UAH_dark_theme": "#9898FF",
         "USD": "#10BB58",
         "USD_dark_theme": "#61CD8F",
         "TUSD": "#3171EF",
@@ -107,8 +107,8 @@
         "ZEC": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/zec.png",
         "ZEC_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/zec_dark_theme.png",
         "XEM": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/xem.png",
-        "UAH": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/leopard.png",
-        "UAH_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/leopard_dark_theme.png",
+        "UAH": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/uah.png",
+        "UAH_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/uah_dark_theme.png",
         "USD": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/usd.png",
         "USD_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/usd_dark_theme.png",
         "TUSD": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/tusd.png",

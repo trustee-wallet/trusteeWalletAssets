@@ -1,5 +1,5 @@
 {
-  "version" : 247,
+  "version" : 248,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -629,7 +629,7 @@
   "Settings2FA.setGoogle2FA.inputLabel": "OTP код",
   "Settings2FA.setGoogle2FA.inputDescription": "Вставте OTP код з Google Auth",
   "Settings2FA.secretCopied": "Скопировано",
-  "Settings2FA.enable": "Активировать",
+  "Settings2FA.setGoogle2FA.enable": "Активировать",
   "Settings2FA.needUser2FA": "Не установлен 2FA",
   "Settings2FA.disabledDescription.GA_2FA": "Google Auth не подключен. Пожалуйста, подключите Google Auth для активации функции",
   "Settings2FA.disabledDescription.EMAIL_2FA": "2FA email не подключен. Пожалуйста, подключите 2FA email для активации функции",

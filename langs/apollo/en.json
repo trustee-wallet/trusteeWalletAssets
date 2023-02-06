@@ -89,9 +89,6 @@
     "2FA.emailLine4": " If you are not sure what it is - also please contact support",   
     
     
-    "2FA.emailDesc2": "To confirm, please use code: {otpCode}",
-    "2FA.emailDesc3": "If its not you, please contact ",
-    
     "2FA.CREATE_WITHDRAW.emailTitle": "Trustee Plus: Withdraw {currencyCode} ",
     "2FA.CREATE_WITHDRAW.emailDesc": "You are trying to withdraw {amount} {currencyCode} to {paymentDetails} from Trustee Plus account funds."
     "2FA.CREATE_WITHDRAW.telegramDesc": "To confirm withdraw {amount} {currencyCode} to {paymentDetails} please enter: {otpCode}",

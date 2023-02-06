@@ -64,7 +64,7 @@
     "userData.tgDeclineBtn.telegram": "Decline request",
     
     "2FA.emailBtn": "{otpCode}",
-    "2FA.emailLine2": "",
+    "2FA.emailLine2": "Please note, 2FA code will be active only 5 minutes",
     "2FA.emailLine3": "Not your request? Please contact us via ",
     "2FA.emailLine4": " If you are not sure what it is - also please contact support",   
     
@@ -89,17 +89,17 @@
     "2FA.UPDATE_EMAIL.telegramDesc": "To verify 2FA Email change please enter: {otpCode}",
     
     "2FA.CREATE_WITHDRAW.emailTitle": "Trustee Plus: Withdraw {currencyCode} ",
-    "2FA.CREATE_WITHDRAW.emailDesc": "You are trying to withdraw {amount} {currencyCode} to {paymentDetails} from Trustee Plus account funds. To confirm, please enter:",
+    "2FA.CREATE_WITHDRAW.emailDesc": "You are trying to withdraw <b>{amount} {currencyCode}</b> to <b>{paymentDetails}</b> from Trustee Plus account funds. To confirm, please enter:",
     "2FA.CREATE_WITHDRAW.telegramDesc": "To confirm withdraw {amount} {currencyCode} to {paymentDetails} please enter: {otpCode}",
     
     "2FA.CREATE_WITHDRAW.INTERNAL_TRANSFER.emailTitle": "Trustee Plus: Withdraw {currencyCode} to the user ",    
     "2FA.CREATE_WITHDRAW.PHONE_NUMBER.emailTitle": "Trustee Plus: Withdraw {currencyCode} to the phone number ",
     "2FA.CREATE_WITHDRAW.CRYPTO.emailTitle": "Trustee Plus: Withdraw {currencyCode} to the address ",
     "2FA.CREATE_WITHDRAW.CARD.emailTitle": "Trustee Plus: Withdraw {currencyCode} to the card ",    
-    "2FA.CREATE_WITHDRAW.CARD.emailDesc": "You are trying to withdraw {amount} {currencyCode} to the card {paymentDetails} from Trustee Plus account funds. To confirm, please enter:",
+    "2FA.CREATE_WITHDRAW.CARD.emailDesc": "You are trying to withdraw <b>{amount} {currencyCode}</b> to the card <b>{paymentDetails}</b> from Trustee Plus account funds. To confirm, please enter:",
     "2FA.CREATE_WITHDRAW.CARD.telegramDesc": "To confirm withdraw {amount} {currencyCode} to the card {paymentDetails} please enter: {otpCode}",
     "2FA.CREATE_SWAP.emailTitle": "Trustee Plus: Swap {fromCurrencyCode} to {toCurrencyCode} 2FA ",
-    "2FA.CREATE_SWAP.emailDesc": "You are trying to swap {fromAmount} {fromCurrencyCode} to {toAmount} {toCurrencyCode} Trustee Plus account funds. To confirm, please enter:",
+    "2FA.CREATE_SWAP.emailDesc": "You are trying to swap <b>{fromAmount} {fromCurrencyCode}</b> to <b>{toAmount} {toCurrencyCode}</b> Trustee Plus account funds. To confirm, please enter:",
     "2FA.CREATE_SWAP.telegramDesc": "To confirm swap  {fromAmount} {fromCurrencyCode} to {toAmount} {toCurrencyCode} please enter: {otpCode}",
     
     "userHistory.reaction.pushTitle": "New reaction!",

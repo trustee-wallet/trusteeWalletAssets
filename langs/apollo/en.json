@@ -84,13 +84,13 @@
     "2FA.UPDATE_EMAIL.emailDesc": "You are trying to change Trustee Plus account email. To confirm that this email will not be used anymore, please use code: {otpCode}",
     "2FA.UPDATE_EMAIL.telegramDesc": "To verify 2FA Email change please enter: {otpCode}",
    
-    "2FA.CREATE_WITHDRAW.emailTitle": "Trustee Plus: Withdraw 2FA ",
-    "2FA.CREATE_WITHDRAW.emailDesc": "You are trying to withdraw Trustee Plus account funds. To confirm, please use code: {otpCode}",
-    "2FA.CREATE_WITHDRAW.telegramDesc": "To confirm withdraw please enter: {otpCode}",
+    "2FA.CREATE_WITHDRAW.emailTitle": "Trustee Plus: Withdraw {currencyCode} 2FA ",
+    "2FA.CREATE_WITHDRAW.emailDesc": "You are trying to withdraw {amount} {currencyCode} from Trustee Plus account funds. To confirm, please use code: {otpCode}",
+    "2FA.CREATE_WITHDRAW.telegramDesc": "To confirm withdraw {amount} {currencyCode} please enter: {otpCode}",
    
-    "2FA.CREATE_SWAP.emailTitle": "Trustee Plus: Swap 2FA ",
-    "2FA.CREATE_SWAP.emailDesc": "You are trying to swap Trustee Plus account funds. To confirm, please use code: {otpCode}",
-    "2FA.CREATE_SWAP.telegramDesc": "To confirm swap please enter: {otpCode}",
+    "2FA.CREATE_SWAP.emailTitle": "Trustee Plus: Swap {fromCurrencyCode} to {toCurrencyCode} 2FA ",
+    "2FA.CREATE_SWAP.emailDesc": "You are trying to swap {fromAmount} {fromCurrencyCode} to {toAmount} {toCurrencyCode} Trustee Plus account funds. To confirm, please use code: {otpCode}",
+    "2FA.CREATE_SWAP.telegramDesc": "To confirm swap  {fromAmount} {fromCurrencyCode} to {toAmount} {toCurrencyCode} please enter: {otpCode}",
     
     "userHistory.reaction.pushTitle": "New reaction!",
     "userHistory.reaction.pushDesc": "You have been sent a reaction \"{reaction}\"",

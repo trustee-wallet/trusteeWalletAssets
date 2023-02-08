@@ -1,5 +1,5 @@
 {
-  "version" : 249,
+  "version" : 250,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -135,6 +135,7 @@
   "Home.balanceCopied": "Общий баланс скопирован",
   "Home.zeroBalanceText": "Эммм... после скрытия всех нулевых балансов у Вас пустой список монет",
   "Home.zeroBalanceButton": "Показать 0 балансы",
+  "Home.synchronization": "Синхронизация",
   "Account.prettyName.BCH": "Bitcoin Cash",
   "Account.prettyName.BNB": "Binance Coin",
   "Account.prettyName.BSC": "BNB Smart Chain",

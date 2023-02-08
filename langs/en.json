@@ -1,5 +1,5 @@
 {
-    "version" : 249,
+    "version" : 250,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -135,6 +135,7 @@
     "Home.balanceCopied": "Total balance copied",
     "Home.zeroBalanceText": "Emmm... after hiding all zero balances you have an empty list of coins",
     "Home.zeroBalanceButton": "Show 0 balances",
+    "Home.synchronization": "Synchronization",
     "Account.prettyName.BCH": "Bitcoin Cash",
     "Account.prettyName.BNB": "Binance Coin",
     "Account.prettyName.BSC": "BNB Smart Chain",

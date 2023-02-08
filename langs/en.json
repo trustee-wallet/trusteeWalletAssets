@@ -1,5 +1,5 @@
 {
-    "version" : 250,
+    "version" : 251,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -406,7 +406,7 @@
     "WithdrawMethods.durationTransfer.DOGE": "🕑 up to 30 min",
     "WithdrawMethods.durationTransfer.EOS": "🕑 up to 10 min",
     "WithdrawMethods.durationTransfer.LINK": "🕑 up to 10 min",
-    "WithdrawMethods.durationTransfer.LTC": "🕑 up to 10 min",
+    "WithdrawMethods.durationTransfer.LTC": "🕑 30-60 min",
     "WithdrawMethods.durationTransfer.TRX": "🕑 up to 10 min",
     "WithdrawMethods.durationTransfer.TUSD": "🕑 up to 10 min",
     "WithdrawMethods.durationTransfer.WAVES": "🕑 up to 30 min",

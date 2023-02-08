@@ -1,5 +1,5 @@
 {
-  "version" : 250,
+  "version" : 251,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -406,7 +406,7 @@
   "WithdrawMethods.durationTransfer.DOGE": "🕑 до 30 хв",
   "WithdrawMethods.durationTransfer.EOS": "🕑 до 10 хв",
   "WithdrawMethods.durationTransfer.LINK": "🕑 до 10 хв",
-  "WithdrawMethods.durationTransfer.LTC": "🕑 до 10 хв",
+  "WithdrawMethods.durationTransfer.LTC": "🕑 30-60 хв",
   "WithdrawMethods.durationTransfer.TRX": "🕑 до 10 хв",
   "WithdrawMethods.durationTransfer.TUSD": "🕑 до 10 хв",
   "WithdrawMethods.durationTransfer.WAVES": "🕑 до 30 хв",

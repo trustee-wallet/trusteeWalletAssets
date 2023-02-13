@@ -1,5 +1,5 @@
 {
-  "version" : 255,
+  "version" : 256,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -383,6 +383,7 @@
   "Withdraw.addNewCard": "Додати нову картку",
   "Withdraw.sendSms": "Відправити SMS",
   "Withdraw.unsupportedCountry": "{countryCode} не підтримується для даного напрямку",
+  "Withdraw.validateBankTransfer.INVALID_FORMAT": "Некоректна інформація. Будь ласка, змініть дані",
   "WithdrawScreen.notification.step2.title": "Крок 2",
   "WithdrawScreen.notification.step2.description": "Обмін успішний, тепер Ви можете переказати гроші на картку",
   "WithdrawMethods.title": "Тип переказу",

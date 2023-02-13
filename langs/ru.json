@@ -1,5 +1,5 @@
 {
-  "version" : 255,
+  "version" : 256,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -381,6 +381,7 @@
   "Withdraw.shareDonateMessage": "Я пожертовал(а) {amount} на категорию '{prettySelectedCategory}'.\nУстановите приложение по ссылке и поддержите Украину.\n\n{referralLink}",
   "Withdraw.needMemo": "Мы не позволяем создавать перевод без memo. Если Вы уверены, что для вывода не нужно его указывать, то можете вписать в поле memo любой текст",
   "Withdraw.unsupportedCountry": "{countryCode} не поддерживается для даного направления",
+  "Withdraw.validateBankTransfer.INVALID_FORMAT": "Некорректная информация. Пожалуйста, измените данные",
   "WithdrawScreen.notification.step2.title": "Шаг 2",
   "WithdrawScreen.notification.step2.description": "Обмен успешный, теперь Вы можете перевести деньги на карту",
   "WithdrawMethods.title": "Тип перевода",

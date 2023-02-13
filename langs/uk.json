@@ -1,5 +1,5 @@
 {
-  "version" : 253,
+  "version" : 254,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -630,7 +630,7 @@
   "Settings2FA.enable": "Налаштовано",
   "Settings2FA.disable": "Не налаштовано",
   "Settings2FA.setGoogle2FA.title": "Автентифікатор",
-  "Settings2FA.setGoogle2FA.downloadGoogleAuth": "Скануйте QR-код застосуноком автентифікатором. Якщо у Вас такого немає, Ви можете скачати застосунок <GoogleAuth>Google Auth</GoogleAuth>",
+  "Settings2FA.setGoogle2FA.downloadGoogleAuth": "Скануйте QR-код застосуноком автентифікатором. Якщо у Вас такого немає, можете скачати застосунок <GoogleAuth>Google Auth</GoogleAuth>",
   "Settings2FA.setGoogle2FA.secret": "Секретий ключ",
   "Settings2FA.setGoogle2FA.inputLabel": "Код з автентифікатора",
   "Settings2FA.setGoogle2FA.inputDescription": "Вставте код з автентифікатора",
@@ -726,6 +726,7 @@
   "Profile.telegram": "Telegram bot",
   "Profile.connected": "Налаштовано",
   "Profile.notConfirmEmail": "Не підтверджена",
+  "Profile.copied": "Скопійовано",
   "UserProfileEmailChanges.emailInputDescription": "Введіть, будь ласка, електронну пошту та нажміть підтвердити",
   "UserProfileEmailChanges.resendDescription": "Прив’язка не завершена, перевірте свою електронну пошту для подальших інструкцій",
   "UserProfileEmailChanges.change": "Змінити",

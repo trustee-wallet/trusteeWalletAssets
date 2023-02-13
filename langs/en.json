@@ -1,5 +1,5 @@
 {
-    "version" : 253,
+    "version" : 254,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -726,6 +726,7 @@
     "Profile.telegram": "Telegram bot",
     "Profile.connected": "Connected",
     "Profile.notConfirmEmail": "Not confirm",
+    "Profile.copied": "Copied",
     "UserProfileEmailChanges.emailInputDescription": "Enter your email and click confirm",
     "UserProfileEmailChanges.resendDescription": "Binding not completed, please check your email for further instructions",
     "UserProfileEmailChanges.change": "Change",

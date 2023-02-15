@@ -10,5 +10,6 @@
   "Push.withdraw.partlyDoneMessage": "Sorry, but we were able to transfer only {{amount}} {{currencySymbol}}. The rest of the funds have been returned to your balance.",
   "Push.withdraw.canceledMessage": "Unfortunately, we were unable to transfer {{amount}} {{currencySymbol}}. The funds were returned to the balance.",
   "Push.withdraw.newUserSuccess": "User {{receiver}} received your transfer of {{amount}} {{currencySymbol}} and joined the Trustee Plus family!",
-  "Push.withdraw.availableRefund": "User {{receiver}} did not receive your transfer {{amount}} {{currencySymbol}} for the allotted period. You can return these funds to your balance if you wish."
+  "Push.withdraw.availableRefund": "User {{receiver}} did not receive your transfer {{amount}} {{currencySymbol}} for the allotted period. You can return these funds to your balance if you wish.",
+  "Push.depositAndWithdraw.errorMessage": "Unfortunately, an unpredictable error occurred during the operation. Please contact support for additional details."
 }

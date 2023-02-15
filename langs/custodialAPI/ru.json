@@ -10,5 +10,6 @@
   "Push.withdraw.partlyDoneMessage": "Извините, но мы смогли перевести только {{amount}} {{currencySymbol}}. Остаток средств был возвращён на Ваш баланс.",
   "Push.withdraw.canceledMessage": "К сожалению, мы не смогли провести Ваш перевод {{amount}} {{currencySymbol}}. Средства были возвращены на баланс.",
   "Push.withdraw.newUserSuccess": "Пользователь {{receiver}} получил Ваш перевод {{amount}} {{currencySymbol}} и присоединился к семье Trustee Plus!",
-  "Push.withdraw.availableRefund": "Пользователь {{receiver}} не получил Ваш перевод {{amount}} {{currencySymbol}} за отведенный срок. Вы можете вернуть эти средства на свой баланс, если желаете."
+  "Push.withdraw.availableRefund": "Пользователь {{receiver}} не получил Ваш перевод {{amount}} {{currencySymbol}} за отведенный срок. Вы можете вернуть эти средства на свой баланс, если желаете.",
+  "Push.depositAndWithdraw.errorMessage": "К сожалению, во время выполнения Вашей операции произошла непредсказуемая ошибка. За дополнительными деталями обратитесь, пожалуйста, в службу поддержки."
 }

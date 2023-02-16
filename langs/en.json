@@ -1,5 +1,5 @@
 {
-    "version" : 257,
+    "version" : 258,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -862,6 +862,7 @@
     "History.withdrawCanceled.description.BLOCKLIST_ADDRESS": "You have specified the address that is in the block list. Unfortunately, transfer to such an address is impossible.",
     "History.withdrawCanceled.description.WITHDRAW_DISABLED": "Sorry, the selected method of transfer is temporarily unavailable.",
     "History.withdrawCanceled.description.UNKNOWN_ERROR": "Sorry, an unpredictable error occurred when processing a transfer. Please contact support for additional details.",
+    "History.withdrawCanceled.descriptionForFiat.CANCELED_BY_IA": "The payment system was unable to make your transfer. We recommend using another bank card.",
     "SocialLinks.telegram": "https://t.me/trustee_en",
     "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
     "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

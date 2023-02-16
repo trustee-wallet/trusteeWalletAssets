@@ -877,7 +877,7 @@
     "PushNotifications.permsModalSecondaryBtn": "No",
     "InfoModal.SUCCESS": "Success",
     "InfoModal.WARNING": "Warning",
-    "InfoModal.ERROR": "Oops ...",
+    "InfoModal.ERROR": "Oops...",
     "InfoModal.SESSION_EXPIRED": "The session time is probably over. Or you went to the application on another device, if it was not you - urgently contact support",
     "InfoModal.SESSION_ANOTHER_DEVICE": "You went to the application on another device, if it was not you - urgently contact support",
     "InfoModal.NO_USER_2FA_NOT_VERIFIED": "You long time not paste 2FA OTP-code, if it was not you - urgently contact support",

@@ -1,5 +1,5 @@
 {
-    "version" : 260,
+    "version" : 261,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -659,7 +659,7 @@
     "About.intro": "Crypto neobank in your phone",
     "About.siteTitle": "trusteeglobal.com",
     "About.siteSubtitle": "Official website",
-    "About.siteLink": "https://trusteeglobal.com/",
+    "About.siteLink": "https://trusteeglobal.com/trustee-plus",
     "About.privacyPolicy": "Privacy policy",
     "About.privacyPolicyLink": "https://trusteeglobal.com/privacy-policy-trustee-plus/?header_footer=none&stop_war=none&support=none&siteLang=en",
     "About.termsOfUse": "Terms of use",

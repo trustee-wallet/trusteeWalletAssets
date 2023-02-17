@@ -1,5 +1,5 @@
 {
-  "version" : 259,
+  "version" : 260,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -734,6 +734,7 @@
   "Profile.connected": "Налаштовано",
   "Profile.notConfirmEmail": "Не підтверджена",
   "Profile.copied": "Скопійовано",
+  "Profile.noSet": "Не встановлено",
   "UserProfileEmailChanges.emailInputDescription": "Введіть, будь ласка, електронну пошту та нажміть підтвердити",
   "UserProfileEmailChanges.resendDescription": "Прив’язка не завершена, перевірте свою електронну пошту для подальших інструкцій",
   "UserProfileEmailChanges.change": "Змінити",

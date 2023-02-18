@@ -1,5 +1,5 @@
 {
-  "version" : 261,
+  "version" : 262,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1067,7 +1067,7 @@
   "QuickActions.title.Incognito": "Режим інкогніто",
   "ErrorApolloScreen.serviceUnavailable": "Сервіс тимчасово недоступний",
   "ErrorApolloScreen.FORCE_UPDATE": "Якщо Ви хочете користуватися Trustee Plus, потрібно оновити застосунок. Ви можете зробити це зараз або пізніше",
-  "ErrorApolloScreen.FORCE_UPDATE.title": "Сервіс тимчасово недоступний",
+  "ErrorApolloScreen.FORCE_UPDATE.title": "Вийшла нова версія",
   "ErrorApolloScreen.FORCE_UPDATE.description": "Якщо Ви хочете користуватися Trustee Plus, потрібно оновити застосунок. Ви можете зробити це зараз або пізніше",
   "ErrorApolloScreen.FORCE_MAINTENANCE": "Сервіс тимчасово недоступний. Оновлення сервісу. Ваші гроші в безпеці. Будь ласка, спробуйте пізніше. Щоб дізнатися більше, зверніться до служби підтримки",
   "ErrorApolloScreen.FORCE_MAINTENANCE.title": "Сервіс тимчасово недоступний",

@@ -1,5 +1,5 @@
 {
-    "version" : 264,
+    "version" : 265,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1189,6 +1189,7 @@
     "Verification.trusteeVerification.lastNameError": "Enter first and last name",
     "Verification.trusteeVerification.taxPayerCodeError": "Enter the identification code",
     "Verification.trusteeVerification.dateError": "Choose a date",
+    "Verification.trusteeVerification.invalidDateError": "Invalid date",
     "Verification.titlePhoto.PASSPORT": "Passport photo ID",
     "Verification.titlePhoto.PASSPORT_BOOK": "Photo of the passport page",
     "Verification.titlePhoto.INTERNATIONAL_PASSPORT": "International passport photo",
@@ -1203,6 +1204,7 @@
     "Verification.trusteeVerification.documentCameraDescription": "Please, place the document inside the rectangle to take photo",
     "Verification.trusteeVerification.apartmentError": "Enter the apartment number",
     "Verification.trusteeVerification.postalIndexError": "Enter your zip code",
+    "Verification.trusteeVerification.postalIndexInvalid": "Invalid zip code",
     "Verification.trusteeVerification.dateOfUntilValidError": "Please check the date",
     "Verification.trusteeVerification.uploadError": "Something went wrong. Please try again later or contact support",
     "Verification.trusteeVerification.uploadPhotoError": "Something went wrong. Please try again later or contact support",

@@ -1,5 +1,5 @@
 {
-  "version" : 264,
+  "version" : 265,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1189,6 +1189,7 @@
     "Verification.trusteeVerification.lastNameError": "Введіть імʼя та прізвище",
     "Verification.trusteeVerification.taxPayerCodeError": "Введіть ідентифікаційний код",
     "Verification.trusteeVerification.dateError": "Оберіть дату",
+    "Verification.trusteeVerification.invalidDateError": "Невірна дата",
     "Verification.titlePhoto.PASSPORT": "Фото ID паспорта",
     "Verification.titlePhoto.PASSPORT_BOOK": "Фото сторінки паспорта",
     "Verification.titlePhoto.INTERNATIONAL_PASSPORT": "Фото паспорта міжнародного зразка",
@@ -1202,6 +1203,7 @@
     "Verification.trusteeVerification.houseError": "Введіть номер будинку",
     "Verification.trusteeVerification.apartmentError": "Введіть номер квартири",
     "Verification.trusteeVerification.postalIndexError": "Введіть поштовий індекс",
+    "Verification.trusteeVerification.postalIndexInvalid": "Невірний поштовий індек",
     "Verification.trusteeVerification.dateOfUntilValidError": "Перевірте, будь ласка, дату",
     "Verification.trusteeVerification.uploadError": "От халепа. Схоже щось пішло не так. Спробуйте, будь ласка, пізніше або зверніться в служби підтримки",
     "Verification.trusteeVerification.uploadPhotoError": "От халепа. Схоже щось пішло не так. Спробуйте, будь ласка, пізніше або зверніться в служби підтримки",

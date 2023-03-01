@@ -1,5 +1,5 @@
 {
-  "version" : 266,
+  "version" : 267,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -275,8 +275,8 @@
   "Swap.includeFee": "Комісія становить {{swapFee}}",
   "Swap.notification.step1.title": "Крок 1",
   "Swap.notification.step1.description": "Спершу обмін, а потім гроші на картку",
-  "Swap.isNotAvailableWay": "Обрана вами обмінна пара, тимчасово недоступна. Ви можете отримати бажану валюту вибравши інший актив. Або спробуйте спочатку обміняти наявну у вас валюту на USDT, і потім у бажаний актив",
-  "Swap.isNotAvailableWayForUSDT": "Обрана вами обмінна пара, тимчасово недоступна. Ви можете отримати бажану валюту вибравши інший актив.",
+  "Swap.isNotAvailableWay": "Обрана вами обмінна пара тимчасово недоступна. Ви можете отримати бажану валюту вибравши інший актив. Або спробуйте спочатку обміняти наявну у вас валюту на USDT, і потім у бажаний актив",
+  "Swap.isNotAvailableWayForUSDT": "Обрана вами обмінна пара тимчасово недоступна. Ви можете отримати бажану валюту вибравши інший актив.",
   "TopUp.title" : "Поповнення {symbol}",
   "TopUp.titleFiat" : "Поповнення {symbol}",
   "TopUp.addressCopied": "Адресу скопійовано",
@@ -740,6 +740,7 @@
   "Profile.notConfirmEmail": "Не підтверджена",
   "Profile.copied": "Скопійовано",
   "Profile.noSet": "Не встановлено",
+  "Profile.person": "Особа",
   "Profile.verificationStatus.KYC_EMPTY": "Не підтверджено",
   "Profile.verificationStatus.KYC_VERIFIED": "Підтверджено",
   "Profile.verificationStatus.KYC_WAIT_FOR_REVIEW": "Опрацьовується",
@@ -895,7 +896,7 @@
   "InfoModal.SESSION_ANOTHER_DEVICE": "Ви зайшли в застосунок на іншому пристрої, якщо це були не Ви - терміново зверніться до служби підтримки",
   "InfoModal.NO_USER_2FA_NOT_VERIFIED": "Ви довгий час не підтверджували 2FA, якщо це були не Ви - терміново зверніться до служби підтримки",
   "InfoModal.OK": "Ок",
-  "InfoModal.updateLocaleLanguage": "Раніше Ви використовували мову – {{language}}. Бажаєте змінити мову?",
+  "InfoModal.updateLocaleLanguage": "Раніше, у застосунку Trustee Plus ви використовували мову – {{language}}. Наразі мова застосунку - {{currentLanguage}}. Бажаєте змінити мову?",
   "InfoModal.saveLanguage": "Залишити мову - {{currentLanguage}}",
   "InfoModal.changeLanguage": "Змінити мову на - {{language}}",
   "InfoModal.errorDescription": "От халепа. Щось пішло не так. Спробуйте, будь ласка, пізніше",
@@ -1220,5 +1221,11 @@
   "Verification.livenessCheck.HEAD_UP": "Підніміть голову вгору",
   "Verification.livenessCheck.HEAD_DOWN": "Нахиліть голову вниз",
   "Verification.livenessCheck.SMILE": "Посміхніться",
-  "Verification.livenessCheck.uploadError": "От халепа. Схоже щось пішло не так. Спробуйте, будь ласка, пізніше або зверніться в служби підтримки"
+  "Verification.livenessCheck.uploadError": "От халепа. Схоже щось пішло не так. Спробуйте, будь ласка, пізніше або зверніться в служби підтримки",
+  "Verification.camera": "Камера",
+  "Verification.trusteeVerification.urkNameInvalidSymbol": "Недоступні символи",
+  "Verification.trusteeVerification.nameInvalidSymbol": "Тільки латинські літери",
+  "DatePicker.title": "Оберіть дату",
+  "DatePicker.cancelText": "Відміна",
+  "DatePicker.confirmText": "Підтвердити"
 }

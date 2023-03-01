@@ -1,5 +1,5 @@
 {
-  "version" : 266,
+  "version" : 267,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -273,8 +273,8 @@
   "Swap.includeFee": "Комиссия составляет {{swapFee}}",
   "Swap.notification.step1.title": "Шаг 1",
   "Swap.notification.step1.description": "Сначала обмен, потом деньги на карту",
-  "Swap.isNotAvailableWay": "Выбранная вами обменная пара, временно недоступна. Вы можете получить желаемую валюту, выбрав другой актив. Или попробуйте сначала обменять имеющуюся у вас валюту на USDT, а затем в желаемый актив",
-  "Swap.isNotAvailableWayForUSDT": "Выбранная вами обменная пара, временно недоступна. Вы можете получить желаемую валюту, выбрав другой актив",
+  "Swap.isNotAvailableWay": "Выбранная вами обменная пара временно недоступна. Вы можете получить желаемую валюту, выбрав другой актив. Или попробуйте сначала обменять имеющуюся у вас валюту на USDT, а затем в желаемый актив",
+  "Swap.isNotAvailableWayForUSDT": "Выбранная вами обменная пара временно недоступна. Вы можете получить желаемую валюту, выбрав другой актив",
   "TopUp.title" : "Пополнение {symbol}",
   "TopUp.titleFiat" : "Пополнение {symbol}",
   "TopUp.addressCopied": "Адрес скопирован",
@@ -738,6 +738,7 @@
   "Profile.notConfirmEmail": "Не подтверждена",
   "Profile.copied": "Скопировано",
   "Profile.noSet": "Не уставнолено",
+  "Profile.person": "Личность",
   "Profile.verificationStatus.KYC_EMPTY": "Не подтверждено",
   "Profile.verificationStatus.KYC_VERIFIED": "Подтверждено",
   "Profile.verificationStatus.KYC_WAIT_FOR_REVIEW": "В обработке",
@@ -893,7 +894,7 @@
   "InfoModal.SESSION_ANOTHER_DEVICE": "Вы зашли в Приложение на другом устройстве, если это были не Вы – срочно обратитесь в службу поддержки",
   "InfoModal.NO_USER_2FA_NOT_VERIFIED": "Вы долгое время не подтверждали 2FA, если это были не вы - срочно обращайтесь в службу поддержки",
   "InfoModal.OK": "Ok",
-  "InfoModal.updateLocaleLanguage": "Раньше Вы использовали язык – {{language}}. Желаете изменить язык?",
+  "InfoModal.updateLocaleLanguage": "Ранее, в приложении Trustee Plus вы использовали язык – {{language}}. Теперь язык приложения - {{currentLanguage}}. Хотите изменить язык?",
   "InfoModal.saveLanguage": "Оставить язык - {{currentLanguage}}",
   "InfoModal.changeLanguage": "Изменить язык на - {{language}}",
   "InfoModal.errorDescription": "Что-то пошло не так. Пожалуйста, попробуйте позже",
@@ -1218,5 +1219,11 @@
     "Verification.livenessCheck.HEAD_UP": "Поднимите голову вверх",
     "Verification.livenessCheck.HEAD_DOWN": "Наклоните голову вниз",
     "Verification.livenessCheck.SMILE": "Улыбнитесь",
-    "Verification.livenessCheck.uploadError": "Что-то пошло не так. Попробуйте, пожалуйста, позже или обратитесь в службу поддержки"
+    "Verification.livenessCheck.uploadError": "Что-то пошло не так. Попробуйте, пожалуйста, позже или обратитесь в службу поддержки",
+    "Verification.camera": "Камера",
+    "Verification.trusteeVerification.urkNameInvalidSymbol": "Недопустимые символы",
+    "Verification.trusteeVerification.nameInvalidSymbol": "Только латинские буквы",
+    "DatePicker.title": "Выберите дату",
+    "DatePicker.cancelText": "Отмена",
+    "DatePicker.confirmText": "Подтвердить"
 }

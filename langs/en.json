@@ -1,5 +1,5 @@
 {
-    "version" : 266,
+    "version" : 267,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -740,6 +740,7 @@
     "Profile.notConfirmEmail": "Not confirm",
     "Profile.copied": "Copied",
     "Profile.noSet": "No set",
+    "Profile.person": "Person",
     "Profile.verificationStatus.KYC_EMPTY": "Not verify",
     "Profile.verificationStatus.KYC_VERIFIED": "Verify",
     "Profile.verificationStatus.KYC_WAIT_FOR_REVIEW": "In process",
@@ -895,7 +896,7 @@
     "InfoModal.SESSION_ANOTHER_DEVICE": "You went to the application on another device, if it was not you - urgently contact support",
     "InfoModal.NO_USER_2FA_NOT_VERIFIED": "You long time not paste 2FA OTP-code, if it was not you - urgently contact support",
     "InfoModal.OK": "Ok",
-    "InfoModal.updateLocaleLanguage": "Previously, you used the language - {{language}}. Would you like to change the language?",
+    "InfoModal.updateLocaleLanguage": "Previously, in the Trustee Plus application, you used the language - {{language}}. The current language of the application is {{currentLanguage}}. Do you want to change the language?",
     "InfoModal.saveLanguage": "Leave language - {{currentLanguage}}",
     "InfoModal.changeLanguage": "Change language to - {{language}}",
     "InfoModal.errorDescription": "Something went wrong. Please, try again later",
@@ -1220,5 +1221,11 @@
     "Verification.livenessCheck.HEAD_UP": "Lift your head up",
     "Verification.livenessCheck.HEAD_DOWN": "Tilt your head down",
     "Verification.livenessCheck.SMILE": "Smile",
-    "Verification.livenessCheck.uploadError": "Something went wrong. Please try again later or contact support"
+    "Verification.livenessCheck.uploadError": "Something went wrong. Please try again later or contact support",
+    "Verification.camera": "Camera",
+    "Verification.trusteeVerification.urkNameInvalidSymbol": "Invalid symbols",
+    "Verification.trusteeVerification.nameInvalidSymbol": "Only Latin letters",
+    "DatePicker.title": "Select date",
+    "DatePicker.cancelText": "Cancel",
+    "DatePicker.confirmText": "Confirm"
 }

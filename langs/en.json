@@ -1,5 +1,5 @@
 {
-    "version" : 267,
+    "version" : 268,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -277,6 +277,7 @@
     "Swap.notification.step1.description": "First swap, then money to card",
     "Swap.isNotAvailableWay": "The exchange pair you selected is temporarily unavailable. You can get the desired currency by choosing another asset. Or try exchanging your existing currency to USDT first, and then to the desired asset",
     "Swap.isNotAvailableWayForUSDT": "The exchange pair you selected is temporarily unavailable. You can get the desired currency by choosing another asset",
+    "Swap.notice.disabledWithdraw.СARD.UAH": "UAH card transfers are now on unplanned technical works.",
     "TopUp.title" : "Top up {symbol}",
     "TopUp.titleFiat" : "Top up {symbol}",
     "TopUp.addressCopied": "Address copied",

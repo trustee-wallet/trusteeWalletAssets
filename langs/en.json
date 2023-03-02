@@ -277,7 +277,7 @@
     "Swap.notification.step1.description": "First swap, then money to card",
     "Swap.isNotAvailableWay": "The exchange pair you selected is temporarily unavailable. You can get the desired currency by choosing another asset. Or try exchanging your existing currency to USDT first, and then to the desired asset",
     "Swap.isNotAvailableWayForUSDT": "The exchange pair you selected is temporarily unavailable. You can get the desired currency by choosing another asset",
-    "Swap.notice.disabledWithdraw.СARD.UAH": "UAH card transfers are now on unplanned technical works.",
+    "Swap.notice.disabledWithdraw.CARD.UAH": "UAH card transfers are now on unplanned technical works.",
     "TopUp.title" : "Top up {symbol}",
     "TopUp.titleFiat" : "Top up {symbol}",
     "TopUp.addressCopied": "Address copied",

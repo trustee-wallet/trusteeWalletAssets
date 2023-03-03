@@ -22,6 +22,7 @@
     "Login.MOBILE_PHONE_INVALID_LENGTH": "Invalid phone number. Please enter your phone number carefully",
     "Login.GOOGLE_LIB_ERROR": "Invalid phone number. Please enter your phone number carefully",
     "Login.BLOCKED_USER": "User account is blocked, please contact support",
+    "Login.ACCOUNT_REMOVE_REQUEST": "User account is in removal process, please contact support",
     "Login.INVALID_CODE": "Invalid code",
     "Login.signUp.title": "Sign up",
     "Login.signUp.intro": "It will take less than 1 minute",

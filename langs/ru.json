@@ -1,5 +1,5 @@
 {
-  "version" : 274,
+  "version" : 275,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -210,7 +210,7 @@
   "AssetDetails.prettySubTitle.CARD": "Visa/MC",
   "AssetDetails.prettyName.CARD": "Карта",
   "AssetDetails.network": "Network",
-  "AssetDetails.TEMPORARILY_DISABLED" : "Временно недоступно",
+  "AssetDetails.TEMPORARILY_DISABLED" : "Недоступно",
   "CurrencyList.isInternal": "Мгновенный перевод",
   "CurrencyList.isToMobile": "Перевод по моб. номеру",
   "CurrencyList.notAvailableFor": "Недоступно для {symbol}",

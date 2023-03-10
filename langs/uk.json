@@ -1,5 +1,5 @@
 {
-  "version" : 274,
+  "version" : 275,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -212,7 +212,7 @@
   "AssetDetails.prettyName.BANK_TRANSFER": "Банк",
   "AssetDetails.prettySubTitle.BANK_TRANSFER": "Sepa",
   "AssetDetails.network": "Network",
-  "AssetDetails.TEMPORARILY_DISABLED" : "Тимчасово недоступно",
+  "AssetDetails.TEMPORARILY_DISABLED" : "Недоступно",
   "CurrencyList.isInternal": "Миттєвий переказ",
   "CurrencyList.isToMobile": "Переказ по моб. номеру",
   "CurrencyList.notAvailableFor": "Недоступно для {symbol}",

@@ -1,5 +1,5 @@
 {
-  "version" : 273,
+  "version" : 274,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -222,7 +222,7 @@
   "CurrencyList.donationTitle": "Підтримка України",
   "CurrencyList.bonusBalance": "Благодійність",
   "CurrencyList.awards": "Нагороди",
-  "CurrencyList.unAvailable": "Наразі не підтримується",
+  "CurrencyList.unAvailable": "Не підтримується",
   "BalanceWithPercent.iHave": "На балансі",
   "CardScreen.addCard": "Додати картку",
   "CardScreen.editCard": "Редагувати картку",

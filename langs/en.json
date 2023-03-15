@@ -1,5 +1,5 @@
 {
-    "version" : 279,
+    "version" : 280,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1200,7 +1200,7 @@
     "Verification.trusteeVerification.photoDocument": "Photo document",
     "Verification.trusteeVerification.selfie": "Selfie",
     "Verification.trusteeVerification.basicInformation": "Basic information",
-    "Verification.trusteeVerification.useDiia": "Quick check with Diia",
+    "Verification.trusteeVerification.useDiia": "Quick check «Diia»",
     "Verification.trusteeVerification.personalInformation": "Personal information",
     "Verification.trusteeVerification.firstName": "Name",
     "Verification.trusteeVerification.lastName": "Last name",

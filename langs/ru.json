@@ -1,5 +1,5 @@
 {
-  "version" : 282,
+  "version" : 283,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -795,6 +795,7 @@
   "History.txSwapTypesBaseAmount": "Списано:",
   "History.txTypesAdditionalAmountTitle": "Зачислено:",
   "History.txTypesDepositAdditionalAmountTitle": "Зачислено:",
+  "History.waitAdditionalText": "К зачислению:",
   "History.txTypesDonation": "Донат",
   "History.txTypesBonus": "Бонус",
   "History.txRate": "Курс за 1",
@@ -1216,7 +1217,7 @@
     "Verification.trusteeVerification.dateError": "Выберите дату",
     "Verification.trusteeVerification.invalidDateError": "Неверная дата",
     "Verification.titlePhoto.PASSPORT": "Фото ID паспорта",
-    "Verification.titlePhoto.PASSPORT_BOOK": "Фото старници паспорта",
+    "Verification.titlePhoto.PASSPORT_BOOK": "Фото старницы паспорта",
     "Verification.titlePhoto.INTERNATIONAL_PASSPORT": "Фото загранпаспорта",
     "Verification.titlePhoto.DRIVER_LICENSE": "Фото водительского удостоверение",
     "Verification.photoRequirements": "Помістіть документ в квадрат",

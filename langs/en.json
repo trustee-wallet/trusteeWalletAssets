@@ -1,5 +1,5 @@
 {
-    "version" : 282,
+    "version" : 283,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -797,6 +797,7 @@
     "History.txSwapTypesBaseAmount": "You give:",
     "History.txTypesAdditionalAmountTitle": "You get:",
     "History.txTypesDepositAdditionalAmountTitle": "Deposit amount:",
+    "History.waitAdditionalText": "For enrollment:",
     "History.txTypesDonation": "Donate",
     "History.txTypesBonus": "Bonus",
     "History.txRate": "Rate per 1",

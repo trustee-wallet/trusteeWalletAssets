@@ -1,5 +1,5 @@
 {
-    "version" : 281,
+    "version" : 282,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1228,7 +1228,7 @@
     "Verification.trusteeVerification.cityError": "Enter the city",
     "Verification.trusteeVerification.streetError": "Enter the street",
     "Verification.trusteeVerification.houseError": "Enter the house number",
-    "Verification.trusteeVerification.documentCameraDescription": "Please, place the document inside the rectangle to take photo",
+    "Verification.trusteeVerification.documentCameraDescription": "Please, place the document inside the rectangle and press to take photo",
     "Verification.trusteeVerification.apartmentError": "Enter the apartment number",
     "Verification.trusteeVerification.postalIndexError": "Enter your zip code",
     "Verification.trusteeVerification.postalIndexInvalid": "Invalid zip code",

@@ -1,5 +1,5 @@
 {
-  "version" : 283,
+  "version" : 284,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -767,7 +767,7 @@
   "UserProfileEmailChanges.confirm": "Подтвердить",
   "UserProfileUsernameChanges.enterUsername": "Введите псевдоним",
   "UserProfileUsernameChanges.userNameDescription": "Псевдоним дает людям возможность связатся с Вами без номера телефона. Вам смогут отправить деньги за этим псевдонимом",
-  "UserProfileUsernameChanges.USERNAME_INVALID_LENGTH": "Псевдоним неверный",
+  "UserProfileUsernameChanges.USERNAME_INVALID_LENGTH": "Псевдоним должен содержать от 6 до 29 символов",
   "UserProfileUsernameChanges.USERNAME_INVALID_SYMBOLS": "Псевдоним содержит недопустимые символы",
   "UserProfileUsernameChanges.USERNAME_INVALID_FIRST_SYMBOL": "Псевдоним должен начинаться с латинских букв",
   "UserProfileUsernameChanges.USERNAME_FREE": "Псевдоним доступен",

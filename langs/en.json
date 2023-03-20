@@ -1,5 +1,5 @@
 {
-    "version" : 283,
+    "version" : 284,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -769,7 +769,7 @@
     "UserProfileEmailChanges.confirm": "Confirm",
     "UserProfileUsernameChanges.enterUsername": "Set username",
     "UserProfileUsernameChanges.userNameDescription": "A username gives people the opportunity to contact you without a phone number. You will be able to send money for this username",
-    "UserProfileUsernameChanges.USERNAME_INVALID_LENGTH": "Username needs to have 6 or more symbols",
+    "UserProfileUsernameChanges.USERNAME_INVALID_LENGTH": "Username must have from 6 to 29 symbol",
     "UserProfileUsernameChanges.USERNAME_INVALID_SYMBOLS": "Username has invalid symbols",
     "UserProfileUsernameChanges.USERNAME_INVALID_FIRST_SYMBOL": "Username needs start with Latin letters",
     "UserProfileUsernameChanges.USERNAME_FREE": "Username available",

@@ -1,5 +1,5 @@
 {
-  "version" : 284,
+  "version" : 285,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -194,7 +194,7 @@
   "Account.assetMethodNotAvailableNotifyExist": "Ви вже підписані на сповіщення про відновлення роботи",
   "Account.notifyWhenAvailableAsset": "Сповістити",
   "Account.notNotifyWhenAvailableAsset": "Не сповіщати",
-  "Account.needUserKYC.modalDescription": "Для Вашої безпеки та безпеки Вашого облікового записку необхідно підтвердити особі для отримання доступу до даної функції",
+  "Account.needUserKYC.modalDescription": "Для Вашої безпеки та безпеки Вашого облікового запису необхідно підтвердити особу для отримання доступу до даної функції",
   "Account.needUserKYC.passKycLate": "Пізніше",
   "Account.needUserKYC.passKycNow": "Підверидити зараз",
   "AssetDetails.prettyNetwork" : "Mainnet",

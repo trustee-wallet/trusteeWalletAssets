@@ -1,5 +1,5 @@
 {
-    "version" : 286,
+    "version" : 287,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -757,8 +757,8 @@
     "Profile.copied": "Copied",
     "Profile.noSet": "No set",
     "Profile.person": "Person",
-    "Profile.verificationStatus.KYC_EMPTY": "Not verify",
-    "Profile.verificationStatus.KYC_VERIFIED": "Verify",
+    "Profile.verificationStatus.KYC_EMPTY": "Not verified",
+    "Profile.verificationStatus.KYC_VERIFIED": "Verified",
     "Profile.verificationStatus.KYC_WAIT_FOR_REVIEW": "In process",
     "Profile.verificationStatus.KYC_REJECTED": "Blocked",
     "Profile.verificationStatus.KYC_NEED_CORRECTION": "Need correction",

@@ -1,5 +1,5 @@
 {
-    "version" : 18,
+    "version" : 19,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#2CC690",
@@ -67,8 +67,8 @@
         "BTT_dark_theme": "#DADADA",
         "KZT": "#7B231D",
         "KZT_dark_theme": "#B44942",
-        "ARB": "#7B231D",
-        "ARB_dark_theme": "#B44942"
+        "ARB": "#2CAFEF",
+        "ARB_dark_theme": "#4EC4FF"
     },
     "icons" : {
         "USDT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/usdt.png",

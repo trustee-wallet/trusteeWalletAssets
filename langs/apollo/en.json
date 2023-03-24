@@ -54,8 +54,8 @@
     "userData.emailVerification.emailLinkTitle" : "Verify Email",
     "userData.emailVerification.emailLine2": "if the button doesn't work please copy the link below and open it in your browser",
     "userData.emailVerification.emailLine3": "Can't create a Trustee Plus account? It is possible that this Email address has already been used. Please contact us via ",
-    "userData.emailVerification.emailSupportUrl": "https://trusteeglobal.com/",
-    "userData.emailVerification.emailSupportTitle": "SUPPORT.",
+    "userData.emailVerification.emailSupportUrl": "contact@trusteeglobal.com",
+    "userData.emailVerification.emailSupportTitle": "contact@trusteeglobal.com",
     "userData.emailVerification.emailLine4": " If you are not creating a Trustee Plus account, just ignore this Email.",   
     "userData.tgNewVerification.telegram": "User {mobile} requests to confirm the Telegram username, code: <b>{code}</b>",
     "userData.tgNewVerificationWillBeJoined.telegram": "As you have another account with this Telegram username in Trustee Plus - by approval old account will be disabled. <b>Please, move balance if you have any</b>",
@@ -65,8 +65,8 @@
     
     "2FA.emailBtn": "{otpCode}",
     "2FA.emailLine2": "Please note, 2FA code will be active only 5 minutes",
-    "2FA.emailLine3": "Not your request? Please contact us via ",
-    "2FA.emailLine4": " If you are not sure what it is - also please contact support",   
+    "2FA.emailLine3": "If this is not your request please contact us via email ",
+    "2FA.emailLine4": " ",   
     
     "2FA.USER_2FA_CREATE.emailTitle": "Trustee Plus: 2FA Creation",
     "2FA.USER_2FA_CREATE.emailDesc": "To verify that this email address will be used as 2FA please enter:",

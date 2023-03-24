@@ -54,8 +54,8 @@
     "userData.emailVerification.emailLinkTitle" : "Подтвердить Email",
     "userData.emailVerification.emailLine2": "если кнопка не работает, пожалуйста, скопируйте ссылку ниже и откройте ее в своем браузере",
     "userData.emailVerification.emailLine3": "Вам не удается создать учетную запись Trustee Plus? Вероятно, такой Email уже был использован. Пожалуйста, свяжитесь с нами через ",
-    "userData.emailVerification.emailSupportUrl": "https://trusteeglobal.com/",
-    "userData.emailVerification.emailSupportTitle": "СЛУЖБУ ПОДДЕРЖКИ.",
+    "userData.emailVerification.emailSupportUrl": "contact@trusteeglobal.com",
+    "userData.emailVerification.emailSupportTitle": "contact@trusteeglobal.com",
     "userData.emailVerification.emailLine4": " Если Вы не создаете учетную запись Trustee Plus, просто игнорируйте это электронное письмо.",   
     
     "userData.tgNewVerification.telegram": "Пользователь {mobile} сделал запрос для подтверждения Telegram псевдонима, код: <b>{code}</b>",
@@ -66,8 +66,8 @@
     
     "2FA.emailBtn": "{otpCode}",
     "2FA.emailLine2": "Внимание, код 2FA будет действителен только 5 минут",
-    "2FA.emailLine3": "Не Ваш запрос? Пожайлуста, свяжитесь с нами",
-    "2FA.emailLine4": "Если Вы не знаете что этот емейл означает - пожайлуста, также обратитесь в поддержку",   
+    "2FA.emailLine3": "Если Вы не делали этот запрос то свяжитесь, пожайлуста, с нами используя email",
+    "2FA.emailLine4": "",   
     
     "2FA.USER_2FA_CREATE.emailTitle": "Trustee Plus: 2FA Создание",
     "2FA.USER_2FA_CREATE.emailDesc": "Для подтверждения того, что этот Email будет использован для 2FA введите код:",

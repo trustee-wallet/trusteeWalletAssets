@@ -54,8 +54,8 @@
     "userData.emailVerification.emailLinkTitle" : "Підтвердити Email",
     "userData.emailVerification.emailLine2": "якщо кнопка не працює, будь ласка, скопіюйте посилання нижче та відкрийте його у своєму браузері",
     "userData.emailVerification.emailLine3": "Вам не вдається створити обліковий запис Trustee Plus? Ймовірно, такий Email вже був використаний. Будь ласка, зв'яжіться з нами через",
-    "userData.emailVerification.emailSupportUrl": "https://trusteeglobal.com/",
-    "userData.emailVerification.emailSupportTitle": "СЛУЖБУ ПІДТРИМКИ.",
+    "userData.emailVerification.emailSupportUrl": "contact@trusteeglobal.com",
+    "userData.emailVerification.emailSupportTitle": "contact@trusteeglobal.com",
     "userData.emailVerification.emailLine4": " Якщо Ви не створюєте обліковий запис Trustee Plus, просто ігноруйте цей електронний лист.",      
     "userContacts.approved.pushTitle": "Вітаємо!",
     "userContacts.approved.pushDesc": "Ви були схвалені {mutualDisplayName}",
@@ -68,8 +68,8 @@
     
     "2FA.emailBtn": "{otpCode}",
     "2FA.emailLine2": "Увага, код 2FA буде дійсний лише 5 хвилин",
-    "2FA.emailLine3": "Не Ваш запит? Будь ласка, зв'яжіться з нами через ",
-    "2FA.emailLine4": " Якщо Ви не знаєте що це лист - также напишіть в підтримку",   
+    "2FA.emailLine3": "Якщо Ви не робили цей запит то зв'яжість, будь ласка, з нами використовуючи email ",
+    "2FA.emailLine4": "",   
     
     "2FA.USER_2FA_CREATE.emailTitle": "Trustee Plus: 2FA Створення",
     "2FA.USER_2FA_CREATE.emailDesc": "Для підтвердження того, що цей Email буде використано для 2FA введіть код:",

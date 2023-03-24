@@ -1,5 +1,5 @@
 {
-    "version" : 17,
+    "version" : 18,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#2CC690",
@@ -66,7 +66,9 @@
         "BTT": "#161616",
         "BTT_dark_theme": "#DADADA",
         "KZT": "#7B231D",
-        "KZT_dark_theme": "#B44942"
+        "KZT_dark_theme": "#B44942",
+        "ARB": "#7B231D",
+        "ARB_dark_theme": "#B44942"
     },
     "icons" : {
         "USDT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/usdt.png",
@@ -133,6 +135,7 @@
         "BTT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/btt.png",
         "BTT_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/btt_dark_theme.png",
         "KZT": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/kzt.png",
-        "KZT_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/kzt_dark_theme.png"
+        "KZT_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/kzt_dark_theme.png",
+        "ARB": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/arb.png"
     }
 }

@@ -1,5 +1,5 @@
 {
-  "version" : 292,
+  "version" : 293,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -198,6 +198,7 @@
   "Account.needUserKYC.modalDescription": "Для Вашей безопасности и безопасности Вашей учетной записи необходимо подтвердить личность для получения доступа к данной функции",
   "Account.needUserKYC.passKycLate": "Позже",
   "Account.needUserKYC.passKycNow": "Подверить сейчас",
+  "Account.unAvailable.modalDescription": "К сожалению, операции с активом недоступны. Попробуйте позже",
   "AssetDetails.prettyNetwork" : "Mainnet",
   "AssetDetails.address" : "Адрес",
   "AssetDetails.prettyMemo" : "Мемо",

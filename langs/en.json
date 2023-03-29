@@ -1,5 +1,5 @@
 {
-    "version" : 294,
+    "version" : 295,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1122,9 +1122,11 @@
     "InvestScreen.filterOption.ALL": "All coins",
     "InvestScreen.filterOption.FAVORITE": "My favorite",
     "InvestScreen.filterOption.BY_VALUE": "I own",
+    "InvestScreen.filterOption.currency": "Currency - ",
     "InvestScreen.sortOptions.marketCapRank": "Rank",
     "InvestScreen.sortOptions.priceChangePercentage": "Change %",
     "InvestScreen.sortOptions.price": "Price",
+    "InvestScreen.sortOptions.balance": "Balance",
     "InvestScreen.cancelSearch": "Cancel",
     "InvestScreen.searchOption.withoutAsset": "No asset found",
     "InvestScreen.percentage24h": " 24h",

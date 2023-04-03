@@ -155,6 +155,9 @@
     "payway.withdraw.CARD": "Transfer to card {{symbol}}",
     "payway.withdraw.BANK_TRANSFER": "Bank transfer {{symbol}}",
     "payway.withdraw.CRYPTO": "Transfer to crypto address {{symbol}}",
+    "payway.withdraw.CARD.comeBackMessage": "Transfer to card {{symbol}} is currently available",
+    "payway.withdraw.BANK_TRANSFER.comeBackMessage": "Bank transfer {{symbol}} is currently available",
+    "payway.withdraw.CRYPTO.comeBackMessage": "Transfer to crypto address {{symbol}} is currently available",
     "payway.deposit.CARD": "Top up {{symbol}}",
     "payway.deposit.CRYPTO": "Top up {{symbol}}"
 }

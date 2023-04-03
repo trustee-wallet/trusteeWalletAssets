@@ -157,6 +157,9 @@
     "payway.withdraw.CARD": "Перевод на карту {{symbol}}",
     "payway.withdraw.BANK_TRANSFER": "Банковский перевод {{symbol}}",
     "payway.withdraw.CRYPTO": "Перевод на криптоадрес {{symbol}}",
+    "payway.withdraw.CARD.comeBackMessage": "Перевод на карту {{symbol}} снова доступный",
+    "payway.withdraw.BANK_TRANSFER.comeBackMessage": "Банковский перевод {{symbol}} снова доступный",
+    "payway.withdraw.CRYPTO.comeBackMessage": "Перевод на криптоадрес {{symbol}} снова доступный",
     "payway.deposit.CARD": "Пополнение {{symbol}}",
     "payway.deposit.CRYPTO": "Пополнение {{symbol}}"
 }

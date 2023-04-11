@@ -1,5 +1,5 @@
 {
-  "version" : 300,
+  "version" : 301,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -542,6 +542,7 @@
   "Payway.duration.UAH.withdraw.card.day": "🕑 ~1-6 часов",
   "Payway.duration.UAH.withdraw.card.night": "🕑 ~6-12 часов",
   "Payway.duration.EUR.withdraw.bank_transfer": "🕑 до 3 дней",
+  "Payway.duration.internal_transfer": "⚡️ мгновенно",
   "WithdrawAssetSelector.title": "Выбор актива",
   "WithdrawAssetDetails.title": "Выбор сети",
   "WithdrawAssetDetails.notification": "Another text here",
@@ -1224,6 +1225,8 @@
   "TrusteeCard.createCard.error": "К сожалению, произошла ошибка. Попробуйте позже или обратитесь в службу поддержки",
   "TrusteeCard.createCard.CARD_ALREADY_EXIST": "У вас уже есть карта.",
   "TrusteeCard.createCard.INSUFFICIENT_BALANCE": "Недостаточно средств для оплаты выпуска карты",
+  "TrusteeCard.createCard.SWAP_GENERAL": "Ошибка конвертации. Попробуйте позже или обратитесь в службу поддержки",
+  "TrusteeCard.createCard.SWAP_EXCEEDING_LIMITS": "Недостаточно средств для конвертации",
   "TrusteeCardPreCheckScreen.title": "К оплате",
   "TrusteeCardPreCheckScreen.description": "И тут еще немного текста, за что мы берем такую ​​оплату",
   "TrusteeCardCryptoCurrencyScreen.title": "Настроить конвертацию",

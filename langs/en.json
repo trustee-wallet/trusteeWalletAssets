@@ -1,5 +1,5 @@
 {
-    "version" : 300,
+    "version" : 301,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -544,6 +544,7 @@
     "Payway.duration.UAH.withdraw.card.day": "🕑 ~1-6 hours",
     "Payway.duration.UAH.withdraw.card.night": "🕑 ~6-12 hours",
     "Payway.duration.EUR.withdraw.bank_transfer": "🕑 up to 3 days",
+    "Payway.duration.internal_transfer": "⚡️ instant",
     "WithdrawAssetSelector.title": "Select asset",
     "WithdrawAssetDetails.title": "Select network",
     "WithdrawAssetDetails.notification": "Another text here",
@@ -1226,6 +1227,8 @@
     "TrusteeCard.createCard.error": "Unfortunately, an error occurred. Please try again later or contact support",
     "TrusteeCard.createCard.CARD_ALREADY_EXIST": "You already have a card.",
     "TrusteeCard.createCard.INSUFFICIENT_BALANCE": "Insufficient balance to pay for card issuance",
+    "TrusteeCard.createCard.SWAP_GENERAL": "Conversion failed. Please try again later or contact support",
+    "TrusteeCard.createCard.SWAP_EXCEEDING_LIMITS": "Insufficient funds to convert",
     "TrusteeCardPreCheckScreen.title": "To be paid",
     "TrusteeCardPreCheckScreen.description": "And here's a little more text, why we charge such a fee",
     "TrusteeCardCryptoCurrencyScreen.title": "Configure conversion",

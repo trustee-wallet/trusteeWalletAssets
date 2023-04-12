@@ -1,5 +1,5 @@
 {
-    "version" : 301,
+    "version" : 302,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1217,6 +1217,9 @@
     "TrusteeCard.change": "Change",
     "TrusteeCard.disconnectCoin": "Disconnect a coin",
     "TrusteeCard.next": "Next",
+    "TrusteeCardOnboarding.title": "Trustee card",
+    "TrusteeCardOnboarding.description": "Moving into the future together! Pay for services or goods with crypto using a card from Trustee.",
+    "TrusteeCardOnboarding.order": "Order",
     "TrusteeCardPaymentScreen.confirmPayment": "Confirm payment",
     "TrusteeCardPaymentScreen.cardPayment": "Card payment",
     "TrusteeCardPaymentScreen.totalBalance": "Total balance",

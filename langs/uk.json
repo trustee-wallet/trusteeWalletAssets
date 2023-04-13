@@ -1,5 +1,5 @@
 {
-  "version" : 303,
+  "version" : 304,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -418,6 +418,7 @@
   "Withdraw.sendSms": "Відправити SMS",
   "Withdraw.unsupportedCountry": "{countryCode} не підтримується для даного напрямку",
   "Withdraw.validateBankTransfer.INVALID_FORMAT": "Некоректна інформація. Будь ласка, змініть дані",
+  "Withdraw.transferToNotTrusteeUser": "Цей конкакт не є користувачем TrusteePlus або в нього встановлено анонімий режим. Але Ви все рівно можете відправити кошти на цей номер.",
   "WithdrawScreen.notification.step2.title": "Крок 2",
   "WithdrawScreen.notification.step2.description": "Обмін успішний, тепер Ви можете переказати гроші на картку",
   "WithdrawMethods.title": "Тип переказу",
@@ -1230,8 +1231,11 @@
   "TrusteeCard.createCard.error": "На жаль, сталася помилка. Спробуйте пізніше або зверніться до служби підтримки",
   "TrusteeCard.createCard.CARD_ALREADY_EXIST": "У вас вже є картка.",
   "TrusteeCard.createCard.INSUFFICIENT_BALANCE": "Недостатньо коштів для оплати випуску картки",
-  "TrusteeCard.createCard.SWAP_GENERAL": "Помилка конвертації. Спробуйте пізніше або зверніться до служби підтримки",
+  "TrusteeCard.createCard.SWAP_ESTIMATE_GENERAL": "Помилка конвертації. Спробуйте пізніше або зверніться до служби підтримки",
   "TrusteeCard.createCard.SWAP_EXCEEDING_LIMITS": "Недостатньо коштів для конвертації",
+  "TrusteeCard.createCard.SWAP_GENERAL": "непередбачувану помилку в процесі обміну",
+  "TrusteeCard.createCard.TRANSACTION_ERROR": "якась помилка непередбачувана в процесі оплати картки",
+  "TrusteeCard.createCard.CHECK_BALANCE_GENERAL": "виникла якась непередбачувана помилка в процесі перевірки балансу",
   "TrusteeCardPreCheckScreen.title": "До сплати",
   "TrusteeCardPreCheckScreen.description": "І тут ще трохи тексту, чому ми беремо таку оплату",
   "TrusteeCardCryptoCurrencyScreen.title": "Налаштувати конвертацію",
@@ -1347,5 +1351,6 @@
   "Verification.trusteeVerification.nameInvalidSymbol": "Тільки латинські літери",
   "DatePicker.title": "Оберіть дату",
   "DatePicker.cancelText": "Відміна",
-  "DatePicker.confirmText": "Підтвердити"
+  "DatePicker.confirmText": "Підтвердити",
+  "AppReview.badMark": "Нам дуже прикро що так сталося. Якщо у Вас виникли проблеми з використанням застосунку, зверніться, будь ласка, в службу підтримки зворотній звʼязок."
 }

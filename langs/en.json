@@ -1,5 +1,5 @@
 {
-    "version" : 308,
+    "version" : 309,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -418,7 +418,7 @@
     "Withdraw.needMemo": "We do not allow sending without a memo. If you are sure that you do not need to specify it for the output, then you can enter any text in the memo field",
     "Withdraw.unsupportedCountry": "{countryCode} not supported for this way",
     "Withdraw.validateBankTransfer.INVALID_FORMAT": "Invalid format. Please change the data",
-    "Withdraw.transferToNotTrusteeUser": "This contact is not a TrusteePlus user or has anonymous mode. But you can still send funds to this number.",
+    "Withdraw.transferToNotTrusteeUser": "This contact is not a Trustee Plus user or has anonymous mode. But you can still send funds to this number.",
     "WithdrawScreen.notification.step2.title": "Step 2",
     "WithdrawScreen.notification.step2.description": "Swap is successful, you can send money to card",
     "WithdrawMethods.title": "Transfer type",
@@ -1353,5 +1353,7 @@
     "DatePicker.title": "Select date",
     "DatePicker.cancelText": "Cancel",
     "DatePicker.confirmText": "Confirm",
-    "AppReview.badMark": "We are very sorry that this happened. If you have problems using the application, please contact the support service for feedback."
+    "AppRatingFeedbackScreen.title": "Comment",
+    "AppRatingFeedbackScreen.placeholder": "We are very sorry that you were not satisfied. Please leave your suggestions on what exactly we need to fix",
+    "AppRatingFeedbackScreen.save": "Send"
 }

@@ -1,5 +1,5 @@
 {
-  "version" : 308,
+  "version" : 309,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -418,7 +418,7 @@
   "Withdraw.sendSms": "Відправити SMS",
   "Withdraw.unsupportedCountry": "{countryCode} не підтримується для даного напрямку",
   "Withdraw.validateBankTransfer.INVALID_FORMAT": "Некоректна інформація. Будь ласка, змініть дані",
-  "Withdraw.transferToNotTrusteeUser": "Цей контакт не є користувачем TrusteePlus або в нього встановлено анонімий режим. Але Ви все рівно можете відправити кошти на цей номер.",
+  "Withdraw.transferToNotTrusteeUser": "Цей контакт не є користувачем Trustee Plus або в нього встановлено анонімий режим. Але Ви всеодно можете відправити кошти на цей номер.",
   "WithdrawScreen.notification.step2.title": "Крок 2",
   "WithdrawScreen.notification.step2.description": "Обмін успішний, тепер Ви можете переказати гроші на картку",
   "WithdrawMethods.title": "Тип переказу",
@@ -1352,5 +1352,7 @@
   "DatePicker.title": "Оберіть дату",
   "DatePicker.cancelText": "Відміна",
   "DatePicker.confirmText": "Підтвердити",
-  "AppReview.badMark": "Нам дуже прикро що так сталося. Якщо у Вас виникли проблеми з використанням застосунку, зверніться, будь ласка, в службу підтримки зворотній звʼязок."
+  "AppRatingFeedbackScreen.title": "Коментар",
+  "AppRatingFeedbackScreen.placeholder": "Нам дуже шкода, що ви залишились незадоволені. Будь ласка, залиште ваші пропозиції, що саме нам потрібно виправити",
+  "AppRatingFeedbackScreen.save": "Відправити"
 }

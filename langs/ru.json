@@ -1,5 +1,5 @@
 {
-  "version" : 310,
+  "version" : 311,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1354,5 +1354,8 @@
   "DatePicker.confirmText": "Подтвердить",
   "AppRatingFeedbackScreen.title": "Комментарий",
   "AppRatingFeedbackScreen.placeholder": "Нам очень жаль, что вы остались недовольны. Пожалуйста, оставьте ваши предложения, что нам нужно исправить",
-  "AppRatingFeedbackScreen.save": "Отправить"
+  "AppRatingFeedbackScreen.save": "Отправить",
+  "TrusteeCard.otp.title": "Одноразовый пароль",
+  "TrusteeCard.otp.applePayAndGooglePay": "Используйте код {{otp}}, чтобы добавить карту в платёжный сервис.",
+  "TrusteeCard.otp.3ds": "Используйте код {{otp}} для подтверждения списания {{amount}} {{currencyCode}}"
 }

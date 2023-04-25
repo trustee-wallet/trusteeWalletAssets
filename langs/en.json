@@ -1,5 +1,5 @@
 {
-    "version" : 310,
+    "version" : 311,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1356,5 +1356,8 @@
     "DatePicker.confirmText": "Confirm",
     "AppRatingFeedbackScreen.title": "Comment",
     "AppRatingFeedbackScreen.placeholder": "We are very sorry that you were not satisfied. Please leave your suggestions on what exactly we need to fix",
-    "AppRatingFeedbackScreen.save": "Send"
+    "AppRatingFeedbackScreen.save": "Send",
+    "TrusteeCard.otp.title": "One time password",
+    "TrusteeCard.otp.applePayAndGooglePay": "Use the code {{otp}} to add card to the payment service.",
+    "TrusteeCard.otp.3ds": "Use the code {{otp}} to confirm the transaction {{amount}}} {{currencyCode}}"
 }

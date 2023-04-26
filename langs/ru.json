@@ -1,5 +1,5 @@
 {
-  "version" : 311,
+  "version" : 312,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -819,8 +819,8 @@
   "Profile.verificationStatus.KYC_REJECTED": "Заблокировано",
   "Profile.verificationStatus.KYC_NEED_CORRECTION": "Коррекция",
   "Profile.shareUserToken": "Привет, вот мой анонимный ID {userToken}, \nДля бесплатных переводов пользуюсь Trustee Plus. Загрузите и убедитесь сами\nhttps://trusteeplus.app.link/t-share",
-  "UserProfileEmailChanges.emailInputDescription": "Введите электронную почту и нажмите подтвердить",
-  "UserProfileEmailChanges.resendDescription": "Привязка не завершена, проверьте свою электронную почту для дальнейших инструкций",
+  "UserProfileEmailChanges.emailInputDescription": "Введите Вашу основную электронную почту и нажмите «Подтвердить»",
+  "UserProfileEmailChanges.resendDescription": "Теперь перейдите в свою почту, найдите письмо от Trustee и следуйте инструкциям в письме. Если Вы не получили письмо - нажмите «Получить» в Вашей почте, обновите страницу и проверьте все входящие папки, включая папку «Спам». Если письмо все еще не пришло - отправьте его повторно.",
   "UserProfileEmailChanges.change": "Изменить",
   "UserProfileEmailChanges.confirm": "Подтвердить",
   "UserProfileUsernameChanges.enterUsername": "Введите псевдоним",

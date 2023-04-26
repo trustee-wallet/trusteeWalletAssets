@@ -1,5 +1,5 @@
 {
-    "version" : 311,
+    "version" : 312,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -821,8 +821,8 @@
     "Profile.verificationStatus.KYC_REJECTED": "Blocked",
     "Profile.verificationStatus.KYC_NEED_CORRECTION": "Need correction",
     "Profile.shareUserToken": "Hello, this is my anonymous ID {userToken}, \nI use Trustee Plus for free transfers. Download and see for yourself \nhttps://trusteeplus.app.link/t-share",
-    "UserProfileEmailChanges.emailInputDescription": "Enter your email and click confirm",
-    "UserProfileEmailChanges.resendDescription": "Binding not completed, please check your email for further instructions",
+    "UserProfileEmailChanges.emailInputDescription": "Enter your primary email and tap «Confirm»",
+    "UserProfileEmailChanges.resendDescription": "Now check your email, find a letter from Trustee, and follow the instructions in the email. If you haven't received an email, click «Receive» in your mail, refresh the page, and check all incoming folders, including the «Spam» folder. If the email still hasn't arrived, you can resend it.",
     "UserProfileEmailChanges.change": "Change",
     "UserProfileEmailChanges.confirm": "Confirm",
     "UserProfileUsernameChanges.enterUsername": "Set username",

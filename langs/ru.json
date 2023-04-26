@@ -1,5 +1,5 @@
 {
-  "version" : 312,
+  "version" : 313,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -736,7 +736,7 @@
   "About.intro": "Крипто необанк у Вас в телефоне",
   "About.siteTitle": "trusteeglobal.com",
   "About.siteSubtitle": "Официальный сайт",
-  "About.siteLink": "https://trusteeglobal.com/ru/trustee-plus/",
+  "About.siteLink": "https://trusteeglobal.com/ru",
   "About.privacyPolicy": "Политика конфиденциальности",
   "About.privacyPolicyLink": "https://trusteeglobal.com/ru/privacy-policy-trustee-plus/?header_footer=none&stop_war=none&support=none&siteLang=ru",
   "About.termsOfUse": "Условия использования",

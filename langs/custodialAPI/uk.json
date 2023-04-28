@@ -13,5 +13,7 @@
   "Push.swap.canceledMessage": "На жаль, ми не змогли виконати Ваш обмін {{fromCurrencySymbol}} -> {{toCurrencySymbol}}. Кошти було повернено на баланс.",
   "Push.withdraw.newUserSuccess": "Користувач {{receiver}} отримав Ваш переказ {{amount}} {{currencySymbol}} та долучився до сімʼї Trustee Plus!",
   "Push.withdraw.availableRefund": "Користувач {{receiver}} не отримав Ваш переказ {{amount}} {{currencySymbol}} за відведений термін. Ви можете повернути ці кошти на свій баланс, якщо бажаєте.",
-  "Push.depositAndWithdraw.errorMessage": "На жаль, під час виконання операції сталася непередбачувана помилка. За додатковими деталями зверніться, будь ласка, до служби підтримки."
+  "Push.depositAndWithdraw.errorMessage": "На жаль, під час виконання операції сталася непередбачувана помилка. За додатковими деталями зверніться, будь ласка, до служби підтримки.",
+  "Push.card.title": "Kaртка",
+  "Push.cardTransaction.errorMessage": "На жаль, під час виконання операції сталася непередбачувана помилка. За додатковими деталями зверніться, будь ласка, до служби підтримки."
 }

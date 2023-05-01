@@ -1,5 +1,5 @@
 {
-    "version" : 314,
+    "version" : 315,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -73,6 +73,7 @@
     "Login.newVersion": "Update available. For correct work, we recommend updating the application",
     "Login.update": "Update now",
     "Login.skip": "Skip",
+    "LoginScreen.country'": "Country",
     "PermissionsScreen.title": "More possibilities",
     "PermissionsScreen.subTitle": "Experience all the benefits of the application: speed, convenience and the best service",
     "PermissionsScreen.notification": "Notifications",

@@ -1,5 +1,5 @@
 {
-  "version" : 313,
+  "version" : 314,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -820,6 +820,7 @@
   "Profile.verificationStatus.KYC_WAIT_FOR_REVIEW": "В обробці",
   "Profile.verificationStatus.KYC_REJECTED": "Заблоковано",
   "Profile.verificationStatus.KYC_NEED_CORRECTION": "Коригування",
+  "Profile.verificationStatus.KYC_CRYPTO_ONLY": "Підтверджено",
   "Profile.shareUserToken": "Привіт, ось мій анонімний ID {userToken}. \nДля безкоштовних переказів користуюсь Trustee Plus. Завантажте та переконайтесь самі\nhttps://trusteeplus.app.link/t-share",
   "UserProfileEmailChanges.emailInputDescription": "Введіть Вашу основну електронну пошту та натисніть «Підтвердити»",
   "UserProfileEmailChanges.resendDescription": "Тепер перейдіть у Вашу пошту, знайдіть там лист від Trustee та дотримуйтесь інструкції у листі. Якщо Ви не отримали лист - натисніть «Отримати» у Вашому поштовику, оновіть сторінку та перевірте всі вхідні папки, включно із папкою «Спам». Якщо лист все ще не надійшов - Ви можете надіслати його повторно.",

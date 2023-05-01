@@ -1,5 +1,5 @@
 {
-  "version" : 315,
+  "version" : 316,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1262,6 +1262,7 @@
   "Verification.country.searchDescription": "Выберите страну гражданства или постоянного места жительства",
   "Verification.methods.DIIA": "Пройти самостоятельно",
   "Verification.methods.TRUSTEE_VERIFICATION": "Пройти самостоятельно",
+  "Verification.methods.DIIA.main": "Использовать «Дія»",
   "Verification.diia.description1": "рекомендуемый способ",
   "Verification.diia.description2": "сверхбыстрая верификация",
   "Verification.diia.description3": "наиболее безопасный способ",

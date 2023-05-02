@@ -1,5 +1,5 @@
 {
-  "version" : 317,
+  "version" : 318,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1275,8 +1275,8 @@
   "TrusteeCard.send": "Перевод",
   "TrusteeCard.settings": "Настройки",
   "TrusteeCard.balanceDetails.title": "Детали баланса",
-  "TrusteeCard.balanceDetails.descriptionSelectedCrypto": "В случае нехватки евро криптовалюта будет автоматически выведена",
-  "TrusteeCard.balanceDetails.descriptionSelectedCrypto.BTC": "В случае нехватки евро биткойн будет автоматически выведен",
+  "TrusteeCard.balanceDetails.selectedCrypto.description": "В случае нехватки евро криптовалюта будет автоматически выведена",
+  "TrusteeCard.balanceDetails.selectedCrypto.descriptiono.BTC": "В случае нехватки евро биткойн будет автоматически выведен",
   "TrusteeCard.balanceDetails.selectedCrypto.changeCoin": "Изменить монету",
   "TrusteeCard.balanceDetails.connectCoin": "Подключить монету",
   "Verification.title": "Верификация",

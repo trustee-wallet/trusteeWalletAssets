@@ -1,5 +1,5 @@
 {
-    "version" : 317,
+    "version" : 318,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1277,8 +1277,8 @@
     "TrusteeCard.send": "Transfer",
     "TrusteeCard.settings": "Settings",
     "TrusteeCard.balanceDetails.title": "Balance details",
-    "TrusteeCard.balanceDetails.descriptionSelectedCrypto": "In the event of a shortage of euros, cryptocurrency will be automatically withdrawn",
-    "TrusteeCard.balanceDetails.descriptionSelectedCrypto.BTC": "In the event of a shortage of euros, Bitcoin will be automatically withdrawn",
+    "TrusteeCard.balanceDetails.selectedCrypto.description": "In the event of a shortage of euros, cryptocurrency will be automatically withdrawn",
+    "TrusteeCard.balanceDetails.selectedCrypto.description.BTC": "In the event of a shortage of euros, Bitcoin will be automatically withdrawn",
     "TrusteeCard.balanceDetails.selectedCrypto.changeCoin": "Change coin",
     "TrusteeCard.balanceDetails.connectCoin": "Connect coin",
     "Verification.title": "Verification",

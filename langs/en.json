@@ -1385,7 +1385,7 @@
     "AppRatingFeedbackScreen.save": "Send",
     "TrusteeCard.otp.title": "One time password",
     "TrusteeCard.otp.applePayAndGooglePay": "Use the code {{otp}} to add card to the payment service.",
-    "TrusteeCard.otp.3ds": "Use the code {{otp}} to confirm the transaction {{amount}}} {{currencyCode}}",
+    "TrusteeCard.otp.3ds": "Use the code {{otp}} to confirm the transaction {{amount}} {{currencyCode}}",
     "TrusteeCard.deleteCard.modal.title": "Card closure",
     "TrusteeCard.deleteCard.modal.description": "Do you really want to close the card?",
     "TrusteeCard.deleteCard.modal.ok": "Close the card",

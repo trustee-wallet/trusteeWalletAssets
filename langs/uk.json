@@ -1,5 +1,5 @@
 {
-  "version" : 321,
+  "version" : 322,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1244,8 +1244,9 @@
   "TrusteeCard.createCard.SWAP_GENERAL": "непередбачувану помилку в процесі обміну",
   "TrusteeCard.createCard.TRANSACTION_ERROR": "якась помилка непередбачувана в процесі оплати картки",
   "TrusteeCard.createCard.CHECK_BALANCE_GENERAL": "виникла якась непередбачувана помилка в процесі перевірки балансу",
-  "TrusteeCardPreCheckScreen.title": "До сплати",
-  "TrusteeCardPreCheckScreen.description": "Зазвичай, випуск картки платний, але Ви серед щасливчиків, що отримають картку безкоштовно!",
+  "TrusteeCardPreCheckScreen.title": "Випуск картки",
+  "TrusteeCardPreCheckScreen.description": "Послуга випуску карти не безкоштовна",
+  "TrusteeCardPreCheckScreen.descriptionDiscount": "Зазвичай, випуск картки платний, але Ви серед щасливчиків, що отримають картку безкоштовно!",
   "TrusteeCardCryptoCurrencyScreen.title": "Налаштування",
   "TrusteeCardCryptoCurrencyScreen.description": "У випадку нестачі євро буде автоматично зніматись крипта",
   "TrusteeCardFiatCurrencyScreen.title": "Trustee картка",

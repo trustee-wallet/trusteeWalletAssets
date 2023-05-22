@@ -1,5 +1,5 @@
 {
-    "version" : 321,
+    "version" : 322,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1244,8 +1244,9 @@
     "TrusteeCard.createCard.SWAP_GENERAL": "непередбачувану помилку в процесі обміну",
     "TrusteeCard.createCard.TRANSACTION_ERROR": "якась помилка непередбачувана в процесі оплати картки",
     "TrusteeCard.createCard.CHECK_BALANCE_GENERAL": "виникла якась непередбачувана помилка в процесі перевірки балансу",
-    "TrusteeCardPreCheckScreen.title": "To be paid",
-    "TrusteeCardPreCheckScreen.description": "Normally, issuing a card is paid, but you are among the lucky ones who will receive a card for free!",
+    "TrusteeCardPreCheckScreen.title": "Card Issuance",
+    "TrusteeCardPreCheckScreen.description": "The card issuance service is not free",
+    "TrusteeCardPreCheckScreen.descriptionDiscount": "Normally, issuing a card is paid, but you are among the lucky ones who will receive a card for free!",
     "TrusteeCardCryptoCurrencyScreen.title": "Settings",
     "TrusteeCardCryptoCurrencyScreen.description": "In the case of a shortage of euros, the crypto will be automatically withdraw",
     "TrusteeCardFiatCurrencyScreen.title": "Trustee card",

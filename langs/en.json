@@ -1,5 +1,5 @@
 {
-    "version" : 322,
+    "version" : 323,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1400,5 +1400,7 @@
     "TrusteeCard.deleteCard.modal.title": "Card closure",
     "TrusteeCard.deleteCard.modal.description": "Do you really want to close the card?",
     "TrusteeCard.deleteCard.modal.ok": "Close the card",
-    "TrusteeCard.deleteCard.modal.cancel": "Cancel"
+    "TrusteeCard.deleteCard.modal.cancel": "Cancel",
+    "TrusteeCard.title": "Card",
+    "TrusteeCard.limitsExceeded.description": "Payment {{amount}} {{currencyCode}} was declined due to exceeding the card limit."
 }

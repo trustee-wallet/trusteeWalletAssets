@@ -1,5 +1,5 @@
 {
-  "version" : 324,
+  "version" : 325,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1292,6 +1292,11 @@
   "TrusteeCardOtp.copiedCode": "Скопировать код",
   "TrusteeCardOtp.cancel": "Отменить",
   "TrusteeCardOtp.code": "Код подтверждения",
+  "TrusteeCardOverLimit.title": "Обратите внимание",
+  "TrusteeCardOverLimit.description": "Транзакция превышает лимит по карте. Увеличьте лимит, чтобы произвести оплату.",
+  "TrusteeCardOverLimit.limitDescription": "Новый лимит",
+  "TrusteeCardOverLimit.cancel": "Отменить",
+  "TrusteeCardOverLimit.confirm": "Повысить лимит",
   "Verification.title": "Верификация",
   "Verification.country.notAllowed": "Извините, но пока мы не предоставляем услуги гражданам {countryName}",
   "Verification.country.russia": "россия - страна-агрессор, не имеющая права на обслуживание и использование различных прогрессивных сервисов и инструментов",

@@ -1,5 +1,5 @@
 {
-    "version" : 324,
+    "version" : 325,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1294,6 +1294,11 @@
     "TrusteeCardOtp.copiedCode": "Copy code",
     "TrusteeCardOtp.cancel": "Cancel",
     "TrusteeCardOtp.code": "Confirmation code",
+    "TrusteeCardOverLimit.title": "Please note",
+    "TrusteeCardOverLimit.description": "The transaction exceeds the card limit. Increase the limit to make the payment.",
+    "TrusteeCardOverLimit.limitDescription": "New limit",
+    "TrusteeCardOverLimit.cancel": "Cancel",
+    "TrusteeCardOverLimit.confirm": "Confirm",
     "Verification.title": "Verification",
     "Verification.country.notAllowed": "Sorry, but we currently do not provide services to citizens of {countryName}",
     "Verification.country.russia": "Russia is an aggressor country that does not have the right to maintain and use various progressive services and tools",

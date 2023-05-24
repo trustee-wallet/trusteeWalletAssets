@@ -958,6 +958,7 @@
   "History.withdrawCanceled.description.ESTIMATION_CHANGED": "Извините, но прогнозируемая общая сумма перевода изменилась. Рекомендуем повторить перевод относительно новых данных.",
   "History.withdrawCanceled.descriptionForFiat.CANCELED_BY_IA": "Платёжная система не смогла выполнить Ваш перевод. Рекомендуем воспользоватся картой другого банка.",
   "History.card.originalAmount": "Сумма конвертации",
+  "History.swap.forCard.description.MIN_LIMIT_SWAP": "Для выполнения операции по карте был произведён обмен на минимально возможный лимит. В результате часть средств была использована для оплаты, а остаток зачислен на Ваш баланс.",
   "SocialLinks.telegram": "https://t.me/trustee_ru",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

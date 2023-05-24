@@ -960,6 +960,7 @@
     "History.withdrawCanceled.description.ESTIMATION_CHANGED": "Sorry, but the predicted transfer total amount has changed. We recommend that you repeat the transfer relatively new data.",
     "History.withdrawCanceled.descriptionForFiat.CANCELED_BY_IA": "The payment system was unable to make your transfer. We recommend using another bank card.",
     "History.card.originalAmount": "Conversion amount",
+    "History.swap.forCard.description.MIN_LIMIT_SWAP": "In order to perform the card transaction, an exchange was made for the minimum possible limit. As a result, part of the funds was used for payment, and the rest was credited to your balance.",
     "SocialLinks.telegram": "https://t.me/trustee_en",
     "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
     "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet/",

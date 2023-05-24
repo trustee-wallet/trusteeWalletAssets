@@ -198,6 +198,7 @@
     "Account.notifyWhenAvailableAsset": "Notify",
     "Account.notNotifyWhenAvailableAsset": "Do not notify",
     "Account.needUserKYC.modalDescription": "For your safety and the security of your account, a person needs to be verified to access this feature",
+    "Account.needUserKYC.KYC_CRYPTO_ONLY": "Unfortunately, top up and transfer of fiat currencies are not available to you. Please contact support for details.",
     "Account.needUserKYC.passKycLate": "Later",
     "Account.needUserKYC.passKycNow": "Verify now",
     "Account.unAvailable.modalDescription": "Unfortunately, asset transactions are unavailable. Please try again later.",

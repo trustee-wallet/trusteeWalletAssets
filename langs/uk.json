@@ -198,6 +198,7 @@
   "Account.notifyWhenAvailableAsset": "Сповістити",
   "Account.notNotifyWhenAvailableAsset": "Не сповіщати",
   "Account.needUserKYC.modalDescription": "Для Вашої безпеки та безпеки Вашого облікового запису необхідно підтвердити особу для отримання доступу до даної функції",
+  "Account.needUserKYC.KYC_CRYPTO_ONLY": "На жаль, Вам недоступні операції з поповнення та переказу фіатних валют. Будь ласка, зверніться до служби підтримки, щоб отримати детальну інформацію.",
   "Account.needUserKYC.passKycLate": "Пізніше",
   "Account.needUserKYC.passKycNow": "Підверидити зараз",
   "Account.unAvailable.modalDescription": "На жаль, операції з активом недоступні. Будь ласка, спробуйте пізніше",

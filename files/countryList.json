@@ -1,0 +1,3571 @@
+{
+    "version": 1,
+    "countryList": [
+        {
+            "country": "Ukraine",
+            "iso": "804",
+            "currencyCode": "UAH",
+            "symbol": "₴",
+            "countryCode": "UKR",
+            "flag": "flag-ua",
+            "iso2": "UA",
+            "callingCode": [
+                "380"
+            ],
+            "countryName": {
+                "uk": "Україна",
+                "ru": "Украина",
+                "en": "Ukraine"
+            }
+        },
+        {
+            "country": "Belarus",
+            "iso": "112",
+            "currencyCode": "BYR",
+            "countryCode": "BLR",
+            "flag": "flag-by",
+            "iso2": "BY",
+            "callingCode": [
+                "375"
+            ],
+            "countryName": {
+                "uk": "Білорусь",
+                "ru": "Беларусь",
+                "en": "Belarus"
+            }
+        },
+        {
+            "country": "Kazakhstan",
+            "iso": "398",
+            "currencyCode": "KZ",
+            "countryCode": "KAZ",
+            "flag": "flag-kz",
+            "iso2": "KZ",
+            "callingCode": [
+                "7"
+            ],
+            "countryName": {
+                "uk": "Казахстан",
+                "ru": "Казахстан",
+                "en": "Kazakhstan"
+            }
+        },
+        {
+            "country": "Russian Federation",
+            "iso": "643",
+            "currencyCode": "RUB",
+            "symbol": "₽",
+            "countryCode": "RUS",
+            "flag": "flag-ru",
+            "iso2": "RU",
+            "callingCode": [
+                "7"
+            ],
+            "countryName": {
+                "uk": "росія",
+                "ru": "россия",
+                "en": "russia"
+            }
+        },
+        {
+            "country": "Afghanistan",
+            "iso": "004",
+            "currencyCode": "AFN",
+            "countryCode": "AFG",
+            "iso2": "AF",
+            "flag": "flag-af",
+            "callingCode": [
+                "93"
+            ],
+            "countryName": {
+                "uk": "Афґаністан",
+                "ru": "Афганистан",
+                "en": "Afghanistan"
+            }
+        },
+        {
+            "country": "Albania",
+            "iso": "008",
+            "currencyCode": "ALL",
+            "countryCode": "ALB",
+            "flag": "flag-al",
+            "iso2": "AL",
+            "callingCode": [
+                "355"
+            ],
+            "countryName": {
+                "uk": "Албанія",
+                "ru": "Албания",
+                "en": "Albania"
+            }
+        },
+        {
+            "country": "Algeria",
+            "iso": "012",
+            "currencyCode": "DZD",
+            "countryCode": "DZA",
+            "flag": "flag-dz",
+            "iso2": "DZ",
+            "callingCode": [
+                "213"
+            ],
+            "countryName": {
+                "uk": "Алжир",
+                "ru": "Алжир",
+                "en": "Algeria"
+            }
+        },
+        {
+            "country": "American Samoa",
+            "iso": "016",
+            "currencyCode": "USD",
+            "countryCode": "ASM",
+            "flag": "flag-as",
+            "iso2": "AS",
+            "callingCode": [
+                "1684"
+            ],
+            "countryName": {
+                "uk": "Американське Самоа",
+                "ru": "Американское Самоа",
+                "en": "American Samoa"
+            }
+        },
+        {
+            "country": "Andorra",
+            "iso": "020",
+            "currencyCode": "EUR",
+            "countryCode": "AND",
+            "flag": "flag-ad",
+            "iso2": "AD",
+            "callingCode": [
+                "376"
+            ],
+            "countryName": {
+                "uk": "Андорра",
+                "ru": "Андорра",
+                "en": "Andorra"
+            }
+        },
+        {
+            "country": "Angola",
+            "iso": "024",
+            "currencyCode": "AOA",
+            "countryCode": "AGO",
+            "flag": "flag-ao",
+            "iso2": "AO",
+            "callingCode": [
+                "244"
+            ],
+            "countryName": {
+                "uk": "Ангола",
+                "ru": "Ангола",
+                "en": "Angola"
+            }
+        },
+        {
+            "country": "Anguilla",
+            "iso": "660",
+            "currencyCode": "XCD",
+            "countryCode": "AIA",
+            "flag": "flag-ai",
+            "iso2": "AI",
+            "callingCode": [
+                "1264"
+            ],
+            "countryName": {
+                "uk": "Анґілья",
+                "ru": "Ангилья",
+                "en": "Anguilla"
+            }
+        },
+        {
+            "country": "Antarctica",
+            "iso": "010",
+            "currencyCode": "XCD",
+            "countryCode": "ATA",
+            "flag": "flag-aq",
+            "iso2": "AQ",
+            "callingCode": [],
+            "countryName": {
+                "uk": "Антарктида",
+                "ru": "Антарктида",
+                "en": "Antarctica"
+            }
+        },
+        {
+            "country": "Antigua and Barbuda",
+            "iso": "028",
+            "currencyCode": "XCD",
+            "countryCode": "ATG",
+            "flag": "flag-ag",
+            "iso2": "AG",
+            "callingCode": [
+                "1268"
+            ],
+            "countryName": {
+                "uk": "Антиґуа і Барбуда",
+                "ru": "Антигуа и Барбуда",
+                "en": "Antigua and Barbuda"
+            }
+        },
+        {
+            "country": "Argentina",
+            "iso": "032",
+            "currencyCode": "ARS",
+            "countryCode": "ARG",
+            "flag": "flag-ar",
+            "iso2": "AR",
+            "callingCode": [
+                "54"
+            ],
+            "countryName": {
+                "uk": "Аргентина",
+                "ru": "Аргентина",
+                "en": "Argentina"
+            }
+        },
+        {
+            "country": "Armenia",
+            "iso": "051",
+            "currencyCode": "AMD",
+            "countryCode": "ARM",
+            "flag": "flag-am",
+            "iso2": "AM",
+            "callingCode": [
+                "374"
+            ],
+            "countryName": {
+                "uk": "Вірменія",
+                "ru": "Армения",
+                "en": "Armenia"
+            }
+        },
+        {
+            "country": "Aruba",
+            "iso": "533",
+            "currencyCode": "AWG",
+            "countryCode": "ABW",
+            "flag": "flag-aw",
+            "iso2": "AW",
+            "callingCode": [
+                "297"
+            ],
+            "countryName": {
+                "uk": "Аруба",
+                "ru": "Аруба",
+                "en": "Aruba"
+            }
+        },
+        {
+            "country": "Australia",
+            "iso": "036",
+            "currencyCode": "AUD",
+            "countryCode": "AUS",
+            "flag": "flag-au",
+            "iso2": "AU",
+            "callingCode": [
+                "61"
+            ],
+            "countryName": {
+                "uk": "Австралія",
+                "ru": "Австралия",
+                "en": "Australia"
+            }
+        },
+        {
+            "country": "Austria",
+            "iso": "040",
+            "currencyCode": "AUT",
+            "countryCode": "AUT",
+            "flag": "flag-at",
+            "iso2": "AT",
+            "callingCode": [
+                "43"
+            ],
+            "countryName": {
+                "uk": "Австрія",
+                "ru": "Австрия",
+                "en": "Austria"
+            }
+        },
+        {
+            "country": "Azerbaijan",
+            "iso": "031",
+            "currencyCode": "AZN",
+            "countryCode": "AZE",
+            "flag": "flag-az",
+            "iso2": "AZ",
+            "callingCode": [
+                "994"
+            ],
+            "countryName": {
+                "uk": "Азербайджан",
+                "ru": "Азербайджан",
+                "en": "Azerbaijan"
+            }
+        },
+        {
+            "country": "Bahamas",
+            "iso": "044",
+            "currencyCode": "BSD",
+            "countryCode": "BHS",
+            "flag": "flag-bs",
+            "iso2": "BS",
+            "callingCode": [
+                "1242"
+            ],
+            "countryName": {
+                "uk": "Багамські Острови",
+                "ru": "Багамские Острова",
+                "en": "Bahamas"
+            }
+        },
+        {
+            "country": "Bahrain",
+            "iso": "048",
+            "currencyCode": "BHD",
+            "countryCode": "BHR",
+            "flag": "flag-bh",
+            "iso2": "BH",
+            "callingCode": [
+                "973"
+            ],
+            "countryName": {
+                "uk": "Бахрейн",
+                "ru": "Бахрейн",
+                "en": "Bahrain"
+            }
+        },
+        {
+            "country": "Bangladesh",
+            "iso": "050",
+            "currencyCode": "BDT",
+            "countryCode": "BGD",
+            "flag": "flag-bd",
+            "iso2": "BD",
+            "callingCode": [
+                "880"
+            ],
+            "countryName": {
+                "uk": "Бангладеш",
+                "ru": "Бангладеш",
+                "en": "Bangladesh"
+            }
+        },
+        {
+            "country": "Barbados",
+            "iso": "052",
+            "currencyCode": "BBD",
+            "countryCode": "BRB",
+            "flag": "flag-bb",
+            "iso2": "BB",
+            "callingCode": [
+                "1246"
+            ],
+            "countryName": {
+                "uk": "Барбадос",
+                "ru": "Барбадос",
+                "en": "Barbados"
+            }
+        },
+        {
+            "country": "Belgium",
+            "iso": "056",
+            "currencyCode": "EUR",
+            "countryCode": "BEL",
+            "flag": "flag-be",
+            "iso2": "BE",
+            "callingCode": [
+                "32"
+            ],
+            "countryName": {
+                "uk": "Бельгія",
+                "ru": "Бельгия",
+                "en": "Belgium"
+            }
+        },
+        {
+            "country": "Belize",
+            "iso": "084",
+            "currencyCode": "BZD",
+            "countryCode": "BLZ",
+            "flag": "flag-bz",
+            "iso2": "BZ",
+            "callingCode": [
+                "501"
+            ],
+            "countryName": {
+                "uk": "Беліз",
+                "ru": "Белиз",
+                "en": "Belize"
+            }
+        },
+        {
+            "country": "Benin",
+            "iso": "204",
+            "currencyCode": "XOF",
+            "countryCode": "BEN",
+            "flag": "flag-bj",
+            "iso2": "BJ",
+            "callingCode": [
+                "229"
+            ],
+            "countryName": {
+                "uk": "Бенін",
+                "ru": "Бенин",
+                "en": "Benin"
+            }
+        },
+        {
+            "country": "Bermuda",
+            "iso": "060",
+            "currencyCode": "BMD",
+            "countryCode": "BMU",
+            "flag": "flag-bm",
+            "iso2": "BM",
+            "callingCode": [
+                "1441"
+            ],
+            "countryName": {
+                "uk": "Бермудські Острови",
+                "ru": "Бермудские Острова",
+                "en": "Bermuda"
+            }
+        },
+        {
+            "country": "Bhutan",
+            "iso": "064",
+            "currencyCode": "BTN",
+            "countryCode": "BTN",
+            "flag": "flag-bt",
+            "iso2": "BT",
+            "callingCode": [
+                "975"
+            ],
+            "countryName": {
+                "uk": "Бутан",
+                "ru": "Бутан",
+                "en": "Bhutan"
+            }
+        },
+        {
+            "country": "Bolivia",
+            "iso": "068",
+            "currencyCode": "BOB",
+            "countryCode": "BOL",
+            "flag": "flag-bo",
+            "iso2": "BO",
+            "callingCode": [
+                "591"
+            ],
+            "countryName": {
+                "uk": "Болівія",
+                "ru": "Боливия",
+                "en": "Bolivia"
+            }
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "iso": "070",
+            "currencyCode": "BAM",
+            "countryCode": "BIH",
+            "flag": "flag-ba",
+            "iso2": "BA",
+            "callingCode": [
+                "387"
+            ],
+            "countryName": {
+                "uk": "Боснія і Герцеговина",
+                "ru": "Босния и Герцеговина",
+                "en": "Bosnia and Herzegovina"
+            }
+        },
+        {
+            "country": "Botswana",
+            "iso": "072",
+            "currencyCode": "BWP",
+            "countryCode": "BWA",
+            "flag": "flag-bw",
+            "iso2": "BW",
+            "callingCode": [
+                "267"
+            ],
+            "countryName": {
+                "uk": "Ботсвана",
+                "ru": "Ботсвана",
+                "en": "Botswana"
+            }
+        },
+        {
+            "country": "Bouvet Island",
+            "iso": "074",
+            "currencyCode": "NOK",
+            "countryCode": "BVT",
+            "flag": "flag-bv",
+            "iso2": "BV",
+            "callingCode": [],
+            "countryName": {
+                "uk": "Буве",
+                "ru": "Остров Буве",
+                "en": "Bouvet Island"
+            }
+        },
+        {
+            "country": "Brazil",
+            "iso": "076",
+            "currencyCode": "BRL",
+            "countryCode": "BRA",
+            "flag": "flag-br",
+            "iso2": "BR",
+            "callingCode": [
+                "55"
+            ],
+            "countryName": {
+                "uk": "Бразилія",
+                "ru": "Бразилия",
+                "en": "Brazil"
+            }
+        },
+        {
+            "country": "British Indian Ocean Territory",
+            "iso": "086",
+            "currencyCode": "USD",
+            "countryCode": "IOT",
+            "flag": "flag-io",
+            "iso2": "IO",
+            "callingCode": [
+                "246"
+            ],
+            "countryName": {
+                "uk": "Британська Територія в Індійському Океані",
+                "ru": "Британская территория в Индийском океане",
+                "en": "British Indian Ocean Territory"
+            }
+        },
+        {
+            "country": "Brunei",
+            "iso": "096",
+            "currencyCode": "BND",
+            "countryCode": "BRN",
+            "flag": "flag-bn",
+            "iso2": "BN",
+            "callingCode": [
+                "673"
+            ],
+            "countryName": {
+                "uk": "Бруней",
+                "ru": "Бруней",
+                "en": "Brunei"
+            }
+        },
+        {
+            "country": "Bulgaria",
+            "iso": "100",
+            "currencyCode": "BGN",
+            "countryCode": "BGR",
+            "flag": "flag-bg",
+            "iso2": "BG",
+            "callingCode": [
+                "359"
+            ],
+            "countryName": {
+                "uk": "Болгарія",
+                "ru": "Болгария",
+                "en": "Bulgaria"
+            }
+        },
+        {
+            "country": "Burkina Faso",
+            "iso": "854",
+            "currencyCode": "XOF",
+            "countryCode": "BFA",
+            "flag": "flag-bf",
+            "iso2": "BF",
+            "callingCode": [
+                "226"
+            ],
+            "countryName": {
+                "uk": "Буркіна-Фасо",
+                "ru": "Буркина-Фасо",
+                "en": "Burkina Faso"
+            }
+        },
+        {
+            "country": "Burundi",
+            "iso": "108",
+            "currencyCode": "BIF",
+            "countryCode": "BDI",
+            "flag": "flag-bi",
+            "iso2": "BI",
+            "callingCode": [
+                "257"
+            ],
+            "countryName": {
+                "uk": "Бурунді",
+                "ru": "Бурунди",
+                "en": "Burundi"
+            }
+        },
+        {
+            "country": "Cambodia",
+            "iso": "116",
+            "currencyCode": "KHR",
+            "countryCode": "KHM",
+            "flag": "flag-kh",
+            "iso2": "KH",
+            "callingCode": [
+                "855"
+            ],
+            "countryName": {
+                "uk": "Камбоджа",
+                "ru": "Камбоджа",
+                "en": "Cambodia"
+            }
+        },
+        {
+            "country": "Cameroon",
+            "iso": "120",
+            "currencyCode": "XAF",
+            "countryCode": "CMR",
+            "flag": "flag-cm",
+            "iso2": "CM",
+            "callingCode": [
+                "237"
+            ],
+            "countryName": {
+                "uk": "Камерун",
+                "ru": "Камерун",
+                "en": "Cameroon"
+            }
+        },
+        {
+            "country": "Canada",
+            "iso": "124",
+            "currencyCode": "CAD",
+            "countryCode": "CAN",
+            "flag": "flag-ca",
+            "iso2": "CA",
+            "callingCode": [
+                "1"
+            ],
+            "countryName": {
+                "uk": "Канада",
+                "ru": "Канада",
+                "en": "Canada"
+            }
+        },
+        {
+            "country": "Cape Verde",
+            "iso": "132",
+            "currencyCode": "CVE",
+            "countryCode": "CPV",
+            "flag": "flag-cv",
+            "iso2": "CV",
+            "callingCode": [
+                "238"
+            ],
+            "countryName": {
+                "uk": "Кабо-Верде",
+                "ru": "Кабо-Верде",
+                "en": "Cape Verde"
+            }
+        },
+        {
+            "country": "Cayman Islands",
+            "iso": "136",
+            "currencyCode": "KYD",
+            "countryCode": "CYM",
+            "flag": "flag-ky",
+            "iso2": "KY",
+            "callingCode": [
+                "1345"
+            ],
+            "countryName": {
+                "uk": "Кайманові Острови",
+                "ru": "Каймановы острова",
+                "en": "Cayman Islands"
+            }
+        },
+        {
+            "country": "Central African Republic",
+            "iso": "140",
+            "currencyCode": "XAF",
+            "countryCode": "CAF",
+            "flag": "flag-cf",
+            "iso2": "CF",
+            "callingCode": [
+                "236"
+            ],
+            "countryName": {
+                "uk": "Центральноафриканська Республіка",
+                "ru": "Центральноафриканская Республика",
+                "en": "Central African Republic"
+            }
+        },
+        {
+            "country": "Chad",
+            "iso": "148",
+            "currencyCode": "XAF",
+            "countryCode": "TCD",
+            "flag": "flag-td",
+            "iso2": "TD",
+            "callingCode": [
+                "235"
+            ],
+            "countryName": {
+                "uk": "Чад",
+                "ru": "Чад",
+                "en": "Chad"
+            }
+        },
+        {
+            "country": "Chile",
+            "iso": "152",
+            "currencyCode": "CLP",
+            "countryCode": "CHL",
+            "flag": "flag-cl",
+            "iso2": "CL",
+            "callingCode": [
+                "56"
+            ],
+            "countryName": {
+                "uk": "Чилі",
+                "ru": "Чили",
+                "en": "Chile"
+            }
+        },
+        {
+            "country": "China",
+            "iso": "156",
+            "currencyCode": "CNY",
+            "countryCode": "CHN",
+            "flag": "flag-cn",
+            "iso2": "CN",
+            "callingCode": [
+                "86"
+            ],
+            "countryName": {
+                "uk": "Китай",
+                "ru": "Китай",
+                "en": "China"
+            }
+        },
+        {
+            "country": "Christmas Island",
+            "iso": "162",
+            "currencyCode": "AUD",
+            "countryCode": "CXR",
+            "flag": "flag-cx",
+            "iso2": "CX",
+            "callingCode": [
+                "61"
+            ],
+            "countryName": {
+                "uk": "Острів Різдва",
+                "ru": "Остров Рождества",
+                "en": "Christmas Island"
+            }
+        },
+        {
+            "country": "Colombia",
+            "iso": "170",
+            "currencyCode": "COP",
+            "countryCode": "COL",
+            "flag": "flag-co",
+            "iso2": "CO",
+            "callingCode": [
+                "57"
+            ],
+            "countryName": {
+                "uk": "Колумбія",
+                "ru": "Колумбия",
+                "en": "Colombia"
+            }
+        },
+        {
+            "country": "Comoros",
+            "iso": "174",
+            "currencyCode": "KMF",
+            "countryCode": "COM",
+            "flag": "flag-km",
+            "iso2": "KM",
+            "callingCode": [
+                "269"
+            ],
+            "countryName": {
+                "uk": "Коморські Острови",
+                "ru": "Коморы",
+                "en": "Comoros"
+            }
+        },
+        {
+            "country": "Cook Islands",
+            "iso": "184",
+            "currencyCode": "NZD",
+            "countryCode": "COK",
+            "flag": "flag-ck",
+            "iso2": "CK",
+            "callingCode": [
+                "682"
+            ],
+            "countryName": {
+                "uk": "Острови Кука",
+                "ru": "Острова Кука",
+                "en": "Cook Islands"
+            }
+        },
+        {
+            "country": "Costa Rica",
+            "iso": "188",
+            "currencyCode": "CRC",
+            "countryCode": "CRI",
+            "flag": "flag-cr",
+            "iso2": "CR",
+            "callingCode": [
+                "506"
+            ],
+            "countryName": {
+                "uk": "Коста-Рика",
+                "ru": "Коста-Рика",
+                "en": "Costa Rica"
+            }
+        },
+        {
+            "country": "Croatia",
+            "iso": "191",
+            "currencyCode": "HRK",
+            "countryCode": "HRV",
+            "flag": "flag-hr",
+            "iso2": "HR",
+            "callingCode": [
+                "385"
+            ],
+            "countryName": {
+                "uk": "Хорватія",
+                "ru": "Хорватия",
+                "en": "Croatia"
+            }
+        },
+        {
+            "country": "Cuba",
+            "iso": "192",
+            "currencyCode": "CUP",
+            "countryCode": "CUB",
+            "flag": "flag-cu",
+            "iso2": "CU",
+            "callingCode": [
+                "53"
+            ],
+            "countryName": {
+                "uk": "Куба",
+                "ru": "Куба",
+                "en": "Cuba"
+            }
+        },
+        {
+            "country": "Cyprus",
+            "iso": "196",
+            "currencyCode": "EUR",
+            "countryCode": "CYP",
+            "flag": "flag-cy",
+            "iso2": "CY",
+            "callingCode": [
+                "357"
+            ],
+            "countryName": {
+                "uk": "Кіпр",
+                "ru": "Кипр",
+                "en": "Cyprus"
+            }
+        },
+        {
+            "country": "Czech Republic",
+            "iso": "203",
+            "currencyCode": "CZK",
+            "countryCode": "CZE",
+            "flag": "flag-cz",
+            "iso2": "CZ",
+            "callingCode": [
+                "420"
+            ],
+            "countryName": {
+                "uk": "Чехія",
+                "ru": "Чехия",
+                "en": "Czech Republic"
+            }
+        },
+        {
+            "country": "Denmark",
+            "iso": "208",
+            "currencyCode": "DKK",
+            "countryCode": "DNK",
+            "flag": "flag-dk",
+            "iso2": "DK",
+            "callingCode": [
+                "45"
+            ],
+            "countryName": {
+                "uk": "Данія",
+                "ru": "Дания",
+                "en": "Denmark"
+            }
+        },
+        {
+            "country": "Djibouti",
+            "iso": "262",
+            "currencyCode": "DJF",
+            "countryCode": "DJI",
+            "flag": "flag-dj",
+            "iso2": "DJ",
+            "callingCode": [
+                "253"
+            ],
+            "countryName": {
+                "uk": "Джибуті",
+                "ru": "Джибути",
+                "en": "Djibouti"
+            }
+        },
+        {
+            "country": "Dominica",
+            "iso": "212",
+            "currencyCode": "XCD",
+            "countryCode": "DMA",
+            "flag": "flag-dm",
+            "iso2": "DM",
+            "callingCode": [
+                "1767"
+            ],
+            "countryName": {
+                "uk": "Домініка",
+                "ru": "Доминика",
+                "en": "Dominica"
+            }
+        },
+        {
+            "country": "Dominican Republic",
+            "iso": "214",
+            "currencyCode": "DOP",
+            "countryCode": "DOM",
+            "flag": "flag-do",
+            "iso2": "DO",
+            "callingCode": [
+                "1809",
+                "1829",
+                "1849"
+            ],
+            "countryName": {
+                "uk": "Домініканська Республіка",
+                "ru": "Доминиканская Республика",
+                "en": "Dominican Republic"
+            }
+        },
+        {
+            "country": "East Timor",
+            "iso": "626",
+            "currencyCode": "USD",
+            "countryCode": "TLS",
+            "flag": "flag-tl",
+            "iso2": "TL",
+            "callingCode": [
+                "670"
+            ],
+            "countryName": {
+                "uk": "Східний Тимор",
+                "ru": "Восточный Тимор",
+                "en": "East Timor"
+            }
+        },
+        {
+            "country": "Ecuador",
+            "iso": "218",
+            "currencyCode": "ECS",
+            "countryCode": "ECU",
+            "flag": "flag-ec",
+            "iso2": "EC",
+            "callingCode": [
+                "593"
+            ],
+            "countryName": {
+                "uk": "Еквадор",
+                "ru": "Эквадор",
+                "en": "Ecuador"
+            }
+        },
+        {
+            "country": "Egypt",
+            "iso": "818",
+            "currencyCode": "EGP",
+            "countryCode": "EGY",
+            "flag": "flag-eg",
+            "iso2": "EG",
+            "callingCode": [
+                "20"
+            ],
+            "countryName": {
+                "uk": "Єгипет",
+                "ru": "Египет",
+                "en": "Egypt"
+            }
+        },
+        {
+            "country": "El Salvador",
+            "iso": "222",
+            "currencyCode": "SVC",
+            "countryCode": "SLV",
+            "flag": "flag-sv",
+            "iso2": "SV",
+            "callingCode": [
+                "503"
+            ],
+            "countryName": {
+                "uk": "Сальвадор",
+                "ru": "Сальвадор",
+                "en": "El Salvador"
+            }
+        },
+        {
+            "country": "Equatorial Guinea",
+            "iso": "226",
+            "currencyCode": "XAF",
+            "countryCode": "GNQ",
+            "flag": "flag-gq",
+            "iso2": "GQ",
+            "callingCode": [
+                "240"
+            ],
+            "countryName": {
+                "uk": "Екваторіальна Гвінея",
+                "ru": "Экваториальная Гвинея",
+                "en": "Equatorial Guinea"
+            }
+        },
+        {
+            "country": "Eritrea",
+            "iso": "232",
+            "currencyCode": "ERN",
+            "countryCode": "ERI",
+            "flag": "flag-er",
+            "iso2": "ER",
+            "callingCode": [
+                "291"
+            ],
+            "countryName": {
+                "uk": "Еритрея",
+                "ru": "Эритрея",
+                "en": "Eritrea"
+            }
+        },
+        {
+            "country": "Estonia",
+            "iso": "233",
+            "currencyCode": "EUR",
+            "countryCode": "EST",
+            "flag": "flag-ee",
+            "iso2": "EE",
+            "callingCode": [
+                "372"
+            ],
+            "countryName": {
+                "uk": "Естонія",
+                "ru": "Эстония",
+                "en": "Estonia"
+            }
+        },
+        {
+            "country": "Ethiopia",
+            "iso": "231",
+            "currencyCode": "ETB",
+            "countryCode": "ETH",
+            "flag": "flag-et",
+            "iso2": "ET",
+            "callingCode": [
+                "251"
+            ],
+            "countryName": {
+                "uk": "Ефіопія",
+                "ru": "Эфиопия",
+                "en": "Ethiopia"
+            }
+        },
+        {
+            "country": "Falkland Islands",
+            "iso": "238",
+            "currencyCode": "FKP",
+            "countryCode": "FLK",
+            "flag": "flag-fk",
+            "iso2": "FK",
+            "callingCode": [
+                "500"
+            ],
+            "countryName": {
+                "uk": "Фолклендські Острови",
+                "ru": "Фолклендские острова",
+                "en": "Falkland Islands"
+            }
+        },
+        {
+            "country": "Faroe Islands",
+            "iso": "234",
+            "currencyCode": "DKK",
+            "countryCode": "FRO",
+            "flag": "flag-fo",
+            "iso2": "FO",
+            "callingCode": [
+                "298"
+            ],
+            "countryName": {
+                "uk": "Фарерські острови",
+                "ru": "Фарерские острова",
+                "en": "Faroe Islands"
+            }
+        },
+        {
+            "country": "Finland",
+            "iso": "246",
+            "currencyCode": "EUR",
+            "countryCode": "FIN",
+            "flag": "flag-fi",
+            "iso2": "FI",
+            "callingCode": [
+                "358"
+            ],
+            "countryName": {
+                "uk": "Фінляндія",
+                "ru": "Финляндия",
+                "en": "Finland"
+            }
+        },
+        {
+            "country": "France",
+            "iso": "250",
+            "currencyCode": "EUR",
+            "countryCode": "FRA",
+            "flag": "flag-fr",
+            "iso2": "FR",
+            "callingCode": [
+                "33"
+            ],
+            "countryName": {
+                "uk": "Франція",
+                "ru": "Франция",
+                "en": "France"
+            }
+        },
+        {
+            "country": "French Guiana",
+            "iso": "254",
+            "currencyCode": "EUR",
+            "countryCode": "GUF",
+            "flag": "flag-gf",
+            "iso2": "GF",
+            "callingCode": [
+                "594"
+            ],
+            "countryName": {
+                "uk": "Гватемала",
+                "ru": "Французская Гвиана",
+                "en": "Guatemala"
+            }
+        },
+        {
+            "country": "French Polynesia",
+            "iso": "258",
+            "currencyCode": "XPF",
+            "countryCode": "PYF",
+            "flag": "flag-pf",
+            "iso2": "PF",
+            "callingCode": [
+                "689"
+            ],
+            "countryName": {
+                "uk": "Французька Полінезія",
+                "ru": "Французская Полинезия",
+                "en": "French Polynesia"
+            }
+        },
+        {
+            "country": "French Southern territories",
+            "iso": "260",
+            "currencyCode": "EUR",
+            "countryCode": "ATF",
+            "flag": "flag-tf",
+            "iso2": "TF",
+            "callingCode": [],
+            "countryName": {
+                "uk": "Французькі Південні та Антарктичні Території",
+                "ru": "Французские Южные и Антарктические территории",
+                "en": "French Southern and Antarctic Lands"
+            }
+        },
+        {
+            "country": "Gabon",
+            "iso": "266",
+            "currencyCode": "XAF",
+            "countryCode": "GAB",
+            "flag": "flag-ga",
+            "iso2": "GA",
+            "callingCode": [
+                "241"
+            ],
+            "countryName": {
+                "uk": "Габон",
+                "ru": "Габон",
+                "en": "Gabon"
+            }
+        },
+        {
+            "country": "Gambia",
+            "iso": "270",
+            "currencyCode": "GMD",
+            "countryCode": "GMB",
+            "flag": "flag-gm",
+            "iso2": "GM",
+            "callingCode": [
+                "220"
+            ],
+            "countryName": {
+                "uk": "Гамбія",
+                "ru": "Гамбия",
+                "en": "The Gambia"
+            }
+        },
+        {
+            "country": "Georgia",
+            "iso": "268",
+            "currencyCode": "GEL",
+            "countryCode": "GEO",
+            "flag": "flag-ge",
+            "iso2": "GE",
+            "callingCode": [
+                "995"
+            ],
+            "countryName": {
+                "uk": "Грузія",
+                "ru": "Грузия",
+                "en": "Georgia"
+            }
+        },
+        {
+            "country": "Germany",
+            "iso": "276",
+            "currencyCode": "EUR",
+            "countryCode": "DEU",
+            "flag": "flag-de",
+            "iso2": "DE",
+            "callingCode": [
+                "49"
+            ],
+            "countryName": {
+                "uk": "Німеччина",
+                "ru": "Германия",
+                "en": "Germany"
+            }
+        },
+        {
+            "country": "Ghana",
+            "iso": "288",
+            "currencyCode": "GHS",
+            "countryCode": "GHA",
+            "flag": "flag-gh",
+            "iso2": "GH",
+            "callingCode": [
+                "233"
+            ],
+            "countryName": {
+                "uk": "Гана",
+                "ru": "Гана",
+                "en": "Ghana"
+            }
+        },
+        {
+            "country": "Gibraltar",
+            "iso": "292",
+            "currencyCode": "GIP",
+            "countryCode": "GIB",
+            "flag": "flag-gi",
+            "iso2": "GI",
+            "callingCode": [
+                "350"
+            ],
+            "countryName": {
+                "uk": "Гібралтар",
+                "ru": "Гибралтар",
+                "en": "Gibraltar"
+            }
+        },
+        {
+            "country": "Greece",
+            "iso": "300",
+            "currencyCode": "EUR",
+            "countryCode": "GRC",
+            "flag": "flag-gr",
+            "iso2": "GR",
+            "callingCode": [
+                "30"
+            ],
+            "countryName": {
+                "uk": "Греція",
+                "ru": "Греция",
+                "en": "Greece"
+            }
+        },
+        {
+            "country": "Greenland",
+            "iso": "304",
+            "currencyCode": "DKK",
+            "countryCode": "GRL",
+            "flag": "flag-gl",
+            "iso2": "GL",
+            "callingCode": [
+                "299"
+            ],
+            "countryName": {
+                "uk": "Гренландія",
+                "ru": "Гренландия",
+                "en": "Greenland"
+            }
+        },
+        {
+            "country": "Grenada",
+            "iso": "308",
+            "currencyCode": "XCD",
+            "countryCode": "GRD",
+            "flag": "flag-gd",
+            "iso2": "GD",
+            "callingCode": [
+                "1473"
+            ],
+            "countryName": {
+                "uk": "Гренада",
+                "ru": "Гренада",
+                "en": "Grenada"
+            }
+        },
+        {
+            "country": "Guadeloupe",
+            "iso": "312",
+            "currencyCode": "EUR",
+            "countryCode": "GLP",
+            "flag": "flag-gp",
+            "iso2": "GP",
+            "callingCode": [
+                "590"
+            ],
+            "countryName": {
+                "uk": "Гваделупа",
+                "ru": "Гваделупа",
+                "en": "Guadeloupe"
+            }
+        },
+        {
+            "country": "Guam",
+            "iso": "316",
+            "currencyCode": "USD",
+            "countryCode": "GUM",
+            "flag": "flag-gu",
+            "iso2": "GU",
+            "callingCode": [
+                "1671"
+            ],
+            "countryName": {
+                "uk": "Гуам",
+                "ru": "Гуам",
+                "en": "Guam"
+            }
+        },
+        {
+            "country": "Guatemala",
+            "iso": "320",
+            "currencyCode": "QTQ",
+            "countryCode": "GTM",
+            "flag": "flag-gt",
+            "iso2": "GT",
+            "callingCode": [
+                "502"
+            ],
+            "countryName": {
+                "uk": "Гватемала",
+                "ru": "Гватемала",
+                "en": "Guatemala"
+            }
+        },
+        {
+            "country": "Guinea",
+            "iso": "324",
+            "currencyCode": "GNF",
+            "countryCode": "GUY",
+            "flag": "flag-gn",
+            "iso2": "GN",
+            "callingCode": [
+                "224"
+            ],
+            "countryName": {
+                "uk": "Гаяна",
+                "ru": "Гайана",
+                "en": "Guyana"
+            }
+        },
+        {
+            "country": "Guinea-Bissau",
+            "iso": "624",
+            "currencyCode": "CFA",
+            "countryCode": "GNB",
+            "flag": "flag-gw",
+            "iso2": "GW",
+            "callingCode": [
+                "245"
+            ],
+            "countryName": {
+                "uk": "Гвінея-Бісау",
+                "ru": "Гвинея-Бисау",
+                "en": "Guinea-Bissau"
+            }
+        },
+        {
+            "country": "Guyana",
+            "iso": "328",
+            "currencyCode": "GYD",
+            "countryCode": "GUY",
+            "flag": "flag-gy",
+            "iso2": "GY",
+            "callingCode": [
+                "592"
+            ],
+            "countryName": {
+                "uk": "Гаяна",
+                "ru": "Гайана",
+                "en": "Guyana"
+            }
+        },
+        {
+            "country": "Haiti",
+            "iso": "332",
+            "currencyCode": "HTG",
+            "countryCode": "HTI",
+            "flag": "flag-ht",
+            "iso2": "HT",
+            "callingCode": [
+                "509"
+            ],
+            "countryName": {
+                "uk": "Гаїті",
+                "ru": "Гаити",
+                "en": "Haiti"
+            }
+        },
+        {
+            "country": "Heard Island and McDonald Islands",
+            "iso": "334",
+            "currencyCode": "AUD",
+            "countryCode": "HMD",
+            "flag": "flag-hm",
+            "iso2": "HM",
+            "callingCode": [],
+            "countryName": {
+                "uk": "Острів Герд і острови Макдональд",
+                "ru": "Остров Херд и острова Макдональд",
+                "en": "Heard Island and McDonald Islands"
+            }
+        },
+        {
+            "country": "Honduras",
+            "iso": "340",
+            "currencyCode": "HNL",
+            "countryCode": "HND",
+            "flag": "flag-hn",
+            "iso2": "HN",
+            "callingCode": [
+                "504"
+            ],
+            "countryName": {
+                "uk": "Гондурас",
+                "ru": "Гондурас",
+                "en": "Honduras"
+            }
+        },
+        {
+            "country": "Hong Kong",
+            "iso": "344",
+            "currencyCode": "HKD",
+            "countryCode": "HKG",
+            "flag": "flag-hk",
+            "iso2": "HK",
+            "callingCode": [
+                "852"
+            ],
+            "countryName": {
+                "uk": "Гонконг",
+                "ru": "Гонконг",
+                "en": "Hong Kong"
+            }
+        },
+        {
+            "country": "Hungary",
+            "iso": "348",
+            "currencyCode": "HUF",
+            "countryCode": "HUN",
+            "flag": "flag-hu",
+            "iso2": "HU",
+            "callingCode": [
+                "36"
+            ],
+            "countryName": {
+                "uk": "Угорщина",
+                "ru": "Венгрия",
+                "en": "Hungary"
+            }
+        },
+        {
+            "country": "Iceland",
+            "iso": "352",
+            "currencyCode": "ISK",
+            "countryCode": "ISL",
+            "flag": "flag-is",
+            "iso2": "IS",
+            "callingCode": [
+                "354"
+            ],
+            "countryName": {
+                "uk": "Ісландія",
+                "ru": "Исландия",
+                "en": "Iceland"
+            }
+        },
+        {
+            "country": "India",
+            "iso": "356",
+            "currencyCode": "INR",
+            "countryCode": "IND",
+            "flag": "flag-in",
+            "iso2": "IN",
+            "callingCode": [
+                "91"
+            ],
+            "countryName": {
+                "uk": "Індія",
+                "ru": "Индия",
+                "en": "India"
+            }
+        },
+        {
+            "country": "Indonesia",
+            "iso": "360",
+            "currencyCode": "IDR",
+            "countryCode": "IDN",
+            "flag": "flag-id",
+            "iso2": "ID",
+            "callingCode": [
+                "62"
+            ],
+            "countryName": {
+                "uk": "Індонезія",
+                "ru": "Индонезия",
+                "en": "Indonesia"
+            }
+        },
+        {
+            "country": "Iran",
+            "iso": "364",
+            "currencyCode": "IRR",
+            "countryCode": "IRN",
+            "flag": "flag-ir",
+            "iso2": "IR",
+            "callingCode": [
+                "98"
+            ],
+            "countryName": {
+                "uk": "Іран",
+                "ru": "Иран",
+                "en": "Iran"
+            }
+        },
+        {
+            "country": "Iraq",
+            "iso": "368",
+            "currencyCode": "IQD",
+            "countryCode": "IRQ",
+            "flag": "flag-iq",
+            "iso2": "IQ",
+            "callingCode": [
+                "964"
+            ],
+            "countryName": {
+                "uk": "Ірак",
+                "ru": "Ирак",
+                "en": "Iraq"
+            }
+        },
+        {
+            "country": "Ireland",
+            "iso": "372",
+            "currencyCode": "EUR",
+            "countryCode": "IRL",
+            "flag": "flag-ie",
+            "iso2": "IE",
+            "callingCode": [
+                "353"
+            ],
+            "countryName": {
+                "uk": "Ірландія",
+                "ru": "Ирландия",
+                "en": "Ireland"
+            }
+        },
+        {
+            "country": "Israel",
+            "iso": "376",
+            "currencyCode": "ILS",
+            "countryCode": "ISR",
+            "flag": "flag-il",
+            "iso2": "IL",
+            "callingCode": [
+                "972"
+            ],
+            "countryName": {
+                "uk": "Ізраїль",
+                "ru": "Израиль",
+                "en": "Israel"
+            }
+        },
+        {
+            "country": "Italy",
+            "iso": "380",
+            "currencyCode": "EUR",
+            "countryCode": "ITA",
+            "flag": "flag-it",
+            "iso2": "IT",
+            "callingCode": [
+                "39"
+            ],
+            "countryName": {
+                "uk": "Італія",
+                "ru": "Италия",
+                "en": "Italy"
+            }
+        },
+        {
+            "country": "Ivory Coast",
+            "iso": "384",
+            "currencyCode": "XOF",
+            "countryCode": "CIV",
+            "flag": "flag-ci",
+            "iso2": "CI",
+            "callingCode": [
+                "225"
+            ],
+            "countryName": {
+                "uk": "Кот-д'Івуар",
+                "ru": "Кот-д’Ивуар",
+                "en": "Ivory Coast"
+            }
+        },
+        {
+            "country": "Jamaica",
+            "iso": "388",
+            "currencyCode": "JMD",
+            "countryCode": "JAM",
+            "flag": "flag-jm",
+            "iso2": "JM",
+            "callingCode": [
+                "1876"
+            ],
+            "countryName": {
+                "uk": "Ямайка",
+                "ru": "Ямайка",
+                "en": "Jamaica"
+            }
+        },
+        {
+            "country": "Japan",
+            "iso": "392",
+            "currencyCode": "JPY",
+            "countryCode": "JPN",
+            "flag": "flag-jp",
+            "iso2": "JP",
+            "callingCode": [
+                "81"
+            ],
+            "countryName": {
+                "uk": "Японія",
+                "ru": "Япония",
+                "en": "Japan"
+            }
+        },
+        {
+            "country": "Jordan",
+            "iso": "400",
+            "currencyCode": "JOD",
+            "countryCode": "JOR",
+            "flag": "flag-jo",
+            "iso2": "JO",
+            "callingCode": [
+                "962"
+            ],
+            "countryName": {
+                "uk": "Йорданія",
+                "ru": "Иордания",
+                "en": "Jordan"
+            }
+        },
+        {
+            "country": "Kenya",
+            "iso": "404",
+            "currencyCode": "KES",
+            "countryCode": "KEN",
+            "flag": "flag-ke",
+            "iso2": "KE",
+            "callingCode": [
+                "254"
+            ],
+            "countryName": {
+                "uk": "Кенія",
+                "ru": "Кения",
+                "en": "Kenya"
+            }
+        },
+        {
+            "country": "Kiribati",
+            "iso": "296",
+            "currencyCode": "AUD",
+            "countryCode": "KIR",
+            "flag": "flag-ki",
+            "iso2": "KI",
+            "callingCode": [
+                "686"
+            ],
+            "countryName": {
+                "uk": "Кірибаті",
+                "ru": "Кирибати",
+                "en": "Kiribati"
+            }
+        },
+        {
+            "country": "Kuwait",
+            "iso": "414",
+            "currencyCode": "KWD",
+            "countryCode": "KWT",
+            "flag": "flag-kw",
+            "iso2": "KW",
+            "callingCode": [
+                "965"
+            ],
+            "countryName": {
+                "uk": "Кувейт",
+                "ru": "Кувейт",
+                "en": "Kuwait"
+            }
+        },
+        {
+            "country": "Kyrgyzstan",
+            "iso": "417",
+            "currencyCode": "KGS",
+            "countryCode": "KGZ",
+            "flag": "flag-kg",
+            "iso2": "KG",
+            "callingCode": [
+                "996"
+            ],
+            "countryName": {
+                "uk": "Киргизстан",
+                "ru": "Киргизия",
+                "en": "Kyrgyzstan"
+            }
+        },
+        {
+            "country": "Laos",
+            "iso": "418",
+            "currencyCode": "LAK",
+            "countryCode": "LAO",
+            "flag": "flag-la",
+            "iso2": "LA",
+            "callingCode": [
+                "856"
+            ],
+            "countryName": {
+                "uk": "Лаос",
+                "ru": "Лаос",
+                "en": "Laos"
+            }
+        },
+        {
+            "country": "Latvia",
+            "iso": "428",
+            "currencyCode": "LVL",
+            "countryCode": "LVA",
+            "flag": "flag-lv",
+            "iso2": "LV",
+            "callingCode": [
+                "371"
+            ],
+            "countryName": {
+                "uk": "Латвія",
+                "ru": "Латвия",
+                "en": "Latvia"
+            }
+        },
+        {
+            "country": "Lebanon",
+            "iso": "422",
+            "currencyCode": "LBP",
+            "countryCode": "LBN",
+            "flag": "flag-lb",
+            "iso2": "LB",
+            "callingCode": [
+                "961"
+            ],
+            "countryName": {
+                "uk": "Ліван",
+                "ru": "Ливан",
+                "en": "Lebanon"
+            }
+        },
+        {
+            "country": "Lesotho",
+            "iso": "426",
+            "currencyCode": "LSL",
+            "countryCode": "LSO",
+            "flag": "flag-ls",
+            "iso2": "LS",
+            "callingCode": [
+                "266"
+            ],
+            "countryName": {
+                "uk": "Лесото",
+                "ru": "Лесото",
+                "en": "Lesotho"
+            }
+        },
+        {
+            "country": "Liberia",
+            "iso": "430",
+            "currencyCode": "LRD",
+            "countryCode": "LBR",
+            "flag": "flag-lr",
+            "iso2": "LR",
+            "callingCode": [
+                "231"
+            ],
+            "countryName": {
+                "uk": "Ліберія",
+                "ru": "Либерия",
+                "en": "Liberia"
+            }
+        },
+        {
+            "country": "Liechtenstein",
+            "iso": "438",
+            "currencyCode": "CHF",
+            "countryCode": "LIE",
+            "flag": "flag-li",
+            "iso2": "LI",
+            "callingCode": [
+                "423"
+            ],
+            "countryName": {
+                "uk": "Ліхтенштейн",
+                "ru": "Лихтенштейн",
+                "en": "Liechtenstein"
+            }
+        },
+        {
+            "country": "Lithuania",
+            "iso": "440",
+            "currencyCode": "LTL",
+            "countryCode": "LTU",
+            "flag": "flag-lt",
+            "iso2": "LT",
+            "callingCode": [
+                "370"
+            ],
+            "countryName": {
+                "uk": "Литва",
+                "ru": "Литва",
+                "en": "Lithuania"
+            }
+        },
+        {
+            "country": "Luxembourg",
+            "iso": "442",
+            "currencyCode": "EUR",
+            "countryCode": "LUX",
+            "flag": "flag-lu",
+            "iso2": "LU",
+            "callingCode": [
+                "352"
+            ],
+            "countryName": {
+                "uk": "Люксембург",
+                "ru": "Люксембург",
+                "en": "Luxembourg"
+            }
+        },
+        {
+            "country": "Macao",
+            "iso": "446",
+            "currencyCode": "MOP",
+            "countryCode": "MAC",
+            "flag": "flag-mo",
+            "iso2": "MO",
+            "callingCode": [
+                "853"
+            ],
+            "countryName": {
+                "uk": "Макао",
+                "ru": "Макао",
+                "en": "Macau"
+            }
+        },
+        {
+            "country": "North Macedonia",
+            "iso": "807",
+            "currencyCode": "MKD",
+            "countryCode": "MKD",
+            "flag": "flag-mk",
+            "iso2": "MK",
+            "callingCode": [
+                "389"
+            ],
+            "countryName": {
+                "uk": "Північна Македонія",
+                "ru": "Северная Македония",
+                "en": "North Macedonia"
+            }
+        },
+        {
+            "country": "Madagascar",
+            "iso": "450",
+            "currencyCode": "MGF",
+            "countryCode": "MDG",
+            "flag": "flag-mg",
+            "iso2": "MG",
+            "callingCode": [
+                "261"
+            ],
+            "countryName": {
+                "uk": "Мадагаскар",
+                "ru": "Мадагаскар",
+                "en": "Madagascar"
+            }
+        },
+        {
+            "country": "Malawi",
+            "iso": "454",
+            "currencyCode": "MWK",
+            "countryCode": "MWI",
+            "flag": "flag-mw",
+            "iso2": "MW",
+            "callingCode": [
+                "265"
+            ],
+            "countryName": {
+                "uk": "Малаві",
+                "ru": "Малави",
+                "en": "Malawi"
+            }
+        },
+        {
+            "country": "Malaysia",
+            "iso": "458",
+            "currencyCode": "MYR",
+            "countryCode": "MYS",
+            "flag": "flag-my",
+            "iso2": "MY",
+            "callingCode": [
+                "60"
+            ],
+            "countryName": {
+                "uk": "Малайзія",
+                "ru": "Малайзия",
+                "en": "Malaysia"
+            }
+        },
+        {
+            "country": "Maldives",
+            "iso": "462",
+            "currencyCode": "MVR",
+            "countryCode": "MDV",
+            "flag": "flag-mv",
+            "iso2": "MV",
+            "callingCode": [
+                "960"
+            ],
+            "countryName": {
+                "uk": "Мальдіви",
+                "ru": "Мальдивы",
+                "en": "Maldives"
+            }
+        },
+        {
+            "country": "Mali",
+            "iso": "466",
+            "currencyCode": "XOF",
+            "countryCode": "MLI",
+            "flag": "flag-ml",
+            "iso2": "ML",
+            "callingCode": [
+                "223"
+            ],
+            "countryName": {
+                "uk": "Малі",
+                "ru": "Мали",
+                "en": "Mali"
+            }
+        },
+        {
+            "country": "Malta",
+            "iso": "470",
+            "currencyCode": "EUR",
+            "countryCode": "MLT",
+            "flag": "flag-mt",
+            "iso2": "MT",
+            "callingCode": [
+                "356"
+            ],
+            "countryName": {
+                "uk": "Мальта",
+                "ru": "Мальта",
+                "en": "Malta"
+            }
+        },
+        {
+            "country": "Marshall Islands",
+            "iso": "584",
+            "currencyCode": "USD",
+            "countryCode": "MHL",
+            "flag": "flag-mh",
+            "iso2": "MH",
+            "callingCode": [
+                "692"
+            ],
+            "countryName": {
+                "uk": "Маршаллові Острови",
+                "ru": "Маршалловы Острова",
+                "en": "Marshall Islands"
+            }
+        },
+        {
+            "country": "Martinique",
+            "iso": "474",
+            "currencyCode": "EUR",
+            "countryCode": "MTQ",
+            "flag": "flag-mq",
+            "iso2": "MQ",
+            "callingCode": [
+                "596"
+            ],
+            "countryName": {
+                "uk": "Мартиніка",
+                "ru": "Мартиника",
+                "en": "Martinique"
+            }
+        },
+        {
+            "country": "Mauritania",
+            "iso": "478",
+            "currencyCode": "MRO",
+            "countryCode": "MRT",
+            "flag": "flag-mr",
+            "iso2": "MR",
+            "callingCode": [
+                "222"
+            ],
+            "countryName": {
+                "uk": "Мавританія",
+                "ru": "Мавритания",
+                "en": "Mauritania"
+            }
+        },
+        {
+            "country": "Mauritius",
+            "iso": "480",
+            "currencyCode": "MUR",
+            "countryCode": "MUS",
+            "flag": "flag-mu",
+            "iso2": "MU",
+            "callingCode": [
+                "230"
+            ],
+            "countryName": {
+                "uk": "Маврикій",
+                "ru": "Маврикий",
+                "en": "Mauritius"
+            }
+        },
+        {
+            "country": "Mayotte",
+            "iso": "175",
+            "currencyCode": "EUR",
+            "countryCode": "MYT",
+            "flag": "flag-yt",
+            "iso2": "YT",
+            "callingCode": [
+                "262"
+            ],
+            "countryName": {
+                "uk": "Майотта",
+                "ru": "Майотта",
+                "en": "Mayotte"
+            }
+        },
+        {
+            "country": "Mexico",
+            "iso": "484",
+            "currencyCode": "MXN",
+            "countryCode": "MEX",
+            "flag": "flag-mx",
+            "iso2": "MX",
+            "callingCode": [
+                "52"
+            ],
+            "countryName": {
+                "uk": "Мексика",
+                "ru": "Мексика",
+                "en": "Mexico"
+            }
+        },
+        {
+            "country": "Moldova",
+            "iso": "498",
+            "currencyCode": "MDL",
+            "countryCode": "MDA",
+            "flag": "flag-md",
+            "iso2": "MD",
+            "callingCode": [
+                "373"
+            ],
+            "countryName": {
+                "uk": "Молдова",
+                "ru": "Молдавия",
+                "en": "Moldova"
+            }
+        },
+        {
+            "country": "Monaco",
+            "iso": "492",
+            "currencyCode": "EUR",
+            "countryCode": "MCO",
+            "flag": "flag-mc",
+            "iso2": "MC",
+            "callingCode": [
+                "377"
+            ],
+            "countryName": {
+                "uk": "Монако",
+                "ru": "Монако",
+                "en": "Monaco"
+            }
+        },
+        {
+            "country": "Mongolia",
+            "iso": "496",
+            "currencyCode": "MNT",
+            "countryCode": "MNG",
+            "flag": "flag-mn",
+            "iso2": "MN",
+            "callingCode": [
+                "976"
+            ],
+            "countryName": {
+                "uk": "Монголія",
+                "ru": "Монголия",
+                "en": "Mongolia"
+            }
+        },
+        {
+            "country": "Montserrat",
+            "iso": "500",
+            "currencyCode": "XCD",
+            "countryCode": "MSR",
+            "flag": "flag-ms",
+            "iso2": "MS",
+            "callingCode": [
+                "1664"
+            ],
+            "countryName": {
+                "uk": "Монтсеррат",
+                "ru": "Монтсеррат",
+                "en": "Montserrat"
+            }
+        },
+        {
+            "country": "Montenegro",
+            "iso": "499",
+            "currencyCode": "EUR",
+            "countryCode": "MNE",
+            "flag": "flag-me",
+            "iso2": "ME",
+            "callingCode": [
+                "382"
+            ],
+            "countryName": {
+                "uk": "Чорногорія",
+                "ru": "Черногория",
+                "en": "Montenegro"
+            }
+        },
+        {
+            "country": "Morocco",
+            "iso": "504",
+            "currencyCode": "MAD",
+            "countryCode": "MAR",
+            "flag": "flag-ma",
+            "iso2": "MA",
+            "callingCode": [
+                "212"
+            ],
+            "countryName": {
+                "uk": "Марокко",
+                "ru": "Марокко",
+                "en": "Morocco"
+            }
+        },
+        {
+            "country": "Mozambique",
+            "iso": "508",
+            "currencyCode": "MZN",
+            "countryCode": "MOZ",
+            "flag": "flag-mz",
+            "iso2": "MZ",
+            "callingCode": [
+                "258"
+            ],
+            "countryName": {
+                "uk": "Мозамбік",
+                "ru": "Мозамбик",
+                "en": "Mozambique"
+            }
+        },
+        {
+            "country": "Namibia",
+            "iso": "516",
+            "currencyCode": "NAD",
+            "countryCode": "NAM",
+            "flag": "flag-na",
+            "iso2": "NA",
+            "callingCode": [
+                "264"
+            ],
+            "countryName": {
+                "uk": "Намібія",
+                "ru": "Намибия",
+                "en": "Namibia"
+            }
+        },
+        {
+            "country": "Nauru",
+            "iso": "520",
+            "currencyCode": "AUD",
+            "countryCode": "NRU",
+            "flag": "flag-nr",
+            "iso2": "NR",
+            "callingCode": [
+                "674"
+            ],
+            "countryName": {
+                "uk": "Науру",
+                "ru": "Науру",
+                "en": "Nauru"
+            }
+        },
+        {
+            "country": "Nepal",
+            "iso": "524",
+            "currencyCode": "NPR",
+            "countryCode": "NPL",
+            "flag": "flag-np",
+            "iso2": "NP",
+            "callingCode": [
+                "977"
+            ],
+            "countryName": {
+                "uk": "Непал",
+                "ru": "Непал",
+                "en": "Nepal"
+            }
+        },
+        {
+            "country": "Netherlands",
+            "iso": "528",
+            "currencyCode": "EUR",
+            "countryCode": "NLD",
+            "flag": "flag-nl",
+            "iso2": "NL",
+            "callingCode": [
+                "31"
+            ],
+            "countryName": {
+                "uk": "Нідерланди",
+                "ru": "Нидерланды",
+                "en": "Netherlands"
+            }
+        },
+        {
+            "country": "New Caledonia",
+            "iso": "540",
+            "currencyCode": "XPF",
+            "countryCode": "NCL",
+            "flag": "flag-nc",
+            "iso2": "NC",
+            "callingCode": [
+                "687"
+            ],
+            "countryName": {
+                "uk": "Нова Каледонія",
+                "ru": "Новая Каледония",
+                "en": "New Caledonia"
+            }
+        },
+        {
+            "country": "New Zealand",
+            "iso": "554",
+            "currencyCode": "NZD",
+            "countryCode": "NZL",
+            "flag": "flag-nz",
+            "iso2": "NZ",
+            "callingCode": [
+                "64"
+            ],
+            "countryName": {
+                "uk": "Нова Зеландія",
+                "ru": "Новая Зеландия",
+                "en": "New Zealand"
+            }
+        },
+        {
+            "country": "Nicaragua",
+            "iso": "558",
+            "currencyCode": "NIO",
+            "countryCode": "NIC",
+            "flag": "flag-ni",
+            "iso2": "NI",
+            "callingCode": [
+                "505"
+            ],
+            "countryName": {
+                "uk": "Нікарагуа",
+                "ru": "Никарагуа",
+                "en": "Nicaragua"
+            }
+        },
+        {
+            "country": "Niger",
+            "iso": "562",
+            "currencyCode": "XOF",
+            "countryCode": "NER",
+            "flag": "flag-ne",
+            "iso2": "NE",
+            "callingCode": [
+                "227"
+            ],
+            "countryName": {
+                "uk": "Нігер",
+                "ru": "Нигер",
+                "en": "Niger"
+            }
+        },
+        {
+            "country": "Nigeria",
+            "iso": "566",
+            "currencyCode": "NGN",
+            "countryCode": "NGA",
+            "flag": "flag-ng",
+            "iso2": "NG",
+            "callingCode": [
+                "234"
+            ],
+            "countryName": {
+                "uk": "Нігерія",
+                "ru": "Нигерия",
+                "en": "Nigeria"
+            }
+        },
+        {
+            "country": "Niue",
+            "iso": "570",
+            "currencyCode": "NZD",
+            "countryCode": "NIU",
+            "flag": "flag-nu",
+            "iso2": "NU",
+            "callingCode": [
+                "683"
+            ],
+            "countryName": {
+                "uk": "Ніуе",
+                "ru": "Ниуэ",
+                "en": "Niue"
+            }
+        },
+        {
+            "country": "Norfolk Island",
+            "iso": "574",
+            "currencyCode": "AUD",
+            "countryCode": "NFK",
+            "flag": "flag-nf",
+            "iso2": "NF",
+            "callingCode": [
+                "672"
+            ],
+            "countryName": {
+                "uk": "Острів Норфолк",
+                "ru": "Норфолк",
+                "en": "Norfolk Island"
+            }
+        },
+        {
+            "country": "North Korea",
+            "iso": "408",
+            "currencyCode": "KPW",
+            "countryCode": "PRK",
+            "flag": "flag-kp",
+            "iso2": "KP",
+            "callingCode": [
+                "850"
+            ],
+            "countryName": {
+                "uk": "Північна Корея",
+                "ru": "Северная Корея",
+                "en": "North Korea"
+            }
+        },
+        {
+            "country": "Northern Mariana Islands",
+            "iso": "580",
+            "currencyCode": "USD",
+            "countryCode": "MNP",
+            "flag": "flag-mp",
+            "iso2": "MP",
+            "callingCode": [
+                "1670"
+            ],
+            "countryName": {
+                "uk": "Північні Маріанські Острови",
+                "ru": "Северные Марианские острова",
+                "en": "Northern Mariana Islands"
+            }
+        },
+        {
+            "country": "Norway",
+            "iso": "578",
+            "currencyCode": "NOK",
+            "countryCode": "NOR",
+            "flag": "flag-no",
+            "iso2": "NO",
+            "callingCode": [
+                "47"
+            ],
+            "countryName": {
+                "uk": "Норвегія",
+                "ru": "Норвегия",
+                "en": "Norway"
+            }
+        },
+        {
+            "country": "Oman",
+            "iso": "512",
+            "currencyCode": "OMR",
+            "countryCode": "OMN",
+            "flag": "flag-om",
+            "iso2": "OM",
+            "callingCode": [
+                "968"
+            ],
+            "countryName": {
+                "uk": "Оман",
+                "ru": "Оман",
+                "en": "Oman"
+            }
+        },
+        {
+            "country": "Pakistan",
+            "iso": "586",
+            "currencyCode": "PKR",
+            "countryCode": "PAK",
+            "flag": "flag-pk",
+            "iso2": "PK",
+            "callingCode": [
+                "92"
+            ],
+            "countryName": {
+                "uk": "Пакистан",
+                "ru": "Пакистан",
+                "en": "Pakistan"
+            }
+        },
+        {
+            "country": "Palau",
+            "iso": "585",
+            "currencyCode": "USD",
+            "countryCode": "PLW",
+            "flag": "flag-pw",
+            "iso2": "PW",
+            "callingCode": [
+                "680"
+            ],
+            "countryName": {
+                "uk": "Палау",
+                "ru": "Палау",
+                "en": "Palau"
+            }
+        },
+        {
+            "country": "Panama",
+            "iso": "591",
+            "currencyCode": "PAB",
+            "countryCode": "PAN",
+            "flag": "flag-pa",
+            "iso2": "PA",
+            "callingCode": [
+                "507"
+            ],
+            "countryName": {
+                "uk": "Панама",
+                "ru": "Панама",
+                "en": "Panama"
+            }
+        },
+        {
+            "country": "Papua New Guinea",
+            "iso": "598",
+            "currencyCode": "PGK",
+            "countryCode": "PNG",
+            "flag": "flag-pg",
+            "iso2": "PG",
+            "callingCode": [
+                "675"
+            ],
+            "countryName": {
+                "uk": "Папуа Нова Гвінея",
+                "ru": "Папуа — Новая Гвинея",
+                "en": "Papua New Guinea"
+            }
+        },
+        {
+            "country": "Paraguay",
+            "iso": "600",
+            "currencyCode": "PYG",
+            "countryCode": "PRY",
+            "flag": "flag-py",
+            "iso2": "PY",
+            "callingCode": [
+                "595"
+            ],
+            "countryName": {
+                "uk": "Парагвай",
+                "ru": "Парагвай",
+                "en": "Paraguay"
+            }
+        },
+        {
+            "country": "Peru",
+            "iso": "604",
+            "currencyCode": "PEN",
+            "countryCode": "PER",
+            "flag": "flag-pe",
+            "iso2": "PE",
+            "callingCode": [
+                "51"
+            ],
+            "countryName": {
+                "uk": "Перу",
+                "ru": "Перу",
+                "en": "Peru"
+            }
+        },
+        {
+            "country": "Philippines",
+            "iso": "608",
+            "currencyCode": "PHP",
+            "countryCode": "PHL",
+            "flag": "flag-ph",
+            "iso2": "PH",
+            "callingCode": [
+                "63"
+            ],
+            "countryName": {
+                "uk": "Філіппіни",
+                "ru": "Филиппины",
+                "en": "Philippines"
+            }
+        },
+        {
+            "country": "Poland",
+            "iso": "616",
+            "currencyCode": "PLN",
+            "countryCode": "POL",
+            "flag": "flag-pl",
+            "iso2": "PL",
+            "callingCode": [
+                "48"
+            ],
+            "countryName": {
+                "uk": "Польща",
+                "ru": "Польша",
+                "en": "Poland"
+            }
+        },
+        {
+            "country": "Portugal",
+            "iso": "620",
+            "currencyCode": "EUR",
+            "countryCode": "PRT",
+            "flag": "flag-pt",
+            "iso2": "PT",
+            "callingCode": [
+                "351"
+            ],
+            "countryName": {
+                "uk": "Португалія",
+                "ru": "Португалия",
+                "en": "Portugal"
+            }
+        },
+        {
+            "country": "Puerto Rico",
+            "iso": "630",
+            "currencyCode": "USD",
+            "countryCode": "PRI",
+            "flag": "flag-pr",
+            "iso2": "PR",
+            "callingCode": [
+                "1787",
+                "1939"
+            ],
+            "countryName": {
+                "uk": "Пуерто-Рико",
+                "ru": "Пуэрто-Рико",
+                "en": "Puerto Rico"
+            }
+        },
+        {
+            "country": "Qatar",
+            "iso": "634",
+            "currencyCode": "QAR",
+            "countryCode": "QAT",
+            "flag": "flag-qa",
+            "iso2": "QA",
+            "callingCode": [
+                "974"
+            ],
+            "countryName": {
+                "uk": "Катар",
+                "ru": "Катар",
+                "en": "Qatar"
+            }
+        },
+        {
+            "country": "Reunion",
+            "iso": "638",
+            "currencyCode": "EUR",
+            "countryCode": "REU",
+            "flag": "flag-re",
+            "iso2": "RE",
+            "callingCode": [
+                "262"
+            ],
+            "countryName": {
+                "uk": "Реюньйон",
+                "ru": "Реюньон",
+                "en": "Réunion"
+            }
+        },
+        {
+            "country": "Romania",
+            "iso": "642",
+            "currencyCode": "RON",
+            "countryCode": "ROU",
+            "flag": "flag-ro",
+            "iso2": "RO",
+            "callingCode": [
+                "40"
+            ],
+            "countryName": {
+                "uk": "Румунія",
+                "ru": "Румыния",
+                "en": "Romania"
+            }
+        },
+        {
+            "country": "Rwanda",
+            "iso": "646",
+            "currencyCode": "RWF",
+            "countryCode": "RWA",
+            "flag": "flag-rw",
+            "iso2": "RW",
+            "callingCode": [
+                "250"
+            ],
+            "countryName": {
+                "uk": "Руанда",
+                "ru": "Руанда",
+                "en": "Rwanda"
+            }
+        },
+        {
+            "country": "Saint Helena",
+            "iso": "654",
+            "currencyCode": "SHP",
+            "countryCode": "SHN",
+            "flag": "flag-sh",
+            "iso2": "SH",
+            "callingCode": [
+                "290",
+                "247"
+            ],
+            "countryName": {
+                "uk": "Острови Святої Єлени, Вознесіння і Тристан-да-Кунья",
+                "ru": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+                "en": "Saint Helena, Ascension and Tristan da Cunha"
+            }
+        },
+        {
+            "country": "Saint Kitts and Nevis",
+            "iso": "659",
+            "currencyCode": "XCD",
+            "countryCode": "KNA",
+            "flag": "flag-kn",
+            "iso2": "KN",
+            "callingCode": [
+                "1869"
+            ],
+            "countryName": {
+                "uk": "Сент-Кіттс і Невіс",
+                "ru": "Сент-Китс и Невис",
+                "en": "Saint Kitts and Nevis"
+            }
+        },
+        {
+            "country": "Saint Lucia",
+            "iso": "662",
+            "currencyCode": "XCD",
+            "countryCode": "LCA",
+            "flag": "flag-lc",
+            "iso2": "LC",
+            "callingCode": [
+                "1758"
+            ],
+            "countryName": {
+                "uk": "Сент-Люсія",
+                "ru": "Сент-Люсия",
+                "en": "Saint Lucia"
+            }
+        },
+        {
+            "country": "Saint Pierre and Miquelon",
+            "iso": "666",
+            "currencyCode": "EUR",
+            "countryCode": "SPM",
+            "flag": "flag-pm",
+            "iso2": "PM",
+            "callingCode": [
+                "508"
+            ],
+            "countryName": {
+                "uk": "Сен-П'єр і Мікелон",
+                "ru": "Сен-Пьер и Микелон",
+                "en": "Saint Pierre and Miquelon"
+            }
+        },
+        {
+            "country": "Saint Vincent and the Grenadines",
+            "iso": "670",
+            "currencyCode": "XCD",
+            "countryCode": "VCT",
+            "flag": "flag-vc",
+            "iso2": "VC",
+            "callingCode": [
+                "1784"
+            ],
+            "countryName": {
+                "uk": "Сент-Вінсент і Гренадини",
+                "ru": "Сент-Винсент и Гренадины",
+                "en": "Saint Vincent and the Grenadines"
+            }
+        },
+        {
+            "country": "Samoa",
+            "iso": "882",
+            "currencyCode": "WST",
+            "countryCode": "WSM",
+            "flag": "flag-ws",
+            "iso2": "WS",
+            "callingCode": [
+                "685"
+            ],
+            "countryName": {
+                "uk": "Самоа",
+                "ru": "Самоа",
+                "en": "Samoa"
+            }
+        },
+        {
+            "country": "San Marino",
+            "iso": "674",
+            "currencyCode": "EUR",
+            "countryCode": "SMR",
+            "flag": "flag-sm",
+            "iso2": "SM",
+            "callingCode": [
+                "378"
+            ],
+            "countryName": {
+                "uk": "Сан-Марино",
+                "ru": "Сан-Марино",
+                "en": "San Marino"
+            }
+        },
+        {
+            "country": "Sao Tome and Principe",
+            "iso": "678",
+            "currencyCode": "STD",
+            "countryCode": "STP",
+            "flag": "flag-st",
+            "iso2": "ST",
+            "callingCode": [
+                "239"
+            ],
+            "countryName": {
+                "uk": "Сан-Томе і Принсіпі",
+                "ru": "Сан-Томе и Принсипи",
+                "en": "São Tomé and Príncipe"
+            }
+        },
+        {
+            "country": "Saudi Arabia",
+            "iso": "682",
+            "currencyCode": "SAR",
+            "countryCode": "SAU",
+            "flag": "flag-sa",
+            "iso2": "SA",
+            "callingCode": [
+                "966"
+            ],
+            "countryName": {
+                "uk": "Саудівська Аравія",
+                "ru": "Саудовская Аравия",
+                "en": "Saudi Arabia"
+            }
+        },
+        {
+            "country": "Senegal",
+            "iso": "686",
+            "currencyCode": "XOF",
+            "countryCode": "SEN",
+            "flag": "flag-sn",
+            "iso2": "SN",
+            "callingCode": [
+                "221"
+            ],
+            "countryName": {
+                "uk": "Сенегал",
+                "ru": "Сенегал",
+                "en": "Senegal"
+            }
+        },
+        {
+            "country": "Seychelles",
+            "iso": "690",
+            "currencyCode": "SCR",
+            "countryCode": "SYC",
+            "flag": "flag-sc",
+            "iso2": "SC",
+            "callingCode": [
+                "248"
+            ],
+            "countryName": {
+                "uk": "Сейшельські Острови",
+                "ru": "Сейшельские Острова",
+                "en": "Seychelles"
+            }
+        },
+        {
+            "country": "Sierra Leone",
+            "iso": "694",
+            "currencyCode": "SLL",
+            "countryCode": "SLE",
+            "flag": "flag-sl",
+            "iso2": "SL",
+            "callingCode": [
+                "232"
+            ],
+            "countryName": {
+                "uk": "Сьєрра-Леоне",
+                "ru": "Сьерра-Леоне",
+                "en": "Sierra Leone"
+            }
+        },
+        {
+            "country": "Singapore",
+            "iso": "702",
+            "currencyCode": "SGD",
+            "countryCode": "SGP",
+            "flag": "flag-sg",
+            "iso2": "SG",
+            "callingCode": [
+                "65"
+            ],
+            "countryName": {
+                "uk": "Сінгапур",
+                "ru": "Сингапур",
+                "en": "Singapore"
+            }
+        },
+        {
+            "country": "Slovakia",
+            "iso": "703",
+            "currencyCode": "EUR",
+            "countryCode": "SVK",
+            "flag": "flag-sk",
+            "iso2": "SK",
+            "callingCode": [
+                "421"
+            ],
+            "countryName": {
+                "uk": "Словаччина",
+                "ru": "Словакия",
+                "en": "Slovakia"
+            }
+        },
+        {
+            "country": "Slovenia",
+            "iso": "705",
+            "currencyCode": "EUR",
+            "countryCode": "SVN",
+            "flag": "flag-si",
+            "iso2": "SI",
+            "callingCode": [
+                "386"
+            ],
+            "countryName": {
+                "uk": "Словенія",
+                "ru": "Словения",
+                "en": "Slovenia"
+            }
+        },
+        {
+            "country": "Somalia",
+            "iso": "706",
+            "currencyCode": "SOS",
+            "countryCode": "SOM",
+            "flag": "flag-so",
+            "iso2": "SO",
+            "callingCode": [
+                "252"
+            ],
+            "countryName": {
+                "uk": "Сомалі",
+                "ru": "Сомали",
+                "en": "Somalia"
+            }
+        },
+        {
+            "country": "South Africa",
+            "iso": "710",
+            "currencyCode": "ZAR",
+            "countryCode": "ZAF",
+            "flag": "flag-za",
+            "iso2": "ZA",
+            "callingCode": [
+                "27"
+            ],
+            "countryName": {
+                "uk": "Південна Африка",
+                "ru": "Южно-Африканская Республика",
+                "en": "South Africa"
+            }
+        },
+        {
+            "country": "South Georgia and the South Sandwich Islands",
+            "iso": "239",
+            "currencyCode": "GBP",
+            "countryCode": "SGS",
+            "flag": "flag-gs",
+            "iso2": "GS",
+            "callingCode": [
+                "500"
+            ],
+            "countryName": {
+                "uk": "Південна Джорджія і Південні Сандвічеві Острови",
+                "ru": "Южная Георгия и Южные Сандвичевы острова",
+                "en": "South Georgia and the South Sandwich Islands"
+            }
+        },
+        {
+            "country": "South Korea",
+            "iso": "410",
+            "currencyCode": "KRW",
+            "countryCode": "KOR",
+            "flag": "flag-kr",
+            "iso2": "KR",
+            "callingCode": [
+                "82"
+            ],
+            "countryName": {
+                "uk": "Південна Корея",
+                "ru": "Южная Корея",
+                "en": "South Korea"
+            }
+        },
+        {
+            "country": "South Sudan",
+            "iso": "728",
+            "currencyCode": "SSP",
+            "countryCode": "SSD",
+            "flag": "flag-ss",
+            "iso2": "SS",
+            "callingCode": [
+                "211"
+            ],
+            "countryName": {
+                "uk": "Південний Судан",
+                "ru": "Южный Судан",
+                "en": "South Sudan"
+            }
+        },
+        {
+            "country": "Spain",
+            "iso": "724",
+            "currencyCode": "EUR",
+            "countryCode": "ESP",
+            "flag": "flag-es",
+            "iso2": "ES",
+            "callingCode": [
+                "34"
+            ],
+            "countryName": {
+                "uk": "Іспанія",
+                "ru": "Испания",
+                "en": "Spain"
+            }
+        },
+        {
+            "country": "Sudan",
+            "iso": "729",
+            "currencyCode": "SDG",
+            "countryCode": "SDN",
+            "flag": "flag-sd",
+            "iso2": "SD",
+            "callingCode": [
+                "249"
+            ],
+            "countryName": {
+                "uk": "Судан",
+                "ru": "Судан",
+                "en": "Sudan"
+            }
+        },
+        {
+            "country": "Suriname",
+            "iso": "740",
+            "currencyCode": "SRD",
+            "countryCode": "SUR",
+            "flag": "flag-sr",
+            "iso2": "SR",
+            "callingCode": [
+                "597"
+            ],
+            "countryName": {
+                "uk": "Суринам",
+                "ru": "Суринам",
+                "en": "Suriname"
+            }
+        },
+        {
+            "country": "Svalbard and Jan Mayen",
+            "iso": "744",
+            "currencyCode": "NOK",
+            "countryCode": "SJM",
+            "flag": "flag-sj",
+            "iso2": "SJ",
+            "callingCode": [
+                "4779"
+            ],
+            "countryName": {
+                "uk": "Свалбар і Ян-Маєн",
+                "ru": "Шпицберген и Ян-Майен",
+                "en": "Svalbard and Jan Mayen"
+            }
+        },
+        {
+            "country": "Swaziland",
+            "iso": "748",
+            "currencyCode": "SZL",
+            "countryCode": "SWZ",
+            "flag": "flag-sz",
+            "iso2": "SZ",
+            "callingCode": [
+                "268"
+            ],
+            "countryName": {
+                "uk": "Есватіні",
+                "ru": "Свазиленд",
+                "en": "Eswatini"
+            }
+        },
+        {
+            "country": "Sweden",
+            "iso": "752",
+            "currencyCode": "SEK",
+            "countryCode": "SWE",
+            "flag": "flag-se",
+            "iso2": "SE",
+            "callingCode": [
+                "46"
+            ],
+            "countryName": {
+                "uk": "Швеція",
+                "ru": "Швеция",
+                "en": "Sweden"
+            }
+        },
+        {
+            "country": "Switzerland",
+            "iso": "756",
+            "currencyCode": "CHF",
+            "countryCode": "CHE",
+            "flag": "flag-ch",
+            "iso2": "CH",
+            "callingCode": [
+                "41"
+            ],
+            "countryName": {
+                "uk": "Швейцарія",
+                "ru": "Швейцария",
+                "en": "Switzerland"
+            }
+        },
+        {
+            "country": "Syria",
+            "iso": "760",
+            "currencyCode": "SYP",
+            "countryCode": "SYR",
+            "flag": "flag-sy",
+            "iso2": "SY",
+            "callingCode": [
+                "963"
+            ],
+            "countryName": {
+                "uk": "Сирія",
+                "ru": "Сирия",
+                "en": "Syria"
+            }
+        },
+        {
+            "country": "Tajikistan",
+            "iso": "762",
+            "currencyCode": "TJS",
+            "countryCode": "TJK",
+            "flag": "flag-tj",
+            "iso2": "TJ",
+            "callingCode": [
+                "992"
+            ],
+            "countryName": {
+                "uk": "Таджикистан",
+                "ru": "Таджикистан",
+                "en": "Tajikistan"
+            }
+        },
+        {
+            "country": "Tanzania",
+            "iso": "834",
+            "currencyCode": "TZS",
+            "countryCode": "TZA",
+            "flag": "flag-tz",
+            "iso2": "TZ",
+            "callingCode": [
+                "255"
+            ],
+            "countryName": {
+                "uk": "Танзанія",
+                "ru": "Танзания",
+                "en": "Tanzania"
+            }
+        },
+        {
+            "country": "Thailand",
+            "iso": "764",
+            "currencyCode": "THB",
+            "countryCode": "THA",
+            "flag": "flag-th",
+            "iso2": "TH",
+            "callingCode": [
+                "66"
+            ],
+            "countryName": {
+                "uk": "Таїланд",
+                "ru": "Таиланд",
+                "en": "Thailand"
+            }
+        },
+        {
+            "country": "Togo",
+            "iso": "768",
+            "currencyCode": "XOF",
+            "countryCode": "TGO",
+            "flag": "flag-tg",
+            "iso2": "TG",
+            "callingCode": [
+                "228"
+            ],
+            "countryName": {
+                "uk": "Того",
+                "ru": "Того",
+                "en": "Togo"
+            }
+        },
+        {
+            "country": "Tokelau",
+            "iso": "772",
+            "currencyCode": "NZD",
+            "countryCode": "TKL",
+            "flag": "flag-tk",
+            "iso2": "TK",
+            "callingCode": [
+                "690"
+            ],
+            "countryName": {
+                "uk": "Токелау",
+                "ru": "Токелау",
+                "en": "Tokelau"
+            }
+        },
+        {
+            "country": "Tonga",
+            "iso": "776",
+            "currencyCode": "TOP",
+            "countryCode": "TON",
+            "flag": "flag-to",
+            "iso2": "TO",
+            "callingCode": [
+                "676"
+            ],
+            "countryName": {
+                "uk": "Тонга",
+                "ru": "Тонга",
+                "en": "Tonga"
+            }
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "iso": "780",
+            "currencyCode": "TTD",
+            "countryCode": "TTO",
+            "flag": "flag-tt",
+            "iso2": "TT",
+            "callingCode": [
+                "1868"
+            ],
+            "countryName": {
+                "uk": "Тринідад і Тобаго",
+                "ru": "Тринидад и Тобаго",
+                "en": "Trinidad and Tobago"
+            }
+        },
+        {
+            "country": "Tunisia",
+            "iso": "788",
+            "currencyCode": "TND",
+            "countryCode": "TUN",
+            "flag": "flag-tn",
+            "iso2": "TN",
+            "callingCode": [
+                "216"
+            ],
+            "countryName": {
+                "uk": "Туніс",
+                "ru": "Тунис",
+                "en": "Tunisia"
+            }
+        },
+        {
+            "country": "Turkey",
+            "iso": "792",
+            "currencyCode": "TRY",
+            "countryCode": "TUR",
+            "flag": "flag-tr",
+            "iso2": "TR",
+            "callingCode": [
+                "90"
+            ],
+            "countryName": {
+                "uk": "Туреччина",
+                "ru": "Турция",
+                "en": "Turkey"
+            }
+        },
+        {
+            "country": "Turkmenistan",
+            "iso": "795",
+            "currencyCode": "TMT",
+            "countryCode": "TKM",
+            "flag": "flag-tm",
+            "iso2": "TM",
+            "callingCode": [
+                "993"
+            ],
+            "countryName": {
+                "uk": "Туркменістан",
+                "ru": "Туркмения",
+                "en": "Turkmenistan"
+            }
+        },
+        {
+            "country": "Turks and Caicos Islands",
+            "iso": "796",
+            "currencyCode": "USD",
+            "countryCode": "TCA",
+            "flag": "flag-tc",
+            "iso2": "TC",
+            "callingCode": [
+                "1649"
+            ],
+            "countryName": {
+                "uk": "Острови Теркс і Кайкос",
+                "ru": "Теркс и Кайкос",
+                "en": "Turks and Caicos Islands"
+            }
+        },
+        {
+            "country": "Tuvalu",
+            "iso": "798",
+            "currencyCode": "AUD",
+            "countryCode": "TUV",
+            "flag": "flag-tv",
+            "iso2": "TV",
+            "callingCode": [
+                "688"
+            ],
+            "countryName": {
+                "uk": "Тувалу",
+                "ru": "Тувалу",
+                "en": "Tuvalu"
+            }
+        },
+        {
+            "country": "Uganda",
+            "iso": "800",
+            "currencyCode": "UGX",
+            "countryCode": "UGA",
+            "flag": "flag-ug",
+            "iso2": "UG",
+            "callingCode": [
+                "256"
+            ],
+            "countryName": {
+                "uk": "Уганда",
+                "ru": "Уганда",
+                "en": "Uganda"
+            }
+        },
+        {
+            "country": "United Arab Emirates",
+            "iso": "784",
+            "currencyCode": "AED",
+            "countryCode": "ARE",
+            "flag": "flag-ae",
+            "iso2": "AE",
+            "callingCode": [
+                "971"
+            ],
+            "countryName": {
+                "uk": "Об'єднані Арабські Емірати (ОАЕ)",
+                "ru": "Объединённые Арабские Эмираты (ОАЭ)",
+                "en": "United Arab Emirates (UAE)"
+            }
+        },
+        {
+            "country": "United Kingdom",
+            "iso": "826",
+            "currencyCode": "GBP",
+            "countryCode": "GBR",
+            "flag": "flag-gb",
+            "iso2": "GB",
+            "callingCode": [
+                "44"
+            ],
+            "countryName": {
+                "uk": "Велика Британія",
+                "ru": "Великобритания",
+                "en": "United Kingdom"
+            }
+        },
+        {
+            "country": "United States",
+            "iso": "840",
+            "currencyCode": "USD",
+            "countryCode": "USA",
+            "flag": "flag-us",
+            "iso2": "US",
+            "callingCode": [
+                "1"
+            ],
+            "countryName": {
+                "uk": "Сполучені Штати Америки (США)",
+                "ru": "Соединённые Штаты Америки (США)",
+                "en": "United States"
+            }
+        },
+        {
+            "country": "Uruguay",
+            "iso": "858",
+            "currencyCode": "UYU",
+            "countryCode": "URY",
+            "flag": "flag-uy",
+            "iso2": "UY",
+            "callingCode": [
+                "598"
+            ],
+            "countryName": {
+                "uk": "Уругвай",
+                "ru": "Уругвай",
+                "en": "Uruguay"
+            }
+        },
+        {
+            "country": "Uzbekistan",
+            "iso": "860",
+            "currencyCode": "UZS",
+            "countryCode": "UZB",
+            "flag": "flag-uz",
+            "iso2": "UZ",
+            "callingCode": [
+                "998"
+            ],
+            "countryName": {
+                "uk": "Узбекистан",
+                "ru": "Узбекистан",
+                "en": "Uzbekistan"
+            }
+        },
+        {
+            "country": "Vanuatu",
+            "iso": "548",
+            "currencyCode": "VUV",
+            "countryCode": "VUT",
+            "flag": "flag-vu",
+            "iso2": "VU",
+            "callingCode": [
+                "678"
+            ],
+            "countryName": {
+                "uk": "Вануату",
+                "ru": "Вануату",
+                "en": "Vanuatu"
+            }
+        },
+        {
+            "country": "Venezuela",
+            "iso": "862",
+            "currencyCode": "VEF",
+            "countryCode": "VEN",
+            "flag": "flag-ve",
+            "iso2": "VE",
+            "callingCode": [
+                "58"
+            ],
+            "countryName": {
+                "uk": "Венесуела",
+                "ru": "Венесуэла",
+                "en": "Venezuela"
+            }
+        },
+        {
+            "country": "Vietnam",
+            "iso": "704",
+            "currencyCode": "VND",
+            "countryCode": "VNM",
+            "flag": "flag-vn",
+            "iso2": "VN",
+            "callingCode": [
+                "84"
+            ],
+            "countryName": {
+                "uk": "В'єтнам",
+                "ru": "Вьетнам",
+                "en": "Vietnam"
+            }
+        },
+        {
+            "country": "Wallis and Futuna",
+            "iso": "876",
+            "currencyCode": "XPF",
+            "countryCode": "WLF",
+            "flag": "flag-wf",
+            "iso2": "WF",
+            "callingCode": [
+                "681"
+            ],
+            "countryName": {
+                "uk": "Волліс і Футуна",
+                "ru": "Уоллис и Футуна",
+                "en": "Wallis and Futuna"
+            }
+        },
+        {
+            "country": "Western Sahara",
+            "iso": "732",
+            "currencyCode": "MAD",
+            "countryCode": "ESH",
+            "flag": "flag-eh",
+            "iso2": "EH",
+            "callingCode": [
+                "212"
+            ],
+            "countryName": {
+                "uk": "Західна Сахара",
+                "ru": "Западная Сахара",
+                "en": "Western Sahara"
+            }
+        },
+        {
+            "country": "Yemen",
+            "iso": "887",
+            "currencyCode": "YER",
+            "countryCode": "YEM",
+            "flag": "flag-ye",
+            "iso2": "YE",
+            "callingCode": [
+                "967"
+            ],
+            "countryName": {
+                "uk": "Ємен",
+                "ru": "Йемен",
+                "en": "Yemen"
+            }
+        },
+        {
+            "country": "Zambia",
+            "iso": "894",
+            "currencyCode": "ZMW",
+            "countryCode": "ZMB",
+            "flag": "flag-zm",
+            "iso2": "ZM",
+            "callingCode": [
+                "260"
+            ],
+            "countryName": {
+                "uk": "Замбія",
+                "ru": "Замбия",
+                "en": "Zambia"
+            }
+        },
+        {
+            "country": "Zimbabwe",
+            "iso": "716",
+            "currencyCode": "ZWD",
+            "countryCode": "ZWE",
+            "flag": "flag-zw",
+            "iso2": "ZW",
+            "callingCode": [
+                "263"
+            ],
+            "countryName": {
+                "uk": "Зімбабве",
+                "ru": "Зимбабве",
+                "en": "Zimbabwe"
+            }
+        }
+    ]
+}

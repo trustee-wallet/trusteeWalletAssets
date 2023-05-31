@@ -1,6 +1,6 @@
 {
-    "version": 1,
-    "countryList": [
+    "version": 2,
+    "countriesList": [
         {
             "country": "Ukraine",
             "iso": "804",

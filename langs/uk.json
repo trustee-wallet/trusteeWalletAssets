@@ -1,5 +1,5 @@
 {
-  "version" : 326,
+  "version" : 327,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -686,6 +686,10 @@
   "SettingsNotifications.priceAlertSettings.resetCustomList": "Скинути список",
   "SettingsNotifications.priceAlertSettings.noAlerts": "Ваші сповіщення будуть тут",
   "SettingsNotifications.priceAlertSettings.noCustomList": "Ваші монети будуть відображатись тут",
+  "SettingsNotifications.priceAlertSettings.inputPlaceholder": "Ціна",
+  "SettingsNotifications.priceAlertSettings.inputDescription": "Вам прийде сповіщення про досягнення даної ціни",
+  "SettingsNotifications.priceAlertSettings.customListReset": "Список перезавантажино",
+  "SettingsNotifications.priceAlertSettings.needToAddAsset": "Додайте актив",
   "SettingsPin.title": "Безпека",
   "SettingsPin.pinCode": "PIN-код",
   "SettingsPin.changePin": "Змінити PIN",

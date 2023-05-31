@@ -1,5 +1,5 @@
 {
-    "version" : 326,
+    "version" : 327,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -686,6 +686,10 @@
     "SettingsNotifications.priceAlertSettings.resetCustomList": "Reset custom list",
     "SettingsNotifications.priceAlertSettings.noAlerts": "Your alerts will be here",
     "SettingsNotifications.priceAlertSettings.noCustomList": "Your coins will be displayed here",
+    "SettingsNotifications.priceAlertSettings.inputPlaceholder": "Price",
+    "SettingsNotifications.priceAlertSettings.inputDescription": "You will receive a notification when this price has been reached",
+    "SettingsNotifications.priceAlertSettings.customListReset": "List reset",
+    "SettingsNotifications.priceAlertSettings.needToAddAsset": "Add asset",
     "SettingsPin.title": "Security",
     "SettingsPin.pinCode": "PIN code",
     "SettingsPin.changePin": "Change PIN",

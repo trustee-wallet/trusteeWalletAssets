@@ -1,5 +1,5 @@
 {
-  "version" : 329,
+  "version" : 330,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -214,7 +214,7 @@
   "AssetDetails.prettySendOnlyText.BSC_TOKENS" : "Отправляйте только {prettyName} на этот адрес. Сумма меньше {amount} {currencyCode} не будет зачислена",
   "AssetDetails.prettyName.EOS_TOKENS" : "EOS",
   "AssetDetails.prettySendOnlyText.EOS_TOKENS" : "Отправляйте только {prettyName} на этот адрес. Сумма меньше {amount} {currencyCode} не будет зачислена",
-  "AssetDetails.prettyName.MATIC_TOKENS" : "Polygon",
+  "AssetDetails.prettyName.MATIC_TOKENS" : "Matic",
   "AssetDetails.prettySendOnlyText.MATIC_TOKENS" : "Отправляйте только {prettyName} на этот адрес. Сумма меньше {amount} {currencyCode} не будет зачислена",
   "AssetDetails.prettyTitle.Card": "Карта",
   "AssetDetails.prettySubTitle.Card": "Visa/MC",

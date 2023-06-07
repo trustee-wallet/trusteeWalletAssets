@@ -1,5 +1,5 @@
 {
-    "version" : 329,
+    "version" : 330,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -214,7 +214,7 @@
     "AssetDetails.prettySendOnlyText.BSC_TOKENS" : "Send Only {prettyName} to this address. Amounts less than {amount} {currencyCode} will not be credited",
     "AssetDetails.prettyName.EOS_TOKENS" : "EOS",
     "AssetDetails.prettySendOnlyText.EOS_TOKENS" : "Send Only {prettyName} to this address. Amounts less than {amount} {currencyCode} will not be credited",
-    "AssetDetails.prettyName.MATIC_TOKENS" : "Polygon",
+    "AssetDetails.prettyName.MATIC_TOKENS" : "Matic",
     "AssetDetails.prettySendOnlyText.MATIC_TOKENS" : "Send Only {prettyName} to this address. Amounts less than {amount} {currencyCode} will not be credited",
     "AssetDetails.prettyTitle.Card": "Card",
     "AssetDetails.prettySubTitle.Card": "Visa/MC",

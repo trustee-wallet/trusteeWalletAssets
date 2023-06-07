@@ -1,5 +1,5 @@
 {
-  "version" : 330,
+  "version" : 331,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -979,7 +979,7 @@
   "History.withdrawCanceled.description.UNKNOWN_ERROR": "Вибачте, при обробці переказу сталася непередбачувана помилка. За додатковими деталями зверніться, будь ласка, до служби підтримки.",
   "History.withdrawCanceled.description.ESTIMATION_CHANGED": "Вибачте, але прогнозована загальна сума переказу змінилась. Рекомендуємо повторити переказ, враховуючи оновлені данні",
   "History.withdrawCanceled.descriptionForFiat.CANCELED_BY_IA": "Платіжна система не змогла здійснити Ваш переказ. Рекомендуємо скористатися карткою іншого банку.",
-  "History.card.originalAmount": "Суму конвертації",
+  "History.card.originalAmount": "Початкова сума",
   "History.swap.forCard.description.MIN_LIMIT_SWAP": "Для виконання операції по карті було здійснено обмін на мінімально можливий ліміт. В результаті частина коштів була використана для оплати, а решта зарахована на Ваш баланс.",
   "SocialLinks.telegram": "https://t.me/trustee_ua",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",

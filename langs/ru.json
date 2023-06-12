@@ -1,5 +1,5 @@
 {
-  "version" : 336,
+  "version" : 337,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1306,7 +1306,7 @@
   "TrusteeCardSettings.walletPay.toSettings.ios": "Перейти",
   "TrusteeCardSettings.walletPay.toSettings.android": "Перейти",
   "TrusteeCardSettings.walletPay.ios.step1.title": "Шаг 1",
-  "TrusteeCardSettings.walletPay.ios.step1.description": "Открыть или скачать приложение Wallet",
+  "TrusteeCardSettings.walletPay.ios.step1.description": "Открыть или скачать приложение Apple Wallet",
   "TrusteeCardSettings.walletPay.ios.step1.buttonText": "Открыть приложение",
   "TrusteeCardSettings.walletPay.ios.step2.title": "Шаг 2",
   "TrusteeCardSettings.walletPay.ios.step2.description": "Нажать на кнопку \"+\", а затем - на пункт \"Дебетовая или кредитная карта\"",

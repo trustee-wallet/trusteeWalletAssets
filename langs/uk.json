@@ -1,5 +1,5 @@
 {
-  "version" : 335,
+  "version" : 336,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -685,7 +685,7 @@
   "SettingsNotifications.priceAlertSettings.inProgress": "У ході виконання",
   "SettingsNotifications.priceAlertSettings.success": "Успіх",
   "SettingsNotifications.priceAlertSettings.latestPriceAlerts": "Останні сповіщення по цінах",
-  "SettingsNotifications.priceAlertSettings.enable": "Ввімкнути",
+  "SettingsNotifications.priceAlertSettings.add": "Додати",
   "SettingsNotifications.priceAlertSettings.resetCustomList": "Скинути список",
   "SettingsNotifications.priceAlertSettings.noAlerts": "Ваші сповіщення будуть тут",
   "SettingsNotifications.priceAlertSettings.noCustomList": "Ваші монети будуть відображатись тут",

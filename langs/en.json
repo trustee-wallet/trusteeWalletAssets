@@ -1,5 +1,5 @@
 {
-    "version" : 340,
+    "version" : 341,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -303,6 +303,7 @@
     "Swap.notice.disabledWithdraw.CARD.UAH": "The UAH transfers to bank card is not currently working. The unplanned shutdown caused by bank system.",
     "Swap.notice.disabledWithdraw.CARD": "The {{currencySymbol}} transfers to bank card is not currently working. The unplanned shutdown caused by bank system.",
     "Swap.notice.minLimitForWithdraw.CARD": "The minimum limit for transfers to bank cards is {{minLimit}} {{currencySymbol}}.",
+    "Swap.needKyc": "For your safety and the security of your account, a person needs to be verified to access this feature",
     "TopUp.notice.onlyOwnAccounts.CARD.UAH": "Top up must be made only from your own accounts. Otherwise, there may be difficulties with top up.",
     "TopUp.title" : "Top up {symbol}",
     "TopUp.titleFiat" : "Top up {symbol}",

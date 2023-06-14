@@ -1,5 +1,5 @@
 {
-  "version" : 338,
+  "version" : 339,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1480,5 +1480,9 @@
   "ReferralScreen.percentageByLevel20_25": "20% / 25%",
   "ReferralScreen.totalInvited": "Всего приглашенных",
   "ReferralScreen.share": "Поделиться",
-  "ReferralScreen.contactsTitle": "Список контактов"
+  "ReferralScreen.contactsTitle": "Список контактов",
+  "ReferralScreen.aboutTitle": "О реферальной системе",
+  "ReferralScreen.aboutLink": "https://trusteeglobal.com/",
+  "ReferralScreen.totalCompleted": "Всего выполнили условия",
+  "ReferralScreen.contactsDescriptionWithoutPerms": ""
 }

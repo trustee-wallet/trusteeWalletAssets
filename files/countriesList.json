@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "countriesList": [
         {
             "country": "Ukraine",
@@ -48,39 +48,6 @@
                 "uk": "Казахстан",
                 "ru": "Казахстан",
                 "en": "Kazakhstan"
-            }
-        },
-        {
-            "country": "Russian Federation",
-            "iso": "643",
-            "currencyCode": "RUB",
-            "symbol": "₽",
-            "countryCode": "RUS",
-            "flag": "flag-ru",
-            "iso2": "RU",
-            "callingCode": [
-                "7"
-            ],
-            "countryName": {
-                "uk": "росія",
-                "ru": "россия",
-                "en": "russia"
-            }
-        },
-        {
-            "country": "Afghanistan",
-            "iso": "004",
-            "currencyCode": "AFN",
-            "countryCode": "AFG",
-            "iso2": "AF",
-            "flag": "flag-af",
-            "callingCode": [
-                "93"
-            ],
-            "countryName": {
-                "uk": "Афґаністан",
-                "ru": "Афганистан",
-                "en": "Afghanistan"
             }
         },
         {
@@ -354,22 +321,6 @@
             }
         },
         {
-            "country": "Barbados",
-            "iso": "052",
-            "currencyCode": "BBD",
-            "countryCode": "BRB",
-            "flag": "flag-bb",
-            "iso2": "BB",
-            "callingCode": [
-                "1246"
-            ],
-            "countryName": {
-                "uk": "Барбадос",
-                "ru": "Барбадос",
-                "en": "Barbados"
-            }
-        },
-        {
             "country": "Belgium",
             "iso": "056",
             "currencyCode": "EUR",
@@ -576,22 +527,6 @@
             }
         },
         {
-            "country": "Burkina Faso",
-            "iso": "854",
-            "currencyCode": "XOF",
-            "countryCode": "BFA",
-            "flag": "flag-bf",
-            "iso2": "BF",
-            "callingCode": [
-                "226"
-            ],
-            "countryName": {
-                "uk": "Буркіна-Фасо",
-                "ru": "Буркина-Фасо",
-                "en": "Burkina Faso"
-            }
-        },
-        {
             "country": "Burundi",
             "iso": "108",
             "currencyCode": "BIF",
@@ -605,22 +540,6 @@
                 "uk": "Бурунді",
                 "ru": "Бурунди",
                 "en": "Burundi"
-            }
-        },
-        {
-            "country": "Cambodia",
-            "iso": "116",
-            "currencyCode": "KHR",
-            "countryCode": "KHM",
-            "flag": "flag-kh",
-            "iso2": "KH",
-            "callingCode": [
-                "855"
-            ],
-            "countryName": {
-                "uk": "Камбоджа",
-                "ru": "Камбоджа",
-                "en": "Cambodia"
             }
         },
         {
@@ -672,22 +591,6 @@
             }
         },
         {
-            "country": "Cayman Islands",
-            "iso": "136",
-            "currencyCode": "KYD",
-            "countryCode": "CYM",
-            "flag": "flag-ky",
-            "iso2": "KY",
-            "callingCode": [
-                "1345"
-            ],
-            "countryName": {
-                "uk": "Кайманові Острови",
-                "ru": "Каймановы острова",
-                "en": "Cayman Islands"
-            }
-        },
-        {
             "country": "Central African Republic",
             "iso": "140",
             "currencyCode": "XAF",
@@ -733,22 +636,6 @@
                 "uk": "Чилі",
                 "ru": "Чили",
                 "en": "Chile"
-            }
-        },
-        {
-            "country": "China",
-            "iso": "156",
-            "currencyCode": "CNY",
-            "countryCode": "CHN",
-            "flag": "flag-cn",
-            "iso2": "CN",
-            "callingCode": [
-                "86"
-            ],
-            "countryName": {
-                "uk": "Китай",
-                "ru": "Китай",
-                "en": "China"
             }
         },
         {
@@ -1440,22 +1327,6 @@
             }
         },
         {
-            "country": "Haiti",
-            "iso": "332",
-            "currencyCode": "HTG",
-            "countryCode": "HTI",
-            "flag": "flag-ht",
-            "iso2": "HT",
-            "callingCode": [
-                "509"
-            ],
-            "countryName": {
-                "uk": "Гаїті",
-                "ru": "Гаити",
-                "en": "Haiti"
-            }
-        },
-        {
             "country": "Heard Island and McDonald Islands",
             "iso": "334",
             "currencyCode": "AUD",
@@ -1566,22 +1437,6 @@
             }
         },
         {
-            "country": "Iran",
-            "iso": "364",
-            "currencyCode": "IRR",
-            "countryCode": "IRN",
-            "flag": "flag-ir",
-            "iso2": "IR",
-            "callingCode": [
-                "98"
-            ],
-            "countryName": {
-                "uk": "Іран",
-                "ru": "Иран",
-                "en": "Iran"
-            }
-        },
-        {
             "country": "Iraq",
             "iso": "368",
             "currencyCode": "IQD",
@@ -1662,22 +1517,6 @@
             }
         },
         {
-            "country": "Jamaica",
-            "iso": "388",
-            "currencyCode": "JMD",
-            "countryCode": "JAM",
-            "flag": "flag-jm",
-            "iso2": "JM",
-            "callingCode": [
-                "1876"
-            ],
-            "countryName": {
-                "uk": "Ямайка",
-                "ru": "Ямайка",
-                "en": "Jamaica"
-            }
-        },
-        {
             "country": "Japan",
             "iso": "392",
             "currencyCode": "JPY",
@@ -1694,22 +1533,6 @@
             }
         },
         {
-            "country": "Jordan",
-            "iso": "400",
-            "currencyCode": "JOD",
-            "countryCode": "JOR",
-            "flag": "flag-jo",
-            "iso2": "JO",
-            "callingCode": [
-                "962"
-            ],
-            "countryName": {
-                "uk": "Йорданія",
-                "ru": "Иордания",
-                "en": "Jordan"
-            }
-        },
-        {
             "country": "Kenya",
             "iso": "404",
             "currencyCode": "KES",
@@ -1723,22 +1546,6 @@
                 "uk": "Кенія",
                 "ru": "Кения",
                 "en": "Kenya"
-            }
-        },
-        {
-            "country": "Kiribati",
-            "iso": "296",
-            "currencyCode": "AUD",
-            "countryCode": "KIR",
-            "flag": "flag-ki",
-            "iso2": "KI",
-            "callingCode": [
-                "686"
-            ],
-            "countryName": {
-                "uk": "Кірибаті",
-                "ru": "Кирибати",
-                "en": "Kiribati"
             }
         },
         {
@@ -1998,22 +1805,6 @@
             }
         },
         {
-            "country": "Mali",
-            "iso": "466",
-            "currencyCode": "XOF",
-            "countryCode": "MLI",
-            "flag": "flag-ml",
-            "iso2": "ML",
-            "callingCode": [
-                "223"
-            ],
-            "countryName": {
-                "uk": "Малі",
-                "ru": "Мали",
-                "en": "Mali"
-            }
-        },
-        {
             "country": "Malta",
             "iso": "470",
             "currencyCode": "EUR",
@@ -2206,22 +1997,6 @@
             }
         },
         {
-            "country": "Morocco",
-            "iso": "504",
-            "currencyCode": "MAD",
-            "countryCode": "MAR",
-            "flag": "flag-ma",
-            "iso2": "MA",
-            "callingCode": [
-                "212"
-            ],
-            "countryName": {
-                "uk": "Марокко",
-                "ru": "Марокко",
-                "en": "Morocco"
-            }
-        },
-        {
             "country": "Mozambique",
             "iso": "508",
             "currencyCode": "MZN",
@@ -2334,22 +2109,6 @@
             }
         },
         {
-            "country": "Nicaragua",
-            "iso": "558",
-            "currencyCode": "NIO",
-            "countryCode": "NIC",
-            "flag": "flag-ni",
-            "iso2": "NI",
-            "callingCode": [
-                "505"
-            ],
-            "countryName": {
-                "uk": "Нікарагуа",
-                "ru": "Никарагуа",
-                "en": "Nicaragua"
-            }
-        },
-        {
             "country": "Niger",
             "iso": "562",
             "currencyCode": "XOF",
@@ -2414,22 +2173,6 @@
             }
         },
         {
-            "country": "North Korea",
-            "iso": "408",
-            "currencyCode": "KPW",
-            "countryCode": "PRK",
-            "flag": "flag-kp",
-            "iso2": "KP",
-            "callingCode": [
-                "850"
-            ],
-            "countryName": {
-                "uk": "Північна Корея",
-                "ru": "Северная Корея",
-                "en": "North Korea"
-            }
-        },
-        {
             "country": "Northern Mariana Islands",
             "iso": "580",
             "currencyCode": "USD",
@@ -2478,22 +2221,6 @@
             }
         },
         {
-            "country": "Pakistan",
-            "iso": "586",
-            "currencyCode": "PKR",
-            "countryCode": "PAK",
-            "flag": "flag-pk",
-            "iso2": "PK",
-            "callingCode": [
-                "92"
-            ],
-            "countryName": {
-                "uk": "Пакистан",
-                "ru": "Пакистан",
-                "en": "Pakistan"
-            }
-        },
-        {
             "country": "Palau",
             "iso": "585",
             "currencyCode": "USD",
@@ -2507,22 +2234,6 @@
                 "uk": "Палау",
                 "ru": "Палау",
                 "en": "Palau"
-            }
-        },
-        {
-            "country": "Panama",
-            "iso": "591",
-            "currencyCode": "PAB",
-            "countryCode": "PAN",
-            "flag": "flag-pa",
-            "iso2": "PA",
-            "callingCode": [
-                "507"
-            ],
-            "countryName": {
-                "uk": "Панама",
-                "ru": "Панама",
-                "en": "Panama"
             }
         },
         {
@@ -2571,22 +2282,6 @@
                 "uk": "Перу",
                 "ru": "Перу",
                 "en": "Peru"
-            }
-        },
-        {
-            "country": "Philippines",
-            "iso": "608",
-            "currencyCode": "PHP",
-            "countryCode": "PHL",
-            "flag": "flag-ph",
-            "iso2": "PH",
-            "callingCode": [
-                "63"
-            ],
-            "countryName": {
-                "uk": "Філіппіни",
-                "ru": "Филиппины",
-                "en": "Philippines"
             }
         },
         {
@@ -3008,22 +2703,6 @@
             }
         },
         {
-            "country": "South Sudan",
-            "iso": "728",
-            "currencyCode": "SSP",
-            "countryCode": "SSD",
-            "flag": "flag-ss",
-            "iso2": "SS",
-            "callingCode": [
-                "211"
-            ],
-            "countryName": {
-                "uk": "Південний Судан",
-                "ru": "Южный Судан",
-                "en": "South Sudan"
-            }
-        },
-        {
             "country": "Spain",
             "iso": "724",
             "currencyCode": "EUR",
@@ -3136,22 +2815,6 @@
             }
         },
         {
-            "country": "Syria",
-            "iso": "760",
-            "currencyCode": "SYP",
-            "countryCode": "SYR",
-            "flag": "flag-sy",
-            "iso2": "SY",
-            "callingCode": [
-                "963"
-            ],
-            "countryName": {
-                "uk": "Сирія",
-                "ru": "Сирия",
-                "en": "Syria"
-            }
-        },
-        {
             "country": "Tajikistan",
             "iso": "762",
             "currencyCode": "TJS",
@@ -3248,22 +2911,6 @@
             }
         },
         {
-            "country": "Trinidad and Tobago",
-            "iso": "780",
-            "currencyCode": "TTD",
-            "countryCode": "TTO",
-            "flag": "flag-tt",
-            "iso2": "TT",
-            "callingCode": [
-                "1868"
-            ],
-            "countryName": {
-                "uk": "Тринідад і Тобаго",
-                "ru": "Тринидад и Тобаго",
-                "en": "Trinidad and Tobago"
-            }
-        },
-        {
             "country": "Tunisia",
             "iso": "788",
             "currencyCode": "TND",
@@ -3344,22 +2991,6 @@
             }
         },
         {
-            "country": "Uganda",
-            "iso": "800",
-            "currencyCode": "UGX",
-            "countryCode": "UGA",
-            "flag": "flag-ug",
-            "iso2": "UG",
-            "callingCode": [
-                "256"
-            ],
-            "countryName": {
-                "uk": "Уганда",
-                "ru": "Уганда",
-                "en": "Uganda"
-            }
-        },
-        {
             "country": "United Arab Emirates",
             "iso": "784",
             "currencyCode": "AED",
@@ -3392,22 +3023,6 @@
             }
         },
         {
-            "country": "United States",
-            "iso": "840",
-            "currencyCode": "USD",
-            "countryCode": "USA",
-            "flag": "flag-us",
-            "iso2": "US",
-            "callingCode": [
-                "1"
-            ],
-            "countryName": {
-                "uk": "Сполучені Штати Америки (США)",
-                "ru": "Соединённые Штаты Америки (США)",
-                "en": "United States"
-            }
-        },
-        {
             "country": "Uruguay",
             "iso": "858",
             "currencyCode": "UYU",
@@ -3437,22 +3052,6 @@
                 "uk": "Узбекистан",
                 "ru": "Узбекистан",
                 "en": "Uzbekistan"
-            }
-        },
-        {
-            "country": "Vanuatu",
-            "iso": "548",
-            "currencyCode": "VUV",
-            "countryCode": "VUT",
-            "flag": "flag-vu",
-            "iso2": "VU",
-            "callingCode": [
-                "678"
-            ],
-            "countryName": {
-                "uk": "Вануату",
-                "ru": "Вануату",
-                "en": "Vanuatu"
             }
         },
         {
@@ -3520,22 +3119,6 @@
             }
         },
         {
-            "country": "Yemen",
-            "iso": "887",
-            "currencyCode": "YER",
-            "countryCode": "YEM",
-            "flag": "flag-ye",
-            "iso2": "YE",
-            "callingCode": [
-                "967"
-            ],
-            "countryName": {
-                "uk": "Ємен",
-                "ru": "Йемен",
-                "en": "Yemen"
-            }
-        },
-        {
             "country": "Zambia",
             "iso": "894",
             "currencyCode": "ZMW",
@@ -3549,22 +3132,6 @@
                 "uk": "Замбія",
                 "ru": "Замбия",
                 "en": "Zambia"
-            }
-        },
-        {
-            "country": "Zimbabwe",
-            "iso": "716",
-            "currencyCode": "ZWD",
-            "countryCode": "ZWE",
-            "flag": "flag-zw",
-            "iso2": "ZW",
-            "callingCode": [
-                "263"
-            ],
-            "countryName": {
-                "uk": "Зімбабве",
-                "ru": "Зимбабве",
-                "en": "Zimbabwe"
             }
         }
     ]

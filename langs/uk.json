@@ -1,5 +1,5 @@
 {
-  "version" : 337,
+  "version" : 338,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1480,5 +1480,6 @@
   "ReferralScreen.percentageByLevel25_20": "25% / 20%",
   "ReferralScreen.percentageByLevel20_25": "20% / 25%",
   "ReferralScreen.totalInvited": "Всього запрошено",
-  "ReferralScreen.share": "Поділитись"
+  "ReferralScreen.share": "Поділитись",
+  "ReferralScreen.contactsTitle": "Список контактів"
 }

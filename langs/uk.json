@@ -1,5 +1,5 @@
 {
-  "version" : 344,
+  "version" : 345,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -688,7 +688,7 @@
   "SettingsNotifications.priceAlertSettings.priceDown": "Ціна вниз",
   "SettingsNotifications.priceAlertSettings.inProgress": "У ході виконання",
   "SettingsNotifications.priceAlertSettings.success": "Успіх",
-  "SettingsNotifications.priceAlertSettings.latestPriceAlerts": "Останні сповіщення по цінах",
+  "SettingsNotifications.priceAlertSettings.latestPriceAlerts": "Сповіщення по цінах",
   "SettingsNotifications.priceAlertSettings.add": "Додати",
   "SettingsNotifications.priceAlertSettings.resetCustomList": "Скинути список",
   "SettingsNotifications.priceAlertSettings.noAlerts": "Ваші сповіщення будуть тут",
@@ -1486,6 +1486,7 @@
   "ReferralScreen.moreInfoScreenTitle": "Більше деталей",
   "ReferralScreen.inputTitle": "Ім'я посилання",
   "ReferralScreen.saveButtonText": "Зберегти",
+  "ReferralScreen.createLink": "Створити",
   "ReferralScreen.percentageByLevel25_20": "25% / 20%",
   "ReferralScreen.percentageByLevel20_25": "20% / 25%",
   "ReferralScreen.totalInvited": "Всього запрошено",

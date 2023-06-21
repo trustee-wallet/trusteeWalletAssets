@@ -1,5 +1,5 @@
 {
-    "version" : 344,
+    "version" : 345,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -688,7 +688,7 @@
     "SettingsNotifications.priceAlertSettings.priceDown": "Price down",
     "SettingsNotifications.priceAlertSettings.inProgress": "In progress",
     "SettingsNotifications.priceAlertSettings.success": "Success",
-    "SettingsNotifications.priceAlertSettings.latestPriceAlerts": "Latest price alerts",
+    "SettingsNotifications.priceAlertSettings.latestPriceAlerts": "Price alerts",
     "SettingsNotifications.priceAlertSettings.add": "Add",
     "SettingsNotifications.priceAlertSettings.resetCustomList": "Reset custom list",
     "SettingsNotifications.priceAlertSettings.noAlerts": "Your alerts will be here",
@@ -1487,6 +1487,7 @@
     "ReferralScreen.moreInfoScreenTitle": "More details",
     "ReferralScreen.inputTitle": "Ref name",
     "ReferralScreen.saveButtonText": "Save",
+    "ReferralScreen.createLink": "Create",
     "ReferralScreen.percentageByLevel25_20": "25% / 20%",
     "ReferralScreen.percentageByLevel20_25": "20% / 25%",
     "ReferralScreen.totalInvited": "Total invited",

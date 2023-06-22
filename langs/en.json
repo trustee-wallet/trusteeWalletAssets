@@ -1,5 +1,5 @@
 {
-    "version" : 345,
+    "version" : 346,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -199,7 +199,7 @@
     "Account.notNotifyWhenAvailableAsset": "Do not notify",
     "Account.needUserKYC.modalDescription": "For your safety and the security of your account, a person needs to be verified to access this feature",
     "Account.needUserKYC.KYC_CRYPTO_ONLY": "Unfortunately, top up and transfer of fiat currencies are not available to you. Please contact support for details.",
-    "Account.needUserKYC.1": "Unfortunately, top up and transfer of fiat currencies are not available to you. Please contact support for details.",
+    "Account.needUserKYC1": "Unfortunately, top up and transfer of fiat currencies are not available to you. Please contact support for details.",
     "Account.needUserKYC.passKycLate": "Later",
     "Account.needUserKYC.passKycNow": "Verify now",
     "Account.unAvailable.modalDescription": "Unfortunately, asset transactions are unavailable. Please try again later.",

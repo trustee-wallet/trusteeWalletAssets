@@ -1,5 +1,5 @@
 {
-  "version" : 346,
+  "version" : 347,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -878,7 +878,7 @@
   "History.txStatusUncredited": "Не зачислено",
   "History.txTypesSwap": "Обмен",
   "History.txTypesDeposit": "Пополнение",
-  "History.txTypesInternalTransfer": "Мгновенный перевод",
+  "History.txTypesInternalTransfer": "Перевод ⚡️",
   "History.txTypesCard": "Карта",
   "History.txTypesReward": "Награда",
   "History.txTypesBaseAmount": "Сумма:",
@@ -1212,7 +1212,7 @@
   "InvestScreen.topLosers": "Топ падения",
   "InvestScreen.market": "Рынок",
   "InvestScreen.filterOption.title": "Показывать",
-  "InvestScreen.filterOption.ALL": "Всe криптовалюты",
+  "InvestScreen.filterOption.ALL": "Всe монеты",
   "InvestScreen.filterOption.FAVORITE": "Избранные",
   "InvestScreen.filterOption.BY_VALUE": "Мои монеты",
   "InvestScreen.filterOption.currency": "Валюта - ",
@@ -1492,7 +1492,8 @@
   "ReferralScreen.share": "Поделиться",
   "ReferralScreen.contactsTitle": "Список контактов",
   "ReferralScreen.aboutTitle": "О реферальной системе",
-  "ReferralScreen.aboutLink": "https://trusteeglobal.com/",
+  "ReferralScreen.aboutLink": "https://trusteeglobal.com/ru/bonusnaya-kripto-programma-ot-trustee-plus/",
+  "ReferralScreen.aboutLink.pro": "https://trusteeglobal.com/ru/referalnaya-programma-trustee-plus/",
   "ReferralScreen.totalCompleted": "Всего выполнили условия",
   "ReferralScreen.contactsDescriptionWithoutPerms": ""
 }

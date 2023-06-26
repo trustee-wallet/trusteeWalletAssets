@@ -15,5 +15,8 @@
   "Push.withdraw.availableRefund": "Пользователь {{receiver}} не получил Ваш перевод {{amount}} {{currencySymbol}} за отведенный срок. Вы можете вернуть эти средства на свой баланс, если желаете.",
   "Push.depositAndWithdraw.errorMessage": "К сожалению, во время выполнения операции произошла непредсказуемая ошибка. За дополнительными деталями обратитесь, пожалуйста, в службу поддержки.",
   "Push.card.title": "Kaрта",
+  "Push.card.successTitle": "{{amount}} {{currencyCode}}",
+  "Push.card.reversedTitle": "Возврат {{amount}} {{currencyCode}}",
+  "Push.card.successMessage": "{{txDescription}}",
   "Push.cardTransaction.errorMessage": "К сожалению, во время выполнения операции произошла непредсказуемая ошибка. За дополнительными деталями обратитесь, пожалуйста, в службу поддержки."
 }

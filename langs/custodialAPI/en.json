@@ -15,5 +15,8 @@
   "Push.withdraw.availableRefund": "User {{receiver}} did not receive your transfer {{amount}} {{currencySymbol}} for the allotted period. You can return these funds to your balance if you wish.",
   "Push.depositAndWithdraw.errorMessage": "Unfortunately, an unpredictable error occurred during the operation. Please contact support for additional details.",
   "Push.card.title": "Card",
+  "Push.card.successTitle": "{{amount}} {{currencyCode}}",
+  "Push.card.reversedTitle": "Refunding {{amount}} {{currencyCode}}",
+  "Push.card.successMessage": "{{txDescription}}",
   "Push.cardTransaction.errorMessage": "Unfortunately, an unpredictable error occurred during the operation. Please contact support for additional details."
 }

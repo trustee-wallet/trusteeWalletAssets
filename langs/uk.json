@@ -1,5 +1,5 @@
 {
-  "version" : 348,
+  "version" : 349,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -993,7 +993,7 @@
   "History.transfer.refunded": "Отримувач повернув даний переказ назад",
   "History.spentBonus": "Витрачено бонусів",
   "History.rewardId": "Нагорода за",
-  "History.cardSwapId": "Нагорода за",
+  "History.cardSwapId": "Обмін",
   "History.cardDescription": "Опис",
   "SocialLinks.telegram": "https://t.me/trustee_ua",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",

@@ -1,5 +1,5 @@
 {
-  "version" : 348,
+  "version" : 349,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -991,7 +991,7 @@
   "History.transfer.refunded": "Получатель вернул данный перевод назад",
   "History.spentBonus": "Использовано бонусов",
   "History.rewardId": "Награда за",
-  "History.cardSwapId": "Награда за",
+  "History.cardSwapId": "Обмен",
   "History.cardDescription": "Описание",
   "SocialLinks.telegram": "https://t.me/trustee_ru",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",

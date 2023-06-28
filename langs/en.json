@@ -1,5 +1,5 @@
 {
-    "version" : 352,
+    "version" : 353,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -986,6 +986,11 @@
     "History.withdrawCanceled.description.UNKNOWN_ERROR": "Sorry, an unpredictable error occurred when processing a transfer. Please contact support for additional details.",
     "History.withdrawCanceled.description.ESTIMATION_CHANGED": "Sorry, but the predicted transfer total amount has changed. We recommend that you repeat the transfer relatively new data.",
     "History.withdrawCanceled.descriptionForFiat.CANCELED_BY_IA": "The payment system was unable to make your transfer. We recommend using another bank card.",
+    "History.cardCanceled.description.NOT_ALLOWED_BY_RISK_CONTROLLER": "Unfortunately, you are not allowed to make card transactions. Please contact support for additional details.",
+    "History.cardCanceled.description.INSUFFICIENT_BALANCE": "Unfortunately, your balance is insufficient for a card transaction. Please top up your balance first.",
+    "History.cardCanceled.description.SWAP_EXCEEDING_LIMITS": "Unfortunately, the card transaction was rejected because the amount required for auto-conversion exceeds the exchange limits.",
+    "History.cardCanceled.description.BALANCE_LIMITS_EXCEEDED": "The transaction was rejected due to exceeding the card limits. It can be changed in the card settings.",
+    "History.cardCanceled.description.UNKNOWN_ERROR": "Sorry, an unexpected error occurred while processing the card transaction. Please contact support for additional details.",
     "History.card.originalAmount": "Original amount",
     "History.swap.forCard.description.MIN_LIMIT_SWAP": "In order to perform the card transaction, an exchange was made for the minimum possible limit. As a result, part of the funds was used for payment, and the rest was credited to your balance.",
     "History.transfer.notReceived": "The recipient has not yet received your transfer, as he has not installed the Trustee Plus application. After some time, you will be able to return the funds if they are not received.",

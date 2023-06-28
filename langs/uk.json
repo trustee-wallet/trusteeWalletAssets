@@ -1,5 +1,5 @@
 {
-  "version" : 350,
+  "version" : 351,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1392,8 +1392,8 @@
   "Verification.trusteeVerification.docs.driverLicenseFront": "1й розворот",
   "Verification.trusteeVerification.docs.driverLicenseBack": "2й розворот",
   "Verification.trustee_verification.selectDocument": "Оберіть документ для проходження верифікації",
-  "Verification.status.success": "Успіх",
-  "Verification.status.successDescription": "Ваші документи в обробці, про успішне проходження верифікації повідомимо",
+  "Verification.status.success": "Дякуємо",
+  "Verification.status.successDescription": "Ваші документи в обробці, ми обов'язково повідомимо про успішне проходження верифікації",
   "Verification.status.successButton": "Зрозуміло",
   "Verification.trusteeVerification.addressDescription": "Адреса постійного проживання",
   "Verification.trusteeVerification.city": "Місто",

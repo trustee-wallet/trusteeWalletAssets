@@ -1,5 +1,5 @@
 {
-  "version" : 349,
+  "version" : 350,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -871,7 +871,7 @@
   "History.txStatusDone": "Успішно",
   "History.txStatusPartlyDone": "Частково",
   "History.txStatusWait": "В обробці",
-  "History.txStatusCanceled": "Повернено",
+  "History.txStatusCanceled": "Скасовано",
   "History.txStatusError": "Збій",
   "History.txStatusStopped": "Зупинено",
   "History.txTypesWithDraw": "Переказ",

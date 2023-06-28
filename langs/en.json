@@ -1,5 +1,5 @@
 {
-    "version" : 349,
+    "version" : 350,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -871,7 +871,7 @@
     "History.txStatusDone": "Success",
     "History.txStatusPartlyDone": "Partially done",
     "History.txStatusWait": "In process",
-    "History.txStatusCanceled": "Returned",
+    "History.txStatusCanceled": "Canceled",
     "History.txStatusError": "Blocked",
     "History.txStatusStopped": "Stopped",
     "History.txStatusRefunded": "Refunded",

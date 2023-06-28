@@ -1,5 +1,5 @@
 {
-    "version" : 354,
+    "version" : 355,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1437,7 +1437,7 @@
     "Verification.titlePhoto.PASSPORT_BOOK": "Photo of the passport page",
     "Verification.titlePhoto.INTERNATIONAL_PASSPORT": "International passport photo",
     "Verification.titlePhoto.DRIVER_LICENSE": "Driver's license photo",
-    "Verification.titlePhoto.selfie ": "Selfie",
+    "Verification.titlePhoto.selfie": "Selfie",
     "Verification.photoRequirements": "Place the document in the square",
     "Verification.trusteeVerification.retakePhoto": "Rephotograph",
     "Verification.trusteeVerification.takePhoto": "Take a picture",

@@ -1,5 +1,5 @@
 {
-  "version" : 354,
+  "version" : 355,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1436,7 +1436,7 @@
   "Verification.titlePhoto.PASSPORT_BOOK": "Фото сторінки паспорта",
   "Verification.titlePhoto.INTERNATIONAL_PASSPORT": "Фото паспорта міжнародного зразка",
   "Verification.titlePhoto.DRIVER_LICENSE": "Фото водійського посвідчення",
-  "Verification.titlePhoto.selfie ": "Селфі",
+  "Verification.titlePhoto.selfie": "Селфі",
   "Verification.photoRequirements": "Помістіть документ в квадрат",
   "Verification.trusteeVerification.retakePhoto": "Перефотографувати",
   "Verification.trusteeVerification.takePhoto": "Сфотографувати",

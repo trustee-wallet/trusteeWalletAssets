@@ -1,5 +1,5 @@
 {
-  "version" : 356,
+  "version" : 357,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1030,6 +1030,7 @@
   "Toast.message.notInternetConnection": "Будь ласка, перевірте інтернет з'єднання",
   "Toast.message.apolloParseErrorMessage": "Будь ласка, спробуйте пізніше",
   "Toast.message.noServerResponse": "Немає відповіді від сервера, спробуйте, будь ласка, пізніше",
+  "Toast.message.emptyClipboard": "Буфер обміну пустий",
   "Loader.longLoad": "Вибачте, операція займає більше часу, ніж очікувалося",
   "ContactScreen.useTrustee": "Учасники родини Trustee Plus",
   "ContactScreen.title": "Контакти",
@@ -1520,5 +1521,6 @@
   "ReferralScreen.aboutLink": "https://trusteeglobal.com/crypto-program-trustee-plus/",
   "ReferralScreen.aboutLink.pro": "https://trusteeglobal.com/peferalna-programa-trustee-plus/",
   "ReferralScreen.totalCompleted": "Всього виконали умови",
-  "ReferralScreen.contactsDescriptionWithoutPerms": ""
+  "ReferralScreen.contactsDescriptionWithoutPerms": "",
+  "ReferralScreen.contacts.description": "Контакти без облікового запису в Trustee Plus"
 }

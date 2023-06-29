@@ -1,5 +1,5 @@
 {
-  "version" : 355,
+  "version" : 356,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -955,7 +955,7 @@
   "History.share.toCryptoAddress": "на криптоадрес {address}\n",
   "History.share.sendText": "Перевел(а) Вам {amount}",
   "History.share.withdrawLink": "Для бесплатных переводов пользуюсь Trustee Plus. Скачайте и убедитесь сами\nhttps://trusteeplus.app.link/t-share",
-  "History.cancelByTime": "Если средства не списались с карты, то платеж будет отменен через некоторое время.",
+  "History.cancelByTime": "Если депозит находится в обработке более 30 минут, обратитесь в службу поддержки",
   "History.repeatPayment": "Повторить платеж",
   "History.addToContacts": "Добавить в контакты",
   "History.addToFavorites": "Добавить к избранным",

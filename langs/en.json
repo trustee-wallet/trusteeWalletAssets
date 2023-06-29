@@ -1,5 +1,5 @@
 {
-    "version" : 355,
+    "version" : 356,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -957,7 +957,7 @@
     "History.share.toCryptoAddress": "to cryptoaddress {address}\n",
     "History.share.sendText": "Sent you {amount}",
     "History.share.withdrawLink": "I use Trustee Plus for free transfers. Download and see for yourself\nhttps://trusteeplus.app.link/t-share",
-    "History.cancelByTime": "If the funds wasn’t charged from the card, this operation will be canceled automatically after a while",
+    "History.cancelByTime": "If the deposit is being processed for more than 30 minutes, the support service will be contacted",
     "History.repeatPayment": "Repeat payment",
     "History.addToContacts": "Add to contacts",
     "History.addToFavorites": "Add to favorites",

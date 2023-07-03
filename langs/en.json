@@ -1,5 +1,5 @@
 {
-    "version" : 358,
+    "version" : 359,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1262,7 +1262,7 @@
     "TrusteeCard.trusteeCardDescription": "Get your crypto card from Trustee and pay with crypto anywhere.\n\nJoin the closed group and test the new features first.\nTogether to the future!",
     "TrusteeCard.order": "Join",
     "TrusteeCard.greeting": "Application received!",
-    "TrusteeCard.greetingDescription": "Cryptocard under implementation. Product launch scheduled for Q2 2023.\n\nOur support team is always in touch.",
+    "TrusteeCard.greetingDescription": "Thank you! We noticed that you want to get an innovative crypto card from Trustee Plus. The good news is that it is ready now, but for the launch we have to agree on the last bureaucratic moment, get one damn signature.\n\nWe plan to deal with it in July and will inform you immediately.",
     "TrusteeCard.pay": "Pay",
     "TrusteeCard.connectCoin": "Connect a coin",
     "TrusteeCard.change": "Change",

@@ -20,5 +20,5 @@
   "Push.card.successMessage": "{{txDescription}}",
   "Push.cardTransaction.errorMessage": "Unfortunately, an unpredictable error occurred during the operation. Please contact support for additional details.",
   "Push.referralRewards.title": "Referral rewards",
-  "Push.referralRewards.desctiption": "You just received {{amount}} {{currencyCode}} from the referral program!"
+  "Push.referralRewards.description": "You just received {{amount}} {{currencyCode}} from the referral program!"
 }

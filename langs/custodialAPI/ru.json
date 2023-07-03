@@ -20,5 +20,5 @@
   "Push.card.successMessage": "{{txDescription}}",
   "Push.cardTransaction.errorMessage": "К сожалению, во время выполнения операции произошла непредсказуемая ошибка. За дополнительными деталями обратитесь, пожалуйста, в службу поддержки.",
   "Push.referralRewards.title": "Реферальные начисления",
-  "Push.referralRewards.desctiption": "Вы только что получили {{amount}} {{currencyCode}} по реферальной программе!"
+  "Push.referralRewards.description": "Вы только что получили {{amount}} {{currencyCode}} по реферальной программе!"
 }

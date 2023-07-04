@@ -1,5 +1,5 @@
 {
-    "version" : 359,
+    "version" : 360,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -320,6 +320,7 @@
     "TopUp.topUp": "Top Up",
     "TopUp.createTopUpPermissionError": "You have been blocked from accessing the Top Up function",
     "TopUp.createTopUpError": "There were technical problems. Please try again later or contact support",
+    "TopUp.createTopUpError.NEED_KYC": "For your safety and the security of your account, a person needs to be verified to access this feature",
     "TopUp.createTopUpProfileNameError": "You need to add a first and last name to your profile to continue the operation",
     "TopUp.createTopUpEmailError": "You need to confirm your email to continue the operation",
     "TopUpPayment.title": "Payment screen",

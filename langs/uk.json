@@ -1,5 +1,5 @@
 {
-  "version" : 362,
+  "version" : 363,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -30,6 +30,7 @@
   "LoginSms.title": "Вхід",
   "LoginSms.code": "SMS код",
   "LoginSms.intro": "Ми надсилаємо Вам код на <Number>{{number}}</Number>",
+  "LoginSms.userAlreadyLogin": "Ми бачимо що ви вже намагалися увійти з номером <Number>{{number}}</Number>. Почекайти трішки і спробуйте ще раз. У разі невдачі зверніться в службу підтримки.",
   "LoginSms.resendCode": "Надіслати SMS код ще раз",
   "LoginSms.codeInvalid": "Код недійсний",
   "LoginSms.codeEmpty": "Будь ласка, введіть SMS код",

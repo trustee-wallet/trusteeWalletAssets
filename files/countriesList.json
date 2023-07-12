@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 4,
     "countriesList": [
         {
             "country": "Ukraine",
@@ -2636,6 +2636,22 @@
                 "uk": "Словенія",
                 "ru": "Словения",
                 "en": "Slovenia"
+            }
+        },
+        {
+            "country": "Serbia",
+            "iso": "688",
+            "currencyCode": "RSD",
+            "countryCode": "SRB",
+            "flag": "flag-rs",
+            "iso2": "RS",
+            "callingCode": [
+                "381"
+            ],
+            "countryName": {
+                "uk": "Сербія",
+                "ru": "Сербия",
+                "en": "Serbia"
             }
         },
         {

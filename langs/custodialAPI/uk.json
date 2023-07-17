@@ -19,7 +19,7 @@
   "Push.card.successTitleV2": "💳 {{originalAmount}} {{originalCurrencyCode}}",
   "Push.card.reversedTitle": "💳 Повернення {{amount}} {{currencyCode}}",
   "Push.card.successMessage": "{{txDescription}}",
-  "Push.card.successMessageV2": "Витрачено в {{txDescription}}\nСписано {{amount}} {{currencyCode}}",
+  "Push.card.successMessageV2": "Витрачено в {{txDescription}}",
   "Push.cardTransaction.errorMessage": "На жаль, під час виконання операції сталася непередбачувана помилка. За додатковими деталями зверніться, будь ласка, до служби підтримки.",
   "Push.referralRewards.title": "Реферальні нарахування",
   "Push.referralRewards.description": "Ви щойно отримали {{amount}} {{currencyCode}} по реферальній програмі!"

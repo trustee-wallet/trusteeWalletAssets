@@ -19,7 +19,7 @@
   "Push.card.successTitleV2": "💳 {{originalAmount}} {{originalCurrencyCode}}",
   "Push.card.reversedTitle": "💳 Refunding {{amount}} {{currencyCode}}",
   "Push.card.successMessage": "{{txDescription}}",
-  "Push.card.successMessageV2": "Spent at {{txDescription}}\nUsed {{amount}} {{currencyCode}}",
+  "Push.card.successMessageV2": "Spent at {{txDescription}}",
   "Push.cardTransaction.errorMessage": "Unfortunately, an unpredictable error occurred during the operation. Please contact support for additional details.",
   "Push.referralRewards.title": "Referral rewards",
   "Push.referralRewards.description": "You just received {{amount}} {{currencyCode}} from the referral program!"

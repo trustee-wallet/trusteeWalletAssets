@@ -1,5 +1,5 @@
 {
-  "version" : 365,
+  "version" : 366,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1004,7 +1004,7 @@
   "History.cardDescription": "Опис",
   "History.card.originalAmount": "Сума оплати",
   "History.card.description": "Опис",
-  "History.card.refund": "Повернуто",
+  "History.card.refund": "Залишок",
   "History.card.toGive": "Обміняно",
   "History.card.toGet": "Отримано",
   "History.reaction": "Реакція",

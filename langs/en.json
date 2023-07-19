@@ -1,5 +1,5 @@
 {
-    "version" : 366,
+    "version" : 368,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1530,5 +1530,8 @@
     "ReferralScreen.aboutLink": "https://trusteeglobal.com/",
     "ReferralScreen.totalCompleted": "Total fulfilled the conditions",
     "ReferralScreen.contactsDescriptionWithoutPerms": "",
-    "ReferralScreen.contacts.description": "Contacts without a Trustee Plus account"
+    "ReferralScreen.contacts.description": "Contacts without a Trustee Plus account",
+    "ReferralScreen.removeLink": "Remove link",
+    "ReferralScreen.removeErrorTitle": "Sorry",
+    "ReferralScreen.removeErrorDescription": "You should have at least one referral link left."
 }

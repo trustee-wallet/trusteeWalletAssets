@@ -71,7 +71,7 @@
     
     "2FA.USER_2FA_CREATE.emailTitle": "Trustee Plus: 2FA Creation",
     "2FA.USER_2FA_CREATE.emailDesc": "To verify that this email address will be used as 2FA please enter:",
-    "2FA.USER_2FA_CREATE.telegramDesc": "To verify that this telegram account will be used as Trustee Plus 2FA please enter: {otpCode}",
+    "2FA.USER_2FA_CREATE.telegramDesc": "To verify that this Telegram account will be used as Trustee Plus 2FA please enter: {otpCode}",
     
     "2FA.USER_2FA_REMOVE_NEED_VERIFY.emailTitle": "Trustee Plus: 2FA Removal ",
     "2FA.USER_2FA_REMOVE_NEED_VERIFY.emailDesc":  "To verify 2FA removal please enter:",

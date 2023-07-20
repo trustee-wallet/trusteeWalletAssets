@@ -10,7 +10,7 @@
     "userTelegram.welcome.PENDING" :"Ваш обліковий запис {mobile} прив`язано до Telegram, Ви будете отримувати тут коди для логіну та  іншу важливу інформацію",
     "userTelegram.welcome.ACTIVE_NO_TG_LOGIN": "Ваш обліковий запис {mobile} прив`язано до Telegram, Ви будете отримувати тут важливу інформацію. Коди для входу через Telegram відключені",
     "userTelegram.welcome.PENDING_NO_TG_LOGIN": "Ваш обліковий запис {mobile} прив`язано до Telegram, Ви будете отримувати тут важливу інформацію. Коди для входу через Telegram відключені",    
-    "userTelegram.welcome.BLOCKED" :"Обліковий запис {mobile} заблоковано, будь ласка, зверніться до службу підтримки",
+    "userTelegram.welcome.BLOCKED" :"Обліковий запис {mobile} заблоковано, будь ласка, зверніться до служби підтримки",
     "userTelegram.approve.TELEGRAM_APPROVED": "Ваш обліковий запис успішно прив`язано до Telegram",
     "userTelegram.approve.TELEGRAM_APPROVED_ALREADY": "Ваш обліковий запис уже прив`язано до Telegram",
     "userTelegram.approve.TELEGRAM_BLOCKED_LOGIN" : "Коди для входу через Telegram відключені, будь ласка, зверніться до служби підтримки",
@@ -26,7 +26,7 @@
     "userTelegram.approveCode.ALREADY_SET": "Telegram код вже застосований",
     "userTelegram.approveCode.APPROVE": "Telegram запит підтверджений",
     "userTelegram.approveCode.DECLINED": "Telegram запит відхилений",
-    "userLogin.notActive.telegram": "Обліковий запис неактивний, будь ласка, зверніться в службу підтримки",
+    "userLogin.notActive.telegram": "Обліковий запис неактивний, будь ласка, зверніться до служби підтримки",
     "userLogin.notValidTelegramCodeStatus.telegram": "Хтось намагався увійти в застосунок із застарілим/пустим кодом {ip}",
     "userLogin.notValidTelegramCodeValue.telegram": "Хтось намагався увійти в застосунок з невірним кодом {ip}",
     "userLogin.successNoPin.telegram": "Користувач {mobile} успішно зайшов в Trustee Plus, {logModel}",
@@ -69,12 +69,12 @@
     
     "2FA.emailBtn": "{otpCode}",
     "2FA.emailLine2": "Увага, код 2FA буде дійсний лише 5 хвилин",
-    "2FA.emailLine3": "Якщо Ви не робили цей запит то зв'яжість, будь ласка, з нами використовуючи email ",
+    "2FA.emailLine3": "Якщо Ви не робили цей запит то зв'яжіться, будь ласка, з нами, використовуючи email ",
     "2FA.emailLine4": "",   
     
     "2FA.USER_2FA_CREATE.emailTitle": "Trustee Plus: 2FA Створення",
     "2FA.USER_2FA_CREATE.emailDesc": "Для підтвердження того, що цей Email буде використано для 2FA введіть код:",
-    "2FA.USER_2FA_CREATE.telegramDesc": "Для підтвердження того, що цей telegram буде використано для 2FA введіть код: {otpCode}",
+    "2FA.USER_2FA_CREATE.telegramDesc": "Для підтвердження того, що цей Telegram буде використано для 2FA введіть код: {otpCode}",
     
     "2FA.USER_2FA_REMOVE_NEED_VERIFY.emailTitle": "Trustee Plus: 2FA Видалення ",
     "2FA.USER_2FA_REMOVE_NEED_VERIFY.emailDesc":  "Для підтвердження видалення 2FA введіть код:",
@@ -85,7 +85,7 @@
     "2FA.USER_2FA_TURN_OFF_NEED_VERIFY.telegramDesc": "Для підтвердження вимкнення 2FA введіть код: {otpCode}",
     
     "2FA.USER_LOGIN.emailTitle": "Trustee Plus: Вхід",
-    "2FA.USER_LOGIN.emailDesc": "Вы успішно зайшли в обліковий запис Trustee Plus. Для підтвердження введіть код:",
+    "2FA.USER_LOGIN.emailDesc": "Ви успішно зайшли в обліковий запис Trustee Plus. Для підтвердження введіть код:",
     "2FA.USER_LOGIN.telegramDesc": "Trustee Plus вхід 2FA код: {otpCode}",   
         
     "2FA.UPDATE_EMAIL.emailTitle": "Trustee Plus: Оновлення Email ",
@@ -156,7 +156,7 @@
     "invest.description.BTT": "Протокол BitTorrent – це P2P-платформа для обміну даними, запущена в 2001 році і викуплена в 2018-м засновником Tron Джастіном Саном. Під управлінням екосистеми Tron, BitTorrent отримав власний токен BTT, значно поліпшив рівень децентралізації та привернув увагу нових користувачів.\n\nBTT – це нативний токен BitTorrent, запущений на базі стандарту TRC-20 екосистеми TRON. Пропозиція BTT становить 990 млрд: 20% з них належать Tron і BitTorrent Foundation, ще 20% – зарезервовані для аірдропів. BTT використовується у всіх продуктах системи, наприклад, для оплати прискорення завантажень.\n\nЗгідно з WhitePaper, BitTorrent – це найбільший децентралізований протокол обміну даних. Блокчейн-технологія дає змогу розширити співпрацю між клієнтами та проводити обмін протягом довшого часу, ніж дозволяв робити протокол до 2018 року. Разом BTT і BitTorrent створюють економіку мережевої взаємодії на основі токенів, пропускної здатності та використання сховища.",
     "invest.description.ARB": "Arbitrum – це протокол другого рівня, що позиціонується як набір рішень для безпечного масштабування мережі Ethereum і забезпечення більш високої швидкості транзакцій. Досягається ця мета шляхом зведення декількох транзакцій в одну і їх обробки поза мережею, що дає змогу знизити навантаження, швидше і дешевше проводити транзакції, зберігаючи при цьому рівень безпеки і децентралізації Ethereum.\n\nARB – нативний токен системи. Він призначений для управління в мережі Arbitrum – власники ARB можуть робити пропозиції і голосувати з питань модернізації протоколу, зміни параметрів, розподілу коштів DAO, впровадження функцій.\n\nТокен було випущено в березні 2023 року. Його загальна пропозиція становить 10 млрд токенів – 12,75% емісії було розподілено серед учасників DAO і ранніх користувачів. Для оплати комісії мережа використовує ETH або будь-який токен ERC-20.\n\nЗгідно з дорожньою картою, розробники планують запустити рішення третього рівня Orbit, відкрити вільний доступ до системи розроблення dApps і розширити кількість вузлів мережі, долучивши до їх числа інституційних валідаторів.",
 
-    "payway.deposit.comeBackMessage": "Поповнення {{currencyCode}} знову доступно",
+    "payway.deposit.comeBackMessage": "Поповнення {{currencyCode}} знову доступне",
     "payway.withdraw.comeBackMessage": "Переказ {{currencyCode}} знову доступний",
     "payway.withdraw.CARD": "Переказ на картку {{symbol}}",
     "payway.withdraw.BANK_TRANSFER": "Банківський переказ {{symbol}}",

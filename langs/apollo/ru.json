@@ -1,5 +1,5 @@
 {
-    "userTelegram.welcome.pleaseShareMobileButtonToGetCode": "Нажми здесь, чтобы получить код для входа",
+    "userTelegram.welcome.pleaseShareMobileButtonToGetCode": "Нажмите здесь, чтобы получить код для входа",
     "userTelegram.welcome.pleaseShareMobile": "Пожалуйста, поделитесь Вашим номером",
     "userTelegram.welcome.pleaseShareMobileClickOnButton": "Для того, чтобы поделиться номером, Вам нужно нажать на кнопку внизу",
     "userTelegram.welcome.pleaseShareMobileButton": "Нажмите здесь, чтобы поделиться",
@@ -15,8 +15,8 @@
     "userTelegram.approve.TELEGRAM_APPROVED_ALREADY": "Ваша учетная запись {mobile} уже привязана к Telegram",
     "userTelegram.approve.TELEGRAM_BLOCKED_LOGIN" : "Коды для входа через Telegram отключены, пожалуйста, обратитесь в службу поддержки",
     "userTelegram.approve.TELEGRAM_ANOTHER_ID" : "Ваш мобильный номер уже привязан к другому Telegram пользователю, пожалуйста, обратитесь в службу поддержки",
-    "userTelegram.approve.TOO_MUCH" : "Вы генерировали коды слишком часто - пожайлуста, подождите пару минут",
-    "userTelegram.approve.TOO_FAST":  "Вы генерировали коды слишком быстро - пожайлуста, подождите пару минут",
+    "userTelegram.approve.TOO_MUCH" : "Вы генерировали коды слишком часто - пожалуйста, подождите пару минут",
+    "userTelegram.approve.TOO_FAST":  "Вы генерировали коды слишком быстро - пожалуйста, подождите пару минут",
     "userTelegram.contact.isMutual": "Контакт уже в Trustee Plus",
     "userTelegram.contact.added": "Контакт добавлен",
     "userTelegram.contact.activated": "Контакт добавлен и активирован",
@@ -67,12 +67,12 @@
     
     "2FA.emailBtn": "{otpCode}",
     "2FA.emailLine2": "Внимание, код 2FA будет действителен только 5 минут",
-    "2FA.emailLine3": "Если Вы не делали этот запрос то свяжитесь, пожайлуста, с нами используя email",
+    "2FA.emailLine3": "Если Вы не делали этот запрос то свяжитесь, пожалуйста, с нами используя email",
     "2FA.emailLine4": "",   
     
     "2FA.USER_2FA_CREATE.emailTitle": "Trustee Plus: 2FA Создание",
     "2FA.USER_2FA_CREATE.emailDesc": "Для подтверждения того, что этот Email будет использован для 2FA введите код:",
-    "2FA.USER_2FA_CREATE.telegramDesc": "Для подтверждения того, что этот telegram будет использован для 2FA введите код: {otpCode}",
+    "2FA.USER_2FA_CREATE.telegramDesc": "Для подтверждения того, что этот Telegram будет использован для 2FA введите код: {otpCode}",
     
     "2FA.USER_2FA_REMOVE_NEED_VERIFY.emailTitle": "Trustee Plus: 2FA Удаление ",
     "2FA.USER_2FA_REMOVE_NEED_VERIFY.emailDesc":  "Для подтверждения удаления 2FA введите код:",
@@ -102,7 +102,7 @@
     "2FA.CREATE_WITHDRAW.CARD.telegramDesc": "Для подтверждения перевода {amount} {currencyCode} на карту {paymentDetails} введите код: {otpCode}",
     "2FA.CREATE_SWAP.emailTitle": "Trustee Plus: Обмен {fromCurrencyCode} на {toCurrencyCode} 2FA ",
     
-    "2FA.CREATE_SWAP.emailDesc": "Вы пытаетесь сделать обмен <b>{fromAmount} {fromCurrencyCode}</b> на <b>{toAmount} {toCurrencyCode}</b> в учетной записе Trustee Plus. Для подтверждения, введите код:",
+    "2FA.CREATE_SWAP.emailDesc": "Вы пытаетесь сделать обмен <b>{fromAmount} {fromCurrencyCode}</b> на <b>{toAmount} {toCurrencyCode}</b> в учетной записи Trustee Plus. Для подтверждения, введите код:",
     "2FA.CREATE_SWAP.telegramDesc": "Для подтверждения обмена {fromAmount} {fromCurrencyCode} на {toAmount} {toCurrencyCode} введите код: {otpCode}",
     
     "userHistory.reaction.pushTitle": "Новая реакция!",
@@ -155,13 +155,13 @@
     "invest.description.ARB": "Arbitrum – это протокол второго уровня, позиционируемый как набор решений для безопасного масштабирования сети Ethereum и обеспечения более высокой скорости транзакций. Достигается эта цель путем сведения нескольких транзакций в одну и их обработки вне сети, что позволяет снизить нагрузку, быстрее и дешевле проводить транзакции, сохраняя при этом уровень безопасности и децентрализации Ethereum.\n\nARB – нативный токен системы. Он предназначен для управления в сети Arbitrum – держатели ARB могут делать предложения и голосовать по вопросам модернизации протокола, изменения параметров, распределении средств DAO, внедрения функций.\n\nТокен был выпущен в марте 2023 года. Его общее предложение составляет 10 млрд токенов – 12,75% эмиссии было распределено среди участников DAO и ранних пользователей. Для оплаты комиссии сеть использует ETH или любой токен ERC-20.\n\nСогласно дорожной карте, разработчики планируют запустить решение третьего уровня Orbit, открыть свободный доступ к системе разработки dApps и расширить количество узлов сети, включив в их число институциональных валидаторов.",
 
     "payway.deposit.comeBackMessage": "Пополнение {{currencyCode}} снова доступно",
-    "payway.withdraw.comeBackMessage": "Перевод {{currencyCode}} снова доступный",
+    "payway.withdraw.comeBackMessage": "Перевод {{currencyCode}} снова доступен",
     "payway.withdraw.CARD": "Перевод на карту {{symbol}}",
     "payway.withdraw.BANK_TRANSFER": "Банковский перевод {{symbol}}",
     "payway.withdraw.CRYPTO": "Перевод на криптоадрес {{symbol}}",
-    "payway.withdraw.CARD.comeBackMessage": "Перевод на карту {{symbol}} снова доступный",
-    "payway.withdraw.BANK_TRANSFER.comeBackMessage": "Банковский перевод {{symbol}} снова доступный",
-    "payway.withdraw.CRYPTO.comeBackMessage": "Перевод на криптоадрес {{symbol}} снова доступный",
+    "payway.withdraw.CARD.comeBackMessage": "Перевод на карту {{symbol}} снова доступнен",
+    "payway.withdraw.BANK_TRANSFER.comeBackMessage": "Банковский перевод {{symbol}} снова доступен",
+    "payway.withdraw.CRYPTO.comeBackMessage": "Перевод на криптоадрес {{symbol}} снова доступен",
     "payway.deposit.CARD": "Пополнение {{symbol}}",
     "payway.deposit.CRYPTO": "Пополнение {{symbol}}"
 }

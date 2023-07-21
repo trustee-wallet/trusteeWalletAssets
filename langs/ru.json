@@ -1,5 +1,5 @@
 {
-  "version" : 372,
+  "version" : 373,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -885,7 +885,7 @@
   "History.txTypesDeposit": "Пополнение",
   "History.txTypesInternalTransfer": "Перевод ⚡️",
   "History.txTypesCard": "Карта",
-  "History.txTypesReward": "Награда",
+  "History.txTypesReward": "Реферальные",
   "History.txTypesBaseAmount": "Сумма:",
   "History.txSwapTypesBaseAmount": "Списано:",
   "History.txTypesAdditionalAmountTitle": "Зачислено:",

@@ -1349,7 +1349,7 @@
   "TrusteeCardSettings.walletPay.android.step1.description": "Открыть или скачать приложение Google Wallet",
   "TrusteeCardSettings.walletPay.android.step1.buttonText": "Открыть приложение",
   "TrusteeCardSettings.walletPay.android.step2.title": "Шаг 2",
-  "TrusteeCardSettings.walletPay.android.step2.description": "Нажать на кнопку \"+\", а затем - на пункт \"Дебетовая или кредитная карта\"",
+  "TrusteeCardSettings.walletPay.android.step2.description": "Нажать на кнопку \"Добавить в кошелек\", а затем - на пункт \"Платежная карта\"",
   "TrusteeCardSettings.walletPay.android.step3.title": "Шаг 3",
   "TrusteeCardSettings.walletPay.android.step3.description": "Нажать \"Ввести данные карты вручную\" и заполнить нужные поля. И нажать \"Сохранить\"",
   "TrusteeCardSettings.walletPay.android.step3.notification": "В поле \"Имя\" обязательно указать собственное имя и фамилию латинецей",

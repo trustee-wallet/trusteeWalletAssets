@@ -1,5 +1,5 @@
 {
-    "version" : 376,
+    "version" : 377,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1515,7 +1515,7 @@
     "ReferralScreen.linkDefaultName": "",
     "ReferralScreen.generateNewLink": "Generate new link",
     "ReferralScreen.refType": "Ref type",
-    "ReferralScreen.normalLinkTitle": "Normal",
+    "ReferralScreen.normalLinkTitle": "Bonus",
     "ReferralScreen.levelsPercentage": "Percentages by levels",
     "ReferralScreen.createLinkScreenTitle": "Create new",
     "ReferralScreen.moreInfoScreenTitle": "More details",

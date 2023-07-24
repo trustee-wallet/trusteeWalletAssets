@@ -1,5 +1,5 @@
 {
-  "version" : 376,
+  "version" : 377,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1514,7 +1514,7 @@
   "ReferralScreen.linkDefaultName": "",
   "ReferralScreen.generateNewLink": "Створити нове посилання",
   "ReferralScreen.refType": "Тип посилання",
-  "ReferralScreen.normalLinkTitle": "Звичайний",
+  "ReferralScreen.normalLinkTitle": "Bonus",
   "ReferralScreen.levelsPercentage": "Відсотки за рівнями",
   "ReferralScreen.createLinkScreenTitle": "Створити новий",
   "ReferralScreen.moreInfoScreenTitle": "Більше деталей",

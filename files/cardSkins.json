@@ -1,0 +1,50 @@
+{
+    "version": 1,
+    "skins": {
+        "INCRYPTED": {
+            "main": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/incryptedMain.png"
+            },
+            "topRightImage": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/incryptedLogo.png",
+                "imageProps": {
+                    "style": {
+                        "width": 34,
+                        "height": 34
+                    }
+                }
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": false
+        },
+        "CRYPTO_ALCOHOLIC": {
+            "main": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/cryptoAlcoholicMain.png",
+                "imageProps": {}
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": null
+        },
+        "VIP": {
+            "main": {
+                "backgroundColor": "#FCC54A"
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": null
+        },
+        "GOLD": {
+            "main": {
+                "backgroundColor": "#FFEAB6"
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": null
+        },
+        "WHITE": {
+            "main": {
+                "backgroundColor": "#F7F7F7"
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": null
+        }
+    }
+}

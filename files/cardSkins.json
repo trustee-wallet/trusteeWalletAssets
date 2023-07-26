@@ -45,6 +45,47 @@
             },
             "trusteeLogoIsDark": false,
             "textColor": null
+        },
+        "PANDA": {
+            "main": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/pandaMain.png",
+                "backgroundColor": "#000000",
+                "imageProps": {
+                    "resizeMode": "contain",
+                    "style": {
+                        "marginTop": 24,
+                        "marginLeft": "25%"
+                    }
+                }
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": false,
+            "hiddenLogoMasterCard": true
+        },
+        "OWSLA": {
+            "main": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/owslaSkrillex.gif",
+                "imageProps": {
+                    "resizeMode": "cover"
+                }
+            }
+        },
+        "ROMANICH": {
+            "main": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/beerMain.png"
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": false,
+            "hiddenLogoMasterCard": true,
+            "hiddenTrusteeLogo": true
+        },
+        "MURZIK": {
+            "main": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/murzikMain.png"
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": false,
+            "hiddenLogoMasterCard": true
         }
     }
 }

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "skins": {
+    "cardSkins": {
         "INCRYPTED": {
             "main": {
                 "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/incryptedMain.png"
@@ -68,7 +68,8 @@
                 "imageProps": {
                     "resizeMode": "cover"
                 }
-            }
+            },
+            "hiddenLogoMasterCard": true
         },
         "ROMANICH": {
             "main": {

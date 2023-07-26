@@ -1,5 +1,5 @@
 {
-  "version" : 379,
+  "version" : 380,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1312,7 +1312,7 @@
   "TrusteeCardStatus.title.NOT_SUPPORTED_COUNTRY": "Временное ограничение",
   "TrusteeCardStatus.description.NOT_SUPPORTED_COUNTRY": "Отсутствует возможность получить карточку не резиденту Европейской экономической зоны. Следите за нашими обновлениями",
   "TrusteeCardStatus.title.KYC_WAIT_FOR_REVIEW": "Есть один нюанс..",
-  "TrusteeCardStatus.description.KYC_WAIT_FOR_REVIEW": "Продолжается проверка документов. После проверки мы проведем Вас и Вы сможете получить криптокартку",
+  "TrusteeCardStatus.description.KYC_WAIT_FOR_REVIEW": "Криптокарта уже близко! В настоящее время идет проверка Ваших документов. Пожалуйста, ожидайте пуш-уведомление о завершении процесса верификации",
   "TrusteeCardStatus.title.KYC_REJECTED": "Упс…",
   "TrusteeCardStatus.description.KYC_REJECTED": "Ваша учетная запись заблокирована. Пожалуйста, обратитесь в службу поддержки за дополнительной информацией.",
   "TrusteeCardSettings.title": "Настройки",

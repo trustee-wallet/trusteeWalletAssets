@@ -1,5 +1,5 @@
 {
-    "version" : 379,
+    "version" : 380,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1312,7 +1312,7 @@
     "TrusteeCardStatus.title.NOT_SUPPORTED_COUNTRY": "Temporary limitation",
     "TrusteeCardStatus.description.NOT_SUPPORTED_COUNTRY": "Currently, it is not possible to obtain a card for a non-resident of the European Economic Area. Follow our updates",
     "TrusteeCardStatus.title.KYC_WAIT_FOR_REVIEW": "There is one nuance..",
-    "TrusteeCardStatus.description.KYC_WAIT_FOR_REVIEW": "Verification of your documents is in progress. After the inspection, we will guide you and you will be able to receive the card",
+    "TrusteeCardStatus.description.KYC_WAIT_FOR_REVIEW": "The crypto card is near! The verification of your documents is currently underway. Please wait for a push notification about the completion of the verification process",
     "TrusteeCardStatus.title.KYC_REJECTED": "Oops…",
     "TrusteeCardStatus.description.KYC_REJECTED": "Your account has been locked. Please, contact support for details.",
     "TrusteeCardSettings.title": "Settings",

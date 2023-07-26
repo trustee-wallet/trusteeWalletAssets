@@ -1,5 +1,5 @@
 {
-    "version" : 378,
+    "version" : 379,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1361,6 +1361,8 @@
     "TrusteeCardSettings.lockCard": "Lock card",
     "TrusteeCardSettings.unlockCard": "Unlock card",
     "TrusteeCardSettings.closeCard": "Close card",
+    "TrusteeCardSettings.commissionsLink": "",
+    "TrusteeCardSettings.commissions": "Fees",
     "TrusteeCard.send": "Transfer",
     "TrusteeCard.settings": "Settings",
     "TrusteeCard.balanceDetails.title": "Balance details",

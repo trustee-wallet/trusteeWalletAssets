@@ -1,5 +1,5 @@
 {
-  "version" : 378,
+  "version" : 379,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1361,6 +1361,8 @@
   "TrusteeCardSettings.lockCard": "Заблокировать карту",
   "TrusteeCardSettings.unlockCard": "Разблокировать карту",
   "TrusteeCardSettings.closeCard": "Закрыть карту",
+  "TrusteeCardSettings.commissionsLink": "",
+  "TrusteeCardSettings.commissions": "Комиссии",
   "TrusteeCard.send": "Перевод",
   "TrusteeCard.settings": "Настройки",
   "TrusteeCard.balanceDetails.title": "Детали баланса",

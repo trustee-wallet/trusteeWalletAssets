@@ -1,5 +1,5 @@
 {
-  "version" : 382,
+  "version" : 383,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -346,6 +346,8 @@
   "TopUpMethods.subTitle.SWAP": "Швидкий обмін на потрібну валюту",
   "TopUpMethods.title.CRYPTO": "Поповнити на адресу",
   "TopUpMethods.subTitle.CRYPTO": "Поповнити гаманець з рахунку гаманців, бірж або інших джерел",
+  "TopUpMethods.title.BANK_TRANSFER": "Поповнити за допомогою IBAN",
+  "TopUpMethods.subTitle.BANK_TRANSFER": "Комісія {fee}",
   "ReceiveHistoryAddresses.title": "Список адрес",
   "ReceiveHistoryAddresses.addressNotActive": "Адреса більше не підтримується",
   "ReceiveHistoryAddresses.generateNew": "Згенерувати нову адресу",

@@ -1,5 +1,5 @@
 {
-    "version" : 382,
+    "version" : 383,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -346,6 +346,8 @@
     "TopUpMethods.subTitle.SWAP": "Quick exchange to desired currency",
     "TopUpMethods.title.CRYPTO": "Top up to address",
     "TopUpMethods.subTitle.CRYPTO": "Top up wallet from wallets, exchanges or others",
+    "TopUpMethods.title.BANK_TRANSFER": "Top up to IBAN",
+    "TopUpMethods.subTitle.BANK_TRANSFER": "Fee {fee}",
     "ReceiveHistoryAddresses.title": "Address list",
     "ReceiveHistoryAddresses.addressNotActive": "The address is no longer supported",
     "ReceiveHistoryAddresses.generateNew": "Generate new address",

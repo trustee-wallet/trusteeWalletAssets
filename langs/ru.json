@@ -1,5 +1,5 @@
 {
-  "version" : 384,
+  "version" : 385,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1316,8 +1316,8 @@
   "TrusteeCardStatus.title.SUCCESS_CREATE_CARD": "Поздравляем!",
   "TrusteeCardStatus.description.SUCCESS_CREATE_CARD": "Вы получили свою дозу крипто-магии! \nКриптокарта - это не миф, а реальность!",
   "TrusteeCardStatus.buttonText.SUCCESS_CREATE_CARD": "К криптокарте",
-  "TrusteeCardStatus.title.NOT_SUPPORTED_COUNTRY": "Временное ограничение",
-  "TrusteeCardStatus.description.NOT_SUPPORTED_COUNTRY": "Отсутствует возможность получить карточку не резиденту Европейской экономической зоны. Следите за нашими обновлениями",
+  "TrusteeCardStatus.title.NOT_SUPPORTED_COUNTRY": "Карта недоступна",
+  "TrusteeCardStatus.description.NOT_SUPPORTED_COUNTRY": "Криптокарту могут получить совершеннолетние резиденты Европы (ЕЭА) и граждане Украины, прошедшие верификацию по загранпаспорту или ID карточке. В случае вопросов обращайтесь в поддержку",
   "TrusteeCardStatus.title.KYC_WAIT_FOR_REVIEW": "Есть один нюанс..",
   "TrusteeCardStatus.description.KYC_WAIT_FOR_REVIEW": "Криптокарта уже близко! В настоящее время идет проверка Ваших документов. Пожалуйста, ожидайте пуш-уведомление о завершении процесса верификации",
   "TrusteeCardStatus.title.KYC_REJECTED": "Упс…",

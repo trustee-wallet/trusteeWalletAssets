@@ -1,5 +1,5 @@
 {
-  "version" : 384,
+  "version" : 385,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1316,8 +1316,8 @@
   "TrusteeCardStatus.title.SUCCESS_CREATE_CARD": "Вітаємо!",
   "TrusteeCardStatus.description.SUCCESS_CREATE_CARD": "Ви отримали свою дозу крипто-магії! \nКриптокартка - це не міф, а реальність!",
   "TrusteeCardStatus.buttonText.SUCCESS_CREATE_CARD": "До криптокартки",
-  "TrusteeCardStatus.title.NOT_SUPPORTED_COUNTRY": "Тимчасове обмеження",
-  "TrusteeCardStatus.description.NOT_SUPPORTED_COUNTRY": "Наразі відсутня можливість отримати картку не резиденту Європейської економічної зони. Слідкуйте за нашими оновленнями",
+  "TrusteeCardStatus.title.NOT_SUPPORTED_COUNTRY": "Картка не доступна",
+  "TrusteeCardStatus.description.NOT_SUPPORTED_COUNTRY": "Криптокартку можуть отримати повнолітні резиденти Європи (ЕЕА) та громадяни України, які пройшли верифікацію по закордонному паспорту або ID картці.В разі питань звертайтесь в підтримку",
   "TrusteeCardStatus.title.KYC_WAIT_FOR_REVIEW": "Є один нюанс..",
   "TrusteeCardStatus.description.KYC_WAIT_FOR_REVIEW": "Криптокартка вже за крок! Наразі триває перевірка Ваших документів. Будь ласка, очікуйте на пуш-сповішення про завершення процесу верифікації",
   "TrusteeCardStatus.title.KYC_REJECTED": "Упс…",

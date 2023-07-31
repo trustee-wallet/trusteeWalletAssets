@@ -1,5 +1,5 @@
 {
-  "version" : 385,
+  "version" : 386,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1513,7 +1513,7 @@
   "ReferralScreen.title": "Реф",
   "ReferralScreen.proLinkTitle": "PRO",
   "ReferralScreen.proLinkDescription": "Приглашай друзей и зарабатывай до 45% от комиссий за их обмены",
-  "ReferralScreen.linkDescription": "Пригласи {contactCount} контакта(-ов) по {bonusPerUser} за активацию",
+  "ReferralScreen.linkDescription": "Пригласи {contactCount} контакта(-ов) по {bonusPerUser} за активацию. Вы можете пригласить до 3 человек в день",
   "ReferralScreen.descriptionWithoutPermission": "Приглашай друзей по {bonusPerUser} за активацию",
   "ReferralScreen.totalReceived": "Всего получено",
   "ReferralScreen.available": "Доступно",

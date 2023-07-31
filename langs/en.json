@@ -1,5 +1,5 @@
 {
-    "version" : 385,
+    "version" : 386,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1513,7 +1513,7 @@
     "ReferralScreen.title": "Reflink",
     "ReferralScreen.proLinkTitle": "PRO",
     "ReferralScreen.proLinkDescription": "Invite friends and earn up to 45% commissions for their exchanges",
-    "ReferralScreen.linkDescription": "Invite {contactCount} contact(s) for {bonusPerUser} per activation",
+    "ReferralScreen.linkDescription": "Invite {contactCount} contact(s) for {bonusPerUser} per activation. You can invite up to 3 people per day",
     "ReferralScreen.descriptionWithoutPermission": "Invite friends for {bonusPerUser} per activation",
     "ReferralScreen.totalReceived": "Total received",
     "ReferralScreen.available": "Available",

@@ -1,5 +1,5 @@
 {
-  "version" : 386,
+  "version" : 387,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1314,7 +1314,7 @@
   "TrusteeCardStatus.description.USER_NEED_KYC": "Акаунт не готовий до видачі карти. Необхідно пройти верифікацію",
   "TrusteeCardStatus.buttonText.USER_NEED_KYC": "Пройти верифікацію",
   "TrusteeCardStatus.title.SUCCESS_CREATE_CARD": "Вітаємо!",
-  "TrusteeCardStatus.description.SUCCESS_CREATE_CARD": "Ви отримали свою дозу крипто-магії! \nКриптокартка - це не міф, а реальність!",
+  "TrusteeCardStatus.description.SUCCESS_CREATE_CARD": "Ви отримали свою дозу криптомагії! \nКриптокартка - це не міф, а реальність!",
   "TrusteeCardStatus.buttonText.SUCCESS_CREATE_CARD": "До криптокартки",
   "TrusteeCardStatus.title.NOT_SUPPORTED_COUNTRY": "Картка не доступна",
   "TrusteeCardStatus.description.NOT_SUPPORTED_COUNTRY": "Криптокартку можуть отримати повнолітні резиденти Європи (ЕЕА) та громадяни України, які пройшли верифікацію по закордонному паспорту або ID картці. В разі питань звертайтесь в підтримку",

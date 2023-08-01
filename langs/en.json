@@ -1,5 +1,5 @@
 {
-    "version" : 386,
+    "version" : 387,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1314,7 +1314,7 @@
     "TrusteeCardStatus.description.USER_NEED_KYC": "The account is not ready to issue a card. Verification is required",
     "TrusteeCardStatus.buttonText.USER_NEED_KYC": "Go to verification",
     "TrusteeCardStatus.title.SUCCESS_CREATE_CARD": "Congratulations!",
-    "TrusteeCardStatus.description.SUCCESS_CREATE_CARD": "You've got your dose of crypto-magic! \nCryptocard is not a myth, it's a reality!",
+    "TrusteeCardStatus.description.SUCCESS_CREATE_CARD": "You've got your dose of cryptomagic! \nCryptocard is not a myth, it's a reality!",
     "TrusteeCardStatus.buttonText.SUCCESS_CREATE_CARD": "Go to cryptocard",
     "TrusteeCardStatus.title.NOT_SUPPORTED_COUNTRY": "Card is unavailable",
     "TrusteeCardStatus.description.NOT_SUPPORTED_COUNTRY": "The crypto card is available to adult residents of Europe (EEA) and citizens of Ukraine who have completed verification with a passport or ID card. If you have any questions, please contact support",

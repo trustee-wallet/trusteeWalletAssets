@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "cardSkins": {
         "INCRYPTED": {
             "main": {
@@ -83,6 +83,20 @@
         "MURZIK": {
             "main": {
                 "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/murzikMain.png"
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": false,
+            "hiddenLogoMasterCard": true
+        },
+        "MINION": {
+            "main": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/minionMain.png",
+                "imageProps": {
+                    "resizeMode": "contain",
+                    "style": {
+                        "marginLeft": "25%"
+                    }
+                }
             },
             "trusteeLogoIsDark": false,
             "textColor": false,

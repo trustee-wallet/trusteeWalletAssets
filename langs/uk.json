@@ -1,5 +1,5 @@
 {
-  "version" : 389,
+  "version" : 390,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1541,7 +1541,7 @@
   "ReferralScreen.aboutTitle.pro": "Про реферальну систему",
   "ReferralScreen.aboutLink": "https://trusteeglobal.com/crypto-program-trustee-plus/",
   "ReferralScreen.aboutLink.pro": "https://trusteeglobal.com/peferalna-programa-trustee-plus/",
-  "ReferralScreen.totalCompleted": "Всього виконали умови",
+  "ReferralScreen.totalCompleted": "Всього, що приносять дохід",
   "ReferralScreen.contactsDescriptionWithoutPerms": "",
   "ReferralScreen.contacts.description": "Контакти без облікового запису в Trustee Plus",
   "ReferralScreen.removeLink": "Видалити посилання",

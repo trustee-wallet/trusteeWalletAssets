@@ -1,5 +1,5 @@
 {
-    "version" : 389,
+    "version" : 390,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1542,7 +1542,7 @@
     "ReferralScreen.aboutTitle.pro": "About ref",
     "ReferralScreen.aboutLink": "https://trusteeglobal.eu/bonus-crypto-program-from-trustee-plus/",
     "ReferralScreen.aboutLink.pro": "https://trusteeglobal.com/peferalna-programa-trustee-plus/",
-    "ReferralScreen.totalCompleted": "Total fulfilled the conditions",
+    "ReferralScreen.totalCompleted": "Total that generate income",
     "ReferralScreen.contactsDescriptionWithoutPerms": "",
     "ReferralScreen.contacts.description": "Contacts without a Trustee Plus account",
     "ReferralScreen.removeLink": "Remove link",

@@ -1,5 +1,5 @@
 {
-  "version" : 389,
+  "version" : 390,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1542,7 +1542,7 @@
   "ReferralScreen.aboutTitle.pro": "О реферальной системе",
   "ReferralScreen.aboutLink": "https://trusteeglobal.com/ru/bonusnaya-kripto-programma-ot-trustee-plus/",
   "ReferralScreen.aboutLink.pro": "https://trusteeglobal.com/ru/referalnaya-programma-trustee-plus/",
-  "ReferralScreen.totalCompleted": "Всего выполнили условия",
+  "ReferralScreen.totalCompleted": "Всего, что приносят доход",
   "ReferralScreen.contactsDescriptionWithoutPerms": "",
   "ReferralScreen.contacts.description": "Контакты без учетной записи в Trustee Plus",
   "ReferralScreen.removeLink": "Удалить ссылку",

@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "countriesList": [
         {
             "country": "Ukraine",
@@ -58,9 +58,7 @@
             "countryCode": "RUS",
             "flag": "flag-ru",
             "iso2": "RU",
-            "callingCode": [
-                "7"
-            ],
+            "callingCode": [],
             "countryName": {
                 "uk": "росія",
                 "ru": "россия",

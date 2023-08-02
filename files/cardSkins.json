@@ -15,7 +15,8 @@
                 }
             },
             "trusteeLogoIsDark": false,
-            "textColor": false
+            "textColor": false,
+            "plVisualId": 4
         },
         "CRYPTO_ALCOHOLIC": {
             "main": {
@@ -23,7 +24,8 @@
                 "imageProps": {}
             },
             "trusteeLogoIsDark": false,
-            "textColor": null
+            "textColor": null,
+            "plVisualId": 3
         },
         "VIP": {
             "main": {
@@ -37,7 +39,8 @@
                 "backgroundColor": "#FFEAB6"
             },
             "trusteeLogoIsDark": false,
-            "textColor": null
+            "textColor": null,
+            "plVisualId": 2
         },
         "WHITE": {
             "main": {

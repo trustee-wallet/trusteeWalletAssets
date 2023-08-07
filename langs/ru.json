@@ -1,5 +1,5 @@
 {
-  "version" : 394,
+  "version" : 395,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1339,7 +1339,7 @@
   "TrusteeCardSettings.walletPay.ios.step0.openWalletBtn": "Открыть Wallet",
   "TrusteeCardSettings.walletPay.android.step0.description": "К сожалению, мы пока не можем добавить Вашу криптокарту автоматически в Google Pay. Но это все же можно сделать, правда вручную. Чтобы у Вас получилось быстро разобраться, далее покажем последовательность действий" ,
   "TrusteeCardSettings.walletPay.android.step0.openWalletBtn": "Открыть Google Pay",
-  "TrusteeCardSettings.walletPay.title.ios": "Добавить к Applet Pay",
+  "TrusteeCardSettings.walletPay.title.ios": "Добавить к Apple Pay",
   "TrusteeCardSettings.walletPay.title.android": "Добавить к Google Pay",
   "TrusteeCardSettings.walletPay.description.ios": "Добавление карты в Apple Pay возможно только в ручном режиме. Инструкция в уведомлениях приложения",
   "TrusteeCardSettings.walletPay.description.android": "Добавление карты в Google Pay возможно только в ручном режиме. Инструкция в уведомлениях приложения",

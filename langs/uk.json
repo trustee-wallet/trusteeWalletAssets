@@ -1,5 +1,5 @@
 {
-  "version" : 397,
+  "version" : 398,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1275,6 +1275,11 @@
   "NavigationTabs.referral": "Реф",
   "NewsScreen.title": "Новини",
   "NewsScreen.emptyNews": "Наразі новин немає",
+  "NewsScreen.enjoyApp.title": "Сподобався застосунок?",
+  "NewsScreen.enjoyApp.description.ios": "Оцініть наші старання в AppStore",
+  "NewsScreen.enjoyApp.description.android": "Оцініть наші старання в PlayMarket",
+  "NewsScreen.enjoyApp.yes": "Оцінити зараз",
+  "NewsScreen.enjoyApp.no": "Потім",
   "TrusteeCard.trusteeCard": "Криптокартка",
   "TrusteeCard.trusteeCardDescription": "Отримай свою криптокартку від Trustee та плати криптою всюди.\n\nПриєднуйся до закритої групи та протестуй нові можливості першим.\nРазом у майбутнє!",
   "TrusteeCard.order": "Приєднатись",
@@ -1546,6 +1551,13 @@
   "ReferralScreen.contacts.description": "Контакти без облікового запису в Trustee Plus",
   "ReferralScreen.removeLink": "Видалити посилання",
   "ReferralScreen.removeErrorTitle": "Вибачте",
-  "ReferralScreen.removeErrorDescription": "У Вас повинно залишитись хоча б одне реферальне посилання."
-
+  "ReferralScreen.removeErrorDescription": "У Вас повинно залишитись хоча б одне реферальне посилання.",
+  "SupportScreen.title": "Служба підтримки",
+  "SupportScreen.ONLINE_SUPPORT": "Онлайн підтримка",
+  "SupportScreen.EMAIL": "E-mail",
+  "SupportScreen.TELEGRAM": "Telegram",
+  "SupportScreen.emailSubjectRegisteredUser": "From Trustee Plus app, user ID: {userToken}",
+  "SupportScreen.emailSubjectNotRegisteredUser": "From Trustee Plus app, not registered",
+  "SupportScreen.emailBodyTemplate": "Привіт, трапилась помилка, потрібна допомога",
+  "SupportScreen.emptyComponent": "Служба підтримки недоступна, спробуйте пізніше"
 }

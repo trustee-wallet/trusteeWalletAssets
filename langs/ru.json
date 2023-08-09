@@ -1,5 +1,5 @@
 {
-  "version" : 397,
+  "version" : 398,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1275,6 +1275,11 @@
   "NavigationTabs.card": "Карта",
   "NewsScreen.title": "Новости",
   "NewsScreen.emptyNews": "В настоящее время нет новостей",
+  "NewsScreen.enjoyApp.title": "Понравилось приложение?",
+  "NewsScreen.enjoyApp.description.ios": "Оцените наши старания в AppStore",
+  "NewsScreen.enjoyApp.description.android": "Оцените наши старания в PlayMarket",
+  "NewsScreen.enjoyApp.yes": "Оценить сейчас",
+  "NewsScreen.enjoyApp.no": "Потом",
   "TrusteeCard.trusteeCard": "Криптокарта",
   "TrusteeCard.trusteeCardDescription": "Получи свою криптокарту от Trustee и плати криптой где угодно.\n\nПрисоединяйся к закрытой группе и протестируй новые возможности первым.\nВместе в будущее!",
   "TrusteeCard.order": "Присоединиться",
@@ -1547,5 +1552,13 @@
   "ReferralScreen.contacts.description": "Контакты без учетной записи в Trustee Plus",
   "ReferralScreen.removeLink": "Удалить ссылку",
   "ReferralScreen.removeErrorTitle": "Извините",
-  "ReferralScreen.removeErrorDescription": "У Вас должна остаться хотя бы одна реферальная ссылка."
+  "ReferralScreen.removeErrorDescription": "У Вас должна остаться хотя бы одна реферальная ссылка.",
+  "SupportScreen.title": "Служба поддержки",
+  "SupportScreen.ONLINE_SUPPORT": "Онлайн поддержка",
+  "SupportScreen.EMAIL": "E-mail",
+  "SupportScreen.TELEGRAM": "Telegram",
+  "SupportScreen.emailSubjectRegisteredUser": "From Trustee Plus app, user ID: {userToken}",
+  "SupportScreen.emailSubjectNotRegisteredUser": "From Trustee Plus app, not registered",
+  "SupportScreen.emailBodyTemplate": "Привет, случилась ошибка, нужна помощь",
+  "SupportScreen.emptyComponent": "Служба поддержки недоступна, попробуйте позже"
 }

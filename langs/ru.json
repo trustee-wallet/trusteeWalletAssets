@@ -1,5 +1,5 @@
 {
-  "version" : 398,
+  "version" : 399,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -859,6 +859,7 @@
   "Profile.shareUserToken": "Привет, вот мой анонимный ID {userToken}, \nДля бесплатных переводов пользуюсь Trustee Plus. Загрузите и убедитесь сами\nhttps://trusteeplus.app.link/t-share",
   "Profile.openEmailModalDescription": "Теперь перейдите в свою почту, найдите письмо от Trustee и следуйте инструкциям в письме.",
   "Profile.openEmail": "Открыть электронную почту",
+  "Profile.verification.notInternetConnection": "Пожалуйста, проверьте интернет соединение",
   "UserProfileEmailChanges.emailInputDescription": "Введите Вашу основную электронную почту и нажмите «Подтвердить»",
   "UserProfileEmailChanges.resendDescription": "Теперь перейдите в свою почту, найдите письмо от Trustee и следуйте инструкциям в письме. Если Вы не получили письмо - нажмите «Получить» в Вашей почте, обновите страницу и проверьте все входящие папки, включая папку «Спам». Если письмо все еще не пришло - отправьте его повторно.",
   "UserProfileEmailChanges.change": "Изменить",

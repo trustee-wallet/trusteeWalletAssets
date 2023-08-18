@@ -1,5 +1,5 @@
 {
-    "version" : 400,
+    "version" : 401,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -561,8 +561,8 @@
     "Payway.duration.KZT.withdraw.crypto": "🕑 up to 30 min",
     "Payway.duration.ARB.withdraw.crypto": "🕑 up to 30 min",
     "Payway.duration.UAH.withdraw.card": "🕑 up to 1 hour",
-    "Payway.duration.UAH.withdraw.card.day": "🕑 up to 1 hour",
-    "Payway.duration.UAH.withdraw.card.night": "🕑 ~1-6 hours",
+    "Payway.duration.UAH.withdraw.card.day": "🕑 ~3-6 hours",
+    "Payway.duration.UAH.withdraw.card.night": "🕑 ~3-6 hours",
     "Payway.duration.EUR.withdraw.bank_transfer": "🕑 up to 3 days",
     "Payway.duration.internal_transfer": "⚡️ instant",
     "WithdrawAssetSelector.title": "Select asset",

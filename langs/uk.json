@@ -1559,7 +1559,7 @@
   "SupportScreen.ONLINE_SUPPORT": "Онлайн підтримка",
   "SupportScreen.EMAIL": "E-mail",
   "SupportScreen.TELEGRAM": "Telegram",
-  "SupportScreen.emailSubjectRegisteredUser": "From Trustee Plus app, user ID: {userToken}",
+  "SupportScreen.emailSubjectRegisteredUser": "From Trustee Plus app, user ID: {{userToken}}",
   "SupportScreen.emailSubjectNotRegisteredUser": "From Trustee Plus app, not registered",
   "SupportScreen.emailBodyTemplate": "Привіт, трапилась помилка, потрібна допомога",
   "SupportScreen.emptyComponent": "Служба підтримки недоступна, спробуйте пізніше"

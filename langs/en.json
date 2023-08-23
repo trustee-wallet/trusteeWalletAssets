@@ -1,5 +1,5 @@
 {
-    "version" : 401,
+    "version" : 402,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1397,6 +1397,7 @@
     "Verification.title": "Verification",
     "Verification.country.notAllowed": "Sorry, cryptocurrency services like buying, selling and exchange are not available for your country. You may still continue to use the app, but for informational purposes only.",
     "Verification.country.notAllowed.login": "Sorry, cryptocurrency services like buying, selling and exchange are not available for your country. You may still continue to use the app, but for informational purposes only.",
+    "Verification.country.notAllowed.phoneNumber": "Sorry, but we cannot serve citizens of your country",
     "Verification.country.russia": "Russia is an aggressor country that does not have the right to maintain and use various progressive services and tools",
     "Verification.country.searchDescription": "Choose the country of citizenship or permanent residence",
     "Verification.country.goNext.login": "Next",

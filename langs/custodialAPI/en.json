@@ -13,6 +13,7 @@
   "Push.swap.canceledMessage": "Unfortunately, we were unable to swap {{fromCurrencySymbol}} -> {{toCurrencySymbol}}. The funds were returned to the balance.",
   "Push.withdraw.newUserSuccess": "User {{receiver}} received your transfer of {{amount}} {{currencySymbol}} and joined the Trustee Plus family!",
   "Push.withdraw.availableRefund": "User {{receiver}} did not receive your transfer {{amount}} {{currencySymbol}} for the allotted period. You can return these funds to your balance if you wish.",
+  "Push.withdraw.returnTransferBack": "User {{receiver}} returned your {{amount}} {{currencySymbol}} transfer back.",
   "Push.depositAndWithdraw.errorMessage": "Unfortunately, an unpredictable error occurred during the operation. Please contact support for additional details.",
   "Push.card.title": "Card",
   "Push.card.successTitle": "💳 {{amount}} {{currencyCode}}",

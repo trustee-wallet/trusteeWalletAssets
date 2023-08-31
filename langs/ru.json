@@ -1379,6 +1379,7 @@
   "TrusteeCardSettings.closeCard": "Закрыть карту",
   "TrusteeCardSettings.commissionsLink": "https://trusteeglobal.com/ru/cryptocard/#terms",
   "TrusteeCardSettings.commissions": "Комиссии",
+  "TrusteeCardSettings.downloadHistory": "Загрузить историю транзакций",
   "TrusteeCard.send": "Перевод",
   "TrusteeCard.settings": "Настройки",
   "TrusteeCard.balanceDetails.title": "Детали баланса",

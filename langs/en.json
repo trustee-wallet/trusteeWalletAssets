@@ -1379,6 +1379,7 @@
     "TrusteeCardSettings.closeCard": "Close card",
     "TrusteeCardSettings.commissionsLink": "https://trusteeglobal.eu/crypto-card/#terms",
     "TrusteeCardSettings.commissions": "Fees",
+    "TrusteeCardSettings.downloadHistory": "Download transactions history",
     "TrusteeCard.send": "Transfer",
     "TrusteeCard.settings": "Settings",
     "TrusteeCard.balanceDetails.title": "Balance details",

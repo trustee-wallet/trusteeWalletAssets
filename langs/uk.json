@@ -1,5 +1,5 @@
 {
-  "version" : 403,
+  "version" : 404,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1382,6 +1382,11 @@
   "TrusteeCardSettings.downloadHistory": "Завантажити історію транзакцій",
   "TrusteeCard.send": "Переказ",
   "TrusteeCard.settings": "Налаштування",
+  "TrusteeCard.termsAgree": "Використовуючи платіжну картку, Ви погоджуєтесь з <Link1>Правилами та Умовами надання послуг Quicko</Link1> та <Link2>Політикою конфіденційності Quicko</Link2>",
+  "TrusteeCard.termsTitle": "Умови використання Quicko",
+  "TrusteeCard.privacyTitle": "Політика конфеденційності Quicko",
+  "TrusteeCard.termsLink": "https://sportigio.s3.eu-west-2.amazonaws.com/spaces/114/uploads/5rhR1wMFBlgyHTRtNfLIHlZlPNs7eJ4zkJBGa3z4.pdf",
+  "TrusteeCard.privacyLink": "https://sportigio.s3.eu-west-2.amazonaws.com/spaces/114/uploads/YXgu1bt05R0jVm8YOdSaFfGoWIsgAU2qqkJh4BBR.pdf",
   "TrusteeCard.balanceDetails.title": "Деталі балансу",
   "TrusteeCard.balanceDetails.selectedCrypto.description": "У разі нестачі євро, криптовалюта буде використовуватись автоматично",
   "TrusteeCard.balanceDetails.selectedCrypto.description.BTC": "У разі нестачі євро, біткоїни будуть використовуватись автоматично",

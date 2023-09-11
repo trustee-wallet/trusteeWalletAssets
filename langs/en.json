@@ -1,5 +1,5 @@
 {
-    "version" : 402,
+    "version" : 404,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1382,6 +1382,11 @@
     "TrusteeCardSettings.downloadHistory": "Download transactions history",
     "TrusteeCard.send": "Transfer",
     "TrusteeCard.settings": "Settings",
+    "TrusteeCard.termsAgree": "By using the payment card, you agree to the <Link1>Quicko Terms and Conditions of Service</Link1> and <Link2>Quicko Privacy Policy</Link2>",
+    "TrusteeCard.termsTitle": "Quicko Terms of Use",
+    "TrusteeCard.privacyTitle": "Quicko Privacy Policy",
+    "TrusteeCard.termsLink": "https://sportigio.s3.eu-west-2.amazonaws.com/spaces/114/uploads/5rhR1wMFBlgyHTRtNfLIHlZlPNs7eJ4zkJBGa3z4.pdf",
+    "TrusteeCard.privacyLink": "https://sportigio.s3.eu-west-2.amazonaws.com/spaces/114/uploads/YXgu1bt05R0jVm8YOdSaFfGoWIsgAU2qqkJh4BBR.pdf",
     "TrusteeCard.balanceDetails.title": "Balance details",
     "TrusteeCard.balanceDetails.selectedCrypto.description": "In case of a shortage of euros, cryptocurrency will be automatically withdrawn",
     "TrusteeCard.balanceDetails.selectedCrypto.description.BTC": "In case of a shortage of euros, Bitcoin will be automatically withdrawn",

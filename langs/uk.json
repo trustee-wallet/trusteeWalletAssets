@@ -1,5 +1,5 @@
 {
-  "version" : 404,
+  "version" : 405,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1294,7 +1294,7 @@
   "TrusteeCard.next": "Далі",
   "TrusteeCard.cardCopied": "Номер картки скопійовано",
   "TrusteeCardOnboarding.title": "Trustee картка",
-  "TrusteeCardOnboarding.description": "Крокуй у безпечне майбутнє з Trustee Plus. Розраховуйся за повсякденні потреби криптою прямо з карти",
+  "TrusteeCardOnboarding.description": "Відкривай можливості фінансів майбутнього. Магія на відстані дотику - розраховуйся криптою за щоденні потреби вже сьогодні.\nКартковий сервіс надається Компанією Quicko sp. z o.o. ",
   "TrusteeCardOnboarding.order": "Отримати",
   "TrusteeCardPaymentScreen.confirmPayment": "Підтвердіть оплату",
   "TrusteeCardPaymentScreen.cardPayment": "Оплата картки",

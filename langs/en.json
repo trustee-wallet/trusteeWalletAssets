@@ -1,5 +1,5 @@
 {
-    "version" : 406,
+    "version" : 407,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -734,6 +734,7 @@
     "SettingsPin.Pin": "PIN code",
     "SettingsPin.goToSettings": "Go to settings",
     "SettingsPin.disabledDescription": "Pin code is not set. Please set a PIN code to allow settings",
+    "SettingsPin.removeDisabled": "For your security, remove PIN code is disabled in Trustee Plus",
     "SecurityPin.pinCategory": "PIN code",
     "SecurityPin.contactsCategory": "Settings privacy",
     "SettingsPin.enable": "Enabled",

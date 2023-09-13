@@ -1,5 +1,5 @@
 {
-  "version" : 406,
+  "version" : 407,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -734,6 +734,7 @@
   "SettingsPin.Pin": "PIN-код",
   "SettingsPin.goToSettings": "Перейти",
   "SettingsPin.disabledDescription": "PIN-код не встановлений. Будь ласка, встановить PIN-код для активації функції",
+  "SettingsPin.removeDisabled": "Для Вашої безпеки, функція видалення PIN-коду забороненна в Trustee Plus",
   "SecurityPin.pinCategory": "PIN-код",
   "SecurityPin.contactsCategory": "Налаштування приватності",
   "SettingsPin.enable": "Встановлено",

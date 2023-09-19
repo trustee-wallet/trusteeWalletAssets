@@ -1,5 +1,5 @@
 {
-  "version" : 407,
+  "version" : 408,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -337,7 +337,7 @@
   "TopUpDetails.share": "Поділитись",
   "TopUpDetails.share.INTERNAL_TRANSFER": "Anonymous ID {userToken}",
   "TopUpDetails.description.BANK_TRANSFER": "Для поповнення по IBAN слід звернутися в службу підтримки для отримання детальних інструкцій та реквізитів оплати",
-  "TopUpDetails.support": "В сапорт",
+  "TopUpDetails.support": "До підтримки",
   "TopUp.unsupportedCountry": "{countryCode} не підтримується для даного напрямку",
   "TopUpMethods.title.INTERNAL_TRANSFER": "Поповнення від користувача Trustee Plus",
   "TopUpMethods.subTitle.INTERNAL_TRANSFER": "Комісія 0%",

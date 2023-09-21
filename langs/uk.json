@@ -1,5 +1,5 @@
 {
-  "version" : 408,
+  "version" : 409,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1295,7 +1295,7 @@
   "TrusteeCard.next": "Далі",
   "TrusteeCard.cardCopied": "Номер картки скопійовано",
   "TrusteeCardOnboarding.title": "Trustee картка",
-  "TrusteeCardOnboarding.description": "Відкривай можливості фінансів майбутнього. Магія на відстані дотику - розраховуйся криптою за щоденні потреби вже сьогодні.\nКартковий сервіс надається Компанією Quicko sp. z o.o. ",
+  "TrusteeCardOnboarding.description": "Відкривайте можливості фінансів майбутнього. Магія на відстані дотику - розраховуйтесь криптою за щоденні потреби вже сьогодні.\nКартковий сервіс надається Компанією Quicko sp. z o.o. ",
   "TrusteeCardOnboarding.order": "Отримати",
   "TrusteeCardPaymentScreen.confirmPayment": "Підтвердіть оплату",
   "TrusteeCardPaymentScreen.cardPayment": "Оплата картки",
@@ -1570,4 +1570,4 @@
   "SupportScreen.emailSubjectNotRegisteredUser": "From Trustee Plus app, not registered",
   "SupportScreen.emailBodyTemplate": "Привіт, трапилась помилка, потрібна допомога",
   "SupportScreen.emptyComponent": "Служба підтримки недоступна, спробуйте пізніше"
-}
+  }

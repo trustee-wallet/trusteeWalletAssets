@@ -1,5 +1,5 @@
 {
-    "version" : 409,
+    "version" : 410,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1283,6 +1283,9 @@
     "NewsScreen.enjoyApp.description.android": "Please, don't forget to rate Trustee Plus on Play Market",
     "NewsScreen.enjoyApp.yes": "Rate now",
     "NewsScreen.enjoyApp.no": "Later",
+    "NewsScreen.readAllNews": "Read all",
+    "NewsScreen.readAllNewsSuccess": "All news have been read",
+    "NewsScreen.readAllNewsError": "Something went wrong. Please, try again later",
     "TrusteeCard.trusteeCard": "Cryptocard",
     "TrusteeCard.trusteeCardDescription": "Get your crypto card from Trustee and pay with crypto anywhere.\n\nJoin the closed group and test the new features first.\nTogether to the future!",
     "TrusteeCard.order": "Join",

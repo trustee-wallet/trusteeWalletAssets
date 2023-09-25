@@ -1,5 +1,5 @@
 {
-  "version" : 409,
+  "version" : 410,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1283,6 +1283,9 @@
   "NewsScreen.enjoyApp.description.android": "Пожалуйста, не забудьте оценить Trustee Plus в Play Market",
   "NewsScreen.enjoyApp.yes": "Оценить сейчас",
   "NewsScreen.enjoyApp.no": "Позже",
+  "NewsScreen.readAllNews": "Прочитать все",
+  "NewsScreen.readAllNewsSuccess": "Все новости прочитаны",
+  "NewsScreen.readAllNewsError": "Что-то пошло не так. Попробуйте, пожалуйста, позже",
   "TrusteeCard.trusteeCard": "Криптокарта",
   "TrusteeCard.trusteeCardDescription": "Получи свою криптокарту от Trustee и плати криптой где угодно.\n\nПрисоединяйся к закрытой группе и протестируй новые возможности первым.\nВместе в будущее!",
   "TrusteeCard.order": "Присоединиться",

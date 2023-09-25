@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 4,
     "cardSkins": {
         "INCRYPTED": {
             "main": {
@@ -110,6 +110,18 @@
                 "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/lebigovichMain.png",
                 "imageProps": {
                     "resizeMode": "cover"
+                }
+            },
+            "trusteeLogoIsDark": false,
+            "textColor": false,
+            "hiddenLogoMasterCard": true
+        },
+        "YOUNG_CLUB": {
+            "main": {
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/youngClubMain.png",
+                "backgroundColor": "#151515",
+                "imageProps": {
+                    "resizeMode": "contain"
                 }
             },
             "trusteeLogoIsDark": false,

@@ -21,6 +21,8 @@
   "Push.card.reversedTitle": "💳 Повернення {{amount}} {{currencyCode}}",
   "Push.card.successMessage": "{{txDescription}}",
   "Push.card.successMessageV2": "Витрачено в {{txDescription}}",
+  "Push.card.creditTitle": "💳 Зарахування {{amount}} {{currencyCode}}",
+  "Push.card.creditMessage": "Отримано від {{txDescription}}",
   "Push.card.applePayGuide.title": "Як додати картку в Apple Pay",
   "Push.card.googlePayGuide.title": "Як додати картку в Google Pay",
   "Push.card.applePayGooglePayGuide.description": "Покроковий гайд",

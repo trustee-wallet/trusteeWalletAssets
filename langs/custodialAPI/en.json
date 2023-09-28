@@ -21,6 +21,8 @@
   "Push.card.reversedTitle": "💳 Refunding {{amount}} {{currencyCode}}",
   "Push.card.successMessage": "{{txDescription}}",
   "Push.card.successMessageV2": "Spent at {{txDescription}}",
+  "Push.card.creditTitle": "💳 Top up {{amount}} {{currencyCode}}",
+  "Push.card.creditMessage": "Received from {{txDescription}}",
   "Push.card.applePayGuide.title": "How to Add a Card to Apple Pay",
   "Push.card.googlePayGuide.title": "How to Add a Card to Google Pay",
   "Push.card.applePayGooglePayGuide.description": "Step-by-step guide",

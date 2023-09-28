@@ -1,5 +1,5 @@
 {
-  "version" : 411,
+  "version" : 412,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1524,7 +1524,7 @@
   "TrusteeCard.otp.applePayAndGooglePay": "Використайте код {{otp}}, щоб додати картку до платіжного сервісу.",
   "TrusteeCard.otp.3ds": "Використайте код {{otp}} для підтвердження списання {{amount}} {{currencyCode}}",
   "TrusteeCard.deleteCard.modal.title": "Закриття картки",
-  "TrusteeCard.deleteCard.modal.description": "Ви дійсно бажаєте закрити картку?",
+  "TrusteeCard.deleteCard.modal.description": "Ви дійсно бажаєте закрити картку? Зверніть увагу, що випуск нової картки платний.",
   "TrusteeCard.deleteCard.modal.ok": "Закрити картку",
   "TrusteeCard.deleteCard.modal.cancel": "Відміна",
   "TrusteeCard.title": "Картка",

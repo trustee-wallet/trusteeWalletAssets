@@ -1,5 +1,5 @@
 {
-  "version" : 412,
+  "version" : 413,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1409,7 +1409,7 @@
   "Verification.country.notAllowed.login": "На жаль, послуги криптовалюти, такі як купівля, продаж і обмін, недоступні для вашої країни. Ви можете продовжувати використовувати додаток, але лише в інформаційних цілях.",
   "Verification.country.notAllowed.phoneNumber": "Вибачте, але ми не можемо обслуговувати громадян Вашої країни",
   "Verification.country.russia": "росія - країна агресор, яка не має права на обслуговування і використання різних прогресивних сервісів та інструментів",
-  "Verification.country.searchDescription": "Оберіть країну громадянства або постійного проживання",
+  "Verification.country.searchDescription": "Країна постійного проживання",
   "Verification.country.goNext.login": "Продовжити",
   "Verification.methods.DIIA": "Пройти самостійно",
   "Verification.methods.TRUSTEE_VERIFICATION": "Пройти самостійно",

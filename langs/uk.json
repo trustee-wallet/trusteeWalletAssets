@@ -1,5 +1,5 @@
 {
-  "version" : 416,
+  "version" : 417,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -342,7 +342,7 @@
   "TopUpDetails.bankTransferBankName": "Name",
   "TopUpDetails.bankTransferIban": "IBAN Number",
   "TopUpDetails.bankTransferBic": "BIC Number (SWIFT)",
-  "TopUpDetails.instruction.BANK_TRANSFER": "Щоб поповнити баланс євро за IBAN або SWIFT перекажіть кошти за цими реквізитами.\n\nУ комантарі до платежу вкажіть Ваш анонімний айді Trustee Plus, так ми Вас ідентифікуємо.\n\nЗарахування коштів відбувається протягом 3х робочих днів.",
+  "TopUpDetails.bankTransferDescription": "Коментар",
   "TopUp.unsupportedCountry": "{countryCode} не підтримується для даного напрямку",
   "TopUpMethods.title.INTERNAL_TRANSFER": "Поповнення від користувача Trustee Plus",
   "TopUpMethods.subTitle.INTERNAL_TRANSFER": "Комісія 0%",
@@ -354,6 +354,7 @@
   "TopUpMethods.subTitle.CRYPTO": "Поповнити гаманець з рахунку гаманців, бірж або інших джерел",
   "TopUpMethods.title.BANK_TRANSFER": "Поповнити за допомогою IBAN",
   "TopUpMethods.subTitle.BANK_TRANSFER": "Комісія {fee}",
+  "TopUpMethods.instruction.BANK_TRANSFER": "Щоб поповнити баланс євро за IBAN або SWIFT перекажіть кошти за цими реквізитами.\n\nУ комантарі до платежу вкажіть Ваш анонімний айді Trustee Plus, так ми Вас ідентифікуємо.\n\nЗарахування коштів відбувається протягом 3х робочих днів.",
   "ReceiveHistoryAddresses.title": "Список адрес",
   "ReceiveHistoryAddresses.addressNotActive": "Адреса більше не підтримується",
   "ReceiveHistoryAddresses.generateNew": "Згенерувати нову адресу",

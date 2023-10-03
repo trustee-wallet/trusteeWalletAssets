@@ -1,5 +1,5 @@
 {
-    "version" : 416,
+    "version" : 417,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -342,7 +342,7 @@
     "TopUpDetails.bankTransferBankName": "Name",
     "TopUpDetails.bankTransferIban": "IBAN Number",
     "TopUpDetails.bankTransferBic": "BIC Number (SWIFT)",
-    "TopUpDetails.instruction.BANK_TRANSFER": "To deposit EUR by IBAN or SWIFT, transfer funds using these details.\n\nIn the comment before payment, write your anonymous Trustee Plus ID, this is how we can identify you.\n\nFunds are credited within 3 working days.",
+    "TopUpDetails.bankTransferDescription": "Comment",
     "TopUp.unsupportedCountry": "{countryCode} not supported for this way",
     "TopUpMethods.title.INTERNAL_TRANSFER": "Top up by user of Trustee Plus",
     "TopUpMethods.subTitle.INTERNAL_TRANSFER": "Fee 0%",
@@ -354,6 +354,7 @@
     "TopUpMethods.subTitle.CRYPTO": "Top up wallet from wallets, exchanges or others",
     "TopUpMethods.title.BANK_TRANSFER": "Top up to IBAN",
     "TopUpMethods.subTitle.BANK_TRANSFER": "Fee {fee}",
+    "TopUpMethods.instruction.BANK_TRANSFER": "To deposit EUR by IBAN or SWIFT, transfer funds using these details.\n\nIn the comment before payment, write your anonymous Trustee Plus ID, this is how we can identify you.\n\nFunds are credited within 3 working days.",
     "ReceiveHistoryAddresses.title": "Address list",
     "ReceiveHistoryAddresses.addressNotActive": "The address is no longer supported",
     "ReceiveHistoryAddresses.generateNew": "Generate new address",

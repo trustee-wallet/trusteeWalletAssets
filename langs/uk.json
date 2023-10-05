@@ -1541,6 +1541,7 @@
   "TrusteeCard.deleteCard.modal.cancel": "Відміна",
   "TrusteeCard.title": "Картка",
   "TrusteeCard.limitsExceeded.description": "Платіж {{amount}} {{currencyCode}} було відхилено через перевищення ліміту по картці.",
+  "TrusteeCard.insufficientBalance.description": "Недостатньо коштів, щоб обробити платіж {{amount}} {{currencyCode}}.",
   "ReferralScreen.title": "Реф",
   "ReferralScreen.proLinkTitle": "PRO",
   "ReferralScreen.proLinkDescription": "Запрошуй друзів та заробляй до 45% з комісій за їх обміни",

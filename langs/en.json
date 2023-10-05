@@ -1542,6 +1542,7 @@
     "TrusteeCard.deleteCard.modal.cancel": "Cancel",
     "TrusteeCard.title": "Card",
     "TrusteeCard.limitsExceeded.description": "Payment {{amount}} {{currencyCode}} was declined due to exceeding the card limit.",
+    "TrusteeCard.insufficientBalance.description": "There are insufficient funds to process the payment {{amount}} {{currencyCode}}.",
     "ReferralScreen.title": "Reflink",
     "ReferralScreen.proLinkTitle": "PRO",
     "ReferralScreen.proLinkDescription": "Invite friends and earn up to 45% commissions for their exchanges",

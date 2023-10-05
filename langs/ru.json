@@ -1542,6 +1542,7 @@
   "TrusteeCard.deleteCard.modal.cancel": "Отмена",
   "TrusteeCard.title": "Карта",
   "TrusteeCard.limitsExceeded.description": "Платёж {{amount}} {{currencyCode}} был отменён из-за превышения лимита по карте.",
+  "TrusteeCard.insufficientBalance.description": "Недостаточно средств для обработки платежа {{amount}} {{currencyCode}}.",
   "ReferralScreen.title": "Реф",
   "ReferralScreen.proLinkTitle": "PRO",
   "ReferralScreen.proLinkDescription": "Приглашай друзей и зарабатывай до 45% от комиссий за их обмены",

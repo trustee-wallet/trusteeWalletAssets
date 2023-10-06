@@ -39,7 +39,7 @@
     "userLogin.successCreatePin.telegram": "User {mobile} Successful created Pin-code, {logModel}",
     "userLogin.successUpdatePin.telegram": "User {mobile} Successful changed Pin-code, {logModel}",
     "userLogin.successRemovePin.telegram": "User {mobile} removed Pin-code, {logModel}",
-    "userLogin.trusteeSms.OTPtext": "{otpCode} is your verification code for Trustee Plus.",
+    "userLogin.trusteeSms.OTPtext": "{{otpCode}} is your verification code for Trustee Plus.",
     "userContacts.pending.pushTitle": "Your friend waits invitation",
     "userContacts.pending.pushDesc": "You are in contacts list of user {userMobile}, please help him start using Trustee Plus",
     "userContacts.pendingMutual.pushTitle": "Your friend is on the waiting list",

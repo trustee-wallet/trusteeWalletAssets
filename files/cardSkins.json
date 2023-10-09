@@ -126,7 +126,8 @@
             },
             "trusteeLogoIsDark": false,
             "textColor": false,
-            "hiddenLogoMasterCard": true
+            "hiddenLogoMasterCard": true,
+            "plVisualId": 5
         }
     }
 }

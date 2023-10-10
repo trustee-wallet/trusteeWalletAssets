@@ -1,5 +1,5 @@
 {
-    "version" : 421,
+    "version" : 422,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -645,6 +645,7 @@
     "Pin.NO_INTERNET": "No internet connection",
     "Pin.mainNotificationTitle": "Security recommendations",
     "Pin.mainNotificationDescription": "Your balance is quite large. To increase the security of your account, we recommend setting a PIN.",
+    "Pin.enterPinForCard": "Enter new PIN-code",
     "Settings.general": "General",
     "Settings.security": "Security",
     "Settings.notifications": "Notifications",
@@ -1403,6 +1404,8 @@
     "TrusteeCardSettings.commissionsLink": "https://trusteeglobal.eu/crypto-card/#terms",
     "TrusteeCardSettings.commissions": "Fees",
     "TrusteeCardSettings.downloadHistory": "Download transactions history",
+    "TrusteeCardSettings.pin.title": "PIN-code settings",
+    "TrusteeCardSettings.pin.SUCCESS": "PIN-code update successful",
     "TrusteeCard.send": "Transfer",
     "TrusteeCard.settings": "Settings",
     "TrusteeCard.termsAgree": "By using the payment card, you agree to the <Link1>Quicko Terms and Conditions of Service</Link1> and <Link2>Quicko Privacy Policy</Link2>",

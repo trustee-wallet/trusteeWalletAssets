@@ -1,5 +1,5 @@
 {
-  "version" : 421,
+  "version" : 422,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -645,6 +645,7 @@
   "Pin.NO_INTERNET": "Немає інтернет з'єднання",
   "Pin.mainNotificationTitle": "Рекомендація безпеки",
   "Pin.mainNotificationDescription": "Ваш баланс досить великий. Щоб підвищити безпеку Вашого облікового запису, рекомендуємо встановити PIN-код.",
+  "Pin.enterPinForCard": "Введіть новий PIN-код",
   "Settings.general": "Налаштування",
   "Settings.security": "Безпека",
   "Settings.notifications": "Сповіщення",
@@ -1403,6 +1404,8 @@
   "TrusteeCardSettings.commissionsLink": "https://trusteeglobal.com/cryptocard/#terms",
   "TrusteeCardSettings.commissions": "Комісії",
   "TrusteeCardSettings.downloadHistory": "Завантажити історію транзакцій",
+  "TrusteeCardSettings.pin.title": "Налаштування PIN-коду",
+  "TrusteeCardSettings.pin.SUCCESS": "PIN-код успішно зміненно",
   "TrusteeCard.send": "Переказ",
   "TrusteeCard.settings": "Налаштування",
   "TrusteeCard.termsAgree": "Використовуючи платіжну картку, Ви погоджуєтесь з <Link1>Правилами та Умовами надання послуг Quicko</Link1> та <Link2>Політикою конфіденційності Quicko</Link2>",

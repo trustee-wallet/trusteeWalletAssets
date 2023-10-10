@@ -1,5 +1,5 @@
 {
-    "version" : 420,
+    "version" : 421,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1573,6 +1573,7 @@
     "ReferralScreen.createLink": "Create",
     "ReferralScreen.percentageByLevel25_20": "25% / 20%",
     "ReferralScreen.percentageByLevel20_25": "20% / 25%",
+    "ReferralScreen.percentageByLevel45_0": "45%",
     "ReferralScreen.totalInvited": "Total invited",
     "ReferralScreen.share": "Share",
     "ReferralScreen.contactsTitle": "Contacts list",

@@ -1,5 +1,5 @@
 {
-  "version" : 423,
+  "version" : 424,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -435,6 +435,7 @@
   "Withdraw.allCards": "Все карты",
   "Withdraw.addNewCard": "Добавить новую карту",
   "Withdraw.sendSms": "Отправить SMS",
+  "Withdraw.wrongNetwork": "Неправильная сеть",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_PHONE": "Пожалуйста, используйте международный формат номера телефона",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_CASHBACK": "Please recheck user code",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_USERNAME": "Пожалуйста, перепроверьте имя пользователя",
@@ -1436,6 +1437,8 @@
   "Verification.methods.DIIA": "Пройти самостоятельно",
   "Verification.methods.TRUSTEE_VERIFICATION": "Пройти самостоятельно",
   "Verification.methods.DIIA.main": "Использовать «Дія»",
+  "Verification.methods.DIIA.TEMPORARY_DISABLED": "Временно недоступно",
+  "Verification.methods.TRUSTEE_VERIFICATION.TEMPORARY_DISABLED": "Временно недоступно",
   "Verification.diia.description1": "рекомендуемый способ",
   "Verification.diia.description2": "сверхбыстрая верификация",
   "Verification.diia.description3": "наиболее безопасный способ",

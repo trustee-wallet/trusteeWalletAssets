@@ -1,5 +1,5 @@
 {
-    "version" : 423,
+    "version" : 424,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -435,6 +435,7 @@
     "Withdraw.allCards": "All cards",
     "Withdraw.addNewCard": "Add new card",
     "Withdraw.sendSms": "Send SMS",
+    "Withdraw.wrongNetwork": "Wrong network",
     "Withdraw.NO_USER_BUT_LOOKS_LIKE_PHONE": "Please use international phone number format",
     "Withdraw.NO_USER_BUT_LOOKS_LIKE_CASHBACK": "Please recheck user code",
     "Withdraw.NO_USER_BUT_LOOKS_LIKE_USERNAME": "Please recheck user name",
@@ -1436,6 +1437,8 @@
     "Verification.methods.DIIA": "Pass manually",
     "Verification.methods.TRUSTEE_VERIFICATION": "Pass manually",
     "Verification.methods.DIIA.main": "Verify with «Diia»",
+    "Verification.methods.DIIA.TEMPORARY_DISABLED": "Temporarily unavailable",
+    "Verification.methods.TRUSTEE_VERIFICATION.TEMPORARY_DISABLED": "Temporarily unavailable",
     "Verification.diia.description1": "recommended method",
     "Verification.diia.description2": "ultra-fast verification",
     "Verification.diia.description3": "the most secure way",

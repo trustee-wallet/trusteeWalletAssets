@@ -1,5 +1,5 @@
 {
-  "version" : 423,
+  "version" : 424,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -432,6 +432,7 @@
   "Withdraw.sendTransferToMobile": "Переказати",
   "Withdraw.sendToCrypto": "Переказати",
   "Withdraw.sendToCard": "Переказати на картку",
+  "Withdraw.wrongNetwork": "Неправильна мережа",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_PHONE": "Будь ласка, використовуйте міжнародний формат номеру телефону",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_CASHBACK": "Please recheck user code",
   "Withdraw.NO_USER_BUT_LOOKS_LIKE_USERNAME": "Будь ласка, перевірте ще раз ім'я користувача",
@@ -1436,6 +1437,8 @@
   "Verification.methods.DIIA": "Пройти самостійно",
   "Verification.methods.TRUSTEE_VERIFICATION": "Пройти самостійно",
   "Verification.methods.DIIA.main": "Скористатись «Дія»",
+  "Verification.methods.DIIA.TEMPORARY_DISABLED": "Тимчасово недоступно",
+  "Verification.methods.TRUSTEE_VERIFICATION.TEMPORARY_DISABLED": "Тимчасово недоступно",
   "Verification.diia.description1": "рекомендований метод",
   "Verification.diia.description2": "надшвидка верифікація",
   "Verification.diia.description3": "найбезпечніший спосіб",

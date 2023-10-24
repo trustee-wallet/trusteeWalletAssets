@@ -1,5 +1,5 @@
 {
-    "version": 7,
+    "version": 8,
     "countriesList": [
         {
             "country": "Ukraine",
@@ -3611,6 +3611,54 @@
                 "uk": "Шрі-Ланка",
                 "ru": "Шри-Ланка",
                 "en": "Sri Lanka"
+            }
+        },
+        {
+            "country": "Democratic Republic of the Congo",
+            "iso": "180",
+            "currencyCode": "CDF",
+            "countryCode": "COD",
+            "flag": "flag-cd",
+            "iso2": "CD",
+            "callingCode": [
+                "243"
+            ],
+            "countryName": {
+                "uk": "Демократична Республіка Конґо",
+                "ru": "Демократическая Республика Конго",
+                "en": "Democratic Republic of the Congo"
+            }
+        },
+        {
+            "country": "Libya",
+            "iso": "434",
+            "currencyCode": "LYD",
+            "countryCode": "LBY",
+            "flag": "flag-ly",
+            "iso2": "LY",
+            "callingCode": [
+                "218"
+            ],
+            "countryName": {
+                "uk": "Лівія",
+                "ru": "Ливия",
+                "en": "Libya"
+            }
+        },
+        {
+            "country": "State of Palestine",
+            "iso": "275",
+            "currencyCode": "EGP",
+            "countryCode": "PSE",
+            "flag": "flag-ps",
+            "iso2": "PS",
+            "callingCode": [
+                "970"
+            ],
+            "countryName": {
+                "uk": "Палестинська держава",
+                "ru": "Государство Палестина",
+                "en": "State of Palestine"
             }
         }
     ]

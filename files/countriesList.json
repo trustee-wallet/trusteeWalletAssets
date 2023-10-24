@@ -1,5 +1,5 @@
 {
-    "version": 6,
+    "version": 7,
     "countriesList": [
         {
             "country": "Ukraine",
@@ -3595,6 +3595,22 @@
                 "uk": "Зімбабве",
                 "ru": "Зимбабве",
                 "en": "Zimbabwe"
+            }
+        },
+        {
+            "country": "Sri Lanka",
+            "iso": "144",
+            "currencyCode": "LKR",
+            "countryCode": "LKA",
+            "flag": "flag-lk",
+            "iso2": "LK",
+            "callingCode": [
+                "94"
+            ],
+            "countryName": {
+                "uk": "Шрі-Ланка",
+                "ru": "Шри-Ланка",
+                "en": "Sri Lanka"
             }
         }
     ]

@@ -1,5 +1,5 @@
 {
-  "version" : 425,
+  "version" : 426,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -390,6 +390,7 @@
   "Withdraw.notEnough": "У Вас недостаточно средств. Доступно {prettyBalance} {symbol}",
   "Withdraw.notEnoughBalance": "У Вас недостаточно средств. Доступно <Balance>{{prettyBalance}} {{symbol}}</Balance>, за вычетом комиссии",
   "Withdraw.notHaveBalance": "Нет средств",
+  "WithdrawScreen.sendAsGift": "Отправить в подарок",
   "Withdraw.successful": "Ваш перевод прошел успешно",
   "Withdraw.successfulDonate": "Ваш донат прошел успешно",
   "Withdraw.successfulInternalTransfer": "Ваш перевод прошел успешно",
@@ -1419,6 +1420,8 @@
   "TrusteeCard.balanceDetails.selectedCrypto.descriptiono.BTC": "В случае нехватки евро биткоины будут использоваться автоматически",
   "TrusteeCard.balanceDetails.selectedCrypto.changeCoin": "Изменить монету",
   "TrusteeCard.balanceDetails.connectCoin": "Подключить монету",
+  "TrusteeCard.notSelectCoin": "Не подключать монету",
+  "TrusteeCard.coinNotSelected": "Без монеты",
   "TrusteeCardOtp.copiedCode": "Скопировать код",
   "TrusteeCardOtp.cancel": "Отменить",
   "TrusteeCardOtp.code": "Код подтверждения",

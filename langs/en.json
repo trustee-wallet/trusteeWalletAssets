@@ -1,5 +1,5 @@
 {
-    "version" : 425,
+    "version" : 426,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -390,6 +390,7 @@
     "Withdraw.notEnough": "Not enough funds. Available for use {prettyBalance} {symbol}",
     "Withdraw.notEnoughBalance": "Not enough funds. Available for use <Balance>{{prettyBalance}} {{symbol}}</Balance>, minus the fee",
     "Withdraw.notHaveBalance": "Not enough funds",
+    "WithdrawScreen.sendAsGift": "Send as gift",
     "Withdraw.successful": "Your transfer is successful",
     "Withdraw.successfulDonate": "Your donate is successful",
     "Withdraw.successfulInternalTransfer": "Your instant send is successful",
@@ -1419,6 +1420,8 @@
     "TrusteeCard.balanceDetails.selectedCrypto.description.BTC": "In case of a shortage of euros, Bitcoin will be automatically withdrawn",
     "TrusteeCard.balanceDetails.selectedCrypto.changeCoin": "Change coin",
     "TrusteeCard.balanceDetails.connectCoin": "Connect coin",
+    "TrusteeCard.notSelectCoin": "Do not select coin",
+    "TrusteeCard.coinNotSelected": "No coin",
     "TrusteeCardOtp.copiedCode": "Copy code",
     "TrusteeCardOtp.cancel": "Cancel",
     "TrusteeCardOtp.code": "Confirmation code",

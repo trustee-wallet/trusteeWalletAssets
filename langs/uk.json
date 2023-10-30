@@ -1,5 +1,5 @@
 {
-  "version" : 428,
+  "version" : 429,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1038,6 +1038,7 @@
   "History.returnTransferBack.desc" : "Бажаєте повернути кошти?",
   "History.returnTransferBack.ok" : "Так",
   "History.returnTransferBack.cancel": "Ні",
+  "History.balanceAfterTx": "Залишок",
   "SocialLinks.telegram": "https://t.me/trustee_ua",
   "SocialLinks.twitter": "https://twitter.com/TrusteeGlobal",
   "SocialLinks.facebook": "https://facebook.com/Trustee.Wallet",

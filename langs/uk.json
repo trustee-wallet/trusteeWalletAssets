@@ -1,5 +1,5 @@
 {
-  "version" : 427,
+  "version" : 428,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1428,6 +1428,9 @@
   "TrusteeCard.balanceDetails.connectCoin": "Підʼєднати валюту",
   "TrusteeCard.notSelectCoin": "Не підключати монету",
   "TrusteeCard.coinNotSelected": "Без монети",
+  "TrusteeCard.downloadTx.viewTxReceipt": "Переглянути квитанцію",
+  "TrusteeCard.downloadTx.txReceiptTitle": "Квитанція",
+  "TrusteeCard.downloadTx.shareTxReceipt": "Поділитися",
   "TrusteeCardOtp.copiedCode": "Скопіювати код",
   "TrusteeCardOtp.cancel": "Відмінити",
   "TrusteeCardOverLimit.title": "Зверніть увагу",

@@ -1,5 +1,5 @@
 {
-    "version" : 427,
+    "version" : 428,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1428,6 +1428,9 @@
     "TrusteeCard.balanceDetails.connectCoin": "Connect coin",
     "TrusteeCard.notSelectCoin": "Do not select coin",
     "TrusteeCard.coinNotSelected": "No coin",
+    "TrusteeCard.downloadTx.viewTxReceipt": "View receipt",
+    "TrusteeCard.downloadTx.txReceiptTitle": "Receipt",
+    "TrusteeCard.downloadTx.shareTxReceipt": "Share",
     "TrusteeCardOtp.copiedCode": "Copy code",
     "TrusteeCardOtp.cancel": "Cancel",
     "TrusteeCardOtp.code": "Confirmation code",

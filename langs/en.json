@@ -1,5 +1,5 @@
 {
-    "version" : 429,
+    "version" : 430,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1415,6 +1415,10 @@
     "TrusteeCardSettings.downloadHistory": "Download transactions history",
     "TrusteeCardSettings.pin.title": "PIN-code settings",
     "TrusteeCardSettings.pin.SUCCESS": "PIN-code update successful",
+    "TrusteeCardSettings.cardDetails.title": "Card details",
+    "TrusteeCardSettings.cardDetails.cardNumber": "Card number",
+    "TrusteeCardSettings.cardDetails.cardExpirationTimestamp": "Expiration date",
+    "TrusteeCardSettings.cardDetails.share": "Share",
     "TrusteeCard.send": "Transfer",
     "TrusteeCard.settings": "Settings",
     "TrusteeCard.termsAgree": "By using the payment card, you agree to the <Link1>Quicko Terms and Conditions of Service</Link1> and <Link2>Quicko Privacy Policy</Link2>",

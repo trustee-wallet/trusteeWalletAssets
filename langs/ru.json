@@ -1,5 +1,5 @@
 {
-  "version" : 429,
+  "version" : 430,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1415,6 +1415,10 @@
   "TrusteeCardSettings.downloadHistory": "Загрузить историю транзакций",
   "TrusteeCardSettings.pin.title": "Настройки PIN-кода",
   "TrusteeCardSettings.pin.SUCCESS": "PIN-код успешно изменено",
+  "TrusteeCardSettings.cardDetails.title": "Реквизиты карты",
+  "TrusteeCardSettings.cardDetails.cardNumber": "Номер карты",
+  "TrusteeCardSettings.cardDetails.cardExpirationTimestamp": "Срок действия",
+  "TrusteeCardSettings.cardDetails.share": "Поделиться",
   "TrusteeCard.send": "Перевод",
   "TrusteeCard.settings": "Настройки",
   "TrusteeCard.termsAgree": "Используя платежную карту, Вы соглашаетесь с <Link1>Правилами и Условиями предоставления услуг Quicko</Link1> и <Link2>Политикой конфиденциальности Quicko</Link2>",

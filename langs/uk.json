@@ -1,5 +1,5 @@
 {
-  "version" : 430,
+  "version" : 431,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1618,5 +1618,9 @@
   "SupportScreen.emailSubjectRegisteredUser": "From Trustee Plus app, user ID: {{userToken}}",
   "SupportScreen.emailSubjectNotRegisteredUser": "From Trustee Plus app, not registered",
   "SupportScreen.emailBodyTemplate": "Привіт, трапилась помилка, потрібна допомога",
-  "SupportScreen.emptyComponent": "Служба підтримки недоступна, спробуйте пізніше"
+  "SupportScreen.emptyComponent": "Служба підтримки недоступна, спробуйте пізніше",
+  "Stories.name.welcome": "Привіт!",
+  "Stories.name.security": "Безпека",
+  "Stories.name.referral": "Реф",
+  "Stories.name.faq": "FAQ"
   }

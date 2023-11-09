@@ -1,5 +1,5 @@
 {
-    "version" : 430,
+    "version" : 431,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1619,5 +1619,9 @@
     "SupportScreen.emailSubjectRegisteredUser": "From Trustee Plus app, user ID: {{userToken}}",
     "SupportScreen.emailSubjectNotRegisteredUser": "From Trustee Plus app, not registered",
     "SupportScreen.emailBodyTemplate": "Hi, an error occurred, I need help",
-    "SupportScreen.emptyComponent": "Support service is unavailable now, try again later"
+    "SupportScreen.emptyComponent": "Support service is unavailable now, try again later",
+    "Stories.name.welcome": "Welcome!",
+    "Stories.name.security": "Security",
+    "Stories.name.referral": "Ref",
+    "Stories.name.faq": "FAQ"
 }

@@ -37,5 +37,20 @@
         "uk": {
             "story_1": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/faq/uk/story_faq_1.png"
         }
+    },
+    "trusteeCard": {
+        "name": "Stories.name.trusteeCard",
+        "preview": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/story_cryptocard_preview.png",
+        "uk": {
+            "story_1": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_1.png",
+            "story_2": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_2.png",
+            "story_3": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_3.png",
+            "story_4": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_4.png",
+            "story_5": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_5.png",
+            "story_6": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_6.png",
+            "story_7": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_7.png",
+            "story_8": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_8.png",
+            "story_9": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/stories/trusteeCard/uk/story_cryptocard_9.png"
+        }
     }
 }

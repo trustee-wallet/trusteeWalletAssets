@@ -1,5 +1,5 @@
 {
-  "version" : 433,
+  "version" : 434,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1632,5 +1632,6 @@
   "Stories.name.welcome": "Привет!",
   "Stories.name.security": "Безопасность",
   "Stories.name.referral": "Реф",
-  "Stories.name.faq": "FAQ"
+  "Stories.name.faq": "FAQ",
+  "Stories.name.trusteeCard": "Trustee карта"
 }

@@ -1,5 +1,5 @@
 {
-  "version" : 436,
+  "version" : 437,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1317,6 +1317,8 @@
   "NewsComments.emptyTitle": "У вас не будет комментариев",
   "NewsComments.emptyDescription": "Стань первым коментатором!",
   "NewsComments.inputText": "Комментировать",
+  "NewsComments.error.SPAM": "Для отправки необходимо задержать {time} секунд",
+  "NewsComments.error.TOO_LONG_COMMENT": "Комментарий слишком большой",
   "TrusteeCard.trusteeCard": "Криптокарта",
   "TrusteeCard.trusteeCardDescription": "Получи свою криптокарту от Trustee и плати криптой где угодно.\n\nПрисоединяйся к закрытой группе и протестируй новые возможности первым.\nВместе в будущее!",
   "TrusteeCard.order": "Присоединиться",

@@ -1,5 +1,5 @@
 {
-    "version" : 436,
+    "version" : 437,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1317,6 +1317,8 @@
     "NewsComments.emptyTitle": "No comments yet",
     "NewsComments.emptyDescription": "Become the first commenter!",
     "NewsComments.inputText": "Comment",
+    "NewsComments.error.SPAM": "Please wait {time} seconds to send",
+    "NewsComments.error.TOO_LONG_COMMENT": "Comment too long",
     "TrusteeCard.trusteeCard": "Cryptocard",
     "TrusteeCard.trusteeCardDescription": "Get your crypto card from Trustee and pay with crypto anywhere.\n\nJoin the closed group and test the new features first.\nTogether to the future!",
     "TrusteeCard.order": "Join",

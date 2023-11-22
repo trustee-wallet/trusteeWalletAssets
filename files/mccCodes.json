@@ -1,0 +1,961 @@
+{
+    "version": 1,
+    "mccCodes": {
+        "1520": {
+            "source": "FontAwesome6",
+            "iconName": "helmet-safety",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "1711": {
+            "source": "MaterialIcons",
+            "iconName": "plumbing",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "1731": {
+            "source": "MaterialIcons",
+            "iconName": "electrical-services",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "1740": {
+            "source": "FontAwesome6",
+            "iconName": "trowel-bricks",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": null
+        },
+        "1750": {
+            "source": "MaterialIcons",
+            "iconName": "carpenter",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "1761": {
+            "source": "MaterialIcons",
+            "iconName": "house-siding",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "1771": {
+            "source": "FontAwesome6",
+            "iconName": "road-barrier",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": null
+        },
+        "1799": {
+            "source": "FontAwesome6",
+            "iconName": "screwdriver",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "2741": {
+            "source": "FontAwesome6",
+            "iconName": "print",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "2791": {
+            "source": "FontAwesome5",
+            "iconName": "file-alt",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "2842": {
+            "source": "FontAwesome6",
+            "iconName": "soap",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4011": {
+            "source": "FontAwesome6",
+            "iconName": "train",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4111": {
+            "source": "MaterialIcons",
+            "iconName": "commute",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4112": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "seat-passenger",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4119": {
+            "source": "FontAwesome5",
+            "iconName": "ambulance",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4121": {
+            "source": "FontAwesome6",
+            "iconName": "taxi",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4214": {
+            "source": "FontAwesome6",
+            "iconName": "truck",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4215": {
+            "source": "FontAwesome5",
+            "iconName": "mail-bulk",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4251": {
+            "source": "MaterialIcons",
+            "iconName": "hardware",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4255": {
+            "source": "FontAwesome6",
+            "iconName": "warehouse",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4411": {
+            "source": "FontAwesome6",
+            "iconName": "sailboat",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "4457": {
+            "source": "FontAwesome6",
+            "iconName": "sailboat",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "4468": {
+            "source": "FontAwesome6",
+            "iconName": "sailboat",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "4511": {
+            "source": "MaterialIcons",
+            "iconName": "airlines",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "4582": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "airport",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "4722": {
+            "source": "MaterialIcons",
+            "iconName": "travel-explore",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "4782": {
+            "source": "FontAwesome6",
+            "iconName": "road-bridge",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "4789": {
+            "source": "MaterialIcons",
+            "iconName": "emoji-transportation",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "4812": {
+            "source": "FontAwesome5",
+            "iconName": "mobile-alt",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#0087CA",
+                "light": "#0876AD"
+            },
+            "style": null
+        },
+        "4814": {
+            "source": "FontAwesome6",
+            "iconName": "tower-cell",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#0087CA",
+                "light": "#0876AD"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4816": {
+            "source": "FontAwesome6",
+            "iconName": "network-wired",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#0087CA",
+                "light": "#0876AD"
+            },
+            "style": null
+        },
+        "4821": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "transit-connection-variant",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#0087CA",
+                "light": "#0876AD"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4829": {
+            "source": "FontAwesome6",
+            "iconName": "money-bill-transfer",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#0087CA",
+                "light": "#0876AD"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4899": {
+            "source": "FontAwesome6",
+            "iconName": "satellite-dish",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#0087CA",
+                "light": "#0876AD"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "4900": {
+            "source": "FontAwesome6",
+            "iconName": "house-circle-check",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#0087CA",
+                "light": "#0876AD"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5311": {
+            "source": "FontAwesome6",
+            "iconName": "store",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#F15483",
+                "light": "#CB3965"
+            },
+            "style": null
+        },
+        "5399": {
+            "source": "FontAwesome6",
+            "iconName": "basket-shopping",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#F15483",
+                "light": "#CB3965"
+            },
+            "style": null
+        },
+        "5441": {
+            "source": "FontAwesome6",
+            "iconName": "children",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#F15483",
+                "light": "#CB3965"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5611": {
+            "source": "FontAwesome5",
+            "iconName": "tshirt",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#3E7DF7",
+                "light": "#114FCB"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5651": {
+            "source": "MaterialIcons",
+            "iconName": "family-restroom",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#3E7DF7",
+                "light": "#114FCB"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5661": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "shoe-formal",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#3E7DF7",
+                "light": "#114FCB"
+            },
+            "style": null
+        },
+        "5691": {
+            "source": "FontAwesome6",
+            "iconName": "person-half-dress",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#3E7DF7",
+                "light": "#114FCB"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5699": {
+            "source": "FontAwesome5",
+            "iconName": "tshirt",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#3E7DF7",
+                "light": "#114FCB"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5712": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "table-furniture",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5714": {
+            "source": "MaterialIcons",
+            "iconName": "blinds",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5722": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "washing-machine",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5732": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "television-classic",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5733": {
+            "source": "MaterialIcons",
+            "iconName": "piano",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5734": {
+            "source": "FontAwesome6",
+            "iconName": "computer",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5844": {
+            "source": "MaterialIcons",
+            "iconName": "watch",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5932": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "reproduction",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5937": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "reproduction",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5940": {
+            "source": "FontAwesome6",
+            "iconName": "bicycle",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5941": {
+            "source": "MaterialIcons",
+            "iconName": "sports-basketball",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5942": {
+            "source": "FontAwesome6",
+            "iconName": "book",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5943": {
+            "source": "FontAwesome6",
+            "iconName": "pen-ruler",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5945": {
+            "source": "MaterialIcons",
+            "iconName": "toys",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5946": {
+            "source": "FontAwesome6",
+            "iconName": "camera-retro",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5947": {
+            "source": "FontAwesome6",
+            "iconName": "gifts",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5948": {
+            "source": "MaterialIcons",
+            "iconName": "luggage",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5971": {
+            "source": "FontAwesome5",
+            "iconName": "image",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5977": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "lipstick",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5980": {
+            "source": "FontAwesome5",
+            "iconName": "image",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5992": {
+            "source": "MaterialIcons",
+            "iconName": "local-florist",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5995": {
+            "source": "MaterialIcons",
+            "iconName": "pets",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "5997": {
+            "source": "MaterialCommunityIcons",
+            "iconName": "razor-double-edge",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "5999": {
+            "source": "FontAwesome6",
+            "iconName": "basket-shopping",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "9211": {
+            "source": "FontAwesome",
+            "iconName": "legal",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#6E6DF2",
+                "light": "#5E53E4"
+            },
+            "style": null
+        },
+        "9222": {
+            "source": "FontAwesome6",
+            "iconName": "money-bill-1-wave",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#6E6DF2",
+                "light": "#5E53E4"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "9223": {
+            "source": "FontAwesome6",
+            "iconName": "money-bill-1-wave",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#6E6DF2",
+                "light": "#5E53E4"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "9399": {
+            "source": "FontAwesome6",
+            "iconName": "landmark-dome",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#6E6DF2",
+                "light": "#5E53E4"
+            },
+            "style": null
+        },
+        "9402": {
+            "source": "FontAwesome6",
+            "iconName": "landmark-dome",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#6E6DF2",
+                "light": "#5E53E4"
+            },
+            "style": null
+        },
+        "9405": {
+            "source": "FontAwesome6",
+            "iconName": "landmark-dome",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#6E6DF2",
+                "light": "#5E53E4"
+            },
+            "style": null
+        },
+        "0742": {
+            "source": "MaterialIcons",
+            "iconName": "pets",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#069D47",
+                "dark": "#45934A"
+            },
+            "style": null
+        },
+        "0763": {
+            "source": "FontAwesome6",
+            "iconName": "building-wheat",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#069D47",
+                "dark": "#45934A"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "0780": {
+            "source": "FontAwesome6",
+            "iconName": "plant-wilt",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#069D47",
+                "dark": "#45934A"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "Agricultural Services": {
+            "source": "FontAwesome6",
+            "iconName": "tractor",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#069D47",
+                "dark": "#45934A"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "Contracted Services": {
+            "source": "FontAwesome6",
+            "iconName": "file-signature",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#504FC7",
+                "light": "#6C27D0"
+            },
+            "style": {
+                "paddingLeft": 5
+            }
+        },
+        "Retail Outlet Services": {
+            "source": "FontAwesome6",
+            "iconName": "cart-shopping",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#F15483",
+                "light": "#CB3965"
+            },
+            "style": null
+        },
+        "Transportation Services": {
+            "source": "FontAwesome6",
+            "iconName": "bus",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#03774E",
+                "light": "#1F8C66"
+            },
+            "style": null
+        },
+        "Utility Services": {
+            "source": "FontAwesome6",
+            "iconName": "bolt",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#0087CA",
+                "light": "#0876AD"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "Government Services": {
+            "source": "FontAwesome6",
+            "iconName": "building-columns",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#6E6DF2",
+                "light": "#5E53E4"
+            },
+            "style": null
+        },
+        "Clothing Stores": {
+            "source": "FontAwesome5",
+            "iconName": "tshirt",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#3E7DF7",
+                "light": "#114FCB"
+            },
+            "style": {
+                "paddingLeft": 1
+            }
+        },
+        "Miscellaneous Stores": {
+            "source": "FontAwesome6",
+            "iconName": "store",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#CA63DB",
+                "dark": "#D77DE5"
+            },
+            "style": null
+        },
+        "Business Services": {
+            "source": "FontAwesome6",
+            "iconName": "briefcase",
+            "iconColor": null,
+            "backgroundColor": {
+                "dark": "#EB6B35",
+                "light": "#E05418"
+            },
+            "style": null
+        },
+        "Professional Services and Membership Organizations": {
+            "source": "FontAwesome6",
+            "iconName": "people-group",
+            "iconColor": null,
+            "backgroundColor": {
+                "light": "#BE4F4F",
+                "dark": "#E75D5D"
+            },
+            "style": null
+        }
+    }
+}

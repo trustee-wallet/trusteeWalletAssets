@@ -77,7 +77,7 @@
     },
     "EVA": {
         "prettyName": "EVA",
-        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/eve_logo.jpg"
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/eva_logo.jpg"
     },
     "FOXTROT": {
         "prettyName": "Foxtrot",
@@ -89,7 +89,7 @@
     },
     "LUXOPTIKA": {
         "prettyName": "Люксоптика",
-        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/luxoptika-logo.png"
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/luxoptika_logo.png"
     },
     "EPICENTER": {
         "prettyName": "Епіцентр",
@@ -221,7 +221,7 @@
     },
     "UKR_ZOLOTO": {
         "prettyName": "УкрЗолото",
-        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/urkGold_logo.png"
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/ukrGold_logo.png"
     },
     "ZOLOTYI_VIK": {
         "prettyName": "Золотий Вік",
@@ -257,7 +257,7 @@
     },
     "SMART_CINEMA": {
         "prettyName": "SmartCinema",
-        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/smartCinemt_logo.jpg"
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/smartCinema_logo.jpg"
     },
     "SHARIKAVA": {
         "prettyName": "Sharikava",

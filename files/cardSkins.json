@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "cardSkins": {
         "INCRYPTED": {
             "main": {
@@ -131,7 +131,7 @@
         },
         "FNA": {
             "main": {
-                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/firstNftAgencyMain.png",
+                "src": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardSkins/fnaMain.png",
                 "imageProps": {
                     "resizeMode": "contain",
                     "style": {

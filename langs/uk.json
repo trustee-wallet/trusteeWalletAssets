@@ -1,5 +1,5 @@
 {
-  "version" : 438,
+  "version" : 439,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -361,7 +361,7 @@
   "TopUpMethods.subTitle.CRYPTO": "Поповнити гаманець з рахунку гаманців, бірж або інших джерел",
   "TopUpMethods.title.BANK_TRANSFER": "Поповнити за допомогою IBAN",
   "TopUpMethods.subTitle.BANK_TRANSFER": "Комісія {fee}",
-  "TopUpMethods.instruction.BANK_TRANSFER": "Щоб поповнити баланс євро за IBAN або SWIFT перекажіть кошти за цими реквізитами.\n\nУ комантарі до платежу вкажіть Ваш анонімний айді Trustee Plus, так ми Вас ідентифікуємо.\n\nЗарахування коштів відбувається протягом 3х робочих днів.",
+  "TopUpMethods.instruction.BANK_TRANSFER": "Щоб поповнити баланс євро за IBAN або SWIFT перекажіть кошти за цими реквізитами.\n\nУ комантарі до платежу вкажіть Ваш анонімний айді Trustee Plus, так ми Вас ідентифікуємо.\n\nНадсилайте кошти лише з власного рахунку. Ім’я відправника та отримувача мають збігатися.\n\nЗарахування коштів відбувається протягом 3х робочих днів.",
   "TopUpMethods.title.TRUSTEE_CARD": "Поповнити за допомогою Trustee картки",
   "TopUpMethods.subTitle.TRUSTEE_CARD": "Комісія {fee}",
   "ReceiveHistoryAddresses.title": "Список адрес",

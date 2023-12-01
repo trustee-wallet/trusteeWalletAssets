@@ -1,5 +1,5 @@
 {
-    "version" : 439,
+    "version" : 440,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -364,6 +364,8 @@
     "TopUpMethods.instruction.BANK_TRANSFER": "To deposit EUR by IBAN or SWIFT, transfer funds using these details.\n\nIn the comment before payment, write your anonymous Trustee Plus ID, this is how we can identify you.\n\nSend funds only from your own account. The sender's and receiver's names must match.\n\nFunds are credited within 3 working days.",
     "TopUpMethods.title.TRUSTEE_CARD": "Top up using Trustee card",
     "TopUpMethods.subTitle.TRUSTEE_CARD": "Fee {fee}",
+    "TopUpMethods.title.BINANCE_PAY": "Top up using Binance Pay",
+    "TopUpMethods.subTitle.BINANCE_PAY": "Fee {fee}",
     "ReceiveHistoryAddresses.title": "Address list",
     "ReceiveHistoryAddresses.addressNotActive": "The address is no longer supported",
     "ReceiveHistoryAddresses.generateNew": "Generate new address",
@@ -953,6 +955,7 @@
     "History.INTERNAL_TRANSFER": "Instant transfer",
     "History.TRANSFER_TO_MOBILE": "Transfer by mobile number",
     "History.PHONE_BALANCE": "Phone balance",
+    "History.BINANCE_PAY": "Binance Pay",
     "History.inviteUserApprove": "You approved",
     "History.associatedId": "Associated ID",
     "History.getAwards": "Get award",

@@ -1,5 +1,5 @@
 {
-  "version" : 440,
+  "version" : 441,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1381,6 +1381,8 @@
   "TrusteeCardSettings.limits.setLimit": "Введите сумму",
   "TrusteeCardSettings.limits.maxLimit": "Максимальный лимит",
   "TrusteeCardSettings.limits.save": "Сохранить",
+  "TrusteeCardSettings.limits.dailyLimit": "Дневной",
+  "TrusteeCardSettings.limits.monthlyLimit": "Месячный",
   "TrusteeCardSettings.walletPay.step0.title": "Все просто",
   "TrusteeCardSettings.walletPay.step0.next": "Далее",
   "TrusteeCardSettings.walletPay.ios.step0.description": "К сожалению, мы пока не можем добавить Вашу криптокарту автоматически к Apple Wallet. Но это все же можно сделать, правда вручную. Чтобы у Вас получилось быстро разобраться, далее покажем последовательность действий" ,

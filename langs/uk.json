@@ -1,5 +1,5 @@
 {
-  "version" : 440,
+  "version" : 441,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1381,6 +1381,8 @@
   "TrusteeCardSettings.limits.setLimit": "Введіть суму",
   "TrusteeCardSettings.limits.maxLimit": "Максимальний ліміт",
   "TrusteeCardSettings.limits.save": "Зберегти",
+  "TrusteeCardSettings.limits.dailyLimit": "Денний",
+  "TrusteeCardSettings.limits.monthlyLimit": "Місячний",
   "TrusteeCardSettings.walletPay.title.ios": "Додати до Apple Pay",
   "TrusteeCardSettings.walletPay.title.android": "Додати до Google Pay",
   "TrusteeCardSettings.walletPay.description.ios": "Додавання картки в Apple Pay можливе лише в ручному режимі. Інструкція в повідомленнях застосунку",

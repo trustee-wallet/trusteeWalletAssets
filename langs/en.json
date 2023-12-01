@@ -1,5 +1,5 @@
 {
-    "version" : 440,
+    "version" : 441,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1381,6 +1381,8 @@
     "TrusteeCardSettings.limits.setLimit": "Set amount",
     "TrusteeCardSettings.limits.maxLimit": "Max limit",
     "TrusteeCardSettings.limits.save": "Save",
+    "TrusteeCardSettings.limits.dailyLimit": "Daily",
+    "TrusteeCardSettings.limits.monthlyLimit": "Monthly",
     "TrusteeCardSettings.walletPay.step0.title": "It's easy",
     "TrusteeCardSettings.walletPay.step0.next": "Next",
     "TrusteeCardSettings.walletPay.ios.step0.description": "Unfortunately, we are not yet able to add your crypto card automatically to Apple Wallet. However, it can still be done manually. To help you quickly understand, we will show you the sequence of actions below" ,

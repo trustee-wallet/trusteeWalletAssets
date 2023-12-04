@@ -23,7 +23,7 @@
         "prettyName": "KFC",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/kfc_logo.jpg"
     },
-    "NOVA_POSHTA": {
+    "NOVA POST": {
         "prettyName": "Nova Post",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/novaPost_logo.jpg"
     },
@@ -43,7 +43,7 @@
         "prettyName": "SPAR",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/spar_logo.png"
     },
-    "AROMA_KAVA": {
+    "AROMA KAVA": {
         "prettyName": "Aroma Kava",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/aromaKava_logo.jpg"
     },
@@ -143,7 +143,7 @@
         "prettyName": "OLX",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/olx_logo.png"
     },
-    "MASTER_ZOO": {
+    "MASTER ZOO": {
         "prettyName": "MasterZoo",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/masterZoo_logo.png"
     },
@@ -183,7 +183,7 @@
         "prettyName": "UPG",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/upg_logo.jpg"
     },
-    "LVIV_CROISSANTS": {
+    "LVIV CROISSANTS": {
         "prettyName": "Lviv Croissants",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/lvivCroissants_logo.jpg"
     },
@@ -191,7 +191,7 @@
         "prettyName": "CROPP",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/cropp_logo.png"
     },
-    "SIMEYNA_PEKARNIA": {
+    "SIMEYNA PEKARNYA": {
         "prettyName": "Сімейна пекарня",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/simeynaPekarnia_logo.png"
     },
@@ -199,7 +199,7 @@
         "prettyName": "Аптека АНЦ",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/ants_logo.png"
     },
-    "PUZATA_HATA": {
+    "PUZATA KHATA": {
         "prettyName": "Пузата Хата",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/puzata_logo.jpg"
     },
@@ -215,7 +215,7 @@
         "prettyName": "INTERTOP",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/intertop_logo.png"
     },
-    "MEEST_EXPRESS": {
+    "MEEST": {
         "prettyName": "Meest Express",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/meest_logo.png"
     },
@@ -223,11 +223,11 @@
         "prettyName": "УкрЗолото",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/ukrGold_logo.png"
     },
-    "ZOLOTYI_VIK": {
+    "ZOLOTOI VEK": {
         "prettyName": "Золотий Вік",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/goldAge_logo.png"
     },
-    "SRIBNA_KRAINA": {
+    "SRIBNA KRAYINA": {
         "prettyName": "Срібна Країна",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/sribna_logo.jpg"
     },
@@ -251,11 +251,11 @@
         "prettyName": "Bigl.ua",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/bigl_logo.png"
     },
-    "CINEMA_CITY": {
+    "CINEMA CITY": {
         "prettyName": "Cinema City",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/cinemaCity_logo.jpeg"
     },
-    "SMART_CINEMA": {
+    "SMARTSINEMA": {
         "prettyName": "SmartCinema",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/smartCinema_logo.jpg"
     },
@@ -263,7 +263,7 @@
         "prettyName": "Sharikava",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/sharikava_logo.jpeg"
     },
-    "HO_CHU_BO": {
+    "HO CHU BO": {
         "prettyName": "Ho Chu Bo",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/hoChuBo_logo.png"
     },
@@ -271,7 +271,7 @@
         "prettyName": "Bershka",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/bershka_logo.jpeg"
     },
-    "NEW_BALANCE": {
+    "NEW BALANCE": {
         "prettyName": "New Balance",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/newBalance_logo.jpeg"
     },
@@ -339,16 +339,206 @@
         "prettyName": "Stradivarius",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/stradivarius_logo.png"
     },
-    "VICTORIA_SECRET": {
+    "VICTORIASSECRET": {
         "prettyName": "Victoria Secret",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/victoriaSecret_logo.jpeg"
     },
-    "TOMMY_HILFIGER": {
+    "TOMMY HILFIGER": {
         "prettyName": "Tommy Hilfiger",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/tommyHilfiger_logo.png"
     },
     "CHANEL": {
         "prettyName": "Chanel",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/chanel_logo.jpeg"
+    },
+
+    
+    "AROMA COFFEE": {
+        "prettyName": "Aroma Coffee",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/aroma_coffee_logo.jpeg"
+    },
+    "ZIKO APTEKA": {
+        "prettyName": "Ziko Apteka",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/ziko_logo.jpeg"
+    },
+    "LECLERC": {
+        "prettyName": "Leclerc",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/leclerc_logo.png"
+    },
+    "ZARA": {
+        "prettyName": "Zara",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/zara_logo.png"
+    },
+    "ZABKA": {
+        "prettyName": "Zabka",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/zabka_logo.png"
+    },
+    "WOLT": {
+        "prettyName": "Wolt",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/wolt_logo.png"
+    },
+    "VELMART": {
+        "prettyName": "Velmart",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/velmart_logo.png"
+    },
+    "STEAMGAMES": {
+        "prettyName": "Steam",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/steam_logo.png"
+    },
+    "STEAM": {
+        "prettyName": "Steam",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/steam_logo.png"
+    },
+    "STARBUCKS": {
+        "prettyName": "Starbucks",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/starbucks_logo.png"
+    },
+    "RYANAIR": {
+        "prettyName": "Ryanair",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/ryanair_logo.png"
+    },
+    "RUKAVICHKA": {
+        "prettyName": "Рукавичка",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/rukavichka_logo.png"
+    },
+    "ROSSMANN": {
+        "prettyName": "Rossmann",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/rossmann_logo.png"
+    },
+    "RESERVED": {
+        "prettyName": "Reserved",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/reserved_logo.png"
+    },
+    "DOMINOS.PIZZA": {
+        "prettyName": "Dominos pizza",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/dominos_pizza_logo.png"
+    },
+    "PLAYSTATION": {
+        "prettyName": "PlayStation",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/playStation_logo.jpeg"
+    },
+    "DEEZER": {
+        "prettyName": "Deezer",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/deezer_logo.png"
+    },
+    "ORLEN STACJA": {
+        "prettyName": "Petrol Station ORLEN",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/orlen_logo.jpeg"
+    },
+    "OKWINE": {
+        "prettyName": "OKWINE",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/okwine_logo.png"
+    },
+    "NOVAPAY": {
+        "prettyName": "NovaPay",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/novaPay_logo.webp"
+    },
+    "NINTENDO": {
+        "prettyName": "Nintendo",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/nintendo_logo.png"
+    },
+    "NINJA SUSHI": {
+        "prettyName": "Ninja Sushi",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/ninja_sushi_logo.png"
+    },
+    "NETFLIX": {
+        "prettyName": "Netflix",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/netflix_logo.png"
+    },
+    "XBOX": {
+        "prettyName": "Xbox",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/xbox_logo.png"
+    },
+    "PLANETAKINO": {
+        "prettyName": "Планета кіно",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/planeta_kino_logo.png"
+    },
+    "MULTIPLEX": {
+        "prettyName": "Multiplex",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/multiplex_logo.png"
+    },
+    "LEVIS": {
+        "prettyName": "Levi's",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/levis_logo.png"
+    },
+    "KYIVSKYI METROPOLITEN": {
+        "prettyName": "Київський метрополітен",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/kyiv_metro_logo.png"
+    },
+    "KAUFLAND": {
+        "prettyName": "Kaufland",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/kaufland_logo.png"
+    },
+    "BIEDRONKA": {
+        "prettyName": "Biedronka",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/biedronka_logo.png"
+    },
+    "INTERSPORT": {
+        "prettyName": "Intersport",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/intersport_logo.png"
+    },
+    "IHERB": {
+        "prettyName": "iHerb",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/iHerb_logo.png"
+    },
+    "IKEA": {
+        "prettyName": "IKEA",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/ikea_logo.png"
+    },
+    "CABIFY": {
+        "prettyName": "Cabify",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/cabify_logo.png"
+    },
+    "BURGER KING": {
+        "prettyName": "Burger King",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/burger_king_logo.jpeg"
+    },
+    "TIKTOK": {
+        "prettyName": "Tik Tok",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/tiktok_logo.png"
+    },
+    "PULL & BEAR": {
+        "prettyName": "Pull&Bear",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/pullbear_logo.jpeg"
+    },
+    "PULL AND BEAR": {
+        "prettyName": "Pull&Bear",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/pullbear_logo.jpeg"
+    },
+    "HM": {
+        "prettyName": "H&M",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/hm_logo.png"
+    },
+    "CINEMA-CITY": {
+        "prettyName": "Cinema City",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/cinemaCity_logo.jpeg"
+    },
+    "PUZATA HATA": {
+        "prettyName": "Пузата Хата",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/puzata_logo.jpg"
+    },
+    "LVIVCROISSANTS": {
+        "prettyName": "Lviv Croissants",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/lvivCroissants_logo.jpg"
+    },
+    "BLIZZARD": {
+        "prettyName": "Blizzard",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/blizzard_logo.png"
+    },
+    "FORA": {
+        "prettyName": "Фора",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/fora_logo.jpeg"
+    },
+    "KYIVDIGITAL": {
+        "prettyName": "Київ Цифровий",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/kyiv_digital_logo.jpeg"
+    },
+    "KYIV.DIGITAL": {
+        "prettyName": "Київ Цифровий",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/kyiv_digital_logo.jpeg"
+    },
+    "WALMART": {
+        "prettyName": "Walmart",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/walmart_logo.png"
     }
-}
+}   

@@ -1,5 +1,5 @@
 {
-    "version" : 441,
+    "version" : 442,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1028,6 +1028,8 @@
     "History.transfer.notReceived": "The recipient has not yet received your transfer, as he has not installed the Trustee Plus application. After some time, you will be able to return the funds if they are not received.",
     "History.transfer.receiverNotReceived.needKyc": "To receive this transfer, you need to confirm your identity in your profile settings",
     "History.transfer.refunded": "The recipient returned this transfer back",
+    "History.transfer.returned": "You have returned this transfer",
+    "History.transfer.returned.receiverSide": "The sender returned this transfer back",
     "History.spentBonus": "Spent rewards",
     "History.rewardId": "Reward for",
     "History.cardSwapId": "Swap",

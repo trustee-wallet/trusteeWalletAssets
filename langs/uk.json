@@ -1,5 +1,5 @@
 {
-  "version" : 441,
+  "version" : 442,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1028,6 +1028,8 @@
   "History.transfer.notReceived": "Отримувач ще не отримав Ваш переказ, так як не встановив додаток Trustee Plus. Через деякий час Ви зможете повернути кошти, якщо їх так і не буде отримано.",
   "History.transfer.receiverNotReceived.needKyc": "Щоб отримати даний переказ, Вам необхідно підтвердити особу у налаштуваннях профілю",
   "History.transfer.refunded": "Отримувач повернув даний переказ назад",
+  "History.transfer.returned": "Ви повернули переказ назад",
+  "History.transfer.returned.receiverSide": "Відправник повернув даний переказ назад",
   "History.spentBonus": "Витрачено бонусів",
   "History.rewardId": "Нагорода за",
   "History.cardSwapId": "Обмін",

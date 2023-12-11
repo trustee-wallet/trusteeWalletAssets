@@ -47,6 +47,10 @@
         "prettyName": "Aroma Kava",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/aromaKava_logo.jpg"
     },
+    "AROMAKAVA": {
+        "prettyName": "Aroma Kava",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/aromaKava_logo.jpg"
+    },
     "APTEKA_KOPIYKA": {
         "prettyName": "Аптека Копійка",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/kopiyka_logo.jpg"
@@ -120,6 +124,10 @@
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/apple_logo.png"
     },
     "GLOVO": {
+        "prettyName": "Glovo",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/glovo_logo.png"
+    },
+    "Glovo": {
         "prettyName": "Glovo",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/glovo_logo.png"
     },

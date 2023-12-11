@@ -1,5 +1,5 @@
 {
-  "version" : 443,
+  "version" : 444,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -923,6 +923,7 @@
   "History.txTypesBonus": "Бонус",
   "History.txRate": "Курс за 1",
   "History.txID": "ID транзакції",
+  "History.refundID": "ID повернення",
   "History.txMore": "Показати ще",
   "History.txLess": "Приховати",
   "History.txFee": "Комісія",

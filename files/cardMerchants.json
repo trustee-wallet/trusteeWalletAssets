@@ -79,7 +79,11 @@
         "prettyName": "Vodafone",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/vodafone_logo.jpg"
     },
-    "EVA": {
+    "EVA ": {
+        "prettyName": "EVA",
+        "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/eva_logo.jpg"
+    },
+    "EVA.UA": {
         "prettyName": "EVA",
         "logo": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/images/cardMerchants/eva_logo.jpg"
     },

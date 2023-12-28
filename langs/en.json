@@ -1,5 +1,5 @@
 {
-    "version" : 447,
+    "version" : 448,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1031,7 +1031,7 @@
     "History.cardWait.description.FORCE_CREDIT_BIG_AMOUNT": "We can see that the funds are being sent to you and in most cases the crediting happens instantly, but sometimes it can take up to 5-7 working days. Please wait, we will credit you the funds as soon as we receive them.",
     "History.swap.forCard.description.MIN_LIMIT_SWAP": "In order to perform the card transaction, an exchange was made for the minimum possible limit. As a result, part of the funds was used for payment, and the rest was credited to your balance.",
     "History.transfer.notReceived": "The recipient has not yet received your transfer, as he has not installed the Trustee Plus application. After some time, you will be able to return the funds if they are not received.",
-    "History.transfer.receiverNotReceived.needKyc": "To receive this transfer, you need to confirm your identity in your profile settings",
+    "History.transfer.receiverNotReceived.needKyc": "You can receive a transfer by confirming your identity through your profile settings, or use the refund option",
     "History.transfer.refunded": "The recipient returned this transfer back",
     "History.transfer.returned": "You have returned this transfer",
     "History.transfer.returned.receiverSide": "The sender returned this transfer back",

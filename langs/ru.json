@@ -1,5 +1,5 @@
 {
-  "version" : 450,
+  "version" : 451,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -783,6 +783,9 @@
   "Settings2FA.needUser2FA": "Не установлен",
   "Settings2FA.disabledDescription.GA_2FA": "Аутентификатор не подключен. Пожалуйста, подключите аутентификатор для активации функции",
   "Settings2FA.disabledDescription.EMAIL_2FA": "Двухэтапная проверка по email не подключена. Пожалуйста, подключите двухэтапную проверку по email для активации функции",
+  "SettingsAndroidWidget.title": "Настройки виджета",
+  "SettingsAndroidWidget.toastMessage": "Настройки виджета изменены",
+  "SettingsAndroidWidget.selectWidget": "Выбрать виджет",
   "SecondFactorScreen.otp.EMAIL_2FA": "Код из email",
   "SecondFactorScreen.otp.GA_2FA": "Код из аутентификатора",
   "SecondFactorScreen.otp.resend.EMAIL_2FA": "Отправить код повторно",

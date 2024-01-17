@@ -1,5 +1,5 @@
 {
-  "version" : 449,
+  "version" : 451,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -783,6 +783,9 @@
   "Settings2FA.needUser2FA": "Не налаштовано",
   "Settings2FA.disabledDescription.GA_2FA": "Автентифікатор не налаштовано. Будь ласка, налаштуйте автентифікатор для активації функції",
   "Settings2FA.disabledDescription.EMAIL_2FA": "Двоетапна перевірка по email не налаштована. Будь ласка, налаштуйте двоетапну перевірку по email для активації функції",
+  "SettingsAndroidWidget.title": "Налаштування віджета",
+  "SettingsAndroidWidget.toastMessage": "Налаштування віджета змінено",
+  "SettingsAndroidWidget.selectWidget": "Обрати віджет",
   "SecondFactorScreen.otp.EMAIL_2FA": "Код з листа",
   "SecondFactorScreen.otp.GA_2FA": "Код з автентифікатора",
   "SecondFactorScreen.otp.resend.EMAIL_2FA": "Відправити код повторно",

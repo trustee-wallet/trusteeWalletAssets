@@ -26,6 +26,8 @@
   "Login.INVALID_CODE": "Неверный код",
   "Login.INVALID_TRUSTEE_SMS_CODE_VALUE": "Неверный код",
   "Login.INVALID_TRUSTEE_SMS_CODE_STATUS": "Invalid code status",
+  "Login.FORCE_UPDATE": "Доступно обновление. Для корректной работы рекомендуем обновить приложение",
+  "Login.GENERAL": "Что-то пошло не так, пожалуйста, обратитесь в службу поддержки",
   "Login.signUp.title": "Регистрация",
   "Login.signUp.intro": "Это займет меньше 1 минуты",
   "Login.anotherDevice": "В Ваш аккаунт вошли с другого устройства. Если это были не Вы, обратитесь в службу поддержки как можно быстрее.",

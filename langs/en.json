@@ -26,6 +26,8 @@
     "Login.INVALID_CODE": "Invalid code",
     "Login.INVALID_TRUSTEE_SMS_CODE_VALUE": "Invalid code",
     "Login.INVALID_TRUSTEE_SMS_CODE_STATUS": "Invalid code status",
+    "Login.FORCE_UPDATE": "Update available. For correct work, we recommend updating the application",
+    "Login.GENERAL": "Something wrong, please contact support",
     "Login.signUp.title": "Sign up",
     "Login.signUp.intro": "It will take less than 1 minute",
     "Login.anotherDevice": "Your account has been log in from another device. If this was not you, contact support service as soon as possible.",

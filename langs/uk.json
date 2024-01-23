@@ -1,5 +1,5 @@
 {
-  "version" : 452,
+  "version" : 453,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -801,7 +801,7 @@
   "SecondFactorScreen.invalid2FARequestsDescription": "Ймовірно, Ви зробили багато запитів, спробуйте, будь ласка, пізніше. Якщо це були не Ви - терміново зверніться до служби підтримки",
   "About.title": "Trustee Plus",
   "About.subtitle": "Trustee Plus",
-  "About.intro": "Крипто необанк у Вас в телефоні",
+  "About.intro": "Криптогаманець з платіжною карткою",
   "About.siteTitle": "trusteeglobal.com",
   "About.siteSubtitle": "Офіційний сайт",
   "About.siteLink": "https://trusteeglobal.com",

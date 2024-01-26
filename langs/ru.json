@@ -1,5 +1,5 @@
 {
-  "version" : 453,
+  "version" : 454,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1610,7 +1610,7 @@
   "AppRatingFeedbackScreen.save": "Отправить",
   "TrusteeCard.otp.title": "Одноразовый пароль",
   "TrusteeCard.otp.applePayAndGooglePay": "Используйте код {{otp}}, чтобы добавить карту в платёжный сервис.",
-  "TrusteeCard.otp.3ds": "Используйте код {{otp}} для подтверждения списания {{amount}} {{currencyCode}}",
+  "TrusteeCard.otp.3ds": "Используйте код {{otp}} для подтверждения списания {{amount}} {{currencyCode}} {{merchantName}}",
   "TrusteeCard.deleteCard.modal.title": "Закрытие карты",
   "TrusteeCard.deleteCard.modal.description": "Вы действительно хотите закрыть карту? Обратите внимание, что выпуск новой карты платный.",
   "TrusteeCard.deleteCard.modal.ok": "Закрыть карту",

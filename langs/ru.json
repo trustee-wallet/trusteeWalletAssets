@@ -1,5 +1,5 @@
 {
-  "version" : 456,
+  "version" : 457,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -1682,9 +1682,10 @@
   "Stories.name.trusteeCard": "Карта",
   "SubAccounts.title": "Саб аккаунт",
   "SubAccounts.createAccount": "Создать аккаунт",
+  "SubAccounts.create": "Создать",
   "SubAccounts.create.title": "Создать",
   "SubAccounts.selectAccount": "Выбрать аккаунт",
-  "SubAccounts.selectAccount.main": "основной аккаунт",
+  "SubAccounts.selectAccount.main": "Основной аккаунт",
   "SubAccounts.selectAccount.subAccounts": "Саб акаунты",
   "SubAccounts.subAccounts": "Саб аккаунты",
   "SubAccounts.onboarding.title": "Саб аккаунты",

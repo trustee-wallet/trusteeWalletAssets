@@ -1,5 +1,5 @@
 {
-    "version" : 456,
+    "version" : 457,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1683,6 +1683,7 @@
     "Stories.name.trusteeCard": "Card",
     "SubAccounts.title": "Sub account",
     "SubAccounts.createAccount": "Create account",
+    "SubAccounts.create": "Create",
     "SubAccounts.create.title": "Create",
     "SubAccounts.selectAccount": "Select account",
     "SubAccounts.selectAccount.main": "Main account",

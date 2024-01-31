@@ -1,5 +1,5 @@
 {
-    "version" : 457,
+    "version" : 458,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -356,6 +356,7 @@
     "TopUpMethods.title.INTERNAL_TRANSFER": "Top up by user of Trustee Plus",
     "TopUpMethods.subTitle.INTERNAL_TRANSFER": "Fee 0%",
     "TopUpMethods.title.CARD": "Top up using card",
+    "TopUpMethods.title.CARD.UAH": "Top up using card and express P2P",
     "TopUpMethods.subTitle.CARD": "Fee {fee}",
     "TopUpMethods.title.SWAP": "Swap",
     "TopUpMethods.subTitle.SWAP": "Quick exchange to desired currency",
@@ -383,6 +384,7 @@
     "Withdraw.title.transferToMobile": "Send {symbol}",
     "Withdraw.title.crypto": "Send crypto {symbol}",
     "Withdraw.title.toCard": "Transfer to card {symbol}",
+    "Withdraw.title.toCard.UAH": "Transfer to card using express P2P",
     "Withdraw.internalTo": "Username/Phone/ID",
     "Withdraw.numberTo": "Recipient",
     "Withdraw.externalTo": "Destination address",

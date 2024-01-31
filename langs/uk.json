@@ -1,5 +1,5 @@
 {
-  "version" : 457,
+  "version" : 458,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -356,6 +356,7 @@
   "TopUpMethods.title.INTERNAL_TRANSFER": "Поповнення від користувача Trustee Plus",
   "TopUpMethods.subTitle.INTERNAL_TRANSFER": "Комісія 0%",
   "TopUpMethods.title.CARD": "Поповнити за допомогою картки",
+  "TopUpMethods.title.CARD.UAH": "Поповнити карткою через експрес P2P",
   "TopUpMethods.subTitle.CARD": "Комісія {fee}",
   "TopUpMethods.title.SWAP": "Обмін",
   "TopUpMethods.subTitle.SWAP": "Швидкий обмін на потрібну валюту",
@@ -384,6 +385,7 @@
   "Withdraw.title.transferToMobile": "Переказ {symbol}",
   "Withdraw.title.crypto": "Переказ криптовалюти {symbol}",
   "Withdraw.title.toCard": "Переказ на картку {symbol}",
+  "Withdraw.title.toCard.UAH": "Переказ на картку через експрес P2P",
   "Withdraw.numberTo": "Отримувач",
   "Withdraw.externalTo": "Адреса призначення",
   "Withdraw.amount": "Сума переказу",

@@ -1,5 +1,5 @@
 {
-  "version" : 457,
+  "version" : 458,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -356,6 +356,7 @@
   "TopUpMethods.title.INTERNAL_TRANSFER": "Пополнение от пользователя Trustee Plus",
   "TopUpMethods.subTitle.INTERNAL_TRANSFER": "Комиссия 0%",
   "TopUpMethods.title.CARD": "Пополнение с помощью карты",
+  "TopUpMethods.title.CARD.UAH": "Пополнить картой через экспресс P2P",
   "TopUpMethods.subTitle.CARD": "Комиссия {fee}",
   "TopUpMethods.title.SWAP": "Обмен",
   "TopUpMethods.subTitle.SWAP": "Быстрый обмен на нужную валюту",
@@ -383,6 +384,7 @@
   "Withdraw.title.transferToMobile": "Перевод {symbol}",
   "Withdraw.title.crypto": "Перевод криптовалюты {symbol}",
   "Withdraw.title.toCard": "Перевод на карту {symbol}",
+  "Withdraw.title.toCard.UAH": "Перевод на карту через экспресс P2P",
   "Withdraw.internalTo": "Псевдоним/Телефон/ID",
   "Withdraw.numberTo": "Получатель",
   "Withdraw.externalTo": "Адрес назначения",

@@ -1,5 +1,5 @@
 {
-    "version" : 458,
+    "version" : 459,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -384,7 +384,6 @@
     "Withdraw.title.transferToMobile": "Send {symbol}",
     "Withdraw.title.crypto": "Send crypto {symbol}",
     "Withdraw.title.toCard": "Transfer to card {symbol}",
-    "Withdraw.title.toCard.UAH": "Transfer to card using express P2P",
     "Withdraw.internalTo": "Username/Phone/ID",
     "Withdraw.numberTo": "Recipient",
     "Withdraw.externalTo": "Destination address",
@@ -470,6 +469,7 @@
     "WithdrawMethods.internalTitle": "Instant send to Trustee plus user",
     "WithdrawMethods.internalSubTitle": "Fee 0%",
     "WithdrawMethods.cardTitle": "Transfer to card",
+    "WithdrawMethods.cardTitle.UAH": "Transfer to card using express P2P",
     "WithdrawMethods.mobileTitle": "Instant transfer by phone number",
     "WithdrawMethods.mobileSubTitle": "Fee 0%. Sending funds to other users, they will receive money even before Trustee Plus is installed",
     "WithdrawMethods.cardSubTitle": "Transfer to bank card Visa/MasterCard",

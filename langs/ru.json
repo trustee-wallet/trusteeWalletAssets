@@ -1,5 +1,5 @@
 {
-  "version" : 458,
+  "version" : 459,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -384,7 +384,6 @@
   "Withdraw.title.transferToMobile": "Перевод {symbol}",
   "Withdraw.title.crypto": "Перевод криптовалюты {symbol}",
   "Withdraw.title.toCard": "Перевод на карту {symbol}",
-  "Withdraw.title.toCard.UAH": "Перевод на карту через экспресс P2P",
   "Withdraw.internalTo": "Псевдоним/Телефон/ID",
   "Withdraw.numberTo": "Получатель",
   "Withdraw.externalTo": "Адрес назначения",
@@ -470,6 +469,7 @@
   "WithdrawMethods.internalTitle": "Мгновенный перевод пользователю Trustee Plus",
   "WithdrawMethods.internalSubTitle": "Комиссия 0%",
   "WithdrawMethods.cardTitle": "Перевод на карту",
+  "WithdrawMethods.cardTitle.UAH": "Перевод на карту через экспресс P2P",
   "WithdrawMethods.mobileTitle": "Мгновенный перевод по номеру телефона",
   "WithdrawMethods.mobileSubTitle": "Комиссия 0%. Отправка средств другим пользователям, они получат деньги еще до установки Trustee Plus",
   "WithdrawMethods.cardSubTitle": "Перевод на банковскую карту Visa/MasterCard",

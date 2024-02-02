@@ -1,5 +1,5 @@
 {
-  "version" : 461,
+  "version" : 462,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1374,6 +1374,8 @@
   "TrusteeCardPreCheckScreen.title": "Випуск картки",
   "TrusteeCardPreCheckScreen.description": "Ласкаво просимо! Ви за один крок від випуску Trustee картки",
   "TrusteeCardPreCheckScreen.descriptionDiscount": "Зазвичай, випуск картки платний, але Ви серед щасливчиків, що отримають знижку!",
+  "TrusteeCardPreCheckScreen.descriptionSecondCard": "Вітаємо! Ви вже використали унікальний шанс отримати картку безкоштовно.Повторний випуск картки платний.",
+  "TrusteeCardPreCheckScreen.descriptionFreeCard": "Вітаємо! Вдача на Вашому боці, Ви отримуєте картку безкоштовно!",
   "TrusteeCardCryptoCurrencyScreen.title": "Налаштування",
   "TrusteeCardCryptoCurrencyScreen.description": "У випадку нестачі євро - буде автоматично зніматись крипта",
   "TrusteeCardFiatCurrencyScreen.title": "Trustee картка",

@@ -1,5 +1,5 @@
 {
-    "version" : 461,
+    "version" : 462,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -1374,6 +1374,8 @@
     "TrusteeCardPreCheckScreen.title": "Card Issuance",
     "TrusteeCardPreCheckScreen.description": "Welcome! You are one step away from getting a Trustee card",
     "TrusteeCardPreCheckScreen.descriptionDiscount": "Normally, issuing a card is paid, but you are among the lucky ones who will receive discount!",
+    "TrusteeCardPreCheckScreen.descriptionSecondCard": "Welcome! You have already used a unique opportunity to get a card for free. Reissuing the card is chargeable.",
+    "TrusteeCardPreCheckScreen.descriptionFreeCard": "Congratulations! Luck is on your side, you get the card for free!",
     "TrusteeCardCryptoCurrencyScreen.title": "Settings",
     "TrusteeCardCryptoCurrencyScreen.description": "In case of a shortage of euros, the crypto will be automatically withdrawn",
     "TrusteeCardFiatCurrencyScreen.title": "Trustee card",

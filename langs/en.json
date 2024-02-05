@@ -1,5 +1,5 @@
 {
-    "version" : 463,
+    "version" : 464,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -642,8 +642,8 @@
     "Pin.title": "PIN Code",
     "Pin.unlockByTouchId": "Unlock by Face ID/Touch ID",
     "Pin.maxTryReached": "Trustee Plus is not available, try it in 3 minutes",
-    "Pin.enterPin" : "Enter 4- or 6-digit PIN code",
-    "Pin.intro": "This PIN will be use to unlock the app. Enter 4- or 6-digit PIN",
+    "Pin.enterPin" : "Enter 4-6 digit PIN code",
+    "Pin.intro": "This PIN will be use to unlock the app. Enter 4-6 digit PIN",
     "Pin.confirm": "Confirm PIN Code",
     "Pin.saveErrorOk": "Ok",
     "Pin.cancel": "Cancel",

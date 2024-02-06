@@ -1,5 +1,5 @@
 {
-    "version" : 464,
+    "version" : 465,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -894,7 +894,7 @@
     "Profile.openEmailModalDescription": "Now check your email, find a letter from Trustee, and follow the instructions in the email.",
     "Profile.openEmail": "Open email",
     "Profile.verification.notInternetConnection": "Please, check your network connection",
-    "Profile.profileName": "Name",
+    "Profile.profileName": "Profile name",
     "Profile.save": "Save",
     "UserProfileEmailChanges.emailInputDescription": "Enter your primary email and tap «Confirm»",
     "UserProfileEmailChanges.resendDescription": "Now check your email, find a letter from Trustee, and follow the instructions in the email. If you haven't received an email, click «Receive» in your mail, refresh the page, and check all incoming folders, including the «Spam» folder. If the email still hasn't arrived, you can resend it.",
@@ -1692,7 +1692,7 @@
     "SubAccounts.title": "Sub account",
     "SubAccounts.createAccount": "Create account",
     "SubAccounts.create": "Create",
-    "SubAccounts.create.title": "Create",
+    "SubAccounts.create.title": "Sub account",
     "SubAccounts.selectAccount": "Select account",
     "SubAccounts.selectAccount.main": "Main account",
     "SubAccounts.selectAccount.subAccounts": "Sub account",
@@ -1704,5 +1704,6 @@
     "SubAccounts.onboarding.secondAdvantageTitle": "Additional cards",
     "SubAccounts.onboarding.firstAdvantageDescription": "Keep balances in different sub-accounts for respective purposes like investing, saving, etc.",
     "SubAccounts.onboarding.secondAdvantageDescription": "Create cards for other payments. Don't limit yourself",
-    "SubAccounts.onboarding.start": "Start"
+    "SubAccounts.onboarding.start": "Start",
+    "SubAccounts.emptyProfileName": "Enter sub account name"
 }

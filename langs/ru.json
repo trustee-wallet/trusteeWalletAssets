@@ -1,5 +1,5 @@
 {
-  "version" : 464,
+  "version" : 465,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -894,7 +894,7 @@
   "Profile.openEmailModalDescription": "Теперь перейдите в свою почту, найдите письмо от Trustee и следуйте инструкциям в письме.",
   "Profile.openEmail": "Открыть электронную почту",
   "Profile.verification.notInternetConnection": "Пожалуйста, проверьте интернет соединение",
-  "Profile.profileName": "Имя",
+  "Profile.profileName": "Название профайла",
   "Profile.save": "Сохранить",
   "UserProfileEmailChanges.emailInputDescription": "Введите Вашу основную электронную почту и нажмите «Подтвердить»",
   "UserProfileEmailChanges.resendDescription": "Теперь перейдите в свою почту, найдите письмо от Trustee и следуйте инструкциям в письме. Если Вы не получили письмо - нажмите «Получить» в Вашей почте, обновите страницу и проверьте все входящие папки, включая папку «Спам». Если письмо все еще не пришло - отправьте его повторно.",
@@ -1703,5 +1703,6 @@
   "SubAccounts.onboarding.secondAdvantageTitle": "Дополнительные карты",
   "SubAccounts.onboarding.firstAdvantageDescription": "Сохраняйте балансы на различных саб аккаунтах для соответствующих целей, например, инвестирования, накопления и т.д.",
   "SubAccounts.onboarding.secondAdvantageDescription": "Создавайте карты для других платежей. Не ограничивайте себя",
-  "SubAccounts.onboarding.start": "Начать"
+  "SubAccounts.onboarding.start": "Начать",
+  "SubAccounts.emptyProfileName": "Введите название"
 }

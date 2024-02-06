@@ -105,6 +105,11 @@
     
     "2FA.CREATE_SWAP.emailDesc": "Вы пытаетесь сделать обмен <b>{fromAmount} {fromCurrencyCode}</b> на <b>{toAmount} {toCurrencyCode}</b> в учетной записи Trustee Plus. Для подтверждения, введите код:",
     "2FA.CREATE_SWAP.telegramDesc": "Для подтверждения обмена {fromAmount} {fromCurrencyCode} на {toAmount} {toCurrencyCode} введите код: {otpCode}",
+
+    "2FA.CREATE_SUBACCOUNT.emailTitle": "Trustee Plus: Создание саб аккаунта",
+    "2FA.CREATE_SUBACCOUNT.emailDesc": "Вы пытаетесь создать аккаунт саб для учетной записи Trustee Plus. Для подтверждения введите код:",
+    "2FA.EDIT_SUBACCOUNT.emailTitle": "Trustee Plus: Обновление саб аккаунта",
+    "2FA.EDIT_SUBACCOUNT.emailDesc": "Для подтверждения обновления саб аккаунта введите код:",
     
     "userHistory.reaction.pushTitle": "Новая реакция!",
     "userHistory.reaction.pushDesc": "Вы получили новую реакцию \"{reaction}\"",

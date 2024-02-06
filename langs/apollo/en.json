@@ -103,6 +103,11 @@
     "2FA.CREATE_SWAP.emailTitle": "Trustee Plus: Swap {fromCurrencyCode} to {toCurrencyCode} 2FA ",
     "2FA.CREATE_SWAP.emailDesc": "You are trying to swap <b>{fromAmount} {fromCurrencyCode}</b> to <b>{toAmount} {toCurrencyCode}</b> Trustee Plus account funds. To confirm, please enter:",
     "2FA.CREATE_SWAP.telegramDesc": "To confirm swap  {fromAmount} {fromCurrencyCode} to {toAmount} {toCurrencyCode} please enter: {otpCode}",
+
+    "2FA.CREATE_SUBACCOUNT.emailTitle": "Trustee Plus: Create a sub account",
+    "2FA.CREATE_SUBACCOUNT.emailDesc": "You are trying to create a sub account for a Trustee Plus account. To confirm, enter the code:",
+    "2FA.EDIT_SUBACCOUNT.emailTitle": "Trustee Plus: Update sub account ",
+    "2FA.EDIT_SUBACCOUNT.emailDesc": "To confirm the update of the sub account, enter the code:",
     
     "userHistory.reaction.pushTitle": "New reaction!",
     "userHistory.reaction.pushDesc": "You have been sent a reaction \"{reaction}\"",

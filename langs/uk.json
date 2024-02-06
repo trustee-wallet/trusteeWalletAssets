@@ -1,5 +1,5 @@
 {
-  "version" : 464,
+  "version" : 465,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -894,7 +894,7 @@
   "Profile.openEmailModalDescription": "Тепер перейдіть у Вашу пошту, знайдіть там лист від Trustee та дотримуйтесь інструкції у листі.",
   "Profile.openEmail": "Відкрийте електронну пошту",
   "Profile.verification.notInternetConnection": "Будь ласка, перевірте інтернет з'єднання",
-  "Profile.profileName": "Імʼя",
+  "Profile.profileName": "Назва профіля",
   "Profile.save": "Зберегти",
   "UserProfileEmailChanges.emailInputDescription": "Введіть Вашу основну електронну пошту та натисніть «Підтвердити»",
   "UserProfileEmailChanges.resendDescription": "Тепер перейдіть у Вашу пошту, знайдіть там лист від Trustee та дотримуйтесь інструкції у листі. Якщо Ви не отримали лист - натисніть «Отримати» у Вашому поштовику, оновіть сторінку та перевірте всі вхідні папки, включно із папкою «Спам». Якщо лист все ще не надійшов - Ви можете надіслати його повторно.",
@@ -1690,7 +1690,7 @@
   "SubAccounts.title": "Саб акаунт",
   "SubAccounts.createAccount": "Створити акаунт",
   "SubAccounts.create": "Створити",
-  "SubAccounts.create.title": "Створити",
+  "SubAccounts.create.title": "Саб акаунти",
   "SubAccounts.selectAccount": "Вибрати акаунт",
   "SubAccounts.selectAccount.main": "Основий акаунт",
   "SubAccounts.selectAccount.subAccounts": "Саб акаунти",
@@ -1702,5 +1702,6 @@
   "SubAccounts.onboarding.secondAdvantageTitle": "Додаткові картки",
   "SubAccounts.onboarding.firstAdvantageDescription": "Зберігайте баланси на різних саб акаунтах для відповідних цілей, наприклад, інвестування, накопичення тощо.",
   "SubAccounts.onboarding.secondAdvantageDescription": "Створюйте картки для інших платежів. Не обмежуйте себе",
-  "SubAccounts.onboarding.start": "Розпочати"
+  "SubAccounts.onboarding.start": "Розпочати",
+  "SubAccounts.emptyProfileName": "Введіть назву"
 }

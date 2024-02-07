@@ -1,5 +1,5 @@
 {
-    "version": 8,
+    "version": 9,
     "countriesList": [
         {
             "country": "Ukraine",
@@ -1644,7 +1644,7 @@
             }
         },
         {
-            "country": "Ivory Coast",
+            "country": "Côte D’Ivoire",
             "iso": "384",
             "currencyCode": "XOF",
             "countryCode": "CIV",
@@ -1656,7 +1656,7 @@
             "countryName": {
                 "uk": "Кот-д'Івуар",
                 "ru": "Кот-д’Ивуар",
-                "en": "Ivory Coast"
+                "en": "Côte D’Ivoire"
             }
         },
         {
@@ -3118,7 +3118,7 @@
             }
         },
         {
-            "country": "Swaziland",
+            "country": "Eswatini",
             "iso": "748",
             "currencyCode": "SZL",
             "countryCode": "SWZ",
@@ -3129,7 +3129,7 @@
             ],
             "countryName": {
                 "uk": "Есватіні",
-                "ru": "Свазиленд",
+                "ru": "Эсватини",
                 "en": "Eswatini"
             }
         },
@@ -3659,6 +3659,54 @@
                 "uk": "Палестинська держава",
                 "ru": "Государство Палестина",
                 "en": "State of Palestine"
+            }
+        },
+        {
+            "country": "Fiji",
+            "iso": "242",
+            "currencyCode": "FJD",
+            "countryCode": "FJI",
+            "flag": "flag-fj",
+            "iso2": "FJ",
+            "callingCode": [
+                "679"
+            ],
+            "countryName": {
+                "uk": "Фіджі",
+                "ru": "Фиджи",
+                "en": "Fiji"
+            }
+        },
+        {
+            "country": "Solomon Islands",
+            "iso": "090",
+            "currencyCode": "SBD",
+            "countryCode": "SLB",
+            "flag": "flag-sb",
+            "iso2": "SB",
+            "callingCode": [
+                "677"
+            ],
+            "countryName": {
+                "uk": "Соломонові Острови",
+                "ru": "Соломоновы Острова",
+                "en": "Solomon Islands"
+            }
+        },
+        {
+            "country": "Taiwan",
+            "iso": "158",
+            "currencyCode": "TWD",
+            "countryCode": "TWN",
+            "flag": "flag-tw",
+            "iso2": "TW",
+            "callingCode": [
+                "886"
+            ],
+            "countryName": {
+                "uk": "Тайвань",
+                "ru": "Тайвань",
+                "en": "Taiwan"
             }
         }
     ]

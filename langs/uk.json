@@ -1,5 +1,5 @@
 {
-  "version" : 467,
+  "version" : 468,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -465,6 +465,7 @@
   "Withdraw.validateBankTransfer.INVALID_FORMAT": "Некоректна інформація. Будь ласка, змініть дані",
   "Withdraw.transferToNotTrusteeUser": "Цей контакт не є користувачем Trustee Plus або в нього встановлено анонімий режим. Але Ви всеодно можете відправити кошти на цей номер.",
   "Withdraw.BANK_TRANSFER.description": "Для переказу по SEPA слід звернутися в службу підтримки для отримання детальних інструкцій та реквізитів оплати",
+  "Withdraw.selectNetwork.warningDescription": "Переконайтесь, що обераєте коректну мережу для виводу, інакше кошти можуть бути втрачені. Якщо Ви не впевнені, краще звернутись до служби підтримки.",
   "WithdrawScreen.notification.step2.title": "Крок 2",
   "WithdrawScreen.notification.step2.description": "Обмін успішний, тепер Ви можете переказати гроші на картку",
   "WithdrawMethods.title": "Тип переказу",

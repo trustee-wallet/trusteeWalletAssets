@@ -1,5 +1,5 @@
 {
-    "version" : 467,
+    "version" : 468,
     "Welcome.title": "Welcome",
     "Welcome.intro": "Are you ready to dive into the incredible crypto world?",
     "Welcome.agree": "I agree with <Link1>Terms of Use</Link1> and <Link2>Privacy Policy</Link2> and consent to the processing of the personal data that I have provided",
@@ -465,6 +465,7 @@
     "Withdraw.validateBankTransfer.INVALID_FORMAT": "Invalid format. Please change the data",
     "Withdraw.transferToNotTrusteeUser": "This contact is not a Trustee Plus user or has anonymous mode. But you can still send funds to this number.",
     "Withdraw.BANK_TRANSFER.description": "To withdraw by SEPA, you should contact the support service for detailed instructions and payment details",
+    "Withdraw.selectNetwork.warningDescription": "Make sure you select the correct network for withdrawal, otherwise the funds may be lost. If you are not sure, it is better to contact support.",
     "WithdrawScreen.notification.step2.title": "Step 2",
     "WithdrawScreen.notification.step2.description": "Swap is successful, you can send money to card",
     "WithdrawMethods.title": "Transfer type",

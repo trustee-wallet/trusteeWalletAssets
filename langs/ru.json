@@ -1,5 +1,5 @@
 {
-  "version" : 465,
+  "version" : 466,
   "Welcome.title": "Добро пожаловать",
   "Welcome.intro": "Готовы ли Вы погрузиться в невероятный криптомир?",
   "Welcome.agree": "Я соглашаюсь с <Link1>Условиями  использования</Link1> и <Link2>Политикой конфиденциальности</Link2>, и даю согласие на обработку предоставленных личных данных",
@@ -367,7 +367,7 @@
   "TopUpMethods.subTitle.BANK_TRANSFER": "Комиссия {fee}",
   "TopUpMethods.instruction.BANK_TRANSFER": "Чтобы пополнить баланс евро за SEPA, отправьте средства по этим реквизитам.\n\nВ комментарии к платежу укажите Ваш анонимный ID Trustee Plus, так мы Вас идентифицируем.\n\nОтправляйте средства только с вашего личного счета. Имена отправителя и получателя должны совпадать.\n\nЗачисление средств производится в течение 3х рабочих дней.",
   "TopUpMethods.instruction.BANK_TRANSFER.description": "Чтобы пополнить баланс в евро через SEPA, переведите средства на указанные реквизиты.\n\nОбязательно укажите ваш анонимный идентификатор Trustee Plus в комментарии к платежу",
-  "TopUpMethods.instruction.BANK_TRANSFER.notification": "Присылайте средства только с собственного банковского счета и согласно лимитам",
+  "TopUpMethods.instruction.BANK_TRANSFER.notification": "Присылайте средства только с собственного банковского счета и согласно лимитам. Комиссия на зачисление суммы меньше лимита составляет 5 евро.",
   "TopUpMethods.title.TRUSTEE_CARD": "Пополнить c помощью Trustee карты",
   "TopUpMethods.subTitle.TRUSTEE_CARD": "Комиссия {fee}",
   "TopUpMethods.title.BINANCE_PAY": "Пополнить c помощью Binance Pay",

@@ -1,5 +1,5 @@
 {
-    "version" : 20,
+    "version" : 21,
     "colors" : {
         "USDT": "#30D99E",
         "USDT_dark_theme": "#2CC690",
@@ -99,8 +99,8 @@
         "KUN": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/kun.png",
         "DAI": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/dai.png",
         "DAI_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/dai_dark_theme.png",
-        "BNB": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/bnb.png",
-        "BNB_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/bnb_dark_theme.png",
+        "BNB": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/bnb_1.png",
+        "BNB_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/bnb_dark_theme_1.png",
         "WAVES": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/waves.png",
         "WAVES_dark_theme": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/waves_dark_theme.png",
         "DOGE": "https://raw.githubusercontent.com/trustee-wallet/trusteeWalletAssets/main/icons/doge.png",

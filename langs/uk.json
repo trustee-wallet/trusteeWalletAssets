@@ -1,5 +1,5 @@
 {
-  "version" : 470,
+  "version" : 471,
   "Welcome.title": "Ласкаво просимо",
   "Welcome.intro": "Ви готові зануритися до неймовірного криптосвіту?",
   "Welcome.agree": "Я погоджуюсь з <Link1>Умовами використання</Link1> та <Link2>Політикою конфіденційності</Link2>, і даю згоду на обробку наданих персональних даних",
@@ -1650,7 +1650,7 @@
   "ReferralScreen.proLinkDescription": "Запрошуй друзів та заробляй до 45% з комісій за їх обміни",
   "ReferralScreen.linkDescription": "Запроси {contactCount} контакти(-ів) по {bonusPerUser} за активацію. Ви можете запросити до 3 людей на день",
   "ReferralScreen.descriptionWithoutPermission": "Запрошуй друзів по {bonusPerUser} за активацію",
-  "ReferralScreen.totalReceived": "Усього отримано",
+  "ReferralScreen.totalReceived": "Всього отримано",
   "ReferralScreen.available": "Доступний",
   "ReferralScreen.linksTitle": "Посилання",
   "ReferralScreen.received": "Отримано",
